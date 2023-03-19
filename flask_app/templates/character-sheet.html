@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RISE Character Sheet</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/headers/">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous" defer></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='./css/style.css') }}">
+    <link rel="stylesheet" href="/flask_app/static/css/style.css">
+    <link rel="stylesheet" href="/flask_app/static/sass//scss/style.scss">
+    <script src="/flask_app/static/js/script.js" defer></script>
+    <script src="<%=request.getContextPath()%>/js/jquery-1.11.3.js" defer></script>
+    <script src="<%=request.getContextPath()%>/js/default.js" defer></script>
+</head>
+<body class="bg-secondary text-light mb-5">
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol id="bootstrap" viewBox="0 0 118 94">
+            <title>Bootstrap</title>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 01-2-2V24a2 2 0 012-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863zM60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207zM49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281 0-5.406-3.903-8.178-11.425-8.178H49.948z"></path>
+        </symbol>
+        <symbol id="home" viewBox="0 0 16 16">
+            <path d="M8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4.5a.5.5 0 0 0 .5-.5v-4h2v4a.5.5 0 0 0 .5.5H14a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146zM2.5 14V7.707l5.5-5.5 5.5 5.5V14H10v-4a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5v4H2.5z"/>
+        </symbol>
+        <symbol id="speedometer2" viewBox="0 0 16 16">
+            <path d="M8 4a.5.5 0 0 1 .5.5V6a.5.5 0 0 1-1 0V4.5A.5.5 0 0 1 8 4zM3.732 5.732a.5.5 0 0 1 .707 0l.915.914a.5.5 0 1 1-.708.708l-.914-.915a.5.5 0 0 1 0-.707zM2 10a.5.5 0 0 1 .5-.5h1.586a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 10zm9.5 0a.5.5 0 0 1 .5-.5h1.5a.5.5 0 0 1 0 1H12a.5.5 0 0 1-.5-.5zm.754-4.246a.389.389 0 0 0-.527-.02L7.547 9.31a.91.91 0 1 0 1.302 1.258l3.434-4.297a.389.389 0 0 0-.029-.518z"/>
+            <path fill-rule="evenodd" d="M0 10a8 8 0 1 1 15.547 2.661c-.442 1.253-1.845 1.602-2.932 1.25C11.309 13.488 9.475 13 8 13c-1.474 0-3.31.488-4.615.911-1.087.352-2.49.003-2.932-1.25A7.988 7.988 0 0 1 0 10zm8-7a7 7 0 0 0-6.603 9.329c.203.575.923.876 1.68.63C4.397 12.533 6.358 12 8 12s3.604.532 4.923.96c.757.245 1.477-.056 1.68-.631A7 7 0 0 0 8 3z"/>
+        </symbol>
+        <symbol id="table" viewBox="0 0 16 16">
+            <path d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm15 2h-4v3h4V4zm0 4h-4v3h4V8zm0 4h-4v3h3a1 1 0 0 0 1-1v-2zm-5 3v-3H6v3h4zm-5 0v-3H1v2a1 1 0 0 0 1 1h3zm-4-4h4V8H1v3zm0-4h4V4H1v3zm5-3v3h4V4H6zm4 4H6v3h4V8z"/>
+        </symbol>
+        <symbol id="people-circle" viewBox="0 0 16 16">
+            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+            <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+        </symbol>
+        <symbol id="grid" viewBox="0 0 16 16">
+            <path d="M1 2.5A1.5 1.5 0 0 1 2.5 1h3A1.5 1.5 0 0 1 7 2.5v3A1.5 1.5 0 0 1 5.5 7h-3A1.5 1.5 0 0 1 1 5.5v-3zM2.5 2a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zm6.5.5A1.5 1.5 0 0 1 10.5 1h3A1.5 1.5 0 0 1 15 2.5v3A1.5 1.5 0 0 1 13.5 7h-3A1.5 1.5 0 0 1 9 5.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zM1 10.5A1.5 1.5 0 0 1 2.5 9h3A1.5 1.5 0 0 1 7 10.5v3A1.5 1.5 0 0 1 5.5 15h-3A1.5 1.5 0 0 1 1 13.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zm6.5.5A1.5 1.5 0 0 1 10.5 9h3a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 13.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3z"/>
+        </symbol>
+    </svg>
+    <header>
+        <div class="px-3 py-2 text-bg-dark">
+            <div class="container">
+                <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+                    <a href="/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
+                        <!-- <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"/></svg> -->
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-dice-6-fill" viewBox="0 0 16 16">
+                            <path d="M3 0a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V3a3 3 0 0 0-3-3H3zm1 5.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm8 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm1.5 6.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zM12 9.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zM5.5 12a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zM4 9.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
+                        </svg>
+                        <h1 class="ms-3">RISE</h1>
+                    </a>
+        
+                    <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
+                        <li>
+                            <a href="#" class="nav-link text-white">
+                                <svg class="bi d-block mx-auto mb-1" width="24" height="24" fill="currentColor"><use xlink:href="#home"/></svg>
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link text-warning">
+                                <svg class="bi d-block mx-auto mb-1" width="24" height="24" fill="currentColor"><use xlink:href="#speedometer2"/></svg>
+                                Character Sheet
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link text-white">
+                                <svg class="bi d-block mx-auto mb-1" width="24" height="24" fill="currentColor"><use xlink:href="#grid"/></svg>
+                                RISE Documentation
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="nav-link text-white">
+                                <svg class="bi d-block mx-auto mb-1" width="24" height="24" fill="currentColor"><use xlink:href="#people-circle"/></svg>
+                                My Account
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="px-3 py-2">
+            <div class="container d-flex flex-wrap justify-content-center">
+                <form class="col-12 col-lg-auto mb-2 mb-lg-0 me-lg-auto" role="search">
+                    <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
+                </form>
+    
+                <div class="text-end">
+                    <!-- <button type="button" class="btn btn-warning">Level Up</button> -->
+                    <div id="level-up">
+                        <span id="level-up-text">LEVEL UP!</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="p-5 bg-dark">
+        <div class="table-responsive">
+            <table class="table table-hover table-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Level</th>
+                        <th scope="col">Race</th>
+                        <th scope="col">Background</th>
+                        <th scope="col">Archetype</th>
+                        <th scope="col">Allegiance</th>
+                    </tr>
+                </thead>
+                <tbody class="table-warning">
+                        <tr>
+                            <td>Pablo Jones</td>
+                            <td>5</td>
+                            <td>Human</td>
+                            <td>Blacksmith</td>
+                            <td>Defender</td>
+                            <td>Bravedawn</td>
+                        </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="container">
+            <div class="col border">
+                <div class="row border-bottom">
+                    <h3>HP</h3>
+                </div>
+                <div class="col">
+                    <input class="auto-filled-border" type="text" name="passive-perception" maxlength="2" size="2" value="30"/>
+                </div>
+                <div class="col">
+                    <h5>30</h5>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col border-top border-bottom p-3">
+                <p><span class="fw-bold me-2">Name:</span>Pablo Jones</p>
+                <p><span class="fw-bold me-2">Level:</span>5</p>
+                <p><span class="fw-bold me-2">Race:</span>Human</p>
+                <p><span class="fw-bold me-2">Background:</span>Blacksmith</p>
+                <p><span class="fw-bold me-2">Archetype:</span>Defender</p>
+                <p><span class="fw-bold me-2">Allegiance:</span>Bravedawn</p>
+            </div>
+            <div class="col border p-3">
+                <p><span class="fw-bold me-2">HP:</span>30</p>
+                <p><span class="fw-bold me-2">Speed:</span>4.5</p>
+                <p><span class="fw-bold me-2">MP:</span>10</p>
+                <p><span class="fw-bold me-2">Defense:</span>12</p>
+                <p><span class="fw-bold me-2">Physical Armor:</span>5</p>
+                <p><span class="fw-bold me-2">Arcane Armor:</span>0</p>
+            </div>
+            <div class="col border-top border-bottom p-3">
+                <p><span class="fw-bold me-2">Fatigue:</span>None</p>
+                <p><span class="fw-bold me-2">Sobriety:</span>Sober</p>
+                <p><span class="fw-bold me-2">Credits:</span>450</p>
+                <p><span class="fw-bold me-2">Leveling Points:</span>1</p>
+                <p><span class="fw-bold me-2">Conviction Points:</span>4</p>
+                <p><span class="fw-bold me-2">Languages:</span>Common</p>
+            </div>  
+        </div>
+        <div class="row mt-3 text-center border-bottom bg-dark">
+            <!-- Button trigger modal -->
+            <p>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Launch demo modal
+                </button>
+            </p>
+            
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                <div class="modal-content bg-dark">
+                    <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Test</p>
+                        <p>test again</p>
+                    </div>
+                    <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="attribute-box border">
+                    <button type="button" class="btn btn-secondary"
+                            data-bs-toggle="popover" data-bs-placement="right"
+                            data-bs-custom-class="attribute-popover"
+                            data-bs-title="Endurance Focuses"
+                            data-bs-content="<h3> test </h3>">
+                    Endurance
+                    </button>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">3</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Strength</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">4</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Accuracy</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">3</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Dexterity</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">2</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Perception</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">3</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Charisma</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">1</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Heart</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">2</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Intelligence</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">0</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="attribute-box border">
+                    <h4 class="attribute">Wisdom</h4>
+                    <div class="row align-items-center">
+                        <div class="col"></div>
+                        <div class="col p-0">
+                            <h6>Base:</h6>
+                        </div>
+                        <div class="col p-0">
+                            <h4 class="ms-2">1</h4>
+                        </div>
+                        <div class="col"></div>
+                    </div>
+                    <div class="row align-items-center">
+                        <div class="col p-0 text-end">
+                            <h6>Modifier:</h6>
+                        </div>
+                        <div class="col p-0 text-start">
+                            <input class="ms-2 rounded text-center" type="text" name="end modifier" maxlength="1" size="1" value="0"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9">
+                
+                <!-- <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".actions-collapse" aria-expanded="false" aria-controls="actions">Actions</button>
+                <div class="collapse actions-collapse actions">
+                    <div class="table-responsive">
+                        <table class="table table-hover table-sm border actions table-striped align-middle">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th scope="col">Activated?</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Type</th>
+                                    <th scope="col">Description</th>
+                                    
+                                </tr>
+                            </thead>
+                            <tbody class="table-secondary p-1 text-center">
+                                    <tr>
+                                        <td>N/A</td>
+                                        <td>Charge Attack</td>
+                                        <td>Major</td>
+                                        <td class="text-start">As a major action, you may move up to your Speed (rounded down) in meters in a straight line and then make a Melee Attack against an adjacent enemy. You gain a +1 bonus on your attack roll. </td>
+                                    </tr>
+                                    <tr>
+                                        <td><input type="checkbox" name="enraged" /></td>
+                                        <td>Enraged</td>
+                                        <td>Minor</td>
+                                        <td class="text-start">While enraged gain +2 Str, +1 End, +1 Hrt. While enraged suffer -1 Dex, -1 Per, -1 Int</td>
+                                    </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div> -->
+            </div>
+
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+                <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".focus-collapse" aria-expanded="false" aria-controls="focus" >Focuses</button>
+            <!-- </p> -->
+            <div class="col">
+                <h4>Endurance</h4>
+                <h4>3</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        <p>Stamina: +1</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Strength</h4>
+                <h4>4</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        <p>Lifting: +1</p>
+                        <p>Might: +1</p>
+                        <p>Smithing: +2</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Accuracy</h4>
+                <h4>3</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        <p>Medium Weapons: +2</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Dexterity</h4>
+                <h4>2</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Perception</h4>
+                <h4>3</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        <p>Initiative: +1</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Charisma</h4>
+                <h4>1</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Heart</h4>
+                <h4>2</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        <p>Courage: +1</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Intelligence</h4>
+                <h4>0</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h4>Wisdom</h4>
+                <h4>1</h4>
+                <div class="collapse focus-collapse focus">
+                    <div class="card-body">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+            <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".actions-collapse" aria-expanded="false" aria-controls="actions">Actions</button>
+            <!-- </p> -->
+            <div class="collapse actions-collapse actions">
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm border actions table-striped align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th scope="col">Activated?</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Type</th>
+                                <th scope="col">Description</th>
+                                
+                            </tr>
+                        </thead>
+                        <tbody class="table-secondary p-1 text-center">
+                                <tr>
+                                    <td>N/A</td>
+                                    <td>Charge Attack</td>
+                                    <td>Major</td>
+                                    <td class="text-start">As a major action, you may move up to your Speed (rounded down) in meters in a straight line and then make a Melee Attack against an adjacent enemy. You gain a +1 bonus on your attack roll. </td>
+                                </tr>
+                                <tr>
+                                    <td><input type="checkbox" name="enraged" /></td>
+                                    <td>Enraged</td>
+                                    <td>Minor</td>
+                                    <td class="text-start">While enraged gain +2 Str, +1 End, +1 Hrt. While enraged suffer -1 Dex, -1 Per, -1 Int</td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+                <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".weapons-collapse" aria-expanded="false" aria-controls="weapons">Weapons</button>
+            <!-- </p> -->
+            <div class="collapse weapons-collapse weapons">
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm border weapons table-striped align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="col-sm-1">Equipped?</th>
+                                <th class="col-sm-2">Weapon</th>
+                                <th class="col-sm-1">Attack Bonus</th>
+                                <th class="col-sm-1">Damage</th>
+                                <th class="col-sm-1">Weight</th>
+                                <th class="col-sm-1">Range</th>
+                                <th class="col-sm-1">Ammo</th>
+                                <th class="col-sm-4">Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-secondary text-center">
+                            <tr>
+                                <td><input type="checkbox" name="weapon1" /></td>
+                                <td>Fists</td>
+                                <td>+3</td>
+                                <td>1d6+3</td>
+                                <td>N/A</td>
+                                <td>0.5m</td>
+                                <td>N/A</td>
+                                <td class="text-start">Attacking with the brawling focus</td>
+                            </tr>
+                            <tr>
+                                <td><input type="checkbox" name="weapon2" /></td>
+                                <td>Iron Battle Axe</td>
+                                <td>+5</td>
+                                <td>2d6+6</td>
+                                <td>3</td>
+                                <td>1.5m</td>
+                                <td>N/A</td>
+                                <td class="text-start">Versatile: may use 2-handed for -1 Weight and +2 Damage</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+                <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".armor-collapse" aria-expanded="false" aria-controls="armor">Armor / Shields</button>
+            <!-- </p> -->
+            <div class="collapse armor-collapse armor">
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm border armor table-striped align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="col-sm-1">Equipped?</th>
+                                <th class="col-sm-1">Armor / Shield</th>
+                                <th class="col-sm-1">Physical Armor</th>
+                                <th class="col-sm-1">Arcane Armor</th>
+                                <th class="col-sm-1">Defense Bonus</th>
+                                <th class="col-sm-1">Dex Penalty</th>
+                                <th class="col-sm-1">Stealth Penalty</th>
+                                <th class="col-sm-1">Weight</th>
+                                <th class="col-sm-4">Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-secondary text-center">
+                            <tr>
+                                <td><input type="checkbox" name="armor1" /></td>
+                                <td>Iron Chainmail</td>
+                                <td>5</td>
+                                <td>0</td>
+                                <td>0</td>
+                                <td>-2</td>
+                                <td>-1</td>
+                                <td>4</td>
+                                <td class="text-start">This armor makes you want to fart all the time</td>
+                            </tr>
+                            <tr>
+                                <td><input type="checkbox" name="armor2" /></td>
+                                <td>Iron Shield</td>
+                                <td>2</td>
+                                <td>0</td>
+                                <td>+2</td>
+                                <td>-2</td>
+                                <td>0</td>
+                                <td>2</td>
+                                <td class="text-start">This shield helps you block attacks</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+                <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".stunts-collapse" aria-expanded="false" aria-controls="stunts">Stunts</button>
+            <!-- </p> -->
+            <div class="collapse stunts-collapse stunts">
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm border stunts table-striped align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="col-sm-1">Activated?</th>
+                                <th class="col-sm-2">Name</th>
+                                <th class="col-sm-1">Cost</th>
+                                <th class="col-sm-9">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-secondary text-center">
+                            <tr>
+                                <td>N/A</td>
+                                <td>Skirmish</td>
+                                <td>1+dp</td>
+                                <td class="text-start">Move yourself or your target 1 meter per doubles point spent. You cannot skirmish a creature if it is considered to be a size larger than you.</td>
+                            </tr>
+                            <tr>
+                                <td>N/A</td>
+                                <td>Knock Prone</td>
+                                <td>2dp</td>
+                                <td class="text-start">Knock your opponant to the ground with a powerful melee attack. A prone target suffers a -1 penalty to their defense. You cannot knock prone a creature if it is considered to be a size larger than you.</td>
+                            </tr>
+                            <tr>
+                                <td><input type="checkbox" name="stunt1" /></td>
+                                <td>Fortify Armor</td>
+                                <td>4dp</td>
+                                <td class="text-start">Temporarily gain +3 physical armor. This effect expires after you take a hit or on your next turn.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+                <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".powers-collapse" aria-expanded="false" aria-controls="powers">Powers / Abilities</button>
+            <!-- </p> -->
+            <div class="collapse powers-collapse powers">
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm border powers table-striped align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="col-sm-1">Activated?</th>
+                                <th class="col-sm-2">Name</th>
+                                <th class="col-sm-10">Description</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-secondary text-center">
+                            <tr>
+                                <td>N/A</td>
+                                <td>Weapon's Training</td>
+                                <td class="text-start">Aquiring the focus for a weapon's group grants you an equivalent bonus in damage dealt by weapons of that type.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-3 text-center border-bottom">
+            <!-- <p class="text-start"> -->
+                <button class="btn btn-orange mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".spells-collapse" aria-expanded="false" aria-controls="spells">Spells</button>
+            <!-- </p> -->
+            <div class="collapse spells-collapse spells">
+                <div class="table-responsive">
+                    <table class="table table-hover table-sm border spells table-striped align-middle">
+                        <thead class="table-dark">
+                            <tr>
+                                <th class="col-sm-1">Concentrating?</th>
+                                <th class="col-sm-1">Category</th>
+                                <th class="col-sm-1">Level</th>
+                                <th class="col-sm-2">Spell Name</th>
+                                <th class="col-sm-1">MP Cost</th>
+                                <th class="col-sm-1">Action</th>
+                                <th class="col-sm-1">Range</th>
+                                <th class="col-sm-1">Targets / Area</th>
+                                <th class="col-sm-9">Description</th>
+                                <th class="col-sm-1">Target Number</th>
+                                <th class="col-sm-1">Duration</th>
+                                <th class="col-sm-1">Concentration?</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-secondary text-center">
+                            <tr>
+                                <td><input type="checkbox" name="stunt1" /></td>
+                                <td>Elemancy</td>
+                                <td>Novice</td>
+                                <td>Earth: Stone Skin</td>
+                                <td>4</td>
+                                <td>Major</td>
+                                <td>15 m</td>
+                                <td>Self or 1 Grounded Ally</td>
+                                <td class="text-start">Protect the skin of yourself or a target with stone, sand, and crystal granting +3 physical armor (stacks with armor being worn). Range = 15m, you and the target must be on solid earth</td>
+                                <td>13</td>
+                                <td>3 Rounds</td>
+                                <td>Yes</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="row mt-3 text-center border-bottom bg-dark">
+            <p class="text-start">
+                <button class="btn btn-orange" type="button" data-bs-toggle="collapse" data-bs-target="#actions" aria-expanded="false" aria-controls="actions">Actions</button>
+                <button class="btn btn-orange" type="button" data-bs-toggle="collapse" data-bs-target="#stunts" aria-expanded="false" aria-controls="stunts">Stunts</button>
+                <button class="btn btn-orange" type="button" data-bs-toggle="collapse" data-bs-target="#weapons" aria-expanded="false" aria-controls="weapons">Weapons</button>
+                <button class="btn btn-orange" type="button" data-bs-toggle="collapse" data-bs-target="#armor" aria-expanded="false" aria-controls="weapon">Armor</button>
+                <button class="btn btn-orange" type="button" data-bs-toggle="collapse" data-bs-target="#abilities" aria-expanded="false" aria-controls="abilities">Abilities</button>
+            </p>
+            <div class="accordion bg-dark text-light mb-3" id="accordionExample">
+                <div class="accordion-item bg-dark text-light">
+                    <h2 class="accordion-header bg-dark text-light" id="headingOne">
+                        <button class="accordion-button collapsed bg-dark text-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            Accordion Item #1
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion bg-dark text-light mt-3  mb-3" id="accordionExample2">
+            <div class="accordion-item bg-dark text-light">
+                <h2 class="accordion-header bg-dark text-light" id="headingTwo">
+                    <button class="accordion-button collapsed bg-dark text-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Accordion Item #2
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample2">
+                    <div class="accordion-body">
+                        <strong>This is the second item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-orange" type="button" data-bs-toggle="collapse" data-bs-target="#actions" aria-expanded="false" aria-controls="actions">Actions</button>
+    </div> -->
+</body>
+</html>

@@ -1,0 +1,30 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
+
+$popover-font-size:                 $font-size-sm;
+$popover-bg:                        var(--#{$prefix}body-bg);
+$popover-max-width:                 276px;
+$popover-border-width:              var(--#{$prefix}border-width);
+$popover-border-color:              var(--#{$prefix}border-color-translucent);
+$popover-border-radius:             var(--#{$prefix}border-radius-lg);
+$popover-inner-border-radius:       calc($popover-border-radius - $popover-border-width); // stylelint-disable-line function-disallowed-list
+$popover-box-shadow:                $box-shadow;
+
+$popover-header-font-size:          $font-size-base;
+$popover-header-bg:                 var(--#{$prefix}secondary-bg);
+$popover-header-color:              $headings-color;
+$popover-header-padding-y:          .5rem;
+$popover-header-padding-x:          $spacer;
+
+$popover-body-color:                var(--#{$prefix}body-color);
+$popover-body-padding-y:            $spacer;
+$popover-body-padding-x:            $spacer;
+
+$popover-arrow-width:               1rem;
+$popover-arrow-height:              .5rem;
