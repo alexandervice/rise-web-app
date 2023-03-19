@@ -7,7 +7,7 @@ RISE Web App is a Flask Python Project that allows users to create an account, a
 
 This project will eventually be deployed, until then you will need to install everything below.
 
-(eventually there will be a  **requirements.txt** file should have all of the installation methods, until then hold tight.)
+Use the **requirements.txt** file to add all of the installation methods.
 
 ```bash
 # If the requirements.txt file does not work
