@@ -24,4 +24,4 @@ Project is still in it's infancy and planning stages.
 
 ## Contributors
 
-alexandervice and ....
+alexandervice and tschelli
