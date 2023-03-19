@@ -38,27 +38,3 @@ class Attribute:
         return results
 
 
-#MOVE TO FOCUS CLASS ONCE IT IS CREATED
-    @classmethod
-    def get_all_focuses_from_all_attributes(cls):
-        query = "SELECT * FROM focuses JOIN attributes ON focuses.attribute_id = attributes.id;"
-        results = connectToMySQL(cls.database).query_db(query)
-        all_focuses_and_attributes = []
-
-        for row in results:
-            one_focus = cls(row)
-            one_attribute_info = {
-                "id": row['focuses.id'], 
-                "attribute id": row['attribute_id'],
-                "name": row['name'],
-                "description": row['description'],
-                "example": row['example'],
-                "created_at": row['focuses.created_at'],
-                "updated_at": row['focuses.updated_at']
-                }
-            
-            attribute_instance = attribute.Attribute(one_attribute_info)
-            one_focus.focuses.append(attribute_instance)
-
-            all_focuses_and_attributes.append(one_focus)
-        return all_focuses_and_attributes
