@@ -2,7 +2,7 @@ from flask import redirect, request, session
 from flask_app import app
 # from flask_app.models.user import User
 # from flask_app.models.post import Post
-from flask_app.models.message import Message
+from flask_app.models.focus import Focus
 
 @app.route('/create_message', methods=["POST"])
 def create_message():
