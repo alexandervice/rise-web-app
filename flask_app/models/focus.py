@@ -1,5 +1,5 @@
 from flask_app.config.mysqlconnection import connectToMySQL
-from flask_app.models import user, ride
+from flask_app.models import attribute, user
 from flask import flash
 
 class Focus:
@@ -67,7 +67,7 @@ class Focus:
             one_message.creator = author
             
             # Create the Ride class instance that is in the ride.py model file
-            rideshare_info = ride.Ride(one_message_ride_info)
+            rideshare_info = attribute.Ride(one_message_ride_info)
             one_message.ride = rideshare_info
 
             # Append the message containing the associated User and Ride to your list of messages
