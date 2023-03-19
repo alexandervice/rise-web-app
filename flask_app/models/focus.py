@@ -2,26 +2,26 @@ from flask_app.config.mysqlconnection import connectToMySQL
 from flask_app.models import user, ride
 from flask import flash
 
-class Message:
-    database = "ohana-rideshares"
+class Focus:
+    database = "rise"
     def __init__(self, data):
         self.id = data['id']
-        self.content = data['content']
+        self.name = data['name']
+        self.description = data['description']
+        self.example = data['example']
         self.created_at = data['created_at']
         self.updated_at = data['updated_at']
-        self.creator = None
-        self.ride = None
+        self.atribute = None
 
     @classmethod
     def save(cls, data ):
-        query = "INSERT INTO messages (creator_id, ride_id, content , created_at , updated_at ) VALUES ( %(creator_id)s, %(ride_id)s, %(content)s , NOW() , NOW() );"
+        query = "INSERT INTO focuses (attribute_id, name , description , example , created_at , updated_at ) VALUES ( %(attribute_id)s, %(name)s, %(description)s , %(example)s , NOW() , NOW() );"
         result = connectToMySQL(cls.database).query_db( query, data )
         return result
 
     @classmethod
-    def delete(cls, message_id):
-        query  = "DELETE FROM messages WHERE id = %(id)s;"
-        data = {"id": message_id}
+    def delete(cls, data):
+        query  = "DELETE FROM focuses WHERE id = %(focus_id)s;"
         results = connectToMySQL(cls.database).query_db(query, data)
         return results
 
