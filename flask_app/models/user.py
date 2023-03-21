@@ -10,7 +10,7 @@ import re
 EMAIL_REGEX = re.compile(r'^[a-zA-Z0-9.+_-]+@[a-zA-Z0-9._-]+\.[a-zA-Z]+$')
 # password with uppercase, lowercase, a number, and 8 characters
 PASSWORD_REGEX = "^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9]).{8,}$"
-# PASSWORD_REGEX = "^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-:]).{8,}$"
+# PASSWORD_REGEX (old) = "^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-:]).{8,}$"
 
 def calculate_age(birth_date):
         if isinstance(birth_date, str):
@@ -21,7 +21,7 @@ def calculate_age(birth_date):
         return age
 
 class User:
-    database = "ohana-rideshares"
+    database = "rise"
     def __init__( self , data ):
         self.id = data['id']
         self.first_name = data['first_name']
@@ -29,18 +29,19 @@ class User:
         self.email = data['email']
         self.password = data['password']
         self.birth_date = data['birth_date']
+        self.user_type = data['user_type']
         self.created_at = data['created_at']
         self.updated_at = data['updated_at']
-        # all the posts a users has made
-        self.posts = []
-        # all the comments a user has made
-        self.comments = []
+        # all the characters a user has made
+        self.characters = []
+        # all the gm sessions a user has made
+        self.game_sessions = []
 
     @classmethod
     def save(cls, data ):
-        query = "INSERT INTO users ( first_name , last_name , email , password , birth_date , created_at , updated_at ) VALUES ( %(first_name)s , %(last_name)s , %(email)s , %(password)s , %(birth_date)s , NOW() , NOW() );"
-        result = connectToMySQL(cls.database).query_db( query, data )
-        return result
+        query = "INSERT INTO users ( first_name , last_name , email , password , birth_date , user_type, created_at , updated_at ) VALUES ( %(first_name)s , %(last_name)s , %(email)s , %(password)s , %(birth_date)s , 9,  NOW() , NOW() );"
+        results = connectToMySQL(cls.database).query_db( query, data )
+        return results
 
     @classmethod
     def get_all(cls):
@@ -54,20 +55,14 @@ class User:
         return users
 
     @classmethod
-    def get_one(cls, user_id):
-        query = "SELECT * FROM users WHERE id = %(id)s;"
-        data = {
-            "id": user_id
-        }
+    def get_one(cls, data):
+        query = "SELECT * FROM users WHERE id = %(user_id)s;"
         results = connectToMySQL(cls.database).query_db(query, data)
         return cls(results[0])
     
     @classmethod
-    def get_user_age(cls, user_id):
-        query = "SELECT * FROM users WHERE id = %(id)s;"
-        data = {
-            "id": user_id
-        }
+    def get_user_age(cls, data):
+        query = "SELECT * FROM users WHERE id = %(user_id)s;"
         results = connectToMySQL(cls.database).query_db(query, data)
         user_age = calculate_age(cls(results[0]).birth_date)
         return user_age
@@ -137,8 +132,8 @@ class User:
         if len(user['birth_date']) < 1:
             flash("You must provide your birthdate.", "register")
             is_valid = False
-        elif calculate_age(user['birth_date']) < 18:
-            flash("You must be 18 or older to register an account.", "register")
+        elif calculate_age(user['birth_date']) < 12:
+            flash("You must be 12 or older to register an account.", "register")
             is_valid = False
         if len(user['email']) < 3:
             flash("Invalid email address.", "register")
