@@ -2,7 +2,6 @@ from datetime import date, datetime
 from flask import render_template, redirect, request, session, flash
 from flask_app import app
 from flask_app.models.user import User
-from flask_app.models.attribute import Ride
 from flask_bcrypt import Bcrypt
 
 bcrypt = Bcrypt(app)
@@ -82,8 +81,8 @@ def all_characters():
     if session['logged_in_user']["is_logged_in"] == False:
         return redirect('/')
     user=User.get_one(session['logged_in_user'])
-    characters=Character.get_all_characters()
-    return render_template("characters_page.html", user=user, characters=characters)
+    # characters=Character.get_all_characters()
+    return render_template("characters_page.html", user=user)
 
 @app.route('/logout')
 def logout():
