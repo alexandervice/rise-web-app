@@ -2,6 +2,9 @@
 
 RISE Web App is a Flask Python Project that allows users to create an account, add characters and Game Master Sessions to their account, view all of RISE's documentation, add friends, and anything else that may get added in the future.
 
+## Ideas
+
+Currently considering rebuilding the entire app with MERN instead of Flask. Essentially using JavaScript instead of Python.
 
 ## Installation
 
