@@ -25,6 +25,14 @@ pipenv install flask-bcrypt
 
 Project is still in it's infancy and planning stages.
 
+Things that we still need to do:
+- Finish the database (possibly use NoSQL or MongoDB instead of MySQL)
+- Make the database files to import
+- Create the controllers and models for each of our major database tables
+- Make logic for character info
+- Handle leveling up
+- Update logic for complex and fringe cases
+
 ## Contributors
 
 alexandervice and tschelli
