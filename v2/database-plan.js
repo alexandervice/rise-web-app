@@ -1,7 +1,7 @@
 // Trying to get an idea for how I will organize the MongoDB database
 
 // Specializations:
-let specializationExample1 = {
+const specializationExample1 = {
   name: "Assassin",
   description: "Focuses on stealth, silence, and one-shot kills.",
   recommendedAttributes: ["Int", "Hrt", "Cha"],
@@ -36,7 +36,7 @@ let specializationExample1 = {
 
 }
 
-let specializationExample2 = {
+const specializationExample2 = {
   name: "Cleric",
   description: "The worlds greatest healers, able to mend bones, cure disease, and even prevent death.",
   recommendedAttributes: ["Int", "End", "Hrt"],
