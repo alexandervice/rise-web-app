@@ -1,0 +1,101 @@
+{
+  "specializations": [
+    {
+      "id": 1,
+      "name": "Alchemist",
+      "description": "Using alteration, crafting, and alchemy to  create and prepare explosives, granades, and more. Change iron to steel, copper to gold.",
+      "recommendedAttributes": ["Int", "Acc", "Dex"],
+      "recommendedStats": ["MP", "Spd"],
+      "requirements": [
+        "Successfully disassemble a grenade and learn the base elements used to make it.",
+        "Successfully cast 3 spells with the aide of your Alchemical Formulae during combat.",
+        "Modify grenades with your alchemical spells to create 3 new and unique grenade types"
+      ],
+      "ranks": [
+        {
+          "rankNumber": 1,
+          "type": "Power",
+          "description": "You can now make all types of grenades listed in the Alchemist section of the Gear table. Requires 25 credits worth of materials and a TN 13 Dex (Tinkering) test."
+        },
+        {
+          "rankNumber": 2,
+          "type": "spell",
+          "spellIds": [4,5]
+        },
+        {
+          "rankNumber": 3,
+          "type": "Action",
+          "name": "Analytical Eye",
+          "actionType": "Minor",
+          "description": "Examine a humanoid target that you can see within 10 m of you to attempt to determine their weakness. Gain +2 towards targeting tests against this foe for the remainder of the encounter."
+        }
+        
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Assassin",
+      "description": "Focuses on stealth, silence, and one-shot kills.",
+      "recommendedAttributes": ["Int", "Hrt", "Cha"],
+      "recommendedStats": ["Spd", "HP"],
+      "requirements": [
+        "Successfully perform 3 sneak attacks",
+        "Assassinate and kill a target with a sneak attack on 3 separate occasions.",
+        "Assassinate and kill a public or famous figure without being caught."
+      ],
+      "ranks": [
+        {
+          "rankNumber": 1,
+          "type": "Power",
+          "description": "When sneak attacking a target while using a light weapon your attack is penetrating and ignores the target's armor."
+        },
+        {
+          "rankNumber": 2,
+          "type": "Stunt",
+          "name": "Must Have Been the Wind",
+          "cost": 5,
+          "description": "If performing this action while sneaking, your stealth is not broken."
+        },
+        {
+          "rankNumber": 3,
+          "type": "Action",
+          "name": "Analytical Eye",
+          "actionType": "Minor",
+          "description": "Examine a humanoid target that you can see within 10 m of you to attempt to determine their weakness. Gain +2 towards targeting tests against this foe for the remainder of the encounter."
+        }
+        
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Cleric",
+      "description": "The worlds greatest healers, able to mend bones, cure disease, and even prevent death.",
+      "recommendedAttributes": ["Int", "End", "Hrt"],
+      "recommendedStats": ["HP", "MP"],
+      "requirements": [
+        "Heal a non party member who is injured, sick, or in pain.",
+        "Help others recover a total of 150 recovered HP.",
+        "Save 5 total people who were on the brink of death with your healing."
+      ],
+      "ranks": [
+        {
+          "rankNumber": 1,
+          "type": "spell",
+          "spellIds": [173,174]
+        },
+        {
+          "rankNumber": 2,
+          "type": "Stunt",
+          "name": "Healer's Spirit",
+          "cost": 3,
+          "description": "Recover half of the HP you just restored to another. (this stunt can only be used immediately after healing a target with a restoration spell)"
+        },
+        {
+          "rankNumber": 3,
+          "type": "Power",
+          "description": "All of your healing Restoration Arcana  now add your Heart attribute modifier to HP recovered."
+        }
+      ]
+    }
+  ]
+}

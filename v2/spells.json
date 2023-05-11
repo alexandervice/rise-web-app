@@ -1,0 +1,68 @@
+{
+  "spells": [
+    {
+      "id": 1,
+      "name": "Outfit of the Day",
+      "category": "Alteration",
+      "attribute": "Int",
+      "level": "Basic",
+      "specialization": "",
+      "cost": 1,
+      "action": "Major",
+      "range": "",
+      "targetsOrArea": "Self",
+      "description": "Once per day change your outfit to match the style of your choice. (the outfit doesn't change per say, but it will be a different color/texture/material).",
+      "targetNumber": 9,
+      "duration": "24 Hours",
+      "concentration": 0
+    },
+    {
+      "id": 2,
+      "name": "Transmute: Texture",
+      "category": "Alteration",
+      "attribute": "Int",
+      "level": "Novice",
+      "specialization": "Alchemist",
+      "cost": 2,
+      "action": "Minor",
+      "range": "20 m",
+      "targetsOrArea": "1 Object",
+      "description": "Temporarily make something: soft, slippery, bouncy, cold, hard, translucent, etc… (transmutations on living creatures will either fail or create an abomination that cannot be undone).",
+      "targetNumber": 13,
+      "duration": "3 Rounds",
+      "concentration": 1
+    },
+    {
+      "id": 173,
+      "name": "Metabolize",
+      "category": "Restoration",
+      "attribute": "Int",
+      "level": "Novice",
+      "specialization": "Cleric",
+      "cost": 4,
+      "action": "Major",
+      "range": "Touch",
+      "targetsOrArea": "1 Target",
+      "description": "Negate the effects of a potion, poison, or venom on a target. (test roll determined by the strength of potion/poison). Some more potent poisons require extended time to cure. Recovering from drunkeness requires a TN that changes based on how drunk the character is, with Buzzed requiring a TN of 12 and for every level after the TN increases by 2.  Characters that receive any form of magical healing cannot benefit from magical healing again until they take additional damage. (this spell can be used to cure hangovers)",
+      "targetNumber": "varies",
+      "duration": "",
+      "concentration": 1
+    },
+    {
+      "id": 174,
+      "name": "Healing Aura",
+      "category": "Restoration",
+      "attribute": "Int",
+      "level": "Novice",
+      "specialization": "Cleric",
+      "cost": 6,
+      "action": "Major",
+      "range": "5 m",
+      "targetsOrArea": "Self / All Allies",
+      "description": "Emit an aura of regenerative arcana around yourself that heals yourself and your allies by 1d6 hp for each round you maintain concentration (maximum 3 rounds).",
+      "targetNumber": 14,
+      "duration": "",
+      "concentration": 1
+    }
+  ]
+}
