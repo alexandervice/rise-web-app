@@ -14,22 +14,122 @@
       "ranks": [
         {
           "rankNumber": 1,
-          "type": "Power",
-          "description": "You can now make all types of grenades listed in the Alchemist section of the Gear table. Requires 25 credits worth of materials and a TN 13 Dex (Tinkering) test."
+          "type": "power",
+          "description": "You can now make all types of grenades listed in the Alchemist section of the Special Gear table. Requires 25 credits worth of materials and a TN 13 Dex (Tinkering) test."
         },
         {
           "rankNumber": 2,
           "type": "spell",
-          "spellIds": [4,5]
+          "spellIds": [4,5],
+          "description": "You now have access to the Novice level spells in the Alteration arcanum for the Alchemist."
         },
         {
           "rankNumber": 3,
-          "type": "Action",
-          "name": "Analytical Eye",
-          "actionType": "Minor",
-          "description": "Examine a humanoid target that you can see within 10 m of you to attempt to determine their weakness. Gain +2 towards targeting tests against this foe for the remainder of the encounter."
+          "type": "stunt",
+          "name": "Grenadier",
+          "cost": 2,
+          "description": "Immediately ready and throw a grenade that you have in your inventory."
+        },
+        {
+          "rankNumber": 4,
+          "type": "power",
+          "description": "You may now modify your basic grenades to deal an additional 2d6 damage, and deal damage to all targets within 10 meters of the explosion. Modifying a grenade requires a TN 15 Dex (Tinkering) test."
+        },
+        {
+          "rankNumber": 5,
+          "type": "spell",
+          "spellIds": [10,11],
+          "description": "You now have access to the Adept level spells in the Alteration arcanum for the Alchemist."
+        },
+        {
+          "rankNumber": 6,
+          "type": "power",
+          "description": "You can now draw your alchemical formulae as a major action.",
+          "unique": 1
+        },
+        {
+          "rankNumber": 7,
+          "type": "power",
+          "description": "You may now use transmutation spells on creatures. Doing so increases the target number for doing so by 5. Transmuting creatures is generally considered to be a grave sin in most cultures."
+        },
+        {
+          "rankNumber": 8,
+          "type": "spell",
+          "spellIds": [18,19],
+          "description": "You now have access to the Master level spells in the Alteration arcanum for the Alchemist."
+        },
+        {
+          "rankNumber": 9,
+          "type": "power",
+          "description": "You have perfected the recipe for the Philosopher's Stone, which will allow you to cast Transmute: Permanence without needing counter ingredients. (once the stone is used, it is destroyed). Consult the GM for the recipe (it should require similar ingredients to a legendary potion).",
+          "unique": 1
         }
-        
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ancestral Summoner",
+      "description": "Make a connection to an ancestor. Speak with them, borrow their weapons, tools, and armor. Summon them and their powers to this world.",
+      "recommendedAttributes": ["Int", "Hrt", "Cha"],
+      "recommendedStats": ["MP", "HP"],
+      "requirements": [
+        "Visit the burial or resting place of a powerful ancestor.",
+        "Speak with your ancestor on 5 separate occasions.",
+        "Earn the respect of your Ancestor."
+      ],
+      "ranks": [
+        {
+          "rankNumber": 1,
+          "type": "spell",
+          "spellIds": [45,47],
+          "description": "You now have access to the Novice level spells in the Conjuration Arcanum Séance and Conjure Tool. You conjure tools of your anscestor (as long as you have permission) instead of a stored object."
+        },
+        {
+          "rankNumber": 2,
+          "type": "stunt",
+          "name": "Spirit Armor",
+          "cost": 3,
+          "description": "Your Ancestral Spirit grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body."
+        },
+        {
+          "rankNumber": 3,
+          "type": "power",
+          "description": "You may now Cast Séance and Summon Tool as minor actions to access your ancestral tool and gain insight during combat.",
+          "unique": 1
+        },
+        {
+          "rankNumber": 4,
+          "type": "spell",
+          "spellIds": [52,54],
+          "description": "You now have access to the Adept level spells in the Conjuration arcanum granting you Ancestral Possesion and Summon Servant. The servant you summon is one that originally belonged to your ancestor."
+        },
+        {
+          "rankNumber": 5,
+          "type": "power",
+          "description": "You gain an additional tool of your ancestor's that you may summon with the Summon Tool spell. When you cast the spell you may choose which tool to summon."
+        },
+        {
+          "rankNumber": 6,
+          "type": "power",
+          "description": "You may choose to call on more or less of your ancestor's power when casting Anscestral Summoner spells. If you want more power, you will be at a disadvantage to resisting them, less power gives you advantage to resisting them. This also applies to any servants, steeds, or tools you have summoned. (discuss with the GM how to adjust the power)"
+        },
+        {
+          "rankNumber": 7,
+          "type": "spell",
+          "spellIds": [60],
+          "description": "You now have access to the Master level spell in the Conjuration arcanum: Summon Ancestral Spirit. (Discuss with the GM the stats of your ancestor)"
+        },
+        {
+          "rankNumber": 8,
+          "type": "power",
+          "description": "You may now cast Ancestral Possession for 4 MP instead of 8, and Summon Tool and Séance become a free action to cast once per turn.",
+          "unique": 1
+        },
+        {
+          "rankNumber": 9,
+          "type": "power",
+          "description": "Your ancestor has acknowledged your strength and is now subservient to you. They will no longer attemt to fight against you, manipulate you, or hide things from you. They will obey all your commands when you summon them."
+        }
       ]
     },
     {
@@ -46,12 +146,12 @@
       "ranks": [
         {
           "rankNumber": 1,
-          "type": "Power",
+          "type": "power",
           "description": "When sneak attacking a target while using a light weapon your attack is penetrating and ignores the target's armor."
         },
         {
           "rankNumber": 2,
-          "type": "Stunt",
+          "type": "stunt",
           "name": "Must Have Been the Wind",
           "cost": 5,
           "description": "If performing this action while sneaking, your stealth is not broken."
@@ -85,14 +185,14 @@
         },
         {
           "rankNumber": 2,
-          "type": "Stunt",
+          "type": "stunt",
           "name": "Healer's Spirit",
           "cost": 3,
           "description": "Recover half of the HP you just restored to another. (this stunt can only be used immediately after healing a target with a restoration spell)"
         },
         {
           "rankNumber": 3,
-          "type": "Power",
+          "type": "power",
           "description": "All of your healing Restoration Arcana  now add your Heart attribute modifier to HP recovered."
         }
       ]
