@@ -163,7 +163,7 @@
           "actionType": "Minor",
           "description": "Examine a humanoid target that you can see within 10 m of you to attempt to determine their weakness. Gain +2 towards targeting tests against this foe for the remainder of the encounter."
         }
-        
+        // need to complete this
       ]
     },
     {
@@ -194,7 +194,8 @@
           "rankNumber": 3,
           "type": "power",
           "description": "All of your healing Restoration Arcana  now add your Heart attribute modifier to HP recovered."
-        }
+        },
+        // need to complete this
       ]
     }
   ]
