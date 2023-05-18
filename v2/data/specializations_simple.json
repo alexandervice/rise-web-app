@@ -1,0 +1,1592 @@
+[
+  {
+    "id": 1,
+    "name": "Alchemist",
+    "description": "Using alteration, crafting, and alchemy to  create and prepare explosives, granades, and more. Change iron to steel, copper to gold.",
+    "recommendedAttributes": [
+      "Int",
+      "Acc",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "MP",
+      "Spd"
+    ],
+    "requirements": [
+      "Successfully disassemble a grenade and learn the base elements used to make it.",
+      "Successfully cast 3 spells with the aide of your Alchemical Formulae during combat.",
+      "Modify grenades with your alchemical spells to create 3 new and unique grenade types"
+    ],
+    "ranks": [
+      "You can now make all types of grenades listed in the Alchemist section of the Gear table. Requires 25 credits worth of materials and a TN 13 Dex (Tinkering) test.",
+      "You now have access to the Novice level spells in the Alteration arcanum for the Alchemist",
+      "Gain the stunt: Grenadier (2dp) Immediately ready and throw a grenade that you have in your inventory.",
+      "You may now modify your basic grenades to deal an additional 2d6 damage, and deal damage to all targets within 10 meters of the explosion. Modifying a grenade requires a TN 15 Dex (Tinkering) test.",
+      "You now have access to the Adept level spells in the Alteration arcanum for the Alchemist",
+      "You can now draw an alchemical formulae as a major action.",
+      "You may now use transmutation spells on creatures. Doing so increases the target number for doing so by 5. Transmuting creatures is generally considered to be a grave sin in most cultures.",
+      "You now have access to the Master level spells in the Alteration arcanum for the Alchemist",
+      "You have perfected the recipe for the Philosopher's Stone, which will allow you to cast Transmute: Permanence without needing counter ingredients. (once the stone is used, it is destroyed). Consult the GM for the recipe (it should require similar ingredients to a legendary potion)."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ancestral Summoner",
+    "description": "Make a connection to an ancestor. Speak with them, borrow their weapons, tools, and armor. Summon them and their powers to this world.",
+    "recommendedAttributes": [
+      "Int",
+      "Hrt",
+      "Cha"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Visit the burial or resting place of a powerful ancestor.",
+      "Speak with your ancestor on 5 separate occasions.",
+      "Earn the respect of your Ancestor."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Conjuration arcanum Séance and Conjure Tool. You conjure tools of your anscestor (as long as you have permission) instead of a stored object.",
+      "Spirit Armor (3dp) - Your Ancestral Spirit grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body.",
+      "You may now Cast Séance and Summon Tool as minor actions to gain information and insight during combat.",
+      "You now have access to the Adept level spells in the Conjuration arcanum granting you Ancestral Possesion and Summon Servant. The servant  you summon is one that originally belonged to your ancestor.",
+      "You gain an additional tool of your ancestor's that you may summon with the Summon Tool spell. When you cast the spell you may choose which tool to summon.",
+      "You may choose to call on more or less of your ancestor's power when casting Anscestral Summoner spells. If you want more power, you will be at a disadvantage to resisting them, less power gives you advantage to resisting them. This also applies to any servants, steeds, or tools you have summoned. (discuss with the GM how to adjust the power)",
+      "You now have access to the Master level spell in the Conjuration arcanum: Summon Ancestral Spirit. ",
+      "You may now cast Ancestral Possession for 4 MP instead of 8, and Summon Tool and Séance become a free action to cast  once per turn.",
+      "Your ancestor has acknowledged your strength and is now subservient to you. They will no longer attemt to fight against you, manipulate you, or hide things from you. They will obey all your commands when you summon them."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Assassin",
+    "description": "Focuses on stealth, silence, and one-shot kills.",
+    "recommendedAttributes": [
+      "Dex",
+      "Acc",
+      "Per"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Successfully perform 3 sneak attacks",
+      "Assassinate and kill a target with a sneak attack on 3 separate occasions.",
+      "Assassinate and kill a public or famous figure without being caught."
+    ],
+    "ranks": [
+      "When sneak attacking a target while using a light weapon your attack is penetrating and ignores the target's armor.",
+      "Must Have Been the Wind (5dp) - If performing this action while sneaking, your stealth is not broken.",
+      "Analytical Eye (Minor Action) - Examine a humanoid target that you can see within 10 m of you to attempt to determine their weakness. Gain +2 towards targeting tests against this foe for the remainder of the encounter.",
+      "Sneak attacks from light weapons now deal an additional 1d6 damage. Likewise, sneak attacks from silent/concealable archery and firearms weapons are now considered to be penetrating and ignore the target's armor",
+      "If you assassinate and kill a target in one hit with a melee attack while sneak attacking, you may immediately make an additional sneak attack against a second target within range of your melee weapon.",
+      "While sneak attacking a target you gain advantage on your attack rolls.",
+      "You may now add your Perception attribute modifier to your sneak attack base damage.",
+      "Analytical Eye's effects now last for the remainder of the combat encounter.",
+      "Time is shifted when you deal the finishing blow to a foe, allowing you to have a short conversation with your target while you finish them off. During this conversation the target can't lie to you. This also grants you an immdediate minor action after the exchange."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Barbarian",
+    "description": "Less is more, they seek victory by brute strength alone. No trickery here.",
+    "recommendedAttributes": [
+      "Str",
+      "End",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Avoid the use of any advanced tech, computerized tech, or any technology that runs off of energy cells and do not cast spells.",
+      "Avoid the use of any technology or tool that is intricate in design or would confuse a barbarian. & Must be able to charge attack.",
+      "Smash a confusing technological device worth at least 100,000 Credits."
+    ],
+    "ranks": [
+      "Your Physical Armor is equal to your End attribute when not wearing armor. Your damage bonus from your Strength attribute modifier is also doubled while using stone or bone weapons.",
+      "Sunder Armor (3dp): Damage medium or heavy armors and reduce it's physical armor rating by 2 until it is fixed.",
+      "Reckless Attack (major action):  Sacrifice 2 defense to deal a bonus 1d6 physical damage with a melee attack. Effects last until your next turn.",
+      "Your speed is now doubled while making Charge Attacks when not weaing armor.",
+      "The effects of a Reckless Attack may now be applied to a Charge Attack.",
+      "You are now able to wield any weapon regardless of strength requirement and you deal bonus physical damage equal to the weight requirement of the weapon you are using.",
+      "The Sunder Armor stunt now damages the medium and heavy armors by 5 instead of 2.",
+      "Heavy Weapons - Barbarian Smash (3dp): When attacking an enemy wielding or using a tech or arcane based tool, you may smash said tool rendering it unusable until it is fixed.",
+      "Melee attacks made with heavy weapons against opponents equal to or smaller than your size now always knock the opponent prone."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bard",
+    "description": "Influencing others is the way to play. Use story and song to save the day.",
+    "recommendedAttributes": [
+      "Cha",
+      "Dex",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Know how to play an instrument, and successfully make a Cha (Performance) test to please a small crowd of 5 people.",
+      "Successfully make a Cha (Performance) test to please a crowd of 50 or more people.",
+      "Successfully make a Cha (Performance) test to please a crowd of 500 or more people. At least one public figure or famous person must be in attendance."
+    ],
+    "ranks": [
+      "Give your Bardic Inspiration to someone. As a major action give them a 1d6 to add to any roll of their choice for the next 15 min. You may only give your bardic inspiration to 1 person at a time. ",
+      "Song of Deliverance (minor action) - Use uplifting music to rescue all your nearby allies from any mind-influencing effects.",
+      "Song of Rest (major)  - Use soothing music to revitalize all your nearby allies' HP by 1d6 + Cha + Performance focus",
+      "Song of Thrashing (major) - Use hectic music to deal penetrating damage all enemies who hear it by 1d6 + Cha + Performance focus",
+      "Song of Haste (major) - Pick up the tempo of combat for your allies. Select an ally, on that ally’s next turn they will gain an additional major action and double movement speed.",
+      "Giving your Bardic Inspiration is now a minor action for you",
+      "Song of Rest and Thrashing are now minor actions for you to play.",
+      "You may now give your Bardic Inspiration to up to 3 allies at a time.",
+      "Song of Love (Major) - Play a pacifying sonnet to calm all who hear it to cease combat as long as you are playing. A creature may make a TN 18 Hrt (Self-Discipline) test to resist the effects. If a pacified creature takes damage, they are freed from the song's effects, and may immediately make an attack."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Beastmaster",
+    "description": "Let your animal friends do all the dirty work. Gotta catch em all! ",
+    "recommendedAttributes": [
+      "Hrt",
+      "Wis",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Successfully have tamed at least one creature (see Animal Taming talent)",
+      "Currently are travelling with at least 2 tamed creatures. (see Animal Taming talent)",
+      "Successfully have tamed a Dire Threat creature."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Animism arcanum for Beastmasters. ",
+      "Tooth and Claw (3dp) - A summoned or tamed creature will make an additional attack immediately following yours",
+      "Your time spent with your tamed creature has allowed you to bring them to an Elite version of their species. (See Game Info/Creature Upgrade Table). Must have spent at least 1 week with this creature.",
+      "You now have access to the Adept level spells in the Animism arcanum for Beastmasters",
+      "Your time spent with your tamed Elite level creature has allowed you to bring them to a Heroic version of their species. (See Game Info/Creature Upgrade Table). Must have spent at least 1 month with this creature.",
+      "You can now tame any creature of Dire threat or lower. You may also tame a number of creatures equal to your Heart attribute.",
+      "You now have access to the Master level spells in the Animism arcanum for Beastmasters",
+      "Your time spent with your tamed Heroic level creature has allowed you to bring them to a Legendary version of their species. (See See Game Info/Creature Upgrade Table). Must have spent at least 3 months with this creature.",
+      "Upon defeating a creature you may choose to withold the final blow to leave them on the brink of death. While in this state roll a Hrt (Animal Handling) test vs their Hrt (Self-Discipline). If you succeed, the beast is tamed. This may only be attempted once per creature."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Berserker",
+    "description": "Rage fuels these mighty warriros, they can ignore pain, and they fight to the end past what would kill a normal warrior.",
+    "recommendedAttributes": [
+      "Str",
+      "Hrt",
+      "End"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Attack and kill a creature that enraged you.",
+      "Survive a battle in which you were outnumbered, frenzied, and with less than 1/4 of your max HP remaining",
+      "Survive a combat encounter vs at least 5 opponants in which you were frenzied and dealt the finishing blow to all of the enemies."
+    ],
+    "ranks": [
+      "You may now become enraged in combat (minor action) to gain +2 Str, +1 Hrt, +1 End, -1 Per, -1 Dex, and -1 Int",
+      "Bleeding Edge (3dp): For the next 2 rounds at the beginning of the enemy's turn they take 1d6 penetrating bleeding damage.",
+      "Frenzy (minor action) - If you are enraged, you may now enter a frenzy as a minor action. While frenzied you may make melee attacks as minor actions. However at the end of the encounter you gain a level of fatigue for every minor attack you make. \n\nDANGER: This could kill you",
+      "While enraged your physical damage bonus gained by your Str attribute is considered doubled. (ex: you normally have 5 Str and deal +5 extra damage when making attacks, now when you are enraged that increases to +10)",
+      "While enraged you now gain an additional +2 Str, +1 Hrt, and +1 End in addition to the Rank 1 power.",
+      "The Bleeding Edge stunt's damage over time is now increased to 2d6 penetrating damage.",
+      "While enraged or frenzied you automatically succeed all Hrt (Courage) and End (Pain Res) tests.",
+      "If you are frenzied and are targeted by a melee attack you may retaliate with an attack of opportunity.",
+      "While enraged you now gain an additional +2 Str, +1 Hrt, and +1 End in addition to the Rank 1 and 5 powers."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Blood Mage",
+    "description": "Bloodmages have found a way to cast their spells without relying on MP. By using blood they gain power and manipulate arcana.",
+    "recommendedAttributes": [
+      "Int",
+      "Wis",
+      "Cha"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Drain the blood of a person, and use it to fuel your spells.",
+      "Fully submerge yourself in blood while resting for 8 hours and awaken Well Rested",
+      "In a single encounter cast Blood Mage spells with the sum of their MP costs totaling 100 or more."
+    ],
+    "ranks": [
+      "You now have access to the Psychic spell: Scarlet Synapse & the Conjuration Spell: Blood Hound",
+      "You may now fuel your spells with your own HP instead of MP. You may only cast Blood Mage spells in this manner.",
+      "You now have access to the Visionary  Spell: Detect Life & the Elemancy Spell: Water (Blood) Manipulation ",
+      "You may use the blood (HP) of a willing ally to cast your spells. You must be in direct contact with the blood. (blood mage spells only) ",
+      "You now have access to the Alteration spell: Hemotheurgy & the Harmonic Spell: Blood Boil",
+      "Blood Regeneration: You may recover 10 HP in exchange for 5 MP as a minor action.\n\nAlso, when casting bloodhound your hound is summoned with an amount of HP equivalent to double the MP used to cast. It may be used in combat and has the stats of a wolf.",
+      "You now have access to the Restoration spell: Blood Rite & the Mysticism Spell: Blood Stasis ",
+      "If you make physical contact with the fresh blood of an actively bleeding enemy you may use their HP to fuel a single Blood Mage spell. This cannot be combined with Blood Manipulation.",
+      "You now have access to the Animism Spell: Blood Bending & Illusion Spell: Hemo Hallucination"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blooded",
+    "description": "The blooded absorb power from the flesh & blood of those they have slain. They are often associated with serial killers and cannibals, however some choose to only eat the flesh of animals and creatures.",
+    "recommendedAttributes": [
+      "End",
+      "Dex",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Consume the raw flesh and blood of a creature you have slain.",
+      "Consume the flesh of at least 5 people OR completely consume a creature of Major threat or higher",
+      "Consume the flesh of at least 50 people OR completely consume a creature of Dire threat or higher"
+    ],
+    "ranks": [
+      "Eating the flesh of a creature you have recently slain will grant you a temporary +1 bonus to an attribute that corresponds to the specific flesh that was eaten. Doing so during battle is a major action, this bonus lasts 1 hour, and you may have no more than 3 bonuses at a time. See note or consult GM for bonuses.",
+      "Eating the raw flesh of any creature also restores 10 HP to you, and 5 MP. However you no longer recover HP and MP by resting. Each unique creature's flesh will only heal you once.",
+      "You may now choose to temporarily receive a +2 focus bonus instead of an attribute bonus from the flesh you eat.",
+      "The bonus obtained from eating flesh has increased to 6 hours",
+      "You may now have a number of flesh eating bonuses equal to your Blooded rank instead of only 3.",
+      "You are now immune to poisons or other diseases from the flesh that you eat.",
+      "The bonus obtained from eating flesh has increased to 24 hours",
+      "You may now eat the flesh of a creature you have just slain as a free action upon killing them.",
+      "Eating the brain of a creature will now also impart some of their memories to you. The amount of memories will depend on how long ago they died, and the state of their brain."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Champion",
+    "description": "Rallying their allies on the battlefield, the champion gives even the worst outcomes hope.",
+    "recommendedAttributes": [
+      "End",
+      "Hrt",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Inspire a disheartened character to have hope. ",
+      "Rally and protect an ally that has entered a dying state. Do not let them die.",
+      "Successfully champion your team to victory after at least 3 teammates fall into a dying state."
+    ],
+    "ranks": [
+      "Rally - Minor Action - All allies within 15 m gain +2 damage and +2 to any Hrt (Courage) tests until your next turn.\n\n(allies may only receive the benefits of this action once per turn)",
+      "Valiant Roar (3dp): Raise your voice and let out a rallying battle cry in combat. All allies who hear your cry gain +1 Def for the remainder of the round.",
+      "Whenever you use the Rally action you may also select one foe and draw their attention, forcing them to target you on their next turn.",
+      "You now deal +2 extra physical damage with melee attacks for every enemy that is currently targeting you during battle.",
+      "Allies you have Rallied now also gain a +2 bonus to their attack rolls.",
+      "Your rank 4 bonus damage now applies to Rallied Allies. If you fall below 1/2 health, get knocked unconscious, or are at Fatigue level Drained (or lower) your allies lose this bonus damage.",
+      "Enemies forced to target you are now at disadvantage when making attack rolls.",
+      "If you use a second Rally action in the same turn all foes currently engaged in combat will target you until your next turn.",
+      "The Rank 6 effect will now apply regardless of how healthy you are. It will no longer apply if you succumb to death however."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Cleric",
+    "description": "The worlds greatest healers, able to mend bones, cure disease, and even prevent death.",
+    "recommendedAttributes": [
+      "Int",
+      "End",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Heal a non party member who is injured, sick, or in pain.",
+      "Help others recover a total of 150 recovered HP.",
+      "Save 5 total people who were on the brink of death with your healing."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Restoration arcanum for Clerics.",
+      "Healer's Spirit (3dp) - Recover half of the HP you just restored to another. (this stunt can only be used immediately after healing a target with a restoration spell)",
+      "All of your healing Restoration Arcana  now add your Heart attribute modifier to HP recovered.",
+      "You now have access to the Adept level spells in the Restoration arcanum for Clerics",
+      "If your healing spell would have brought an ally above 100% of their max health, they now retain the extra HP that you healed for the next 5 min.",
+      "Whenever you cure an ally of a poison or affliction you may save the essence of that affliction within a vial to use at a later time. The curse is half as potent as what you originally healed.",
+      "You now have access to the Master level spells in the Restoration arcanum for Clerics",
+      "While you are Well Rested all of your healing spells are twice as effective.",
+      "You may now cast Ressurecting Light on a dead character that died in the last 24 hours instead of 1 hour."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Commander",
+    "description": "The true leader on the battlefield. Commanding their armies and allies from the frontlines. The commander will bring their people victory.",
+    "recommendedAttributes": [
+      "Cha",
+      "End",
+      "Wis"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Lead an NPC to victory in battle.",
+      "Lead a group of at least 2 NPCs who have sworn themselves to you through 3 total combat encounters.",
+      "Lead and win a battle in which you and your followers were outnumbered and outclassed with 0 casualties."
+    ],
+    "ranks": [
+      "NPCs are now willing to follow you. You may gain a number of followers equal to your commander rank rounded down. You must earn the trust of your followers.",
+      "Forward March (3dp): Give your followers an order, they get +1 to all tests directly related to following your order. (does not stack)",
+      "As a minor action you may now roll a TN 15 Cha (Leadership) test. If you succeed all your followers recover from being Winded.",
+      "You may now promote a follower to honor guard. They live to protect you. If they are adjacent to you enemies must attack them to get to you.",
+      "Your leadership has expanded your influence if you prepare a battle plan ahead of time everyone who participates in the plan gains +2 to fulfill their role during battle.",
+      "Your honor guard now gains +1 def and +2 armor when guarding you.",
+      "You gain now promote one of your followers to an elite version of that follower. (See Game Info/Creature Upgrade Table)",
+      "You may now give your followers special training in a focus you have advanced (+3) training in. Granting them +1 towards this focus. This takes a total of 12 hours.",
+      "You may now recruit up to any number of followers. No cap"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Death Knight",
+    "description": "A lone knight falls amongst his slain comrades. As they lay dying, the knight's hatred and regret grows to the point where they will evade death until they have taken their revenge.",
+    "recommendedAttributes": [
+      "End",
+      "Str",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Have a near death experience. Be willing to do anything to avoid death.",
+      "Fall below 0 HP a total of 3 times.",
+      "Be reduced to nothing more than a skeleton as a Death Knight."
+    ],
+    "ranks": [
+      "Until you die, this specilization does nothing. You have been reborn as an undead knight. You don't have to eat, drink, or breathe, and are immune to poison damage. Healing magic no longer works on you, but you heal double the HP while you rest. Falling below 0 HP will not kill you but will cause you to decompose faster.",
+      "You can no longer become fatigued, but taking a level of fatigue lowers your HP by 15.",
+      "You may now rest in half the time it took you when you were alive",
+      "You are now immune to targeting attacks",
+      "Necrostrike (Major Action) - (-1 to hit) channel your undead energy into your blade, and strike the foe. If your blade strikes living flesh, the target is affliced by necrosis. (1d6 damage every round, until healed)",
+      "Plaguebringer - when you come into direct contact with food, the food becomes infected. Any who eat this blighted food must make a TN 16 End (Poison Res) test or suffer from terrible diseases",
+      "Siphoning Strikes - whenever you reduce a creature to 0HP you regain Hp equivalent to 1/2 the damage you just dealt to bring them down to 0.",
+      "You now gain advantage on all Endurance tests",
+      "Death has no hold over you. Take 1/2 damage from all mundane forms of damage. You still take full damage from magic, energy, and spiritual attacks."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Delver",
+    "description": "Explorer of the vast lands and ruins of the world. Careful not to delve into a dungeon deeper than you can climb out!",
+    "recommendedAttributes": [
+      "Per",
+      "Dex",
+      "Int"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Successfully enter and fully explore a hostile base/dungeon/cave etc",
+      "Use your exploration drone to detect 3 traps or detection systems without triggering them.",
+      "Use your exploration drone to scan enemies on 5 unique occasions."
+    ],
+    "ranks": [
+      "Upon entering a dangerous place you may to choose to be made aware of either the minimum or maximum threat level of the enemies inside.",
+      "Quick Reaction (2dp): You can take a Minor Action before the combat encounter begins.",
+      "You may build a Droneboy 9000 to use on a doorway to percieve if there are traps or detection equipment in the area beyond, as well as the area map. The Droneboy 9000 is fueled by an EC (Energy Cell) and can fly for 1 hour on a single charge, OR expend a charge to check for traps. (see specialized gear for more info)",
+      "Advantageous Positioning (3dp): For the next 3 rounds your movement speed is doubled. You may also immediately move to any position in range.",
+      "Gain an additional +2 to your Dex and Per in the next area immediately after using Droneboy 9000 on an area.",
+      "Droneboy 9000 may now run off of a LEC (Large Energy Cell). If it does then it gains 3 additional charges (4 total), and may expend a charge to scan the enemies in the next room. A scan gives you information about the enemies including number, relative threat level, and potential weaknesses.",
+      "Droneboy9000 may now expend an energy cell charge to alter traps or detection equipment to no longer apply to yourself or allies and now applies to enemies instead.",
+      "You now gain +3 defense when attacked by an enemy lower than you in the initiative order.",
+      "You may expend an energy cell charge to use Droneboy 9000 on the entrance to dungeons, buildings, and other contained dangerous areas to percieve the full map of the location."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Druid",
+    "description": "Friend to nature, you would rather be around plants and spend time in your garden than among people. Manipulate plants to attack your foes and cast powerful support spells using them.",
+    "recommendedAttributes": [
+      "Wis",
+      "Hrt",
+      "Per"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Spend at least 1 hour per day surrounded by nature.",
+      "You must now always sleep surrounded by nature.",
+      "You cannot be separated from nature for more than 8 hours, or you will lose your Druidic powers until your rest among nature again."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Animism arcanum for the Druid.",
+      "You may enrich a small plot of land or area of soil to designate as your garden. This land always receives the benefit of the spell Enrich Vegetation, and you are always aware of the status of these plants even when separated. You must expend 1 MP/day to maintain this arcane garden. ",
+      "If you rest in the presence of flourishing plants in nature you recover and become well rested in 1/2 the time, but you cannot become well rested if you are not in the presence of nature.",
+      "You now have access to the Adept level spells in the Animism arcanum for the Druid.",
+      "When using Manipulate Vines while concentrating and communicating with a plant via Green Communion your connection allows for a much stronger spell. Increase the damage dealt from 3d6 to 6d6, and the TN for a foe to break free from being bound from a 14 Str (Might) to 18. ",
+      "The plants in your garden are now always connected to you via Green Communion. You may cast this spell as a free action when targeting your garden regardless of your location. This expends no additional MP.",
+      "You now have access to the Master level spells in the Animism arcanum for the Druid.",
+      "You may cast Floral Portal as a free action when your target is your garden. This expends no additional MP.",
+      "While communicating with plants using Green Communion you may now receive their energy as MP if the plants are willing to spare their energy with you. The amount of MP varies by species, but some ancient groves have nearly limitless MP."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Drunken Master",
+    "description": "Your body has adapted to alcohol, and now gains power and strength from drinking.",
+    "recommendedAttributes": [
+      "Dex",
+      "End",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Become wasted on 5 separate occasions.",
+      "Survive after entering the Dying state on the Sobriety table.",
+      "Spend 1 week straight while intoxicated."
+    ],
+    "ranks": [
+      "Being buzzed now grants you +1 Dex instead of -1 Dex.\n\nYou may also choose to fail an End (Poison Res) test.",
+      "SHOTS, SHOTS (3dp): You may make a free ranged attack and take a drink, increasing your level on the drunkeness table",
+      "Being drunk now grants you +2 Dex and you no longer suffer -1 to Per.",
+      "Gain a bonus +2 towards End (Poison Res) tests, but you may choose to fail this test if you want. ",
+      "Being plastered now grants you +3 Dex and does not lower your other attributes. You must still roll a Dex (Balance) test to move",
+      "While under the influence of alcohol you generate 1 additional doubles point whenever you roll doubles.",
+      "Being wasted now grants you +4 Dex and does not lower your other attributes. You must still roll a Dex (balance) test to move.",
+      "You can no longer die from excessive drinking, and consuming additional alcohol once you are wasted resulting in you gaining 5HP. You may not receive the benefits of this healing a second time unless you take damage again.",
+      "When making a melee attack while under the influence of alcohol you may choose to attempt to force alcohol onto your enemy instead of making an attack. Roll an Acc (Brawling) test vs their defense. If you win, the opponent drinks the booze."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Duelist",
+    "description": "You have two hands, why not use two weapons? Seriously what a waste.",
+    "recommendedAttributes": [
+      "Acc",
+      "Str",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Successfully make at least 3 melee attacks with 2 different weapons during a single combat encounter.",
+      "Successfully make at least 7 melee attacks with 2 different weapons during a single combat encounter.",
+      "Successfully make at least 12 melee attacks with 2 different weapons during a single combat encounter."
+    ],
+    "ranks": [
+      "You may now effectively wield a Light Weapon in your off hand and attack with it as a minor action. This weapon suffers a -2 penalty to hit. The secondary attack does not generate doubles points. You must pass the Weight Requirement for both weapons.",
+      "Lightning Attack (3dp): Immediately make a second attack with a currently equipped weapon of your choice.",
+      "Making attacks as minor actions may now generate up to 2 doubles points maximum.",
+      "You may now wield any one-handed weapon in your off hand as long as you still pass the combined Weight Requirement for both weapons.",
+      "You can now enter a parrying stance as a minor action to gain +1 defense and allow you to perform an attack of opportunity once against a foe who unsuccessfuly attacks you before your next turn. The effects of this stance last until your next turn.",
+      "Making attacks as minor actions may now generate up to 3 doubles points maximum.",
+      "Making attacks as minor actions no longer suffer a -2 to hit opponents.",
+      "Rolling triples to hit a foe on a lightning attack chain now adds an additional lightning attack to the chain.",
+      "You may now use the Major Action Dual Strike to attack with both your weapons at once making an attack roll for each. You may still make additional attacks as a minor action. "
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Elemancer",
+    "description": "Only the Avatar, master of all the elements, could stop them, but when the world needed them most, they vanished. (go deep with one or shallow with many)",
+    "recommendedAttributes": [
+      "Int",
+      "Dex",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Learn the novice level spells for a single element.",
+      "Learn all of the spells for a single element.",
+      "Learn all of the spells for two or more elements."
+    ],
+    "ranks": [
+      "Learn any 3 elemental spells. In order to learn the adept or master level spells you must have learned both the spells within that element for the previous rank.",
+      "Channel Element (3dp) - Add elemental effects to any weapon of your choice within 20 m for 1 round. Fire - can set enemies on fire, water - attacks become piercing, earth - +3 damage, air - +2 to attack",
+      "Learn any 3 elemental spells. In order to learn the adept or master level spells you must have learned both the spells within that element for the previous rank.",
+      "You gain access to the spell Manipulate Element (if you do not already have it) and may cast it as a minor action. ",
+      "Learn any 3 elemental spells. In order to learn the adept or master level spells you must have learned both the spells within that element for the previous rank.",
+      "You gain arcane armor to resist damage from the elements you are skilled at using. This armor is based off of your degree of skill with that element. Novice gives you 5 armor, Adept gives you 10, and Master gives you 15. This arcane armor ONLY applies to elemental damage.",
+      "Learn any 3 elemental spells. In order to learn the adept or master level spells you must have learned both the spells within that element for the previous rank.",
+      "When casting Manipulate Element you may reduce the TN of the spell by 3 and may now cast the spell as a free action once per turn.",
+      "Select one of the elements that you have reached master rank with. When casting spells from this element reduce the spell target number by 2, and the MP required to cast by 25%."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Engineer",
+    "description": "You make it your goal to design, build, and modify weapons and armor to suit your needs. Plasma sword anyone? Mech suit? ",
+    "recommendedAttributes": [
+      "Dex",
+      "Int",
+      "Per"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "MP"
+    ],
+    "requirements": [
+      "Successfully make modifications on 3 tools or weapons to improve them.",
+      "Construct a BPE and install either a PAC or PJC",
+      "Fully kit out a BPE made from either Black Steel, Orichalcum, or Tritanium with a powered weapon and visual modifier"
+    ],
+    "ranks": [
+      "You have the ability to build a (BPE) basic powered exoskeleton. This augments different base attributes and grants an armor rating based on the materials it is built from. (30kg of material). See the engineer specific gear section for more details.",
+      "Quick Weapon Modification (QWM) (2dp): On the fly you are able to quickly modify your or an adjacent ally's weapon to deal an additional 1d6 lightning damage for 2 rounds.",
+      "You have the ability to install either a (PAC) powered arm cannon or a (PJC) plasma jet cutter into your BPE. These require Energy Cells and have 3 uses/Cell. Major action to replace the Energy Cell",
+      "Rapid Cell Change (RCC) (2dp): Immediately replace an expended energy cell to any device you are using.",
+      "You have the ability to add a visual modifier to your BPE with either a (IRV) Infrared Visor or (AVT) Acute Vitality Tracker",
+      "You may now Turbo Charge Energy Cells. It takes you 30 min and 10 extra credits worth of materials to modify each Cell. This new design doubles the cell's previous usage before recharge. Likewise RCC can now be performed for 1 less dp.",
+      "You may now convert your (BPE) into an (MPA) Mechanized Power Armor. Requires either Adamantite, Promethium, Mythril, or Astral as building material. (300 kg of material). Grants additional Attribute modifiers, armor ratings, and more.",
+      "You can now add the other invention from the Rank 3 Engineer and Rank 5 Engineer to your MPA (mechanized power armor).",
+      "You have the ability to invent a (MPA) upgrade for either a (JPT) Jet Propulsion Thruster or a (OHM) Onboard Hovering Mechanism."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Gambler of Fate",
+    "description": "All or nothing, you guide the strings of fate and weave them to create the pattern you desire. This power could easily slip through your fingers though if your luck runs out.",
+    "recommendedAttributes": [
+      "Wis",
+      "Cha",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "MP"
+    ],
+    "requirements": [
+      "Roll triples and succeed a test roll.",
+      "Roll a legendary [6][6][6] or a Crit Fail [1][1][1]",
+      "Have the GM roll you a legendary [6] [6] [6] with the use of the spell Role Reversal."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Mysticism arcanum for the Gambler of Fate",
+      "Stunt Bank (1+dp) - Save these doubles points to be used for your next roll. They are lost if not used on the next roll.  (max 3)",
+      "At the beginning of your turn you may roll a 1d6. If you roll a 5 or 6 you gain an extra minor action. If you roll 2, 3, or 4 nothing happens. If you roll a 1 you lose a minor action.",
+      "You now have access to the Adept level spells in the Mysticism arcanum for the Gambler of Fate",
+      "A tie roll is always in your favor now. (This usually applies when defending)",
+      "When you are Well Rested you may choose to call mulligan on one of your dice after making a roll letting you reroll a single dice. If you roll a 4 or lower, you are no longer Well Rested. If you roll a 1, you become Weary.",
+      "You now have access to the Master level spells in the Mysticism arcanum for the Gambler of Fate",
+      "When casting Mystery Swap you may now choose which ability you want to trade with your target.",
+      "Anytime you fail a roll or it doesn't go the way you wanted, you may roll a single dice. If you roll a 1, the result becomes worse, a 2-4 the result is unchanged, but if you roll a 5-6 your luck changes and the failed result becomes in your favor. GM decides the results"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Gladiator",
+    "description": "You are at your strongest when the crowds are cheering you on. You thrive in the one on one battle arena. You are the gladiator.",
+    "recommendedAttributes": [
+      "End",
+      "Str",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Survive a 1-on-1 battle in front of a crowd of at least 5 people.",
+      "Survive a battle where you are outnumbered 2-to-1 before crowd of at least 50 people.",
+      "Fight and win in a 1-on-1 battle before a crowd of at least 500 people"
+    ],
+    "ranks": [
+      "You now gain a bonus d6 called a glory die. This dice can be used either when making an attack or dealing damage. You can expend 1 hour in intense training  to regain a glory die (doing so will leave you Drained). You may also regain a glory die upon defeating an opponent in 1-1 combat or by spending a conviction point.",
+      "Sway the Crowd (3dp): Your actions have gained the favor of the spectators. This returns a spent glory die to you",
+      "You may now perform a gladiator maneuver as a free action by expending a glory die. Your current available maneuvers are the following stunts:\n Knock Prone, Disarm, Skirmish (3 m).",
+      "You gain a 2nd Glory die, and now recover a glory die whenever you slay any opponant.",
+      "At the beginning of the combat encounter you may declare a 1v1 battle against an opponent. If they agree you gain +2 to your Per (Initiative) test, +2 to all damage rolls, and can sway the crowd for 1dp until the 1v1 ends.",
+      "When attacking an enemy that has been knocked prone, you deal an additional 2d6 damge.",
+      "You gain a 3rd glory die. And may now regain a spent glory die through training for 15 min. If you train this way you will become Weary.",
+      "Deal +1 bonus damage for every 100 people who are watching your fight. ",
+      "You gain a 4th glory die AND regain all glory dice upon entering 1-on-1 combat"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Guardian",
+    "description": "Protect and serve. You live to guard those whom you have given your life to. Your live your life as a shield, so you better not go down, they are relying on you.",
+    "recommendedAttributes": [
+      "End",
+      "Str",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Take a hit meant for someone else to protect them.",
+      "Block 5 or more attacks in one round.",
+      "Tank 100 total damage in a single encounter"
+    ],
+    "ranks": [
+      "Your dex penalty when using shields and armor is now reduced by 1.",
+      "Shield - Shield Bash (3dp): Stun your target resulting in them losing one of their next minor actions.",
+      "Protect (Major Action) - Chose an adjacent ally. You stand firm next to them ready to intercept any attack aimed at them until your next turn. You must actually take the hit though.",
+      "Your dex penalty when using shields and armor is now reduced by a total of 2.",
+      "When you are protecting an ally your shield's physical armor bonus is considered 2 higher than normal. ",
+      "Protect now applies to all allies within 2 m of you.",
+      "Your dex penalty when using shields and armor is now reduced by a total of 3.",
+      "Protecting an ally is now a minor action.",
+      "Any physical melee and ranged attacks that manage to get through your armor now deal 1/2 the remaining damage they would have."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Gunfighter",
+    "description": "Guns blazing is an excellent motto. Especially the guns part. Lots of them. ",
+    "recommendedAttributes": [
+      "Acc",
+      "Dex",
+      "Per"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Land 3 shots in a row in a single combat encounter with a pistol. ",
+      "Slay 2 creatures in a single round with shots from your firearms.",
+      "Land 9 shots against a single target with your firearms in one combat encounter."
+    ],
+    "ranks": [
+      "You may now wield two pistols at a time by using a pocket pistol in your off hand. Firing with your off hand is considered a minor action, but cannot generate doubles points. You may reload both guns as a major action.",
+      "Lightning Shot (5dp): Immediately reload and make a second attack with an equipped gun of your choice.",
+      "You may now wield any one-handed gun in your off hand. This weapon is considered to have +1 to its weight requirement.",
+      "Attacks made in your short range have +2 to hit opponents. ",
+      "You may now reload both your guns as a minor action.",
+      "For every shot you land against a target you gain +1 defense towards that target until your next turn.",
+      "The Lightning Shot stunt may now be performed for 3dp instead of 5 AND Your secondary attack may now generate up to six doubles points.",
+      "You may now shoot both guns as a single major action. This attack has 1/2 the normal range of your guns.",
+      "You are fully aware of the inner workings of your firearms. You can now reload your 2 main guns as a free action once per turn. A main gun is one you have used consecutively for at least 30 days"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Hunter",
+    "description": "Once you have set your mind to finding your target, they will never escape you. They can run, but they can't hide.",
+    "recommendedAttributes": [
+      "Per",
+      "Dex",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Successfully track a creature. ",
+      "Successfully hunt a moderate level threat and defeat it without initiating combat.",
+      "Successfully hunt a major level threat and defeat it without initiating combat."
+    ],
+    "ranks": [
+      "You may mark a visible target as a minor action. Gaint +2 towards all perception and targeting related tests against the marked target. You may only mark one target at a time.",
+      "Target Vitals (3dp): Your attack automatically is considered to hit the vitals of the creature you have marked. You also deal +1d6 extra damage if the target was marked.",
+      "Your bonus for marking an enemy is now doubled for all moderate level threats and below.",
+      "When you mark a target you now gain +2 towards all damage rolls. (rank 3 doubling applies)",
+      "Your bonus for marking an enemy is now doubled for all major level threats and below.",
+      "You may now mark a target as a free action once per turn.",
+      "Your bonus for marking an enemy is now doubled for all dire level threats and below.",
+      "You can now mark a number of targets equal to your perception attribute.",
+      "Your bonus for marking an enemy is now doubled for all legendary level threats and below. In addition, you will always have a vague sense of where a marked target is."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Juggler",
+    "description": "Specialized in throwing all sorts of weapons or tools. Throw a dagger at an enemy, toss an ally a potion, or juggle flaming swords to impress a crowd.",
+    "recommendedAttributes": [
+      "Acc",
+      "Dex",
+      "Per"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Sucessfully throw an item in combat and hit your mark 3 times.",
+      "Catch an item thrown at you by an enemy in combat and throw it back.",
+      "Hit a single target with 3 thrown objects in one turn twice in a row. (on 2 subsequent turns for 6 total hits for a single target)"
+    ],
+    "ranks": [
+      "If you use a major action to throw an item in combat prior to making a movement action, you may move at double your normal movement speed during any subsequent movement actions.",
+      "Double Time (3dp) Throw two readied weapons/items at the same time. Make an attack roll for each.",
+      "If an item is thrown at you in combat and you are able to dodge based on your defense, you may choose to catch the item as a Free Action instead of dodging it.",
+      "When you throw items, you no longer suffer a penalty for throwing past your short range.",
+      "When juggling to impress others as a Cha (Performance) test, you may now add your Throwing focus bonus to your test result.",
+      "You may throw any light weapon as a minor action.",
+      "You may perform Double Time for 1 less doubles point.\n\nTriple Time (4 dp) Throw three readdied weapons at the same time. Make an attack roll for each.",
+      "Your defense vs all physical projectiles is increased by your Acc (Throwing) focus bonus value.",
+      "You may modify any 1 of your weapons to turn it into a boomerang. It will return to you immediately after hitting a target and dealing damage."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Knight",
+    "description": "Valient and honorable. The knight is the epitome of what a warrior should strive to become. Don't forget to save the damsel in distress.",
+    "recommendedAttributes": [
+      "Str",
+      "Hrt",
+      "End"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Help someone in need and choose to take nothing in return.",
+      "You can no longer accept compensation after helping someone",
+      "You can no longer turn down any sincere requests for help."
+    ],
+    "ranks": [
+      "When defending someone you perceive to be innocent and virtuous you deal 1d6 extra physical damage and gain +2 to Heart (Courage) tests",
+      " Sword of Truth (4dp): As a paragon of virtue, your attack deals an extra 2d6 arcane damage to an unvirtuous foe.",
+      "Your dex penalty for armor is reduced by 1, and your armor is so shiny it halves the effective range of projectile weapons when fired against you. However you suffer a -1  towards Dex (Stealth) tests.",
+      "You are a Knight trained in the art of combat. When wielding Medium Weapons you cannot be disarmed or skirmished.",
+      "You may now add your Hrt (Morality) focus modifier (+1, +2, or +3)  as bonus physical damage when making melee attacks.",
+      "You have gained enough fame to take on a squire. The squire must be willing, and respect you. It is your duty to instill in the squire your sense of virtues. Your squire starts as a lvl 3 Rank 1 knight.",
+      "Your dex penalty for wearing armor is now reduced by an additional 1 (2 total) and is so shiny now when being attacked the tie goes to defender [you] instead of the attacker. You suffer an additional -1 (-2 total) to Stealth though.",
+      "When fighting unvirtuous foes your heroic aura protects you from gaining fatigue of any kind. Any fatigue you would have accumulated, gets applied after the battle. (this could kill you)",
+      "When fighting against truly unvirtuous foes your virtue shines through. Your blade deals an additional 2d6 damage and is considered to be arcane. (this may be combined with Sword of Truth)"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Mage Hunter",
+    "description": "You specialize in hunting down and eliminating users of magic. Resist and deflect magic with your shield, and cut through their defenses with your sword.",
+    "recommendedAttributes": [
+      "Hrt",
+      "Str",
+      "Wis"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Kill a person or creature who uses magic. (you cannot use magic yourself)",
+      "Negate an enemy spell  during combat 3 times.",
+      "Single handedly defeat 3 magic users in a single combat encounter."
+    ],
+    "ranks": [
+      "Gain permanent arcane armor equal to your Mage Hunter level. You may also make Wis (Intuition) tests to detect traces of arcana. TN determined by the spell rating and time since the spell was cast. GM discretion",
+      "Spellbreaker (2dp): Your attack is able to disrupt arcane energy. You are able to negate any one ongoing novice level spell within 3m of your target. ",
+      "When attacking a target that cast a spell within the last 3 rounds of combat, your attack deals extra damage equal to your level as a Mage Hunter.",
+      "Spells that target you increase the TN for the caster by 2.",
+      "The Spellbreaker stunt now applies to ongoing Adept level spells (4dp). AND Your physical armor now adds to your arcane armor.",
+      "When you are targeted by an enemy spell whether it is successful or not, your next attack deals +2d6 extra damage towards that enemy as a counterattack.",
+      "Your infamy now alters the battle. After using any of your Mage Hunter abilities against an enemy mage of threat level major or below, the opponent must make a Hrt (Courage) test vs your Str (Intimidation) If they fail, they attempt to flee from battle, if they succeed, they must target you.",
+      "Your spellbreaker stunt can now disrupt ongoing master level spells (6dp).",
+      "While in combat all enemy spells must target you as long as both the caster and original target are within 50 m of your position."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Martial Artist",
+    "description": "Mastery of weapons, fast as the wind. Silent and deadly. You prefer subs over dubs.",
+    "recommendedAttributes": [
+      "Dex",
+      "Acc",
+      "Per"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "The martial artist is proficeint in all manner of weapons. Land a hit with one weapon from each weapon category.",
+      "Successfully land an attack with 3 different weapons in a single combat encoutner.",
+      "Land and activate Paralyzing Blow against the same target two rounds in a row."
+    ],
+    "ranks": [
+      "Attacks with martial weapons gain damage equal to your Dex attribute modifer. You may also carry a number of unequiped items equal to your Martial Artist rank without needing to pass a Weight requirement.",
+      "Martial Barrage (3dp): You may immediately make an attack with a different/unequiped weapon of yours with a +2 bonus to hit and end your attack with the new weapon.",
+      "Gain the minor action Precise Blow: Gives +3 to targeting attempts against an adjacent opponent with a martial weapon.",
+      "As long as your Dex attribute is higher than your opponant's, you now no longer suffer from the foe getting to take an attack of opportunity against you when you disengage or flee from combat.",
+      "You may switch weapons once per turn as a free action. Every time you switch weapons you gain +2 towards hitting the opponent on your next attack.",
+      "Major Action - Paralyzing blow, make a brawling attack aimed at the opponents chakra points. If your attack lands you deal 1d6+Dex physical damage. If this attack deals damage past the foe's armor the target loses their next major action.",
+      "Gain the Major Action: Sweeping Strike - When making a melee attack with a martial weapon you may hit a number of targets equal to the range of that weapon. (Use the same attack and damage roll)",
+      "You may now perform Paralyzing Blow as a combat stunt with any martial weapon for 8dp.",
+      "Reduce the cost of all combat stunts by 2 dp. (minimum 1dp). "
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Medic",
+    "description": "Deftly provides support while out in the field, dodging all attacks to bring aide and healing to their wounded teammates.",
+    "recommendedAttributes": [
+      "Int",
+      "End",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Must have attained Rank 1 in the Medicine Talent",
+      "Save a dying ally with the urgent care stunt",
+      "Use First Aid to help others recover 50 or more HP in a single encounter."
+    ],
+    "ranks": [
+      "When you heal others with First Aid you may now add your Medic level to the amount of HP the target recovers.",
+      "Urgent Care (4dp): You may immediately move to an ally within movement speed range and provide a First Aid action.",
+      "Your knowledge of the body gives you a +2 towards targeting attacks for humanoid creatures.",
+      "You may now perform the First Aid action as a minor action. You may also improvise healing materials without penalty with the GM's discretion",
+      "You now have awareness of the health remaining for all allies and NPCs as a free action and the HP of foes as a minor action.",
+      "As the medic you must not fall and you have trained to avoid attacks. After healing someone gain +2 defense until your next turn.",
+      "Out of combat, you may tend to up to 3 others while they are making a short rest where they gain the benefits of a long rest instead.",
+      "Your medical knowledge now allows you to bring back those others may have already declared dead. Roll a TN 21 Int (Healing) test to bring back a dead character. Add +3 for each round (minute) past death.",
+      "If an ally enters a dying state on the battlefield in your line of sight you may immediately take the effects of a conviction point without expending one of your conviction points."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Mentalist",
+    "description": "Manipulate the weak minded, confound the foolish, and become the center of attention. Their minds are like putty in your hands.",
+    "recommendedAttributes": [
+      "Wis",
+      "Cha",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "MP"
+    ],
+    "requirements": [
+      "Manipulate someone into acting in the way you desire.",
+      "Finish a combat encounter that lasts at least 3 rounds, without being targeted by attacks.",
+      "Manipulate a foe into becoming an ally."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spell in the Psychic arcanum for the Mentalist, as well as Psychic Shield and Psychic Contact.",
+      "Confusion (4dp): You have confused your foe and redirected their attention away from you to the target of your choosing the next round.",
+      "During combat encounters roll a single dice. If 1-3, then all enemies below you in the initiative order ignore you for the first round of combat. If 4-6, then all enemies above you in the initiative order ignore you for the first round of combat",
+      "You now have access to the Adept level spell in the Psychic arcanum for the Mentalist, as well as Telepathy",
+      "You may now add your Cha attribute modifier towards your spell power when casting Mentalist spells.",
+      "You have mastered the art of reading people. You can spend 10 minutes talking to someone and you will learn about their class, level, attributes, talents, speccializations, focuses, and background.",
+      "You now have access to the Master level spell in the Psychic arcanum for the Mentalist, as well as Psychic Trap",
+      "You can easily predict your enemies' next move. At the beginning of each combat encounter gain +2 to Dexterity or gain +4 to Perception.",
+      "Let the Show Begin! (Major Action) - Roll a Cha (Performance) vs their Hrt (Self-Discipline) to distract all creatures who fail into losing their next turn."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Monk",
+    "description": "Meditation is the key to enlightenment. Channel your inner energy into your fists and bring balance to the world.",
+    "recommendedAttributes": [
+      "Hrt",
+      "Acc",
+      "Str"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Must have attained Rank 1 in the Zen Talent",
+      "A Monk must endure intense mental, spiritual and physical training. Fast for 9 days straight. You will be in an Exhausted Fatigue state during this time.",
+      "A true monk knows that rage and anger must be kept at bay. Master your emotions. If you lose control of your emotions you will be unable to use your monk powers."
+    ],
+    "ranks": [
+      "Seek Enlightenment - When you take a 'Breather', make a Hrt (Meditation) roll to restore additional HP equal to half your test result (rounded down). ",
+      "Brawling - Crane Strike (3dp): Strike with your hand extended. This attack may disarm the opponent and their next attack will suffer a -2 penalty to hit.",
+      "Minor Action - Quick Jab - Make a quick brawling melee attack. This attack suffers a -2 to hit and cannot generate doubles points.",
+      "Your brawling attacks now deal bonus arcane damage equal to your Hrt attribute.",
+      "Your training as a monk has enabled you to use Defend as a minor action.",
+      "Seek Enlightenment can now be used to overcome debilitating effects or level 2 fatigue (drained). The Hrt (Meditation) TN varies by affliction/effect. ",
+      "Your brawling attacks now fully deal arcane damage instead of physical damage. (in addition to the bonus damage dealt from Monk-Rank 4)",
+      "You may spend your entire turn in combat to perform Seek Enlightenment to gain the full effects of a 'Breather'. This normally takes 15 min. You can only perform this once per encounter.",
+      "Quick Jab no longer suffers any penalties to attack."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Necromancer",
+    "description": "The Necromancer is a master over death itself. They study the deep and forbidden secrets long since forbidden by the Constellations. ",
+    "recommendedAttributes": [
+      "Int",
+      "End",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Disect and study a living creature while healing it to keep it alive. You must also know at least 1 Conjuration spell. ",
+      "Summon and command 10 undead to defeat an enemy.",
+      "Grant your Heroic Undead Commander a name and an undead legion. Provide it the opportunity to prove its loyalty to you."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Conjuration arcanum for the Necromancer. ",
+      "Select one of the following summon spells: zombie, human skeleton, ghost\nYou may now summon an elite version of this creature (See Game Info/Creature Upgrade Table). Doing so will double the MP cost of summoning.",
+      "You may now summon an undead of any minor threat creature to use as a mount. This creature will be summoned as either a zombie, skeleton, or ghost depending on your rank 2 proficiency.",
+      "You now have access to the Adept level spells in the Conjuration arcanum for the Necromancer.",
+      "Your Elite creature may now be summoned as a Herioc version of that creature (See Game Info/Creature Upgrade Table). Doing this triples the cost of the original spell. This summon now has intelligence and command other undead in your stead. It will also stay summoned indefinitely until defeated.",
+      "Reduce the MP cost of your Necromancy spells by 1 for every visable dead creature within 30 m of you (undead do not count).",
+      "You now have access to the Master level spells in the Conjuration arcanum for the Necromancer.",
+      "Reanimate (6dp) - Bring back one the recently deceased to life. This undead creature has all of it's attributes decreased by 1 and will serve you for a number of rounds equal to it's new End attribute. Range 10m",
+      "Your heroic creature may now be summoned as an legendary version of that creature (See Game Info/Creature Upgrade Table). Doing this quadruples the cost of the original spell."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Noble",
+    "description": "I'm very important. I have many leather-bound books and my apartment smells of rich mahogany.",
+    "recommendedAttributes": [
+      "Cha",
+      "Per",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "The divine right of those born into nobility, or granted it from another noble.",
+      "Become the ruler of a town or small city",
+      "Become a ruler of  a major city or small nation."
+    ],
+    "ranks": [
+      "Flaunting your nobility to someone now gives you a +2 bonus to your Charisma for the next 10 minutes. You may only do this once per day per target. This ability does not stack.",
+      "Command Vassal (3dp): Your birthrite allows you to command those around you. Give a command to someone nearby, if they view you positively they will attempt to follow your command.",
+      "Dazzle - Whenever you attack an opponent with less Cha than you, the opponent suffers a -2 penalty to all rolls until the end of the round (resets at the beginning of initiative).",
+      "Whenever an ally generates doubles points you also gain a single doubles point. You must use that doubles point on your next turn. Stackable",
+      "All focuses you have gain an additional +1 when making tests.",
+      "Select a single attribute test focus. When making rolls for that test you always gain advantage.",
+      "Your defense is now equal to 10 + Charisma instead of 10 + Dex.",
+      "Once per encounter, before rolling initiative, if you can communicate with the potential combatants, make a Cha (Persuasion) vs Hrt (Empathy). If you succeed the opponents must listen to what you have to say for 1 min, and cannot attack unless they are attacked first.",
+      "Select a single attribute group. When making any tests from that group you always have advantage. (does not stack with Rank 6)"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Orator",
+    "description": "You are master of words and sound. Sticks and stones may break your bones, but an Orator's words WILL kill you.",
+    "recommendedAttributes": [
+      "Int",
+      "Per",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Must only be able to cast spells with verbal commands.",
+      "Learn how to cast Ward and Force Field. Cast both around yourself simultaneously to protect yourself while defeating an enemy with your voice.",
+      "Defeat 5 total enemies on your own with your voice without them seeing you."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Harmonic arcanum for the Orator",
+      "Whisper (1+dp): Whisper a message under your breath to communicate with any creature of your choice within 10m. Expending additional doubles points adds extra targets you can communicate with (1dp/target).",
+      "You may now add your Int (Harmonics) focus bonus to  Perception hearing tests",
+      "You now have access to the Adept level spells in the Harmonic arcanum for the Orator",
+      "You no longer need to see a target to cast Harmonic spells on them. As long as they can hear you you can affect them with arcana. Doing so adds a +2 to the spell's target number.",
+      "While Well Rested your Wards and Force Fields gain +2 to their spellpower.",
+      "You now have access to the Master level spells in the Harmonic arcanum for the Orator",
+      "Increase the TN that foes must roll to avoid the negative effects of Bass Boost by +3",
+      "You may now expend a level of fatigue to target all creatures within hearing range for any of your sound based spells."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Outrider",
+    "description": "Your steed will carry you to the ends of the earth. Faster and faster you ride. Able to wield weapons with ease while mounted",
+    "recommendedAttributes": [
+      "Hrt",
+      "Dex",
+      "Str"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Tame or purchase a mountable creature",
+      "Obtain a tamed and mountable creature of a Moderate level threat or higher.",
+      "Obtain a tamed and mountable creature of a Major level threat or higher."
+    ],
+    "ranks": [
+      "Select a tamed creature to be your loyal mount. You may now mount and dismount this creature as a free action. Your mount also gains a +2 Hrt (Courage) focus.",
+      "Mounted attack - Mounted Strike (3dp): Your attack strikes with the power of your mount behind it, dealing 2d6 extra damage.",
+      "While mounted your defense increases by your mount's Dex attribute. Your mount's defense is unchanged.",
+      "The time with your mount brings them to an Elite version of their species. (See Game Info/Creature Upgrade Table)",
+      "The bond with your mount has deepened. When you make a mounted charge against a group of enemies, you may now make an attack against all of them. Your mount can also hear you when you call from up to 5 km away.",
+      "When making a mounted charge attack add the Strength attribute modifier of your mount as bonus physical damage.",
+      "The time with your mount brings them to a Heroic version of their species. (See Game Info/Creature Upgrade Table)",
+      "If you are able to mount a creature you may attempt to make a Hrt (Animal Handling) test vs the creature's Str (Intimidation), Hrt (Self-Discipline), or Wis (Survival). If you succeed, the creature will allow you to remain mounted and follow your directions until you dismount.",
+      "You and your steed now combine attributes while mounted. (ex your Str is 5 and your steed's is 4, so while mounted you both have 9)"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Pacifist",
+    "description": "You have a strong aversion to violence and prefer to use your words and actions to diffuse  combat scenarios. All NPC adversaries have the potential to be convinced to halt combat and reach a peaceful resolution. ",
+    "recommendedAttributes": [
+      "Cha",
+      "Hrt",
+      "End"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Be attacked by an enemy and refuse to fight back.",
+      "Successfully initate peace talks and completely convince an NPC to choose a peaceful outcome.",
+      "You cannot engage in combat until you have attempted peace talks with every opponent at least twice."
+    ],
+    "ranks": [
+      "Peace Talks - Major Action - Appeal to an opponent by making any Cha test. The opponent must make an opposed Hrt (Morality) test. If you succeed, the target will stop fighting and you may talk with them. Some targets can only be convinced under very specific conditions. Each failed attempt grants the opponent +2 Hrt (Morality) for the remainder of the encounter.",
+      "Heartfelt Plea (2dp) - Use your words or body language to convince a sentient target to choose peace. The target must roll a TN 12 Hrt (Morality) test. If they fail, they may not intentionally deal damage on their next turn unless they are attacked before their next turn.",
+      "Gain +1 Defense towards all enemies that you have not attacked during a combat encounter.",
+      "The peaceful look on your face results in many, except the most ruthless of enemies, to feel guilty when they attack you. Most opponents will talk to you while they attack you, and attempt to justify to themselves their actions. This may give you the information you need to convince them to choose peace.",
+      "You may now initaiate Peace Talks as a minor action. Likewise, initaiting Peace Talks with the leader of a group will usually result in the combat encounter pausing while the leader talks to you.",
+      "Upon failing Peace Talks due to a target requiring a specific condition or Cha focus, you may make a Hrt (Empathy) or Wis (Intuition) test vs the Target's Hrt (Morality) to learn more about the target.",
+      "Convincing one member of a group to engage in Peace Talks, now has a chance to convince all members. Each member rolls a Hrt (Morality) test with a +3 vs your Charisma roll. Any who fail will also halt combat to talk it out.",
+      "You may choose to spend more doubles points on Heartfelt Plea. For every additional doubles point spent, increase the Hrt (Morality) TN by 1.",
+      "Initiating Peace Talks with most characters is now guarenteed to result in a peaceful outcome. This does not apply to opponents who have special requirements to initiate Peace Talks with."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Paladin",
+    "description": "Your strength comes from a higher power. You have sworn your life to one of the 8 Constellations and must follow their tennets or lose your power.",
+    "recommendedAttributes": [
+      "Hrt",
+      "End",
+      "Per"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Commit your life to one of the constellations and follow their tennents unwaveringly.",
+      "Fervently pray to your Constellation for at least 1 hour a day for 30 days. You must continue this prayer ritual going forward or you will lose access to these abilities.",
+      "Physically meet with and earn the trust of the Constellation you have sworn yourself to."
+    ],
+    "ranks": [
+      "Gain the fortune of your Constellation",
+      "When interacting with other worshipers of your Constellation gain a bonus to your Charisma equal to your Hrt (faith) focus bonus.",
+      "Gain the favor of your Constellation, and one adept level spell from your constellation's element. If you follow no constellation, you can choose from any elemental spell.",
+      "You may now cast spells of the same elemental type of your constellation with your Hrt (Faith) roll instead of Int (Elemancy).",
+      "Gain the gift of your Constellation",
+      "All damage from your melee or ranged weapons deals additional arcane damage equal to your Hrt+Faith bonus. This additional damage is elemental based on your Constellation's element.",
+      "Gain the blessing of your Constellation",
+      "Casting spells from your Constellation's element now cost 1/2 the required MP.",
+      "Special Stunt: Wish (8dp) - Pray and ask of your Constellation a single wish, and they will answer your prayer as they see fit within their power.\n\nFor no constellation: Convenient Coincedence (8dp) - The DM chooses an extremely beneficial outcome for you."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Pirate",
+    "description": "Yaharrg matey, a pirates life be about sailing the seas (or lands or skies) in search of Treasure. Damned be the fools who get in your way!",
+    "recommendedAttributes": [
+      "Dex",
+      "Per",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Successfully attack and commandeer any vessel/vehicle.",
+      "Plunder and steal from a vessel to gain 2,000 Credits worth of goods.",
+      "Own and captain a large vessel with a crew of at least 15."
+    ],
+    "ranks": [
+      "You can now wield a pistol and melee weapon at the same time. If you made an attack with one of them on your turn you may make a second attack as a minor action with the other. This second attack does not generate doubles points and suffers a -2 to hit.",
+      "Dirty Fighting (4dp) - You deal a swift kick below the belt knocking your opponent prone and leaving them with -2 defense for the next 3 rounds",
+      "When riding on a vessel you gain +2 Defense and +2 towards Per (Initiative) tests.",
+      "Attacking a prone, unconscious, inebriated, or otherwise incapacitated combatant grants you a bonus minor action once per turn.",
+      "When dual weilding pistols and melee weapons your off weapon no longer suffers an attack penalty. Likewise your minor attacks now generate up to 2 dp per attack.",
+      "While aboard a vessel you captain, you gain +1 Cha (Leadership) and the entire crew gains +1 Dex and +1 Hrt.",
+      "Damage dealt from vessel weaponry is doubled.",
+      "You can now wield a blunderbus one-handed. Firing a blunderbus from one hand reduces your defense by 1 until your next turn.",
+      "Belay That! - When an enemy within range takes an action, you may use your reaction to make a melee or ranged attack against that enemy as a free action.  Can only be used once per encounter."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Planes Walker",
+    "description": "Space-Time is no obstacle to you. Your pocket dimensions grant you incredible versatility, and your mobility is unmatched among mortals. This power comes from your otherworldy tattoos.",
+    "recommendedAttributes": [
+      "Wis",
+      "Int",
+      "Per"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Get tattooed with an astral mark representing the Planes Walker",
+      "Cast warp self 25 total times. If you can warp, you should warp.",
+      "Have at least 100 different creatures move through one of your Gates, and open a Gate to 10 unique locations."
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Mysticism arcanum for the Planes Walker. ",
+      "Allied Exchange (3dp) - You may select a willing ally to trade places with. This exchange occurs instantaneously, but the ally must be within your line of sight.",
+      "You are now more in tune with your astral mark. At night your mark glows with power. This power reduces the MP cost and TN of your Planes Walker spells by 1.",
+      "You now have access to the Adept level spells in the Mysticism arcanum for the Planes Walker",
+      "You may now cast Warp Self as a minor action.",
+      "While under the power of your Astral Mark at night you may attack with moving disks made from portals. Casting Gate as an attack will allow you to launch a portal in a single direction slicing into all enemies in that straight line path for 3d6 arcane damage for a total of 20m.",
+      "You now have access to the Master level spells in the Mysticism arcanum for the Planes Walker",
+      "While your Warp Room is in effect, you may now exchange a number of creatures equal to your Wisdom modifier. (This number only increases for every even Wis value)",
+      "You may now freely cast Gate without a TN and for 1/2 MP to open a gate somewhere you have previously opened a gate."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Potions Master",
+    "description": "A Master at creating and administering potions of all kinds from deadly toxins, venoms, and poisons as well as restoritive, supportive, and strength potions.",
+    "recommendedAttributes": [
+      "Int",
+      "Per",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Learn a recipe for, and brew, a basic level potion: (examples) Pain killer, hangover cure, warming potion, cooling potion, allergic itching poison. ",
+      "Brew a total of 15 potions. (5 must be unique)",
+      "Successfully experiment with potions ingredients and formulate 3 unique new potions unknown to the general public."
+    ],
+    "ranks": [
+      "Learn the recipes for all common potions and poisons. Also you can now drink potions, feed others potions, and apply poisons as a free action in combat.",
+      "Pass it around (4dp) - Who knew this potion was so expertly made? Take a potion and pass it to all adjacent allies. It affects everyone who drinks it.",
+      "Learn recipes for all uncommon potions",
+      "Select a potion specialty: Utility, Healing, Poison. When brewing potions of this category, you can now brew double the batch.",
+      "Learn recipies for all rare potions",
+      "Take either Rank 4 for another potion type, or your previously chosen potion specialty now lets you brew triple the batch.",
+      "Learn recipies for all epic potions",
+      "Take either Rank 4 for another potion type, or a previously chosen potion specialty now have double the duration of the effects.",
+      "Learn recipies for all legendary potions"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Rampager",
+    "description": "Born of grief and loss, you gave into the darkness of your Berserker rage. Blinded to everything but masacre and destruction you rampage across the battlefield cleaving friend and foe alike.",
+    "recommendedAttributes": [
+      "Str",
+      "Acc",
+      "End"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "As a Berserker suffer a great loss while enraged. Give into your rage and hate. Spare no one. Lose all Berserker levels and gain them as a Rampager. ",
+      "Slay 10 creatures while in a rampaging state.",
+      "Enter a combat encounter while rampaging with at least 10 total creatures, and slay all of them."
+    ],
+    "ranks": [
+      "As a minor action, you may enter a rampaging state. While rampaging your attacks deal +1d6 extra damage, and you gain +1 Accuracy. While in this state you must attack the nearest creature to you. Your rampaging ends when you can no longer see any creatures within 25 m of your location or you are knocked unconscious.",
+      "Deal an additional +1 damage for every creature slain while rampaging. This bonus resets once your rampaging state ends.",
+      "While rampaging, you may now choose to attack EITHER the creature that dealt the most damage to you in the last round (if you can see them) OR the closest creature to you. ",
+      "You now automatically begin rampaging at the start of a combat encounter as a free action. (You cannot stop this)",
+      "Your lvl 1 Rampaging bonus is now increased to +2d6 damage and +2 Accuracy",
+      "While rampaging you may now perform an additional melee attack as a minor action. Minor attacks made in this way cannot generate dp.",
+      "While rampaging you now gain advantage on all Str and End opposed tests vs another creature.",
+      "Your lvl 1 Rampaging bonus is now increased to +3d6 damage and +3 Accuracy",
+      "You are now always in a controlled rampaging state. Your rank 2 bonus damage only resets whenever you sleep. You can control your rampage as long as you have not been dealt damage."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Razor",
+    "description": "Your power is proportional to your lifeforce. Your blood makes your weapons and abilities stronger. The weaker you become the stronger you are.",
+    "recommendedAttributes": [
+      "Dex",
+      "Per",
+      "Str"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "Spd"
+    ],
+    "requirements": [
+      "Fall into a dying state and survive.",
+      "Slay 3 enemies while at 10 HP or less. (This does not need to occur in the same encounter)",
+      "Become addicted to being at low HP. Your body resists healing. You recover 1/2 the normal amount of HP from healing effects."
+    ],
+    "ranks": [
+      "You may now use both of your minor actions while in the dying state. ",
+      "Razor's Edge (3dp): Upon making a melee attack, roll a 3d6, you and your opponent both take this as physical damage with your attack.",
+      "Red Mist - While in a dying state your defense is increased by 3.",
+      "While in a dying state you may make all your actions as normal.",
+      "While in a dying state all your physical damage is considered to be penetrating",
+      "While in a dying state your physical and arcane armor is increased by 5.",
+      "While in a dying state Razor's Edge will not deal any damage to you.",
+      "The effects of Red Mist are doubled. Your defense while dying is now boosted to +6.",
+      "While in the dying state your physical and arcane armor is increased by 10."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Samurai",
+    "description": "Warriors of old, wielding techniques perfected and passed down through countless generations. There is very little, if anything, they hold more value in than their honor.",
+    "recommendedAttributes": [
+      "Dex",
+      "Str",
+      "Acc"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "Commit to following Bushido, the code of honor. \n\nSamurai wield katana, tanto, and bows. The katana is always used 2-handed",
+      "Choose a Lord to dedicate your blade to. OR Become a Ronin and dedicate your blade to serving those in need of your service.",
+      "If you ever break your Code of Bushido, you must prepare yourself to take your own life by committing Seppuku"
+    ],
+    "ranks": [
+      "When your blade is sheathed, and no other weapon is drawn,  gain +1 Def.  Drawing or sheathing the blade is considered to use the Activate action.",
+      "Strengthen Resolve (2+dp) - Focus your willpower to improve your NEXT test result by 1 per 2 doubles points spent.",
+      "Enter a stance as a minor action. Gain access to the following stances:\n\nHo Ryu (Fire stance) - Ignore the negative effects of the first 3 Fatigue Levels\n\nTsu Ryu (Earth stance) - Movement halved, gain +3 phys armor, can't be knocked prone",
+      "Gain access to the following stances:\n\nMizu Ryu (Water stance) - Gain an additional +1 def when your blade is sheathed and your bow is unequiped.\n\nKaze Ryu (Wind stance) - You may make a second attack with your blade as a minor action or reload and a second attack with your bow as a minor action. The second attack cannot generate doubles points.",
+      "Attacking immediately after drawing your blade grants you +1 to hit and +2 damage. ",
+      "Gain access to the following stances:\n\nRai Ryu (Lightning stance) - When making a ranged attack with your bow you may fire two arrows in rapid succession. This may also be used to split and arrow to hit 3 targets or bounce one arrow off another to hit around the corner.\n\nTetsu Ryu (Metal stance) - You can attack all enemies around you within the range of your blade with a single attack roll. Roll damage separately.  ",
+      "You may now change samurai stances as a free action once per turn.",
+      "Gain access to the following stances:\n\nFuzai Ryu (Vacuum stance) - All physical damage rolls are now considered arcane.\n\nKori Ryu (Ice stance) - Your movement speed is now doubled.",
+      "Ryujin - Minor action - Deal 3d6 arcane damage to a single foe with your blade. This damage is considered to be elemental based on your stance."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Seer",
+    "description": "Visions and insight have always come to you in dreams or awake. Some of them come to pass exactly the way you have seen them, others you try to keep coming to pass.",
+    "recommendedAttributes": [
+      "Wis or Per",
+      "Int",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "MP",
+      "Spd"
+    ],
+    "requirements": [
+      "Accurately predict an event that eventually comes to pass within the next few hours. (max one guess per day)",
+      "Accurately predict a monumental event that eventually comes to pass within the next few days. (max one guess per week)",
+      "Accurately predict a word changing event that eventually comes to pass within the next few weeks. (max one guess per month)"
+    ],
+    "ranks": [
+      "You now have access to the Novice level spells in the Visionary arcanum for the Seer",
+      "Unseen Eyes (3dp) - You are made aware if there is anything watching, stalking, listening to, or sneaking up on you. You know the general direction of your watcher.",
+      "You may now cast your Visionary arcana by using a Per (Seeing) test instead of Wis (Visionary), and vice-versa.",
+      "You now have access to the Adept level spells in the Visionary arcanum for the Seer",
+      "You are now obsured from the effects of others visionary arcana.",
+      "You may now maintain your Scrying Orb spell and Far Scry as a free action, and cast spells through them. In order to cast spells through Far Scry, you must cast it with at least 2 senses.",
+      "You now have access to the Master level spells in the Visionary arcanum for the Seer",
+      "Your visionary prowess allows you to predict attacks before you are hit. You may now add your Perception attribute modifier to your defense. ",
+      "You have seen many things, your mind has sharpened, your will has strengthened, and you are now protected from the worst effects of opening your Wizard's Sight. Likewise, maintaining your Wizard's Sight is now a free action."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Shade",
+    "description": "You merely adopted the dark; I was born in it, moulded by it. I didn't see the light until I was already a man, by then it was nothing to me but BLINDING!",
+    "recommendedAttributes": [
+      "Dex",
+      "Acc",
+      "Wis"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "MP"
+    ],
+    "requirements": [
+      "Slay a person in the darkness as they are sleeping. ",
+      "Spend 72 hours in complete darkness. If you experience any light during this time you must restart.",
+      "While in the light of day your Attributes are all decreased by 1. Clothing does not protect against this."
+    ],
+    "ranks": [
+      "While in the absolute darkness gain +2 to Dex (Stealth) tests. Gain the ability to see in the dark up to 20 m if you cannot already.",
+      "Into the Darkness (3dp) - At the end of your action, if you are in the light you may move up to twice your movement speed to find an area in the shadows or darkness.",
+      "You learn the Illusion spell: Shadow Slip",
+      "While shrouded by darkness your damage rolls increase by 1d6",
+      "While in complete darkness your defense is increased by 2.",
+      "You learn the Illusion spell: Invisibility. When you cast invisibility you are considered to be shrowded in darkness.",
+      "You may now cast Shadow Slip for 3 MP instead of 6.",
+      "Whenever you slay an enemy their corpse is dragged into a shadow dimension that you can freely remove them from later.",
+      "Performing attacks no longer breaks invisibility."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Shaman",
+    "description": "Your spores can only infect biological organisms. You are seriously one fun guy!",
+    "recommendedAttributes": [
+      "Wis",
+      "End",
+      "Int"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Survive after eating a poisonous mushroom, or after being infected by a fungal disease.",
+      "Allow the fungus you cultivate to spread over your entire body. Giving your skin a sickly look and smell.",
+      "Become the host for a small colony of at least 1000 insects"
+    ],
+    "ranks": [
+      "You grow and cultivate a paralytic fungus somewhere on your body.\n\nFungal Exposure - Major Action - You may spread this fungus to someone you touch. The exposed target must roll a TN 13 End (Poison Res) test or they take 1d6 penetrating damage and they lose a minor action.",
+      "You now have access to the Novice level spells in the Animism arcanum for Shamans",
+      "Fungal Exposure and your spore based spells are now airborne (they are still single target, unless otherwise stated). They have a base range of 10 meters from your location depending on wind speed and direction.",
+      "The fungus you grow on your body has evolved. \n\nFungal Exposure now requires a TN 18 End (Poison Res) test. Failure results in the target taking 3d6 penetrating damage in addition to losing a minor action. ",
+      "You now have access to the Adept level spells in the Animism arcanum for Shamans. ",
+      "Fungal Exposure and your spore based spells can now be carried by small flying insects. These can be transmitted up to a range of 50 meters.",
+      "The fungus you grow on your body has evolved. \n\nFungal Exposure now requires a TN 18 End (Poison Res) test. Failure results in the target taking 5d6 penetrating damage in addition to losing a minor action. ",
+      "You now have access to the Master level spells in the Animism arcanum for Shamans",
+      "You may now cast Death Cap onto an insectoid that you control. Instead of concentrating, when the insectoid dies these spores are released infecting all targets within a 10m radius of the dead insectoid."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Shapeshifter",
+    "description": "Why should animals and monsters get all the fun. Sometimes it would be nice to have the sense of smell of a dog. Sometimes you just want to grow a giant crab claw. Why not both?",
+    "recommendedAttributes": [
+      "Int",
+      "Hrt",
+      "Per"
+    ],
+    "recommendedStats": [
+      "MP",
+      "Spd"
+    ],
+    "requirements": [
+      "Become intimately familiar with a feature of a particular animal or monster through intensive study.",
+      "Cast Partial Transformation with 3 different unique creatures. ",
+      "Obtain the ability to shapeshift into a Dire Level threat or higher. "
+    ],
+    "ranks": [
+      "You now have access to the Novice level spell in the Alteration arcanum for the Shapeshifter. (You require 6 total hours of study to shapeshift)",
+      "Beast Boy/Girl (3dp) - You may imediately cast partial transformation on yourself and take on a single bodypart of a target in your current line of sight.",
+      "You may now cast Partial Transformation on yourself once per turn as a free action.",
+      "You now have access to the Adept level spells in the Alteration arcanum for the Shapeshifter.",
+      "You now only require 1 hour of studying a creature before you can shapeshift into it.",
+      "Your mass is now able to shift when you transform. You may now grow a single size larger after transforming.",
+      "You now have access to the Master level spell in the Alteration arcanum for the Shapeshifter.",
+      "You may now attempt to shapeshift into a creature you are observing in the heat of combat. As a minor action observe a target and make a TN 18 Hrt (Animal Handling) test. If you succeed you may shapeshift into this creature. You may only attempt this once per creature.",
+      "Your mass further able to shift when you transform. You may now grow up to two sizes larger after transforming."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Sniper",
+    "description": "It is much safer, and more effective, to shoot someone from hundreds of meters away than getting up close and personal. ",
+    "recommendedAttributes": [
+      "Acc",
+      "Per",
+      "Str"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Successfully land a targeted shot from 50 meters",
+      "Land a headshot from 100 m.",
+      "Slay a major level threat or higher from full health with a single shot from at least 100 m."
+    ],
+    "ranks": [
+      "Laser Focus (minor action) - Gain +2 towards hitting a target with a projectile. (may only be used once per turn)",
+      "Ranged - Crippling Shot (3dp) Your shot hits your opponent in the legs knocking them prone and halving their movement speed for the next 3 rounds.",
+      "Landing a headshot with a projectile deals 3d6 bonus damage.",
+      "You may now reload a longbow or warbow as a free action and a heavy crossbow or a rifle as a minor action",
+      "Repositioning (1+dp) - You may now change location immediately after firing a projectile. Move up to 1/2 your movement speed per doubles point spent.",
+      "Long range attacks no longer suffer an attack penalty.",
+      "If you do not take a movement action on your turn, foes are at disadvantage to detecting your location.",
+      "Any targeted attack with a projectile now deals 3d6 bonus damage. Stackable with rank 3.",
+      "Laser Focus now gives +3 to hit and one of the following: 1) if hitting a foe at least 30 meters away. Auto reload after firing. 2) deal +2d6 extra damage."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Slayer",
+    "description": "Your vengence will not be quenched until your nemesis have been slain. You are specialized to kill them, and you're damn good at it.",
+    "recommendedAttributes": [
+      "Str",
+      "Acc",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "HP",
+      "Spd"
+    ],
+    "requirements": [
+      "You have experienced great loss due to a species of creature.",
+      "You must spend at least 1 hour/day dedicated to vengence. Either practicing slaying your target, studying your target, theorizing, etc.",
+      "Obtained vengence by slaying 10 unique creatures/people related to your slayer specialization."
+    ],
+    "ranks": [
+      "Designate a species/class of creature that you committed to slaying. When you roll doubles while fighting a creature in your designated species you generate 2 additional doubles points.",
+      "Vengeful Blow (3dp) - Your sworn enemy must die. Your attack against your designated species deals 2d6 extra damage and penetrates the opponent's armor.",
+      "When fighting your designated species you deal 1d6 extra damage, and your attacks pierce armor.",
+      "Your vengence extends to a second species/class of creature that you are committed to slaying. This species needs to be related to the original in some manner.",
+      "Whenever you finish an encounter where you have slain at least one of your designated species, you gain 1 conviction point. (max 1 per encounter)",
+      "You now gain additional physical and arcane armor equal to your endurance when fighting against your designated species.",
+      "Gain + 3 towards any perception or targeting tests towards finding, attacking, or rolling initiative versus your designated species.",
+      "Your rank 3 damage bonus increases to 3d6.",
+      "You gain a third species/class of creature that you are committed to slaying. This species needs to be related to the original or second in some manner."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Spellsword",
+    "description": "Magic.. Swords… You use magic swords and use magic on your swords. You could even use swords on your magic if you wanted. Your weapon of choice doesn't have to be a sword… but it just wouldn't sound as cool.",
+    "recommendedAttributes": [
+      "Int",
+      "Wis",
+      "Str"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Somehow discover a way to imbue your weapon with an energy beyond your own.",
+      "Empower your weapon with both Elemental Weapon and Imbue Weapon. Then discover a way to further empower that weapon with a new power simultaneously.",
+      "Commit to only ever using your designated Spellsword weapon as a means of attacking and dealing damage."
+    ],
+    "ranks": [
+      "You now have access to the following: Alteration spell: Enhance weapon, the Elemancy spell: Elemental Weapon, and the Conjuration spell: Conjure Tool. You must cast spells with an arcane nucleus that is your weapon.",
+      "Abra-ca-stab-ya (3dp): Immediately after casting a Spellsword spell you may make a melee atack or vice-versa.",
+      "Choose one of your novice level Spellsword spells to permanently imbue into a weapon of your choice. When using this weapon, you may cast the spell imbued into it without needing to make an ability test, however MP will still be consumed. You may only have one imbued weapon at a time.",
+      "You now have access to the following: Restoration spell: Gentle Slash, Visionary spell: Know Thine Enemy, and the Illusion spell: False Slash",
+      "Add 1/2 of your Wisdom attribute modifier as arcane damage when making a melee attack with your weapon.",
+      "Choose one of your adept level spellsword spells to permanently imbue into a weapon of your choice. When using this weapon, you may cast the spell imbued into it without needing to make an ability test, however MP will still be consumed. You may only have one imbued weapon at a time. Can be stacked with your novice level imbue.",
+      "You now have access to the following:  Mysticism spell: Spatial Rend, Harmonic spell: Devestating Slash, and Psychic Spell: Sever Mind",
+      "You may now add all of your Wisdom attribute modifier as arcane damage when making a melee attack with your weapon and add 1/2 of your intelligence modifier towards your attack rolls.",
+      "Choose one of your master level spellsword spells to permanently imbue into a weapon of your choice. When using this weapon, you may cast the spell imbued into it without needing to make an ability test, however MP will still be consumed. You may only have one imbued weapon at a time. Can be stacked with your novice and adept level imbues."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Thief",
+    "description": "Sneaking and stealing, breaking and entering, disarming traps, picking locks and pockets. Oh. And getting hella rich too.",
+    "recommendedAttributes": [
+      "Dex",
+      "Per",
+      "Cha"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Successfully steal and fence 200 Credits worth of goods.",
+      "Successfully steal and fence 5,000 Credits worth of goods.",
+      "Successfully steal and fence 20,000 Credits worth of goods."
+    ],
+    "ranks": [
+      "Foes with more credits than you suffer a -2 penalty towards perception checks vs your stealth.",
+      "The richer they are... (3dp): Deal +1d6 more damage for every 1000 credits the foe is carrying on their person.",
+      "You can now climb at your normal movement speed, and do not need to make a roll for climbing in urban environments. Likewise when sneaking in an urban evironment you get a +3 to your Dex (Stealth) test.",
+      "Major Action: Yoink - Roll Dex (Sleight of Hand) vs an opponent's Str (Grappling) If you succeed you have stolen the opponent's weapon.",
+      "You now have access to the minor action: Golden Eye - you may glean the amount of credits that anyone in your sight possesses on their person.",
+      "You are now able to fence stolen goods to any merchant you deal with.",
+      "You learn the Alteration Spell: Skeleton Key",
+      "You can now steal a single roll of an opponent, and you must use this as your next test roll. They will then have to reroll the stolen result. You must make a long or short rest before using this ability again.",
+      "Finder's keepers. Other people now view the items you steal as officially belonging to you. This applies to everyone but the original owner."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Trickster",
+    "description": "Master of sleight of hand and real Illusion. Make the people see what you want them to see, and believe what you want them to believe.",
+    "recommendedAttributes": [
+      "Cha",
+      "Wis",
+      "Dex"
+    ],
+    "recommendedStats": [
+      "Spd",
+      "HP"
+    ],
+    "requirements": [
+      "Deceive someone into making a major decision that benefits you.",
+      "Deceive an organization/group/room of people/ or guild into making a major decision that benefits you.",
+      "Deceive an entire city or nation into making a major decision that benefits you."
+    ],
+    "ranks": [
+      "You have upset quite a few people over the years and know how to get yourself out of trouble. Gain +2 towards any Cha (Deception) tests to talking your way out of any aggressive non-combat situation.",
+      "You now have access to the Novice level spell in the Illusion arcanum for the trickster",
+      "What are Friends For? (3 dp) - The character you are interacting with begins to see you as a friend. The next time you lie or try to fool them gain a +3 Cha (Deception) towards this target. ",
+      "When casting any illusion spell you may add your Deception focus bonus for spell casting.",
+      "You now have access to the Adept level spell in the Illusion arcanum  for the trickster",
+      "Once per day you may cast any single Illusion spell without spending MP.",
+      "The trickster cannot be tricked. You have the uncanny ability to tell when someone is knowingly deceiving you. You may roll a Cha (Deception) test instead of a Hrt (Empathy) test to determine if someone is lying to you. ",
+      "You now have access to the Master level spell in the Illusion arcanum  for the trickster",
+      "Your illusion spells now last a number of minutes equal to your Charisma and Cha(Deception) modifier, and during this duration do not require concentration."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Wizard / Witch",
+    "description": "Wield your staff or wand to channel more powerful arcana.  The most versatile of all the mages. Every spell is a tool in your arsenal.",
+    "recommendedAttributes": [
+      "Int",
+      "Wis",
+      "Hrt"
+    ],
+    "recommendedStats": [
+      "MP",
+      "HP"
+    ],
+    "requirements": [
+      "Must cast spells with an arcane nucleus of either a wand or staff.",
+      "Know and be able to cast spells from at least five unique Arcane Disciplines.",
+      "Develop and master your own unique spell by combining your knowledge and understanding of 2 or more spells to create something new."
+    ],
+    "ranks": [
+      "You may learn 3 new spells from any Novice level arcanum.",
+      "Fast Casting (4dp) - After you resolve casting a spell, you may immediately cast another spell. This second spell does not generate doubles points.",
+      "Your arcane nucleus has now been imbued with your power. You may store up to 10 MP into your nucleus. This MP can be stored and reabsorbed by you as a minor action. ",
+      "You may learn 3 new spells from any Adept or Novice level arcanum. ",
+      "Select a single Novice level spell that you have learned. You may now cast that spell at an action less than before. Major to Minor, or Minor to Free. (Free action spells may only be cast once per turn as a free action).",
+      "You may now store up to 20 Mp into your arcane nucleus. Likewise, storing and reabsorbing this MP is now a free action. ",
+      "You may learn 3 new spells from any Master, Adept, or Novice level arcanum.",
+      "Select a single Adept level spell that you have learned. You may now cast that spell at an action less than before. Major to Minor, or Minor to Free.  (Free action spells may only be cast once per turn as a free action)",
+      "Gain access to any 1 spell of your choice regardless of specialization requirement."
+    ]
+  }
+]
