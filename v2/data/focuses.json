@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "name": "Poison Res",
+    "attribute": "Endurance",
+    "description": "For use with any test involving your body detoxifying a consumed poison (incuding alcohol). This also applies when you eat something poisonous. See the Drunkeness Table for more info on alcohol consumption.\n\nTN to resist a poison by grade: (GM Discretion)\ncommon - 11\nuncommon - 14\nrare - 17\nepic - 20\nlegendary - 23"
+  },
+  {
+    "id": 2,
+    "name": "Pain Res",
+    "attribute": "Endurance",
+    "description": "For use in resisting fatigue or losing consciousness after suffering a terrible injury."
+  },
+  {
+    "id": 3,
+    "name": "Stamina",
+    "attribute": "Endurance",
+    "description": "For use in rolls to stay awake/focused for extended periods of time or resist some debilitating effect. Failure generally results in taking damage or gaining fatigue."
+  },
+  {
+    "id": 4,
+    "name": "Swimming",
+    "attribute": "Endurance",
+    "description": "Swimming = 1/2 movement speed\n\nHolding your breath requires a TN 11 End (Swimming) test, and every round or 1 minute the TN increases by 2. If you fail once, then you are unconscious and will die in 2 minutes if you do not receive aid."
+  },
+  {
+    "id": 5,
+    "name": "Running",
+    "attribute": "Endurance",
+    "description": "Sprinting (double movement speed)\nTN 12 - 1 round (10 seconds)\nTN 14 - 2 rounds\nTN 16 - 3 rounds\nTN 18 - 4 rounds\n\nJogging (normal movement speed)\nTN 12 - 5 minutes\nTN 14 - 15 minutes\nTN 16 - 1 hour\nTN 18 - 4 hours\n\nFailing one of these tests will give you a level of fatigue."
+  },
+  {
+    "id": 6,
+    "name": "Temp Res",
+    "attribute": "Endurance",
+    "description": "For use in rolls to withstand extreme heat or cold. Failure generally results in taking damage or gaining fatigue."
+  },
+  {
+    "id": 7,
+    "name": "Climbing",
+    "attribute": "Strength",
+    "description": "While climbing you move at 1/2 your movement speed. Below are some example target numbers. If the surface is slippery increase the TN by 3.\n\nTN 12 - Surface with ledges, steep slope, or rope with knots\nTN 15 - Unknotted rope, surface with natural hand and footholds\nTN 18 -  Uneven surface with narrow handholds\nTN 21 - Rough surface (brick wall), sloped ceiling with handholds\nTN 24 - Vertical wall, celing with narrow handholds\nImpossible to climb a perfectly smooth surface without specialized equipment."
+  },
+  {
+    "id": 8,
+    "name": "Grappling",
+    "attribute": "Strength",
+    "description": "Your ability to wrestle with, grapple, or \"manhandle\" someone/something else. Generally for use in a test vs another character. The character that rolls higher wins. Outcome may depend on the difference between rolls."
+  },
+  {
+    "id": 9,
+    "name": "Intimidation",
+    "attribute": "Strength",
+    "description": "Your ability to simply look strong and scary. Often will be an opposed test vs another player's Heart (Courage). Winning will result in the other player backing down. If you roll significantly higher than the other character, hilartiy may insue.\n\nAttempting this test may affect how other characters view you. "
+  },
+  {
+    "id": 10,
+    "name": "Jumping",
+    "attribute": "Strength",
+    "description": "Long Jump (running start required, otherwise jump is halved)\nTN 11 - 2 meters\nTN 13 - 4 meters\nTN 15 - 6 meters\nTN 17 - 8 meters\n\nHigh Jump (running start required, otherwise jump is halved)\nTN 11 - 1 meter\nTN 13 - 1.5 meters\nTN 15 - 2 meters\nTN 17 - 2.5 meters"
+  },
+  {
+    "id": 11,
+    "name": "Lifting",
+    "attribute": "Strength",
+    "description": "For use in making rolls to lift weight using your body. Failing this test results in gaining a level of fatigue.\nTN 10 - 10 kg\nTN 12 - 50 kg\nTN 14 - 100 kg\nTN 16 - 200 kg\nTN 18 - 350 kg\nTN 20 - 500 kg\nTN 22 - 750 kg\nTN 24 - 1000 kg"
+  },
+  {
+    "id": 12,
+    "name": "Might",
+    "attribute": "Strength",
+    "description": "A test for when you may need to perform a feat of strength that does fit with the other Strength focuses such as Grappling or Lifting.\n\nExample - A player is handcuffed and wants to attempt to break free."
+  },
+  {
+    "id": 13,
+    "name": "Smithing",
+    "attribute": "Strength",
+    "description": "Target Number by ore type\nTN 11 - Iron\nTN 14 - Steel\nTN 17 - Black Steel, Orichalcum, Tritanium\nTN 20 - Adamantite, Mythril, Prometheum\nTN 23 - Astral\n\nTarget Number to obtain a masterwork feature:\nTN 14 - Durable\nTN 17 - Reinforced, Light-Weight, Well-Balanced\nTN 20 - Accurate, Deadly, Heavy-Duty, Flexible, Unique\nTN (varies) - Arcane, Specialized"
+  },
+  {
+    "id": 14,
+    "name": "Arcane",
+    "attribute": "Accuracy",
+    "description": "For use with firing arcane bolts of energy (Arcane Training Talent) or opperating specialized arcane weaponry."
+  },
+  {
+    "id": 15,
+    "name": "Archery",
+    "attribute": "Accuracy",
+    "description": "For use with firing bows and crossbows."
+  },
+  {
+    "id": 16,
+    "name": "Brawling",
+    "attribute": "Accuracy",
+    "description": "For use while fighting unarmed. Punches, kicks, headbuts, etc. Ferali Natural Attacks also fall into this category. Add Str Attribute Modifier to base damage."
+  },
+  {
+    "id": 17,
+    "name": "Firearms",
+    "attribute": "Accuracy",
+    "description": "For use while firing guns such as pistols, shotguns, rifles and rockets."
+  },
+  {
+    "id": 18,
+    "name": "Heavy Weapons",
+    "attribute": "Accuracy",
+    "description": "For use while wielding large and heavy melee weapons that require two hands. Heavy Weapons are known for the destructive damage they cause. Add Str Attribute Modifier to base damage."
+  },
+  {
+    "id": 19,
+    "name": "Light Weapons",
+    "attribute": "Accuracy",
+    "description": "For use while wielding small and light melee weapons that are often easily concealable or throwable. These are the weapons of choice for those aiming to make sneak attacks. Add Str Attribute Modifier to base damage."
+  },
+  {
+    "id": 20,
+    "name": "Martial Weapons",
+    "attribute": "Accuracy",
+    "description": "For use while wielding specialized melee and ranged weapons that do not fit within the other categories or those that require extra precision or skills. Add Str Attribute Modifier to base damage."
+  },
+  {
+    "id": 21,
+    "name": "Medium Weapons",
+    "attribute": "Accuracy",
+    "description": "For use while wielding weapons that can be used in either one or two hands. Known for their versatility and ease of use. The most common weapon type. Add Str Attribute Modifier to base damage."
+  },
+  {
+    "id": 22,
+    "name": "Polearms",
+    "attribute": "Accuracy",
+    "description": "For use while wielding long melee weapons. These are often used to gain a defensive advantage because of their long reach or ability to use them while mounted. Add Str Attribute Modifier to base damage."
+  },
+  {
+    "id": 23,
+    "name": "Throwing",
+    "attribute": "Accuracy",
+    "description": "For use while when throwing anything from knives to grenades."
+  },
+  {
+    "id": 24,
+    "name": "Acrobatics",
+    "attribute": "Dexterity",
+    "description": "Your skill at performing aerial maneuvers, landing, and tumbling."
+  },
+  {
+    "id": 25,
+    "name": "Balance",
+    "attribute": "Dexterity",
+    "description": "Your ability to keep your balance and stay on your feet when standing on unstable footing.\n\nThis focus does not apply to balance while riding on a creature. (see Riding)"
+  },
+  {
+    "id": 26,
+    "name": "Crafting",
+    "attribute": "Dexterity",
+    "description": "For use in making tests to create something from raw materials including the arts such as painting or sculpture. This is also used in knot tying."
+  },
+  {
+    "id": 27,
+    "name": "Piloting",
+    "attribute": "Dexterity",
+    "description": "Operating any vessel that runs with an engine."
+  },
+  {
+    "id": 28,
+    "name": "Riding",
+    "attribute": "Dexterity",
+    "description": "Riding or mounting any creature or machine that simulates a living creature."
+  },
+  {
+    "id": 29,
+    "name": "Sailing",
+    "attribute": "Dexterity",
+    "description": "Operating any vessel that moves primarily due to the wind and sails."
+  },
+  {
+    "id": 30,
+    "name": "Sleight of Hand",
+    "attribute": "Dexterity",
+    "description": "For use in making tests that involve using your hands to trick or fool others. Pickpocketing, stealing, and hand tricks."
+  },
+  {
+    "id": 31,
+    "name": "Stealth",
+    "attribute": "Dexterity",
+    "description": "Your skill in avoiding detection or pursuers. \nWhile in combat: You must remake this test at the end of each of your turns. Once your stealth has been broken and while in combat you cannot attempt to stealth again. If you make any noise, or move at all you suffer a -1 to your stealth test. If you whisper or move more than 1/2 your movement speed during your turn you suffer a -2 to your stealth test. If you move at your full movement speed, speak aloud, or perform any non-movement minor action you suffer a -3 to your stealth test. Performing any major action will end your stealth.\n\nWhile in stealth you are able to make a Sneak Attack action against an opponent.\n\nInitiating Stealth is a major action. You cannot stealth while in combat or while being seen. You cannot stealth unless you have at least light obscurement. You cannot stealth while making noise."
+  },
+  {
+    "id": 32,
+    "name": "Tinkering",
+    "attribute": "Dexterity",
+    "description": "For making tests that involve using your hands to work on machines. Setting and disarming traps, lock picking, and repairing machinery."
+  },
+  {
+    "id": 33,
+    "name": "Hearing",
+    "attribute": "Perception",
+    "description": "Using the body's sense of hearing to detect noises and pinpoint their location. Is also used in recognizing what the noise may be."
+  },
+  {
+    "id": 34,
+    "name": "Initiative",
+    "attribute": "Perception",
+    "description": "Using the body's ability to percieve outside stimulus and how quickly you are able to react to what you percieved. Primarily used to determine the combat's initiative order."
+  },
+  {
+    "id": 35,
+    "name": "Searching",
+    "attribute": "Perception",
+    "description": "Your ability to search for and find something that you are looking for. Examples include: Searching a body to find a key, looking through a room to find a secret button, rummaging through a haystack to find a needle, scanning a crowd to find the person you are looking for.\n\nSome objects require a min TN to even locate the item, while others will be found regardless. However a higher roll will result in you finding the object of your attention faster."
+  },
+  {
+    "id": 36,
+    "name": "Seeing",
+    "attribute": "Perception",
+    "description": "Using the body's sense of sight to detect visually detect things. A higher TN is required when trying to see things that are small, moving fast, obscured, in the darkness, etc…"
+  },
+  {
+    "id": 37,
+    "name": "Smelling",
+    "attribute": "Perception",
+    "description": "Using the body's sense of smell to detect scents and pinpoint their origin."
+  },
+  {
+    "id": 38,
+    "name": "Tasting",
+    "attribute": "Perception",
+    "description": "Your skill at tasting food and detecting ingredients, as well as the primary focus for cooking tests."
+  },
+  {
+    "id": 39,
+    "name": "Touching",
+    "attribute": "Perception",
+    "description": "Your skill in feeling minute details with your fingers and noticing movement or vibrations in what you are touching. This is the primary focus for fishing tests."
+  },
+  {
+    "id": 40,
+    "name": "Tracking",
+    "attribute": "Perception",
+    "description": "Your skill in detecting and following the tracks of a creature you are pursuing. Generally by making a counter test vs the creature's Dex (Stealth)."
+  },
+  {
+    "id": 41,
+    "name": "Bargaining",
+    "attribute": "Charisma",
+    "description": "Your skill in convincing the other person to bargain with you. Such as by getting a lower price on an item you wish to buy or a higher price on one you wish to sell. This may also be used when attempting to gain a favor or negotiate the terms to an agreement. This will almost always result in the target making a counter Cha (Bargaining) test, with the character who gains a higher value being the one who wins the negotiation. However if the results are very close, then a compromise will most likely be made. In addition outrageous demands may fail regardless of the roll. (example: give me that very expensive item for 10 credits)"
+  },
+  {
+    "id": 42,
+    "name": "Deception",
+    "attribute": "Charisma",
+    "description": "Your skill in deceiving others, generally through verbally lying to them, but it may be used when wearing a disguise or attempting to impersonate another. This focus applies even when telling half truths or mostly truths. Often made as a counter test vs Hrt (Empathy)"
+  },
+  {
+    "id": 43,
+    "name": "Etiquette",
+    "attribute": "Charisma",
+    "description": "Your ability to speak eloquently and understand the cultural norms and expectations during conversation regarding your words, body language, and actions."
+  },
+  {
+    "id": 44,
+    "name": "Gambling",
+    "attribute": "Charisma",
+    "description": "Your skill at knowing how to read others who are gambling, when to raise, when to fold, and when to go all in."
+  },
+  {
+    "id": 45,
+    "name": "Leadership",
+    "attribute": "Charisma",
+    "description": "Your ability to lead and inspire others, to give a rousing speech, or simply appear regal and worthy of being followed."
+  },
+  {
+    "id": 46,
+    "name": "Performance",
+    "attribute": "Charisma",
+    "description": "Your skill in making artistic performances involving music or theater mostly."
+  },
+  {
+    "id": 47,
+    "name": "Persuasion",
+    "attribute": "Charisma",
+    "description": "Your ability to convince others to agree with you or see your side of an argument. This test does not apply if you are lying or distorting the truth, or if you are attempting to bargian or negotiate."
+  },
+  {
+    "id": 48,
+    "name": "Questioning",
+    "attribute": "Charisma",
+    "description": "Your skill in asking questions to provoke the target to give you an answer. A low roll may result in the target ignoring your question, whereas a high roll may result in the target opening up and sharing in great detail. \n\nGenerally yes or no questions would have a lower TN, but not always."
+  },
+  {
+    "id": 49,
+    "name": "Romance",
+    "attribute": "Charisma",
+    "description": "Your ability to woo and court others. This focus also determines how attractive you appear to others. The TN is dependant on the person and situation."
+  },
+  {
+    "id": 50,
+    "name": "Animal Handling",
+    "attribute": "Heart",
+    "description": "Your general connection to animals (and other creatures), how they perceive you and your ability to befriend, tame, and train them. Some creatures may be nearly impossibe to tame."
+  },
+  {
+    "id": 51,
+    "name": "Courage",
+    "attribute": "Heart",
+    "description": "Your willingness to stand firm in the face of fear and death. Depending on your character you may have fears that will result in you rolling disadvantage on this test. Generally courage tests are made in response to something, and passing them does not affect you much. Failing a courage test may have very detrimental results depending on the situation. Failure can result in anything from a small debuff to a specific test or ability, to fleeing from the source of fear, to even urination or loss of consciousness."
+  },
+  {
+    "id": 52,
+    "name": "Empathy",
+    "attribute": "Heart",
+    "description": "Your ability to ascertain the emotional state of another person. This can also be used as a counter test to determine if a target is lying to you or not vs their Cha (Deception). (Note: the GM should always roll for the NPC regardless of if they are lying or not). If the target is attempting to hide their emotional state they should make a counter Hrt (Self-Discipline) test."
+  },
+  {
+    "id": 53,
+    "name": "Faith",
+    "attribute": "Heart",
+    "description": "A focus that is primarily used to pray by those who serve and follow the constellations. Although in some situations they may be used for those who have faith in an idol or \"lucky\" item. The outcome of faith tests usually results in the one who made the test feeling better about a situation, but in rare instances they may see their prayer reach a higher power."
+  },
+  {
+    "id": 54,
+    "name": "Meditation",
+    "attribute": "Heart",
+    "description": "Meditation is similar to Faith, but is used when one needs to meditate and calm themselves to look within instead of seeking guidance from an outside source."
+  },
+  {
+    "id": 55,
+    "name": "Morality",
+    "attribute": "Heart",
+    "description": "Mostly for NPC's for convincing them to act in a way that is against their nature and moral compass. A character may also need to make a morality test when attacking a target that refuses to fight back.\n\nThe GM might ask a player to roll this if they want to do something very out of character.\n\nA player can choose to roll this for themself to help determine how they would act or respond to a situation.\nTarget numbers are very subjective."
+  },
+  {
+    "id": 56,
+    "name": "Self-Discipline",
+    "attribute": "Heart",
+    "description": "For use with very specific spells or resisting the effects of certain powers/abilities.\n\nA player may also choose to roll this for themselves similar to morality (see above)"
+  },
+  {
+    "id": 57,
+    "name": "Spirit",
+    "attribute": "Heart",
+    "description": "For use resisting some magical effects and spells."
+  },
+  {
+    "id": 58,
+    "name": "Alteration",
+    "attribute": "Intelligence",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Alteration school of magic."
+  },
+  {
+    "id": 59,
+    "name": "Brewing",
+    "attribute": "Intelligence",
+    "description": "For use in brewing alcohol and potions. In most instances the test must be made in conjunction with the correct ingredients to produce the desired result.\nTN 11 - common\nTN 14 - uncommon\nTN 17 - rare\nTN 20 - epic\nTN 23 - legendary"
+  },
+  {
+    "id": 60,
+    "name": "Conjuration",
+    "attribute": "Intelligence",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Alteration school of magic."
+  },
+  {
+    "id": 61,
+    "name": "Elemancy",
+    "attribute": "Intelligence",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Elemancy school of magic."
+  },
+  {
+    "id": 62,
+    "name": "Engineering",
+    "attribute": "Intelligence",
+    "description": "Your understanding of mechanical, architectural, computational, and other types of engineering. How something is made, how it can be fixed or modified, or how it can be taken apart and destroyed."
+  },
+  {
+    "id": 63,
+    "name": "Harmonics",
+    "attribute": "Intelligence",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Harmonics school of magic."
+  },
+  {
+    "id": 64,
+    "name": "Linguistics",
+    "attribute": "Intelligence",
+    "description": "Your skill in understanding various forms of speech and language, both spoken and written. Linguistics is used when attempting to decipher codes or written clues, as well as attempting to match handwriting and signatures."
+  },
+  {
+    "id": 65,
+    "name": "Lore",
+    "attribute": "Intelligence",
+    "description": "Your knowledge of things that have been written and that can be learned. Everything from historical, arcane, cultural, and military knowledge, to all the branches of science and mathematics."
+  },
+  {
+    "id": 66,
+    "name": "Medicine",
+    "attribute": "Intelligence",
+    "description": "Your ability to apply bandages, stitch a wound, splint and set a broken bone, and determine and identify diseases and ailments."
+  },
+  {
+    "id": 67,
+    "name": "Restoration",
+    "attribute": "Intelligence",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Restoration school of magic."
+  },
+  {
+    "id": 68,
+    "name": "Animism",
+    "attribute": "Wisdom",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Animism school of magic."
+  },
+  {
+    "id": 69,
+    "name": "Evaluation",
+    "attribute": "Wisdom",
+    "description": "The general ability to determine the monetary value of an items, goods, and services. Evaluation is also used to distinguish between ores and metals, to determine the quality of skill that a person may have, and evaluate the arcane signatures or spells."
+  },
+  {
+    "id": 70,
+    "name": "Illusion",
+    "attribute": "Wisdom",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Illusion school of magic."
+  },
+  {
+    "id": 71,
+    "name": "Intuition",
+    "attribute": "Wisdom",
+    "description": "This is a vague test that gives you a general sense of rightness or wrongness. It is your gut instinct. This test is similar to Hrt (Empathy) tests, but is used for locations, situations, and anything other than people. Example: \nA player walks into a forest, and they notice it is dark so they decide to make a Wis (Intuition) test. Depending on the forest and the test result, the GM may reply \"this forest gives you an eerie feeling like you are being watched, but you don't sense to be in immediate danger\""
+  },
+  {
+    "id": 72,
+    "name": "Mysticism",
+    "attribute": "Wisdom",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Mysticism school of magic."
+  },
+  {
+    "id": 73,
+    "name": "Navigation",
+    "attribute": "Wisdom",
+    "description": "Your ability to not get lost, maintain your sense of direction, notice landmarks, determine your location, read a map, and use a compass. Oftentimes a low roll will result in you getting lost, and a higher rolls result in how quickly you determine your location or reach your destination."
+  },
+  {
+    "id": 74,
+    "name": "Psychic",
+    "attribute": "Wisdom",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Psychic school of magic."
+  },
+  {
+    "id": 75,
+    "name": "Survival",
+    "attribute": "Wisdom",
+    "description": "Your ability to survive in the wilderness. This governs everything from making a fire and pitching a tent, to determining edible and poisonous plants,  reading the weather, and even identifying safe and defensible locations to setup camp."
+  },
+  {
+    "id": 76,
+    "name": "Visionary",
+    "attribute": "Wisdom",
+    "description": "Your skill, knowledge, and ability to cast spells that fall under the Visionary school of magic."
+  }
+]
