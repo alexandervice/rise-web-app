@@ -2,8 +2,7 @@
   {
     "id": 1,
     "name": "Outfit of the Day",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -18,8 +17,7 @@
   {
     "id": 2,
     "name": "Buff",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "4",
@@ -34,8 +32,7 @@
   {
     "id": 3,
     "name": "Nerf",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "4",
@@ -50,8 +47,7 @@
   {
     "id": 4,
     "name": "Transmute: Texture",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Novice",
     "specialization": "Alchemist",
     "mpCost": "2",
@@ -66,8 +62,7 @@
   {
     "id": 5,
     "name": "Alchemical Formulae",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Novice",
     "specialization": "Alchemist",
     "mpCost": "1",
@@ -82,8 +77,7 @@
   {
     "id": 6,
     "name": "Partial Transformation",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Novice",
     "specialization": "Shapeshifter",
     "mpCost": "3",
@@ -98,8 +92,7 @@
   {
     "id": 7,
     "name": "Enhance Weapon",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Novice",
     "specialization": "Spellsword",
     "mpCost": "3",
@@ -114,8 +107,7 @@
   {
     "id": 8,
     "name": "Animate Object",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "Varies",
@@ -130,8 +122,7 @@
   {
     "id": 9,
     "name": "Repair Machine",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "7",
@@ -146,8 +137,7 @@
   {
     "id": 10,
     "name": "Transmute: Substance",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "Alchemist",
     "mpCost": "6",
@@ -162,8 +152,7 @@
   {
     "id": 11,
     "name": "Transmute: Size",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "Alchemist",
     "mpCost": "6",
@@ -178,8 +167,7 @@
   {
     "id": 12,
     "name": "Complete Transformation",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "Shapeshifter",
     "mpCost": "8",
@@ -194,8 +182,7 @@
   {
     "id": 13,
     "name": "Flesh Shape",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "Shapeshifter",
     "mpCost": "6",
@@ -210,8 +197,7 @@
   {
     "id": 14,
     "name": "Skeleton Key",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "Thief",
     "mpCost": "7",
@@ -226,8 +212,7 @@
   {
     "id": 15,
     "name": "Hemotheurgy",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Adept",
     "specialization": "Blood Mage",
     "mpCost": "8",
@@ -242,8 +227,7 @@
   {
     "id": 16,
     "name": "Spell Absorption",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "16",
@@ -258,8 +242,7 @@
   {
     "id": 17,
     "name": "Negation",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "13",
@@ -274,8 +257,7 @@
   {
     "id": 18,
     "name": "Transmutation: Permanence",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Master",
     "specialization": "Alchemist",
     "mpCost": "10",
@@ -290,8 +272,7 @@
   {
     "id": 19,
     "name": "Equilibrium",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Master",
     "specialization": "Alchemist",
     "mpCost": "0",
@@ -306,8 +287,7 @@
   {
     "id": 20,
     "name": "Ascended Transformation",
-    "attribute": "Int",
-    "focus": "Alteration",
+    "focusId": 58,
     "spellLevel": "Master",
     "specialization": "Shapeshifter",
     "mpCost": "12",
@@ -322,8 +302,7 @@
   {
     "id": 21,
     "name": "Beast Speech",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -338,8 +317,7 @@
   {
     "id": 22,
     "name": "Beast Tongue",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "2",
@@ -354,8 +332,7 @@
   {
     "id": 23,
     "name": "Animalistic Allowance",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -370,8 +347,7 @@
   {
     "id": 24,
     "name": "Beast Summoning",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "Beastmaster",
     "mpCost": "2",
@@ -386,8 +362,7 @@
   {
     "id": 25,
     "name": "Manipulate Vines",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "Druid",
     "mpCost": "5",
@@ -402,8 +377,7 @@
   {
     "id": 26,
     "name": "Enrich Vegetation",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "Druid",
     "mpCost": "3",
@@ -418,8 +392,7 @@
   {
     "id": 27,
     "name": "Lingzhi",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "Shaman",
     "mpCost": "3",
@@ -434,8 +407,7 @@
   {
     "id": 28,
     "name": "Mycelium ",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Novice",
     "specialization": "Shaman",
     "mpCost": "3",
@@ -450,8 +422,7 @@
   {
     "id": 29,
     "name": "Beast Sight",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "5",
@@ -466,8 +437,7 @@
   {
     "id": 30,
     "name": "Creature Cure",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -482,8 +452,7 @@
   {
     "id": 31,
     "name": "Pack Creature",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "Beastmaster",
     "mpCost": "6",
@@ -498,8 +467,7 @@
   {
     "id": 32,
     "name": "Green Communion",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "Druid",
     "mpCost": "5",
@@ -514,8 +482,7 @@
   {
     "id": 33,
     "name": "Bark Skin",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "Druid",
     "mpCost": "8",
@@ -530,8 +497,7 @@
   {
     "id": 34,
     "name": "Penicillin",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "Shaman",
     "mpCost": "5",
@@ -546,8 +512,7 @@
   {
     "id": 35,
     "name": "Cordyceps Volukinesis",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Adept",
     "specialization": "Shaman",
     "mpCost": "Varies",
@@ -562,8 +527,7 @@
   {
     "id": 36,
     "name": "Animalistic Exchange",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -578,8 +542,7 @@
   {
     "id": 37,
     "name": "Monster Reborn",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "20",
@@ -594,8 +557,7 @@
   {
     "id": 38,
     "name": "Dominate Creature",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "Beastmaster",
     "mpCost": "Varies",
@@ -610,8 +572,7 @@
   {
     "id": 39,
     "name": "Photosynthesize",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "Druid",
     "mpCost": "10",
@@ -626,8 +587,7 @@
   {
     "id": 40,
     "name": "Floral Portal",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "Druid",
     "mpCost": "12",
@@ -642,8 +602,7 @@
   {
     "id": 41,
     "name": "Death Cap",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "Shaman",
     "mpCost": "10",
@@ -658,8 +617,7 @@
   {
     "id": 42,
     "name": "Psilocybin Anthropokinesis",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "Shaman",
     "mpCost": "15",
@@ -674,8 +632,7 @@
   {
     "id": 43,
     "name": "Blood Bending",
-    "attribute": "Wis",
-    "focus": "Animism",
+    "focusId": 68,
     "spellLevel": "Master",
     "specialization": "Blood Mage",
     "mpCost": "17",
@@ -690,8 +647,7 @@
   {
     "id": 44,
     "name": "Summon Mundane Object",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -706,8 +662,7 @@
   {
     "id": 45,
     "name": "Conjure Tool",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "Varies",
@@ -722,8 +677,7 @@
   {
     "id": 46,
     "name": "Summon Familiar",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -738,8 +692,7 @@
   {
     "id": 47,
     "name": "Séance",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "Anscestral Summoner",
     "mpCost": "3",
@@ -754,8 +707,7 @@
   {
     "id": 48,
     "name": "Summon Zombie",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "Necromancer",
     "mpCost": "5",
@@ -770,8 +722,7 @@
   {
     "id": 49,
     "name": "Summon Humanoid Skeleton",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "Necromancer",
     "mpCost": "5",
@@ -786,8 +737,7 @@
   {
     "id": 50,
     "name": "Summon Ghost",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "Necromancer",
     "mpCost": "5",
@@ -802,8 +752,7 @@
   {
     "id": 51,
     "name": "Summon Bloodhound",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Novice",
     "specialization": "Blood Mage",
     "mpCost": "5",
@@ -818,8 +767,7 @@
   {
     "id": 52,
     "name": "Summon Servant",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -834,8 +782,7 @@
   {
     "id": 53,
     "name": "Dominate Spirit",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "Varies",
@@ -850,8 +797,7 @@
   {
     "id": 54,
     "name": "Anscestral Possession",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Adept",
     "specialization": "Anscestral Summoner",
     "mpCost": "8",
@@ -866,8 +812,7 @@
   {
     "id": 55,
     "name": "Summon Ghoul",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Adept",
     "specialization": "Necromancer",
     "mpCost": "10",
@@ -882,8 +827,7 @@
   {
     "id": 56,
     "name": "Summon Ogre Skeleton",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Adept",
     "specialization": "Necromancer",
     "mpCost": "10",
@@ -898,8 +842,7 @@
   {
     "id": 57,
     "name": "Summon Specter",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Adept",
     "specialization": "Necromancer",
     "mpCost": "10",
@@ -914,8 +857,7 @@
   {
     "id": 58,
     "name": "Ring of Raining Blades",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "12",
@@ -930,8 +872,7 @@
   {
     "id": 59,
     "name": "Summon Greater Being ",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -946,8 +887,7 @@
   {
     "id": 60,
     "name": "Summon Anscestral Spirit",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Master",
     "specialization": "Anscestral Summoner",
     "mpCost": "15",
@@ -962,8 +902,7 @@
   {
     "id": 61,
     "name": "Summon Lich",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Master",
     "specialization": "Necromancer",
     "mpCost": "15",
@@ -978,8 +917,7 @@
   {
     "id": 62,
     "name": "Summon Wyvern Skeleton",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Master",
     "specialization": "Necromancer",
     "mpCost": "15",
@@ -994,8 +932,7 @@
   {
     "id": 63,
     "name": "Summon Wraith",
-    "attribute": "Int",
-    "focus": "Conjuration",
+    "focusId": 60,
     "spellLevel": "Master",
     "specialization": "Necromancer",
     "mpCost": "15",
@@ -1010,8 +947,7 @@
   {
     "id": 64,
     "name": "Predict Weather",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -1026,8 +962,7 @@
   {
     "id": 65,
     "name": "Elemental Weapon",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "Spellsword",
     "mpCost": "4",
@@ -1042,8 +977,7 @@
   {
     "id": 66,
     "name": "Manipulate Element",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "Varies",
@@ -1058,8 +992,7 @@
   {
     "id": 67,
     "name": "Water: Blood Manipulation",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Blood Mage",
     "mpCost": "Varies",
@@ -1074,8 +1007,7 @@
   {
     "id": 68,
     "name": "Fire: Embers",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -1090,8 +1022,7 @@
   {
     "id": 69,
     "name": "Fire: Blinding Torch",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "4",
@@ -1106,8 +1037,7 @@
   {
     "id": 70,
     "name": "Fire: Overheat",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "9",
@@ -1122,8 +1052,7 @@
   {
     "id": 71,
     "name": "Fire: Fireball",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "7",
@@ -1138,8 +1067,7 @@
   {
     "id": 72,
     "name": "Fire: Pheonix Flame",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "20",
@@ -1154,8 +1082,7 @@
   {
     "id": 73,
     "name": "Fire: Blue Flare",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "12",
@@ -1170,8 +1097,7 @@
   {
     "id": 74,
     "name": "Lightning: Parabolic Charge",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "10",
@@ -1186,8 +1112,7 @@
   {
     "id": 75,
     "name": "Lightning: Charged Serpent",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "8",
@@ -1202,8 +1127,7 @@
   {
     "id": 76,
     "name": "Lightning: Indignant Judgement",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "16",
@@ -1218,8 +1142,7 @@
   {
     "id": 77,
     "name": "Lightning: Ion Deluge",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "12",
@@ -1234,8 +1157,7 @@
   {
     "id": 78,
     "name": "Water: Water Whip",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "2",
@@ -1250,8 +1172,7 @@
   {
     "id": 79,
     "name": "Water: Aqua Ring",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -1266,8 +1187,7 @@
   {
     "id": 80,
     "name": "Water: Whirlpool",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "8",
@@ -1282,8 +1202,7 @@
   {
     "id": 81,
     "name": "Water: Waterbreathing",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "7",
@@ -1298,8 +1217,7 @@
   {
     "id": 82,
     "name": "Water: Life Dew",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "15",
@@ -1314,8 +1232,7 @@
   {
     "id": 83,
     "name": "Water: Origin Pulse",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "18",
@@ -1330,8 +1247,7 @@
   {
     "id": 84,
     "name": "Ice: Icy Wind",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "8",
@@ -1346,8 +1262,7 @@
   {
     "id": 85,
     "name": "Ice: Aurora Veil",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "9",
@@ -1362,8 +1277,7 @@
   {
     "id": 86,
     "name": "Ice: Glacial Lance",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "15",
@@ -1378,8 +1292,7 @@
   {
     "id": 87,
     "name": "Ice: Ice Age",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "12",
@@ -1394,8 +1307,7 @@
   {
     "id": 88,
     "name": "Earth: Stone Skin",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "4",
@@ -1410,8 +1322,7 @@
   {
     "id": 89,
     "name": "Earth: Sand Tomb",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -1426,8 +1337,7 @@
   {
     "id": 90,
     "name": "Earth: Precipice Blades",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "8",
@@ -1442,8 +1352,7 @@
   {
     "id": 91,
     "name": "Earth: Meteor Shower",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -1458,8 +1367,7 @@
   {
     "id": 92,
     "name": "Earth: Seismic Sight",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -1474,8 +1382,7 @@
   {
     "id": 93,
     "name": "Earth: Tectonic Rage",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "13",
@@ -1490,8 +1397,7 @@
   {
     "id": 94,
     "name": "Metal: Mirror Shield",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "7",
@@ -1506,8 +1412,7 @@
   {
     "id": 95,
     "name": "Metal: Spinning Blades",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "8",
@@ -1522,8 +1427,7 @@
   {
     "id": 96,
     "name": "Metal: Adamantium Skin",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "12",
@@ -1538,8 +1442,7 @@
   {
     "id": 97,
     "name": "Metal: Magnet Rise",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "14",
@@ -1554,8 +1457,7 @@
   {
     "id": 98,
     "name": "Air: Tailwind",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -1570,8 +1472,7 @@
   {
     "id": 99,
     "name": "Air: Wind Bullet",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -1586,8 +1487,7 @@
   {
     "id": 100,
     "name": "Air: Shifting Currents",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -1602,8 +1502,7 @@
   {
     "id": 101,
     "name": "Air: Aerial Ascent",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "8",
@@ -1618,8 +1517,7 @@
   {
     "id": 102,
     "name": "Air: Windwalk",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -1634,8 +1532,7 @@
   {
     "id": 103,
     "name": "Air: Howling Tempest",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "15",
@@ -1650,8 +1547,7 @@
   {
     "id": 104,
     "name": "Absence: Gravitas",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "9",
@@ -1666,8 +1562,7 @@
   {
     "id": 105,
     "name": "Absence: Concussion Blast",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Adept",
     "specialization": "Elemancer",
     "mpCost": "8",
@@ -1682,8 +1577,7 @@
   {
     "id": 106,
     "name": "Absence: Black Hole",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "12",
@@ -1698,8 +1592,7 @@
   {
     "id": 107,
     "name": "Absence: Vacuum Chamber",
-    "attribute": "Int",
-    "focus": "Elemancy",
+    "focusId": 61,
     "spellLevel": "Master",
     "specialization": "Elemancer",
     "mpCost": "16",
@@ -1714,8 +1607,7 @@
   {
     "id": 108,
     "name": "Project Voice",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -1730,8 +1622,7 @@
   {
     "id": 109,
     "name": "Ward",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -1746,8 +1637,7 @@
   {
     "id": 110,
     "name": "Move Object",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "Varies",
@@ -1762,8 +1652,7 @@
   {
     "id": 111,
     "name": "Deafen",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Novice",
     "specialization": "Orator",
     "mpCost": "4",
@@ -1778,8 +1667,7 @@
   {
     "id": 112,
     "name": "Beat Frequency",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Novice",
     "specialization": "Orator",
     "mpCost": "6",
@@ -1794,8 +1682,7 @@
   {
     "id": 113,
     "name": "Force Field",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -1810,8 +1697,7 @@
   {
     "id": 114,
     "name": "Launch Projectile",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "Varies",
@@ -1826,8 +1712,7 @@
   {
     "id": 115,
     "name": "Bass Boost",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Adept",
     "specialization": "Orator",
     "mpCost": "7",
@@ -1842,8 +1727,7 @@
   {
     "id": 116,
     "name": "Echolocation",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Adept",
     "specialization": "Orator",
     "mpCost": "9",
@@ -1858,8 +1742,7 @@
   {
     "id": 117,
     "name": "Blood Boil",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Adept",
     "specialization": "Blood Mage",
     "mpCost": "9",
@@ -1874,8 +1757,7 @@
   {
     "id": 118,
     "name": "Translate",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "8",
@@ -1890,8 +1772,7 @@
   {
     "id": 119,
     "name": "Levitation",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -1906,8 +1787,7 @@
   {
     "id": 120,
     "name": "Sonic Terror",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Master",
     "specialization": "Orator",
     "mpCost": "10",
@@ -1922,8 +1802,7 @@
   {
     "id": 121,
     "name": "Silence",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Master",
     "specialization": "Orator",
     "mpCost": "12",
@@ -1938,8 +1817,7 @@
   {
     "id": 122,
     "name": "Devestating Slash",
-    "attribute": "Int",
-    "focus": "Harmonic",
+    "focusId": 63,
     "spellLevel": "Master",
     "specialization": "Spellsword",
     "mpCost": "18",
@@ -1954,8 +1832,7 @@
   {
     "id": 123,
     "name": "Create Light",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -1970,8 +1847,7 @@
   {
     "id": 124,
     "name": "Optical Mirrage",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -1986,8 +1862,7 @@
   {
     "id": 125,
     "name": "Disguise Self",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -2002,8 +1877,7 @@
   {
     "id": 126,
     "name": "Devil's Advocate",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Novice",
     "specialization": "Trickster",
     "mpCost": "4",
@@ -2018,8 +1892,7 @@
   {
     "id": 127,
     "name": "Color Spray",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -2034,8 +1907,7 @@
   {
     "id": 128,
     "name": "Shadow Clone",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "8",
@@ -2050,8 +1922,7 @@
   {
     "id": 129,
     "name": "Shadow Slip",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Adept",
     "specialization": "Shade",
     "mpCost": "6",
@@ -2066,8 +1937,7 @@
   {
     "id": 130,
     "name": "False Slash",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Adept",
     "specialization": "Spellsword",
     "mpCost": "6",
@@ -2082,8 +1952,7 @@
   {
     "id": 131,
     "name": "Bubble Loop",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Adept",
     "specialization": "Trickster",
     "mpCost": "8",
@@ -2098,8 +1967,7 @@
   {
     "id": 132,
     "name": "Invisibility",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -2114,8 +1982,7 @@
   {
     "id": 133,
     "name": "Perfect Illusion",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "15",
@@ -2130,8 +1997,7 @@
   {
     "id": 134,
     "name": "Eye Shadow",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Master",
     "specialization": "Trickster",
     "mpCost": "12",
@@ -2146,8 +2012,7 @@
   {
     "id": 135,
     "name": "Hemo Hallucination",
-    "attribute": "Wis",
-    "focus": "Illusion",
+    "focusId": 70,
     "spellLevel": "Master",
     "specialization": "Blood Mage",
     "mpCost": "17",
@@ -2162,8 +2027,7 @@
   {
     "id": 136,
     "name": "Home Beacon",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -2178,8 +2042,7 @@
   {
     "id": 137,
     "name": "Bag of Holding",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -2194,8 +2057,7 @@
   {
     "id": 138,
     "name": "Swap Initiative ",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -2210,8 +2072,7 @@
   {
     "id": 139,
     "name": "Mystery Swap",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Novice",
     "specialization": "Gambler of Fate",
     "mpCost": "3",
@@ -2226,8 +2087,7 @@
   {
     "id": 140,
     "name": "Roll Reversal",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Novice",
     "specialization": "Gambler of Fate",
     "mpCost": "2",
@@ -2242,8 +2102,7 @@
   {
     "id": 141,
     "name": "Warp Self",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Novice",
     "specialization": "Planes Walker",
     "mpCost": "4",
@@ -2258,8 +2117,7 @@
   {
     "id": 142,
     "name": "Planar Window",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Novice",
     "specialization": "Planes Walker",
     "mpCost": "3",
@@ -2274,8 +2132,7 @@
   {
     "id": 143,
     "name": "Time Shelter",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "8",
@@ -2290,8 +2147,7 @@
   {
     "id": 144,
     "name": "Space Deflection",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -2306,8 +2162,7 @@
   {
     "id": 145,
     "name": "Cash Out",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Adept",
     "specialization": "Gambler of Fate",
     "mpCost": "7",
@@ -2322,8 +2177,7 @@
   {
     "id": 146,
     "name": "Tip the Scales",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Adept",
     "specialization": "Gambler of Fate",
     "mpCost": "10",
@@ -2338,8 +2192,7 @@
   {
     "id": 147,
     "name": "Gate",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Adept",
     "specialization": "Planes Walker",
     "mpCost": "8",
@@ -2354,8 +2207,7 @@
   {
     "id": 148,
     "name": "Warp Other",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Adept",
     "specialization": "Planes Walker",
     "mpCost": "6",
@@ -2370,8 +2222,7 @@
   {
     "id": 149,
     "name": "Time Stop",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "13",
@@ -2386,8 +2237,7 @@
   {
     "id": 150,
     "name": "Magnificent Mansion",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "15",
@@ -2402,8 +2252,7 @@
   {
     "id": 151,
     "name": "Entropy Curse",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "Gambler of Fate",
     "mpCost": "15",
@@ -2418,8 +2267,7 @@
   {
     "id": 152,
     "name": "All or Nothing",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "Gambler of Fate",
     "mpCost": "8",
@@ -2434,8 +2282,7 @@
   {
     "id": 153,
     "name": "Interdimensional Gate",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "Planes Walker",
     "mpCost": "15",
@@ -2450,8 +2297,7 @@
   {
     "id": 154,
     "name": "Warp Room",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "Planes Walker",
     "mpCost": "10",
@@ -2466,8 +2312,7 @@
   {
     "id": 155,
     "name": "Spatial Rend",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "Spellsword",
     "mpCost": "12",
@@ -2482,8 +2327,7 @@
   {
     "id": 156,
     "name": "Blood Stasis",
-    "attribute": "Wis",
-    "focus": "Mysticism",
+    "focusId": 72,
     "spellLevel": "Master",
     "specialization": "Blood Mage",
     "mpCost": "13",
@@ -2498,8 +2342,7 @@
   {
     "id": 157,
     "name": "Psychic Connection",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -2514,8 +2357,7 @@
   {
     "id": 158,
     "name": "Psychic Contact",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "2",
@@ -2530,8 +2372,7 @@
   {
     "id": 159,
     "name": "Psychic Shield",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -2546,8 +2387,7 @@
   {
     "id": 160,
     "name": "Detect Minds",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -2562,8 +2402,7 @@
   {
     "id": 161,
     "name": "Inception",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Novice",
     "specialization": "Mentalist",
     "mpCost": "3",
@@ -2578,8 +2417,7 @@
   {
     "id": 162,
     "name": "Scarlet Synapse",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Novice",
     "specialization": "Blood Mage",
     "mpCost": "4",
@@ -2594,8 +2432,7 @@
   {
     "id": 163,
     "name": "Synaptic Connection",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "8",
@@ -2610,8 +2447,7 @@
   {
     "id": 164,
     "name": "Telepathy",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -2626,8 +2462,7 @@
   {
     "id": 165,
     "name": "Subliminal Suggestion",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Adept",
     "specialization": "Mentalist",
     "mpCost": "7",
@@ -2642,8 +2477,7 @@
   {
     "id": 166,
     "name": "Psychic Trap",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -2658,8 +2492,7 @@
   {
     "id": 167,
     "name": "Brain Blast",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "18",
@@ -2674,8 +2507,7 @@
   {
     "id": 168,
     "name": "Manipulate Memory",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Master",
     "specialization": "Mentalist",
     "mpCost": "15",
@@ -2690,8 +2522,7 @@
   {
     "id": 169,
     "name": "Sever Mind",
-    "attribute": "Wis",
-    "focus": "Psychic",
+    "focusId": 74,
     "spellLevel": "Master",
     "specialization": "Spellsword",
     "mpCost": "14",
@@ -2706,8 +2537,7 @@
   {
     "id": 170,
     "name": "Youthful Exuberance",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -2722,8 +2552,7 @@
   {
     "id": 171,
     "name": "Cure Wounds",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "5",
@@ -2738,8 +2567,7 @@
   {
     "id": 172,
     "name": "Harm Undead",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -2754,8 +2582,7 @@
   {
     "id": 173,
     "name": "Metabolize",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Novice",
     "specialization": "Cleric",
     "mpCost": "4",
@@ -2770,8 +2597,7 @@
   {
     "id": 174,
     "name": "Healing Aura",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Novice",
     "specialization": "Cleric",
     "mpCost": "6",
@@ -2786,8 +2612,7 @@
   {
     "id": 175,
     "name": "Energy Transfer",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "Varies",
@@ -2802,8 +2627,7 @@
   {
     "id": 176,
     "name": "Healing Pulse",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "9",
@@ -2818,8 +2642,7 @@
   {
     "id": 177,
     "name": "Purge Affliction",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Adept",
     "specialization": "Cleric",
     "mpCost": "8",
@@ -2834,8 +2657,7 @@
   {
     "id": 178,
     "name": "Pain Killer",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Adept",
     "specialization": "Cleric",
     "mpCost": "8",
@@ -2850,8 +2672,7 @@
   {
     "id": 179,
     "name": "Gentle Slash",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Adept",
     "specialization": "Spellsword",
     "mpCost": "10",
@@ -2866,8 +2687,7 @@
   {
     "id": 180,
     "name": "Blood Rite",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Adept",
     "specialization": "Blood Mage",
     "mpCost": "8",
@@ -2882,8 +2702,7 @@
   {
     "id": 181,
     "name": "Purifying Light",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "15",
@@ -2898,8 +2717,7 @@
   {
     "id": 182,
     "name": "Bane of Unliving",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "14",
@@ -2914,8 +2732,7 @@
   {
     "id": 183,
     "name": "Regenerate",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Master",
     "specialization": "Cleric",
     "mpCost": "16",
@@ -2930,8 +2747,7 @@
   {
     "id": 184,
     "name": "Ressurecting Light",
-    "attribute": "Int",
-    "focus": "Restoration",
+    "focusId": 67,
     "spellLevel": "Master",
     "specialization": "Cleric",
     "mpCost": "20",
@@ -2946,8 +2762,7 @@
   {
     "id": 185,
     "name": "Mysterious Dreams",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Basic",
     "specialization": "",
     "mpCost": "1",
@@ -2962,8 +2777,7 @@
   {
     "id": 186,
     "name": "Amplify Senses",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "3",
@@ -2978,8 +2792,7 @@
   {
     "id": 187,
     "name": "Life Sight",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Novice",
     "specialization": "",
     "mpCost": "4",
@@ -2994,8 +2807,7 @@
   {
     "id": 188,
     "name": "Scrying Orb",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Novice",
     "specialization": "Seer",
     "mpCost": "3",
@@ -3010,8 +2822,7 @@
   {
     "id": 189,
     "name": "Status Scan",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Novice",
     "specialization": "Seer",
     "mpCost": "5",
@@ -3026,8 +2837,7 @@
   {
     "id": 190,
     "name": "Detect Life",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Novice",
     "specialization": "Blood Mage",
     "mpCost": "6",
@@ -3042,8 +2852,7 @@
   {
     "id": 191,
     "name": "EM Vision",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "6",
@@ -3058,8 +2867,7 @@
   {
     "id": 192,
     "name": "Clairvoyance",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Adept",
     "specialization": "",
     "mpCost": "5",
@@ -3074,8 +2882,7 @@
   {
     "id": 193,
     "name": "Wizard's Sight",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Adept",
     "specialization": "Seer",
     "mpCost": "10",
@@ -3090,8 +2897,7 @@
   {
     "id": 194,
     "name": "Far Scry",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Adept",
     "specialization": "Seer",
     "mpCost": "7",
@@ -3106,8 +2912,7 @@
   {
     "id": 195,
     "name": "Know Thine Enemy",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Adept",
     "specialization": "Spellsword",
     "mpCost": "7",
@@ -3122,8 +2927,7 @@
   {
     "id": 196,
     "name": "Targeted Awareness",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "8",
@@ -3138,8 +2942,7 @@
   {
     "id": 197,
     "name": "Incorporeal Form",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Master",
     "specialization": "",
     "mpCost": "10",
@@ -3154,8 +2957,7 @@
   {
     "id": 198,
     "name": "Hindsight",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Master",
     "specialization": "Seer",
     "mpCost": "15",
@@ -3170,8 +2972,7 @@
   {
     "id": 199,
     "name": "Foresight",
-    "attribute": "Wis",
-    "focus": "Visionary",
+    "focusId": 76,
     "spellLevel": "Master",
     "specialization": "Seer",
     "mpCost": "15",
