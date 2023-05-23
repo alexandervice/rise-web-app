@@ -1,0 +1,241 @@
+[
+    {
+        "id": "1",
+        "talent": "Animal Taming",
+        "description": "Tame animals, have pets, and teach them to perform a variety of commands. Be careful trying to tame wild and dangerous beasts though…",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "You may attempt to tame any one creature considered to be a Minor threat (or less), taming takes at least a week. This requires a Hrt (Animal Handling) test. You may teach this creature to perform commands. The time it takes them to learn new commands depends on the complexity. (GM discretion)",
+            "You may now travel with a number of tamed creatures equal to 1/2 your Heart attribute rounded down.",
+            "Gain advantage whenever you roll Hrt (Animal Handling) tests."
+        ]
+    },
+    {
+        "id": "2",
+        "talent": "Appraisal",
+        "description": "Understanding of the worth of goods of various rarities, types, and brands.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Select one of the following categories to gain a +1 bonus of evaluating goods of that category. Ores/Metals, Luxury Goods, Arms/Armor, Machinery (this rank can be taken more than once)",
+            "A Cut Above (2dp) - When evaluating goods you notice that a particular piece has caught your eye. This item is a higher rank than its counterparts. These are often worth more, have special abilities, or represent specific groups or faiths.",
+            "Gain advantage whenever you roll Wis (Evaluation) tests."
+        ]
+    },
+    {
+        "id": "3",
+        "talent": "Arcane Training",
+        "description": "Channel your arcane power into pure energy to launch at your opponents. This is a good way for a mage to deal small amounts of damage without expending significant MP.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Allows you to fire an arcane bolt in exchange for 1 MP that deals 1d6 arcane damage. (Short Range = 5 x Int) (Long Range = 10 x Int). Requires an Accuracy (Arcane) test to hit.",
+            "Fierce Bolt (3dp) - Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone.",
+            "Arcane bolt now deals additional damage equal to your Wisdom attribute, and can be freely manipulated as a minor action. Manipulating the bolt costs 1 additional MP but results in the bolt gaining a +2 to hit the target."
+        ]
+    },
+    {
+        "id": "4",
+        "talent": "Archeology",
+        "description": "Knowledge and understanding of what ancient ruins and artifacts were used for.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Gain +2 towards any test related to History, ruins, or the ancient past",
+            "You are able to tell the general origin or purpose of any ruin or artifact you find.",
+            "Your knowledge of forbidden history has helped you unlock the secrets of ancient technology. If you roll a TN 17 Wis (Evaluation) test you are able to determine the exact use and purpose of the ancient technology that you are studying."
+        ]
+    },
+    {
+        "id": "5",
+        "talent": "Brawling",
+        "description": "Rough and tumble fist fights and knockout boxing maneuvers.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Gain +2 towards your targeting attacks when fighting with punches/kicks",
+            "You can now perform the knock prone stunt for 1 less doubles point while using a brawling weapon or unarmed. If you did not have access to the knock prone stunt you do now while brawling.",
+            "Your punches/kicks deal 1d6 + Str damage instead of 1d3 + Str damage."
+        ]
+    },
+    {
+        "id": "6",
+        "talent": "Brewing",
+        "description": "The ability to brew and create various forms of alcoholic beverages and potions.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "After tasting any non potion beverage you may roll a TN 15 Int (Brewing) test, if you are successful you learn the ingredients and brewing method to replicate the drink exactly.",
+            "You are able to brew any common potion or alcoholic beverage without the necessary tools or brewing kit. As long as you have access to the ingredients, a heat source, and a bottle.",
+            "Gain advantage whenever you roll Int (Brewing) tests."
+        ]
+    },
+    {
+        "id": "7",
+        "talent": "Bullying",
+        "description": "Knowledge of strategies to intimidate or coerce others who are more vulnerable than you.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "When you succeed an intimidation test against a character that you have at least 3 more Str than, they will give you their entire wallet's amount in credits.",
+            "If you succeed an intimidation test against a character that you have 3 more intelligence than, that character can then be convinced to become your lackey. To make them a permanent lackey, you must roll a Cha (Leadership) test.",
+            "Gain advantage whenever you roll Str (Intimidation) tests."
+        ]
+    },
+    {
+        "id": "8",
+        "talent": "Business",
+        "description": "Skills to succeed in commerce, bargaining, and trade.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Pick a category of goods. When you are buying or selling goods of this type you will get a 25% discount or make 25% more credits.",
+            "Your business skills are top notch if you succeed a successful TN 18 Cha (Bargaining) test you may convince the character you are bargaining with to become an investor in your business.",
+            "Gain advantage whenever you roll Cha (Bargaining) tests."
+        ]
+    },
+    {
+        "id": "9",
+        "talent": "Camping",
+        "description": "Make the best out of sleeping out in the wilderness. Building fires, keeping watch, and staying rested even in the wilds.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "When making a long rest away from civilization you are still able to become well rested even if you have to take watch. Must still get at least 8 total hours of sleep, but it can be interrupted for your watch duty.",
+            "When building a fire, roll a TN 16 Wis (Survival) test. When you or your allies sleep next to this fire you may receive the benefits of being Well Rested after only 6 hours of sleep.",
+            "Gain advantage whenever you roll Wis (Survival) tests."
+        ]
+    },
+    {
+        "id": "10",
+        "talent": "Carousing",
+        "description": "Drink plentiful amounts of alcohol, develop tolerances, and make connections with others.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Drinking Buddies (2dp) - The character you are drinking with now views you as someone they trust. They are more likely to go out of their way to help you.",
+            "You no longer will feel hung over after a long night of drinking. You also recover from drunkeness twice as fast.",
+            "Gain advantage whenever you roll End (Poison Res) tests."
+        ]
+    },
+    {
+        "id": "11",
+        "talent": "Climbing",
+        "description": "Effectively, and speedily scale and climb up slopes, walls, trees, ropes, etc.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Create Handhold (2dp) - While climbing you are able to find handholds in the surface you are climbing. Anyone with knowledge of the handholds you have found gains +2 to further climbing tests.",
+            "You may now climb at your normal movement speed.",
+            "Gain advantage whenever you roll Str (Climbing) tests."
+        ]
+    },
+    {
+        "id": "12",
+        "talent": "Contacts",
+        "description": "You have made friends all over. Learn how to develop and make best use of your relationships with others.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Know a Guy (3dp) - You just remembered you have a friend of a friend who's mother's brother's niece lives in this city. This contact will be willing to give you information for free.",
+            "Select a faction. Gain +2 for Charmisma tests with that faction, but you will suffer a -1 for Charisma tests towards enemies of that faction.",
+            "Select another faction. Gain +2 for Charmisma tests with that faction, but you will suffer a -1 for Charisma tests towards enemies of that faction."
+        ]
+    },
+    {
+        "id": "13",
+        "talent": "Cooking",
+        "description": "Improve in your skill of preparing food by combining, mixing, and heating ingredients.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Bon Appétit (2dp) - You have made a delicious meal. Any who eat this meal while it is still fresh gain +1 Heart for the next 6 hours.",
+            "You have developed your signature dish. Over time this dish will gain increased popularity as you feed it to higher profile tasters.",
+            "Gain advantage whenever you roll Per (Tasting) tests."
+        ]
+    },
+    {
+        "id": "14",
+        "talent": "Costume Design",
+        "description": "Adjust and alter clothing to fit a performer, or even disguise yourself when you need to hide among others.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Complete Transformation (2dp) - With limited resources and endless imagination you have transformed (yourself or a target) to gain +2 on deception tests while wearing the disguise",
+            "Whomever is wearing a disguise you made is able to gain advantage on a single Cha (Deception) test while wearing this disguise. (once per disguise)",
+            "Your disguises not only make people look different, but they feel different too. Gain +1 to a single attribute that most matches the disguise you have designed. This bonus lasts until the disguise is removed or the wearer sleeps."
+        ]
+    },
+    {
+        "id": "15",
+        "talent": "Counsel",
+        "description": "Care for and listen to others, offer advice and give help to them regarding their problems.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Good Listener (2 dp) - The character you are interacting with can tell that you truly care for them. They open up more and tell you what has been burdening them.",
+            "When you give advice to a character after succeeding a Cha (Empathy) test they will follow your advice. (within reason)",
+            "Gain advantage whenever you roll Hrt (Empathy) tests."
+        ]
+    },
+    {
+        "id": "16",
+        "talent": "Crafting",
+        "description": "Skills related to designing or making useful, functional, and beautiful items by hand.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Craft Samurai (4dp) - Add a unique aspect to your created design that will grant a temporary +1 boost to a relevant focus (for 1 hour) for anyone who is using or appreciating your art. They may only gain the benefit of this effect once per day.",
+            "Succeeding a TN 18 Dex (Crafting) test while others are watching will result in at least one person to want to purchase whatever you made.",
+            "Gain advantage whenever you roll Dex (Crafting) tests."
+        ]
+    },
+    {
+        "id": "17",
+        "talent": "Dancing",
+        "description": "Learn to move rhythmically to music, practice being light on your feet, and learn how to avoid falling.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "You may now still move at your normal movement speed when moving over rough terrain.",
+            "Snow, rocks, unstable surfaces, etc. You can no longer be knocked prone.",
+            "Gain advantage whenever you roll Dex (Balance) tests."
+        ]
+    },
+    {
+        "id": "18",
+        "talent": "Debate",
+        "description": "Gain skills to formally discuss and argue to both individuals and crowds.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Sway the Crowd (1+dp) - Your persuasiveness has not only convinced your target to agree with you, but others who were listening as well. Convince a number of people equal to the amount of doubles points spent.",
+            "Succeeding a TN 18 Cha (Persuasion) test will result in your target being so convinced you are in the right, they will spend their free time trying to convince others of your point. (unless this would harm themselves or their loved ones)",
+            "Gain advantage whenever you roll Cha (Persuasion) tests."
+        ]
+    },
+    {
+        "id": "19",
+        "talent": "Demolition",
+        "description": "The art and science of efficiently breaking and blowing stuff up.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Succeeding an Int (Engineering) test while examining a building or large structure will give you information on the weak points and where to hit it just right to bring the whole place down. (damage required varies)",
+            "You've demolished enough buildings in your day to know how to escape safely. You now take 1/2 damage anytime you are escaping a demolished building or structure (whether you broke it or not)",
+            "Gain advantage whenever you roll Int (Engineering) tests."
+        ]
+    },
+    {
+        "id": "20",
+        "talent": "Diplomacy",
+        "description": "Learn the skills you need to deal with others in a sensitive and effective way; particularly with international relations.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Flowery Tongue (3dp) - Impress witnesses and compliment those around you, all who witnessed your speech will be more likely to view you as a friend.",
+            "Your diplomatic skills allow you to impress others so much with Cha (Etiquette) tests that they will most likely completely forgive and forget any perceived strife or disagreement. (this will not work on foes currently engaged in combat)",
+            "Gain advantage whenever you roll Cha (Etiquette) tests."
+        ]
+    },
+    {
+        "id": "21",
+        "talent": "Entertainment",
+        "description": "Understand how to bring others amusement, enjoyment, and a lively performance.",
+        "requirement": "Learn from a teacher or textbook.",
+        "ranks": [
+            "Uplifting Performance (3dp) - Your performance was so impressive those who witnessed it gain +1 to all Heart rolls for the next hour.",
+            "Succeeding in Cha (Performance) tests now always result in characters tipping you based on how well you did, and how much they enjoyed your performance.",
+            "Gain advantage whenever you roll Cha (Performance) tests."
+        ]
+    }
+    
+]
+    
+
+
+
+    
+
+
