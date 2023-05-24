@@ -1,0 +1,254 @@
+﻿id,name,description,origin
+1,Human lvl 1,Gain an extra conviction point whenever you level up.,racial
+2,Human lvl 10,"When you roll doubles, you now gain at least 2 doubles points minimum.",racial
+3,Human lvl 20,"As a human it is your natural right to succeed in all things. When you roll doubles, you now obtain 3 doubles points minimum.",racial
+4,Orion lvl 1,"You may select a ""lucky"" tool to start your adventure with. Any time you roll doubles you may store soome of the doubles points inside your ""lucky"" object for use later up to a maximum of 2 double points. You may only have one lucky object at a time, and can only store the doubles points from a single roll. The stored doubles points can only last 1 day before expiring.",racial
+5,Orion lvl 10,"Your ""lucky"" item may now store up to 3 doubles points at a time and multiple rolls may now add to the points stored in your ""lucky"" item.",racial
+6,Orion lvl 20,"Your ""lucky"" item may now store up to 4 doubles points at a time. These points can now be stored indefinitely.",racial
+7,Ferali: Hands lvl 1,"You are able to climb at normal movement speed, and can hang from trees indefinitely.",racial
+8,Ferali: Tough Fur lvl 1,Your fur and skin are tough. Increase your base physical and arcane armor by 1 each.,racial
+9,Ferali: Eyes lvl 1,Your eyes are attuned to seeing in pitch blackness. Gain the ability to see in the dark without penalty up to 10 m away.,racial
+10,Ferali: Feathers lvl 1,Your feathers grant you the power to avoid fall damage and glide short distances.,racial
+11,Ferali: Shell lvl 1,Your shell provides you with additional armor. Increase your base physical armor by 2.,racial
+12,Ferali: Aquatic lvl 1,Your aquatic origins grant you the ability to swim at your normal movement speed and you may hold your breath for up to an hour.,racial
+13,Ferali: Ape lvl 10,Your feet are opposable and can use weapons and tools without penalty & your brawling attacks deal +3 extra damage.,racial
+14,Ferali: Bear lvl 10,Your fur and skin are extra tough. You may ignore the HP softcap when you increase your HP through level up & your Bite/Claw attacks deal +3 extra damage,racial
+15,Ferali: Feline lvl 10,Your feline heritage enables you to dodge attacks more easily. Gain +1 Defense & Bite/Claw attacks deal +3 extra damage.,racial
+16,Ferali: Eagle lvl 10,Your raptor-like heritage allows you to make a charge attack more efficiently. You may add bonus damage equal to your movement speed (rounded down) when making Charge Attacks & Bite/Claw attacks deal +3 damage.,racial
+17,Ferali: Lizard lvl 10,Your reptillian heritage grants you the regenerate action & Bite attacks deal +3 extra damage.,racial
+18,Ferali: Raven lvl 10,Your Bite/Claw attacks now deal +3 damage and are considered to deal arcane damage instead of physical damage due to your innate mystical nature.,racial
+19,Ferali: Turtle lvl 10,Your shell has further hardened granting you +4 physical armor & Bite attacks deal +3 extra damage.,racial
+20,Ferali: Canine lvl 10,Your canine heritage grants you +2 bonus damage when outnumbering enemies & your Bite/Claw attacks deal +3 extra damage.,racial
+21,Ferali: Frog lvl 10,Your amphibious heritage allows you to hold your breath for up to 8 hours & Tongue attacks deal +3 extra damage and Tongue attack range is doubled,racial
+22,Ferali: Ape lvl 20,Your ape ancestry allows you to add your brawling attack damage to attacks made with weapons.,racial
+23,Ferali: Bear lvl 20,Your bear ancestry grants you double HP recovery whenever you receive healing.,racial
+24,Ferali: Feline lvl 20,"Your feline ancestry grants you an immunity to all mind altering effects that target you, and you gain +2 towards perception tests at seeing through illusions.",racial
+25,Ferali: Eagle lvl 20,Your raptor-like ancestry grants you powered flight and make charge attacks while diving through the air at your full movement speed.,racial
+26,Ferali: Lizard lvl 20,"Your reptillian ancestry allows you to regrow missing body parts, and the Regenerate action now heals you for 3d6+End.",racial
+27,Ferali: Raven lvl 20,Your raven ancestry inflicts a curse on a target that deals 5d6 arcane damage whenever you enter a dying state.,racial
+28,Ferali: Turtle lvl 20,Your turtle ancestry grants you +8 additional physical armor.,racial
+29,Ferali: Canine lvl 20,your canine ancestry allows you to never lose a scent once you have smelled a target.,racial
+30,Ferali: Frog lvl 20,Your amphibian ancestry allows you to hold your breath indefinitly and doubles your jumping distance.,racial
+31,Gargun lvl 1,"As a Gargun, you naturally gain +1 physical armor.",racial
+32,Gargun lvl 10,"You are now considered to be size large insead of medium. This results in your melee attack range increasing by one meter, being immune to some grappling effects from smaller creatures, and being able to effectively grapple with other creatures of a large size.",racial
+33,Gargun lvl 20,"If you melee attack a creature smaller than you, gain +1d6 extra damage, and when you make a Charge Attack vs a foe you may skirmish your opponent by 1/2 of the distance left in your charge.",racial
+34,Vata lvl 1,"As a Vata, you may receive the benefits of a long rest in 4 hours instead of 8.",racial
+35,Vata lvl 10,Your Vata bloodline awakens access to a spell that is inaccessable to the normal person. (consult with the GM to build this spell),racial
+36,Vata lvl 20,"When you use a conviction point, you may receive the benefit of two conviction actions instead of one.",racial
+37,Starforged lvl 1,"Starforged cannot eat or drink food nor potions, are immune to poisons, do not need to sleep, and can survive in the vaccum of space. However they also cannot become well rested.",racial
+38,Starforged lvl 10,While resting under sunlight recover double the HP and MP as you heal faster when your core is exposed to solar radiation.,racial
+39,Starforged lvl 20,You are able to recover HP and MP beyond 100%. When resting in sunlight you are able to store up to 120% of your maximum HP and MP.,racial
+40,Infernal lvl 1,"As an Infernal, you naturally gain +1 arcane armor.",racial
+41,Infernal lvl 10,"Your Infernal horns have grown and may now empower your attacks. They will erupt in a flaming aura when you are below 1/4 of your max HP granting you +2 bonus arcane damage with melee attacks, +2 movement speed, and reducing the MP cost of casting spells by 2.",racial
+42,Infernal lvl 20,"Your horns have reached their peak size, and you have more control over their flaming aura. The aura is now activated when you are below 1/2 of your maximum HP.",racial
+43,Armor Training 1,Reduce the Dex penalty of wearing armor by 1.,level table
+44,Armor Training 2,Further reduce the Dex penalty of wearing armor by 1. Also reduces the Dex penalty of Shields by 1.,level table
+45,Armor Training 3 ,Further reduce the Dex penalty of wearing armor by 1.,level table
+46,Soldier's Nap,When taking a Breather (15 min rest) you restore 5 extra HP.,level table
+47,Indominable,Once per day you may survive a single attack that would have killed you leaving you at 1HP.,level table
+48,Heavy Handed,"If your Str is higher than the weight requirement for your weapon, deal +2 extra physical  damage for every point you have in Str higher than the weapon's weight requirement",level table
+49,Warlord,"Immediately after slaying an enemy make a Str (Intimidation) test vs all remaining opponants' Hrt (Courage). All foes who fail this test become frightened, and will be at disadvantage on their next ability test.",level table
+50,Weapon Training 1,Aquiring the focus for a weapon's group grants you an equivalent bonus in damage dealt by weapons of that type.,level table
+51,Weapon Training 2,Increase the range of melee weapons that you have a +3 focus for by 0.5 meters. ,level table
+52,Marksman,You may now ignore the penalty for firing your weapon at long range.,level table
+53,Tenacious Spirit,Select a weapon's group. Once per encounter an attack roll you make with a weapon from this group is considered to be at advantage.,level table
+54,Sentinal,Double the weapon range at which you can react to foes and use attacks of opportunity vs them.,level table
+55,Expert Strike,"When performing the Melee Attack action, you may take up to a -3 penalty to your melee attack roll to gain an equivalent amount in bonus physical damage or vice-versa. (ex -3 attack for +3 damage)",level table
+56,Last Stand,You may sacrifice both of your Minor actions to gain an additional Major action on your turn. This cannot be used in conjuction with Cunning Action or Magus Intellectus.,level table
+57,Speedy 1,You may stand or go prone by only expending half (rounded down) of your movement speed during your movement action. ,level table
+58,Speedy 2,You may now use the Activate action as a free action once per turn.,level table
+59,Speedy 3,Once per turn you may now use the Sprint action as a minor action.,level table
+60,Uncanny Dodge,You may temporarily gain +3 to your defense in an attempt to avoid an attack that would have otherwise hit you. In exchange you gain a level of fatigue.,level table
+61,Elusive,"If a foe hits you and ties your defense, you take half damage instead of full damage.",level table
+62,Pinpoint Attack,Successfully landing a targeting attack grants you 1d6 bonus damage.,level table
+63,Sharpshooter,You may now add your Perception attribute modifier as extra physical damage dealt by ranged attacks.,level table
+64,Alluring Visage,"Your good looks and charms distract other creatures that find you attractive, robbing them of a single doubles point whenever they attempt to make a stunt action against you.",level table
+65,Unassuming,"Enemies underestimate you in combat. If you have not yet delt damage in combat, the foes will target your allies before targeting you.",level table
+66,Rabble Rouser,In combat non-hostile friendly NPCs will turn to you for direction if they are unsure of what to do. Able to direct a number of NPCs equal to your Cha (Leadership) modifier.,level table
+67,No Hesitation,As long as you are present and conscious you may take a free major action at the beginning of a combat encounter once per day.,level table
+68,Lucky,Once per day gain advantage on a single dice roll of your choice.,level table
+69,6th Sense,"You can tell when other creatures are targeting you. The enemy can no longer get the drop on you with a sneak attack, and when you are attacked, you immediately know where your attacker is.",level table
+70,Cunning Action,You may sacrifice your Major action to gain 2 additional Minor actions on your turn (4 total). This cannot be used in conjuction with Last Stand or Magus Intellectus.,level table
+71,Deep Focus 1,"When concentrating on a spell, you may now continue your concentration if you take 5 or less total damage to your HP.",level table
+72,Deep Focus 2,"When concentrating on a spell, you may now continue your concentration if you take 10 or less total damage to your HP.",level table
+73,Deep Focus 3,"When concentrating on a spell, you may now continue your concentration if you take 15 or less total damage to your HP.",level table
+74,Strong Willed 1,Select one of your stunts. You may now perform this stunt for 1 less doubles point. (minimum 1dp).,level table
+75,Strong Willed 2,Select one of your stunts. You may now perform this stunt for 1 less doubles point. (minimum 1dp).,level table
+76,Strong Willed 3,Select one of your stunts. You may now perform this stunt for 1 less doubles point. (minimum 1dp).,level table
+77,Caring Soul,Once per combat encounter if a friend or ally falls below 1HP you may immediately make a free minor action.,level table
+78,Plan of Action 2,Plan of Action now grants 2 doubles points.,level table
+79,Plan of Action 3,Plan of Action now grants 3 doubles points.,level table
+80,Experienced Mage,Casting the same spell more than once during a combat encounter reduces the required MP by 1 for each time you have cast the spell (spells still cost a minimum of 1 MP).,level table
+81,Great Sage,"You may now concentrate on any 2 spells at the same time. If you do, then you must give up either both your minor actions or a major action while you concentrate.",level table
+82,Overclock,You may now add your Intelligence attribute modifier as bonus arcane damage when casting offensive spells.,level table
+83,Arcane Recovery,You may make a Hrt (Meditation) test to meditate for an hour to restore MP equivalent to your test result. (you may only do this once per day),level table
+84,Spell Failsafe,If you fail to cast a spell as long as you still have actions remaining you may choose to sacrifice a minor action to force the spell to succeed instead of taking a level of fatigue.,level table
+85,Magus Intellectus,You may sacrifice both of your Minor actions to gain an additional Major action on your turn. This cannot be used in conjuction with Last Stand or Cunning Action.,level table
+86,,,
+87,,,
+88,,,
+89,,start with specializations,
+90,,,
+91,,,
+92,,,
+93,,,
+94,,,
+95,,,
+96,,,
+97,,,
+98,,,
+99,,,
+100,,,
+101,,,
+102,,,
+103,,,
+104,,,
+105,,,
+106,,,
+107,,,
+108,,,
+109,,,
+110,,,
+111,,,
+112,,,
+113,,,
+114,,,
+115,,,
+116,,,
+117,,,
+118,,,
+119,,,
+120,,,
+121,,,
+122,,,
+123,,,
+124,,,
+125,,,
+126,,,
+127,,,
+128,,,
+129,,,
+130,,,
+131,,,
+132,,,
+133,,,
+134,,,
+135,,,
+136,,,
+137,,,
+138,,,
+139,,,
+140,,,
+141,,,
+142,,,
+143,,,
+144,,,
+145,,,
+146,,,
+147,,,
+148,,,
+149,,,
+150,,,
+151,,,
+152,,,
+153,,,
+154,,,
+155,,,
+156,,,
+157,,,
+158,,,
+159,,,
+160,,,
+161,,,
+162,,,
+163,,,
+164,,,
+165,,,
+166,,,
+167,,,
+168,,,
+169,,,
+170,,,
+171,,,
+172,,,
+173,,,
+174,,,
+175,,,
+176,,,
+177,,,
+178,,,
+179,,,
+180,,,
+181,,,
+182,,,
+183,,,
+184,,,
+185,,,
+186,,,
+187,,,
+188,,,
+189,,,
+190,,,
+191,,,
+192,,,
+193,,,
+194,,,
+195,,,
+196,,,
+197,,,
+198,,,
+199,,,
+200,,,
+201,,,
+202,,,
+203,,,
+204,,,
+205,,,
+206,,,
+207,,,
+208,,,
+209,,,
+210,,,
+211,,,
+212,,,
+213,,,
+214,,,
+215,,,
+216,,,
+217,,,
+218,,,
+219,,,
+220,,,
+221,,,
+222,,,
+223,,,
+224,,,
+225,,,
+226,,,
+227,,,
+228,,,
+229,,,
+230,,,
+231,,,
+232,,,
+233,,,
+234,,,
+235,,,
+236,,,
+237,,,
+238,,,
+239,,,
+240,,,
+241,,,
+242,,,
+243,,,
+244,,,
+245,,,
+246,,,
+247,,,
+248,,,
+249,,,
+250,,,
+251,,,
+252,,,
+253,,,
