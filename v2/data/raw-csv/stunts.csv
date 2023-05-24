@@ -41,8 +41,7 @@
 40,Fortify Armor,level table,4,Temporarily gain +3 physical armor. This effect expires after you take a hit or on your next turn.
 41,Tenacious Will,level table,5,Immediately recover HP equal to your Endurance
 42,Knock Prone,level table,2,Knock your opponant to the ground with a powerful melee attack. A prone target suffers a -1 penalty to their defense. You cannot knock prone a creature if it is considered to be a size larger than you.
-43,Mighty Blow,level table,2,"Inflict an extra 1d6 physical damage with your melee attack. 
-(each upgrade costs 2 points)"
+43,Mighty Blow,level table,2,Inflict an extra 1d6 physical damage with your melee attack.
 44,Sweeping Strike,level table,6,Your melee attack roll is so strong it affects all targets within range. Apply the test result of your original attack roll to all additional targets. Roll damage seperately for all targets hit by this attack.
 45,Skirmish,level table,1,Move yourself or your target 1 meter per doubles point spent. You cannot skirmish a creature if it is considered to be a size larger than you.
 46,Disarm,level table,3,Disarm your enemy's weapon with your melee attack. The weapon is knocked a number of meters away equal to your Strength attribute in the direction you choose.
@@ -60,8 +59,7 @@
 58,Stunned Silence,level table,4,"Your intensity has stunned a single target of your choice within 10 m of you, breaking their spell concentration immediately."
 59,Meditative Spirit,level table,5,Immediately restore MP equal to your Heart Atribute.
 60,Powerful Casting,level table,1," For each doubles point spent, increase your spell's Spell Power by 1. (Max 3)"
-61,Mighty Arcanum,level table,2,"Inflict an extra 1d6 arcane damage to one target of your spell. 
-(may only be used with damage dealing spells)"
+61,Mighty Arcanum,level table,2,Inflict an extra 1d6 arcane damage to one target of your spell. (may only be used with damage dealing spells)
 62,Flashbang,level table,5,The effects of this arcana are explosive. All targets within a 3m radius of you are knocked backwards and prone to the edge of the 3m blast radius.
 63,Lasting Focus,level table,2,Increase the duration of this spell by 1 additional round. This only applies if the spell already has a duration.
 64,Free Casting,level table,4,You may cast this spell for 1/2 MP
@@ -145,3 +143,7 @@
 142,Smithological,talent,2,"For every 2 doubles points spent, increase the outcome of your roll to receive the benefits of a masterwork ability from the masterwork table."
 143,Disappearing Act,talent,5,You may move up to 1/4 your movement to attempt to hide during combat. After you move make a Dex (Stealth) test vs the Perception of all who witnessed you take your movement. If you succeed then you are currently hidden from your opponents. If one target beats you then you are not hidden.
 144,Lift and Throw,talent,2,When succeeing a Str (Lifting) test you may throw the object you lifted a number of meters equal to your Str attribute modifier.
+145,Lethal Blow,level table,4,Inflict an extra 2d6 physical damage with your melee attack.
+146,Deadly Blow,level table,6,Inflict an extra 3d6 physical damage with your melee attack.
+147,Lethal Arcanum,level table,4,Inflict an extra 2d6 arcane damage to one target of your spell (may only be used with damage dealing spells).
+148,Deadly Arcanum,level table,6,Inflict an extra 3d6 arcane damage to one target of your spell (may only be used with damage dealing spells).
