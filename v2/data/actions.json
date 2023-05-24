@@ -544,5 +544,12 @@
     "actionType": "Major",
     "description": "Channel the security of Zagan and roll a Hrt (Faith) test. For the next round your defense vs ranged attacks is equal to your test roll. Keep your original defense if it is higher than your roll. You may use this ability on another target if they are willing.",
     "origin": "constellation"
+  },
+  {
+    "id": 79,
+    "name": "Arcane Blast",
+    "actionType": "Major",
+    "description": "Build up arcane energy until it explodes from your hands. Expend 5 MP to deal 3d6 + Wis arcane damage to all creatures directly in front of you up to a range of 3 m. Creatures caught up in the blast must roll a TN 16 Hrt (Spirit) test, if they pass, they will only take half damage from this attack.",
+    "origin": "specialization"
   }
 ]

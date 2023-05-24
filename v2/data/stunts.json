@@ -828,7 +828,7 @@
   {
     "id": 119,
     "name": "Fierce Bolt",
-    "origin": "talent",
+    "origin": "specialization",
     "dpCost": 3,
     "description": "Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone."
   },
