@@ -551,5 +551,12 @@
     "actionType": "Major",
     "description": "Build up arcane energy until it explodes from your hands. Expend 5 MP to deal 3d6 + Wis arcane damage to all creatures directly in front of you up to a range of 3 m. Creatures caught up in the blast must roll a TN 16 Hrt (Spirit) test, if they pass, they will only take half damage from this attack.",
     "origin": "specialization"
+  },
+  {
+    "id": 80,
+    "name": "Arcane Cannon",
+    "actionType": "Major",
+    "description": "Expend 6 MP to fire a powerful ball of arcane energy towards a single target. Roll an Acc (Arcane) test vs the target's defense, if you succeed the target takes 6d6 + Wis arcane damage.",
+    "origin": "specialization"
   }
 ]
