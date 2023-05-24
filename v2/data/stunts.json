@@ -1006,5 +1006,33 @@
     "origin": "talent",
     "dpCost": 2,
     "description": "When succeeing a Str (Lifting) test you may throw the object you lifted a number of meters equal to your Str attribute modifier."
+  },
+  {
+    "id": 145,
+    "name": "Lethal Blow",
+    "origin": "level table",
+    "dpCost": 4,
+    "description": "Inflict an extra 2d6 physical damage with your melee attack."
+  },
+  {
+    "id": 146,
+    "name": "Deadly Blow",
+    "origin": "level table",
+    "dpCost": 6,
+    "description": "Inflict an extra 3d6 physical damage with your melee attack."
+  },
+  {
+    "id": 147,
+    "name": "Lethal Arcanum",
+    "origin": "level table",
+    "dpCost": 4,
+    "description": "Inflict an extra 2d6 arcane damage to one target of your spell (may only be used with damage dealing spells)."
+  },
+  {
+    "id": 148,
+    "name": "Deadly Arcanum",
+    "origin": "level table",
+    "dpCost": 6,
+    "description": "Inflict an extra 3d6 arcane damage to one target of your spell (may only be used with damage dealing spells)."
   }
 ]
