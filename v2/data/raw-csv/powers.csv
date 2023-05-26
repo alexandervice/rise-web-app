@@ -303,22 +303,22 @@ You may now summon an elite version of this creature (See Game Info/Creature Upg
 287,Orator: Rank 6,While Well Rested your Wards and Force Fields gain +2 to their spellpower.,specialization
 288,Orator: Rank 8,Increase the TN that foes must roll to avoid the negative effects of Bass Boost by +3,specialization
 289,Orator: Rank 9,You may now expend a level of fatigue to target all creatures within hearing range for any of your sound based spells.,specialization
-290,,,specialization
-291,,,specialization
-292,,,specialization
-293,,,specialization
-294,,,specialization
-295,,,specialization
-296,,,specialization
-297,,,specialization
-298,,,specialization
-299,,,specialization
-300,,,specialization
-301,,,specialization
-302,,,specialization
-303,,,specialization
-304,,,specialization
-305,,,specialization
+290,Outrider: Rank 1,Select a tamed creature to be your loyal mount. You may now mount and dismount this creature as a free action. Your mount also gains a +2 Hrt (Courage) focus.,specialization
+291,Outrider: Rank 3,While mounted your defense increases by your mount's Dex attribute. Your mount's defense is unchanged.,specialization
+292,Outrider: Rank 4,The time with your mount brings them to an Elite version of their species. (See Game Info/Creature Upgrade Table),specialization
+293,Outrider: Rank 5,"The bond with your mount has deepened. When you make a mounted charge against a group of enemies, you may now make an attack against all of them. Your mount can also hear you when you call from up to 5 km away.",specialization
+294,Outrider: Rank 6,When making a mounted charge attack add the Strength attribute modifier of your mount as bonus physical damage.,specialization
+295,Outrider: Rank 7,The time with your mount brings them to a Heroic version of their species. (See Game Info/Creature Upgrade Table),specialization
+296,Outrider: Rank 8,"If you are able to mount a creature you may attempt to make a Hrt (Animal Handling) test vs the creature's Str (Intimidation), Hrt (Self-Discipline), or Wis (Survival). If you succeed, the creature will allow you to remain mounted and follow your directions until you dismount.",specialization
+297,Outrider: Rank 9,"You and your steed now combine attributes while mounted. (ex your Str is 5 and your steed's is 4, so while mounted you both have 9)",specialization
+298,Pacifist: Rank 3,Gain +1 Defense towards all enemies that you have not attacked during a combat encounter.,specialization
+299,Pacifist: Rank 4,"The peaceful look on your face results in many, except the most ruthless of enemies, to feel guilty when they attack you. Most opponents will talk to you while they attack you, and attempt to justify to themselves their actions. This may give you the information you need to convince them to choose peace.",specialization
+300,Pacifist: Rank 5,"You may now initaiate Peace Talks as a minor action. Likewise, initaiting Peace Talks with the leader of a group will usually result in the combat encounter pausing while the leader talks to you.",specialization
+301,Pacifist: Rank 6,"Upon failing Peace Talks due to a target requiring a specific condition or Cha focus, you may make a Hrt (Empathy) or Wis (Intuition) test vs the Target's Hrt (Morality) to learn more about the target.",specialization
+302,Pacifist: Rank 7,"Convincing one member of a group to engage in Peace Talks, now has a chance to convince all members. Each member rolls a Hrt (Morality) test with a +3 vs your Charisma roll. Any who fail will also halt combat to talk it out.",specialization
+303,Pacifist: Rank 8,"You may choose to spend more doubles points on Heartfelt Plea. For every additional doubles point spent, increase the Hrt (Morality) TN by 1.",specialization
+304,Pacifist: Rank 9,Initiating Peace Talks with most characters is now guarenteed to result in a peaceful outcome. This does not apply to opponents who have special requirements to initiate Peace Talks with.,specialization
+305,Paladin: Rank,,specialization
 306,,,specialization
 307,,,specialization
 308,,,specialization
