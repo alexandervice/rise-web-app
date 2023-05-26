@@ -84,171 +84,333 @@
 83,Arcane Recovery,You may make a Hrt (Meditation) test to meditate for an hour to restore MP equivalent to your test result. (you may only do this once per day),level table
 84,Spell Failsafe,If you fail to cast a spell as long as you still have actions remaining you may choose to sacrifice a minor action to force the spell to succeed instead of taking a level of fatigue.,level table
 85,Magus Intellectus,You may sacrifice both of your Minor actions to gain an additional Major action on your turn. This cannot be used in conjuction with Last Stand or Cunning Action.,level table
-86,,,
-87,,,
-88,,,
-89,,start with specializations,
-90,,,
-91,,,
-92,,,
-93,,,
-94,,,
-95,,,
-96,,,
-97,,,
-98,,,
-99,,,
-100,,,
-101,,,
-102,,,
-103,,,
-104,,,
-105,,,
-106,,,
-107,,,
-108,,,
-109,,,
-110,,,
-111,,,
-112,,,
-113,,,
-114,,,
-115,,,
-116,,,
-117,,,
-118,,,
-119,,,
-120,,,
-121,,,
-122,,,
-123,,,
-124,,,
-125,,,
-126,,,
-127,,,
-128,,,
-129,,,
-130,,,
-131,,,
-132,,,
-133,,,
-134,,,
-135,,,
-136,,,
-137,,,
-138,,,
-139,,,
-140,,,
-141,,,
-142,,,
-143,,,
-144,,,
-145,,,
-146,,,
-147,,,
-148,,,
-149,,,
-150,,,
-151,,,
-152,,,
-153,,,
-154,,,
-155,,,
-156,,,
-157,,,
-158,,,
-159,,,
-160,,,
-161,,,
-162,,,
-163,,,
-164,,,
-165,,,
-166,,,
-167,,,
-168,,,
-169,,,
-170,,,
-171,,,
-172,,,
-173,,,
-174,,,
-175,,,
-176,,,
-177,,,
-178,,,
-179,,,
-180,,,
-181,,,
-182,,,
-183,,,
-184,,,
-185,,,
-186,,,
-187,,,
-188,,,
-189,,,
-190,,,
-191,,,
-192,,,
-193,,,
-194,,,
-195,,,
-196,,,
-197,,,
-198,,,
-199,,,
-200,,,
-201,,,
-202,,,
-203,,,
-204,,,
-205,,,
-206,,,
-207,,,
-208,,,
-209,,,
-210,,,
-211,,,
-212,,,
-213,,,
-214,,,
-215,,,
-216,,,
-217,,,
-218,,,
-219,,,
-220,,,
-221,,,
-222,,,
-223,,,
-224,,,
-225,,,
-226,,,
-227,,,
-228,,,
-229,,,
-230,,,
-231,,,
-232,,,
-233,,,
-234,,,
-235,,,
-236,,,
-237,,,
-238,,,
-239,,,
-240,,,
-241,,,
-242,,,
-243,,,
-244,,,
-245,,,
-246,,,
-247,,,
-248,,,
-249,,,
-250,,,
-251,,,
-252,,,
-253,,,
+86,Alchemist: Rank 1,You can now make all types of grenades listed in the Alchemist section of the Gear table. Requires 25 credits worth of materials and a TN 13 Dex (Tinkering) test.,specialization
+87,Alchemist: Rank 4,"You may now modify your basic grenades to deal an additional 2d6 damage, and deal damage to all targets within 10 meters of the explosion. Modifying a grenade requires a TN 15 Dex (Tinkering) test.",specialization
+88,Alchemist: Rank 6,You can now cast Alchemical Formulae as a major action.,specialization
+89,Alchemist: Rank 7,You may now use transmutation spells on creatures. Doing so increases the target number for doing so by 5. Transmuting creatures is generally considered to be a grave sin in most cultures.,specialization
+90,Alchemist: Rank 9,"You have perfected the recipe for the Philosopher's Stone, which will allow you to cast Transmute: Permanence without needing counter ingredients. (once the stone is used, it is destroyed). Consult the GM for the recipe (it should require similar ingredients to a legendary potion).",specialization
+91,Assassin: Rank 1,When sneak attacking a target while using a light weapon your attack becomes penetrating and ignores the target's armor.,specialization
+92,Assassin: Rank 4,"Sneak attacks from light weapons now deal an additional 1d6 damage. Likewise, sneak attacks from silent/concealable archery and firearms weapons are now considered to be penetrating and ignore the target's armor",specialization
+93,Assassin: Rank 5,"If you assassinate and kill a target in one hit with a melee attack while sneak attacking, you may immediately make an additional sneak attack against a second target within range of your melee weapon. (this may only be used once per turn)",specialization
+94,Assassin: Rank 6,While sneak attacking a target you gain advantage on your attack rolls.,specialization
+95,Assassin: Rank 7,You may now add your Perception attribute modifier to your sneak attack base damage.,specialization
+96,Assassin: Rank 8,Analytical Eye's effects now last for the remainder of the combat encounter.,specialization
+97,Assassin: Rank 9,"Time is shifted when you deal the finishing blow to a foe, allowing you to have a short conversation with your target while you finish them off. During this conversation the target can't lie to you. This also grants you an immdediate bonus minor action after the exchange.",specialization
+98,Barbarian: Rank 1,Your Physical Armor is equal to your End attribute when not wearing armor. Your damage bonus from your Strength attribute modifier is also doubled while using stone or bone weapons.,specialization
+99,Barbarian: Rank 4,Your speed is now doubled while making Charge Attacks when not weaing armor.,specialization
+100,Barbarian: Rank 5,The effects of a Reckless Attack may now be applied to a Charge Attack.,specialization
+101,Barbarian: Rank 6,You are now able to wield any weapon regardless of weight requirement and you deal bonus physical damage equal to the weight requirement of the weapon you are using. (This effect does not negate the weight requirement for the Heavy Handed power),specialization
+102,Barbarian: Rank 7,The Sunder Armor stunt now damages the medium and heavy armors by 5 instead of 2.,specialization
+103,Barbarian: Rank 9,Reckless Attacks made with heavy weapons against opponents equal to or smaller than your size now always knock the opponent prone.,specialization
+104,Bard: Rank 6,Giving your Bardic Inspiration is now a minor action for you,specialization
+105,Bard: Rank 7,Song of Rest and Thrashing are now minor actions for you to play.,specialization
+106,Bard: Rank 8,You may now give your Bardic Inspiration to up to 3 allies at a time.,specialization
+107,Beastmaster: Rank 3,Your time spent with your tamed creature has allowed you to bring them to an Elite version of their species. (See Game Info/Creature Upgrade Table). Must have spent at least 1 week with this creature.,specialization
+108,Beastmaster: Rank 5,Your time spent with your tamed Elite level creature has allowed you to bring them to a Heroic version of their species. (See Game Info/Creature Upgrade Table). Must have spent at least 1 month with this creature.,specialization
+109,Beastmaster: Rank 6,You can now tame any creature of Dire threat or lower. You may also tame a number of creatures equal to your Heart attribute.,specialization
+110,Beastmaster: Rank 8,Your time spent with your tamed Heroic level creature has allowed you to bring them to a Legendary version of their species. (See See Game Info/Creature Upgrade Table). Must have spent at least 3 months with this creature.,specialization
+111,Beastmaster: Rank 9,"Upon defeating a creature you may choose to withold the final blow to leave them on the brink of death. While in this state roll a Hrt (Animal Handling) test vs their Hrt (Self-Discipline). If you succeed, the beast is tamed. This may only be attempted once per creature.",specialization
+112,Berserker: Rank 4,"While in a Frenzied state your physical damage bonus gained by your Str attribute is considered doubled. (ex: if you normally have 5 Str and deal +5 extra damage when making attacks, now when you are enraged that increases to +10)",specialization
+113,Berserker: Rank 5,"While in a Berserk state you now gain an additional +1 Str, +1 Hrt, and +1 End.",specialization
+114,Berserker: Rank 6,The Bleeding Edge stunt's damage over time is now increased to 2d6 penetrating damage.,specialization
+115,Berserker: Rank 7,While in a Berserk or Frenzied state you automatically succeed all Hrt (Courage) and End (Pain Res) tests.,specialization
+116,Berserker: Rank 8,If you are in a Frenzied state and are targeted by a melee attack you may retaliate with an attack of opportunity.,specialization
+117,Berserker: Rank 9,"While in a Berserk state you now gain an additional +1 Str, +1 Hrt, and +1 End.",specialization
+118,Blood Mage: Rank 2,You may now fuel your spells with your own HP instead of MP. You may only cast Blood Mage spells in this manner.,specialization
+119,Blood Mage: Rank 4,You may use the blood (HP) of a willing ally to cast your spells. You must be in direct contact with the blood. (blood mage spells only) ,specialization
+120,Blood Mage: Rank 8,If you make physical contact with the fresh blood of an actively bleeding enemy you may use their HP to fuel a single Blood Mage spell.,specialization
+121,Blooded: Rank 2,"Eating the raw flesh of any creature also restores 10 HP to you, and 5 MP. However you no longer recover HP and MP by resting. Each unique creature's flesh will only heal you once.",specialization
+122,Blooded: Rank 3,You may now choose to temporarily receive a +2 focus bonus instead of an attribute bonus from the flesh you eat.,specialization
+123,Blooded: Rank 4,The bonus obtained from eating flesh has increased to 6 hours,specialization
+124,Blooded: Rank 5,You may now have a number of flesh eating bonuses equal to your Blooded rank instead of only 3.,specialization
+125,Blooded: Rank 6,You are now immune to poisons or other diseases from the flesh that you eat.,specialization
+126,Blooded: Rank 7,The bonus obtained from eating flesh has increased to 24 hours,specialization
+127,Blooded: Rank 8,You may now eat the flesh of a creature you have just slain as a free action upon killing them.,specialization
+128,Blooded: Rank 9,"Eating the brain of a creature will now also impart some of their memories to you. The amount of memories will depend on how long ago they died, and the state of their brain.",specialization
+129,Champion: Rank 3,"Whenever you use the Rally action you may also select one foe and draw their attention, forcing them to target you on their next turn.",specialization
+130,Champion: Rank 4,You now deal +2 extra physical damage with melee attacks for every enemy that is currently targeting you during battle.,specialization
+131,Champion: Rank 5,Allies you have Rallied now also gain a +2 bonus to their attack rolls.,specialization
+132,Champion: Rank 6,"Your rank 4 bonus damage now applies to Rallied Allies. If you fall below 1/2 health, get knocked unconscious, or are at Fatigue level Drained (or lower) your allies lose this bonus damage.",specialization
+133,Champion: Rank 7,Enemies forced to target you are now at disadvantage when making attack rolls.,specialization
+134,Champion: Rank 8,If you use a second Rally action in the same turn all foes currently engaged in combat will target you until your next turn.,specialization
+135,Champion: Rank 9,The Rank 6 effect will now apply regardless of how healthy you are. It will no longer apply if you succumb to death however.,specialization
+136,Cleric: Rank 3,All of your healing Restoration Arcana now add your Heart attribute modifier to HP recovered.,specialization
+137,Cleric: Rank 5,Your healing spells provide incredible rejuvination to your allies. You can heal allies for 5 extra HP above their maximum HP. ,specialization
+138,Cleric: Rank 6,"Whenever you cure an ally of a poison, affliction, or curse you may save the essence of that affliction within a bottle turning it into a poison vial.",specialization
+139,Cleric: Rank 8,While you are Well Rested you gain advantage on all Int (Restoration) and Int (Medicine) tests.,specialization
+140,Cleric: Rank 9,You may now cast Resurrecting Light on a dead character that died in the last 24 hours instead of 1 hour.,specialization
+141,Commander: Rank 1,NPCs are now willing to follow you. You may recruit a number of followers equal to your commander rank rounded down. You must earn the trust of your followers.,specialization
+142,Commander: Rank 4,You may now promote a follower to honor guard. They live to protect you. If they are adjacent to you enemies must attack them to get to you.,specialization
+143,Commander: Rank 5,Your leadership has expanded your influence. If you prepare a battle plan ahead of time everyone who participates in the plan gains +2 to fulfill their role during battle.,specialization
+144,Commander: Rank 6,Your honor guard now gains +1 def and +2 armor when guarding you.,specialization
+145,Commander: Rank 7,You may now promote one of your followers to an elite version of that follower. (See Game Info/Creature Upgrade Table),specialization
+146,Commander: Rank 8,You may now give your followers special training in a focus you have advanced (+3) training in. Granting them +1 towards this focus. This takes a total of 12 hours.,specialization
+147,Commander: Rank 9,You may now recruit up to any number of followers. No cap,specialization
+148,Death Knight: Rank 1,"Until you die, this specilization does nothing. You have been reborn as an undead knight. You don't have to eat, drink, or breathe, and are immune to poison damage. Healing magic no longer works on you, but you heal double the HP while you rest. Falling below 0 HP will not kill you but will cause you to decompose faster. You may have a negative HP stat, but there are permanent repercussions. (The time for decomposition can be extended with artificial means.)
+
+-1 hp = stench of decay (or 1 day after death)
+-5 hp = discolorization of skin (or 5 days after death)
+-10 hp = maggots, flies etc (or 10 days)
+-15 hp = skin decaying and hair loss (or 15 days)
+-20 hp = organ decay such as eyes and haert (20 days)
+-25 hp = bones showing in some places (25 days)
+-30 hp = skin completely gone (30 days)
+-35 hp = 50% of flesh remaining (35 days)
+-40 hp = 25% of flesh remaining (40 days)
+-45 hp = comepletely skeleton (45 days)
+-50 hp = dead forever",specialization
+149,Death Knight: Rank 2,"You can no longer become fatigued, but taking a level of fatigue lowers your HP by 15.",specialization
+150,Death Knight: Rank 3,You may now rest in half the time it took you when you were alive,specialization
+151,Death Knight: Rank 4,You are now immune to targeting attacks.,specialization
+152,Death Knight: Rank 6,"When you come into direct contact with food, the food becomes infected. Any who eat this blighted food must make a TN 16 End (Poison Res) test or suffer from terrible diseases",specialization
+153,Death Knight: Rank 7,"Whenever you reduce a creature to 0HP you regain HP equivalent to 1/2 the damage you just dealt to bring them down to 0. (ex: target has 12 Hp remaining, you deal 18 damage to them, you recover 1/2 of 12 = 6 hp)",specialization
+154,Death Knight: Rank 8,You now gain advantage on all Endurance tests,specialization
+155,Death Knight: Rank 9,Death has no hold over you. Take 1/2 damage from all forms of physical attacks.,specialization
+156,Delver: Rank 1,Upon entering a dangerous place you may to choose to be made aware of either the minimum or maximum threat level of the enemies inside.,specialization
+157,Delver: Rank 3,"You may build a Droneboy 9000 to use on a doorway to percieve if there are traps or detection equipment in the area beyond, as well as the area map. The Droneboy 9000 is fueled by an EC (Energy Cell) and can fly for 1 hour on a single charge, OR expend a charge to check for traps. (see specialized gear for more info)",specialization
+158,Delver: Rank 5,Gain an additional +2 to your Dex and Per in the next area immediately after using Droneboy 9000 on an area.,specialization
+159,Delver: Rank 6,"Droneboy 9000 may now run off of a LEC (Large Energy Cell). If it does then it gains 3 additional charges (4 total), and may expend a charge to scan the enemies in the next room. A scan gives you information about the enemies including number, relative threat level, and potential weaknesses.",specialization
+160,Delver: Rank 7,Droneboy9000 may now expend an energy cell charge to alter traps or detection equipment to no longer apply to yourself or allies and now applies to enemies instead.,specialization
+161,Delver: Rank 8,You now gain +3 defense when attacked by an enemy lower than you in the initiative order.,specialization
+162,Delver: Rank 9,"You may expend an energy cell charge to use Droneboy 9000 on the entrance to dungeons, buildings, and other contained dangerous areas to percieve the full map of the location.",specialization
+163,Druid: Rank 2,"You may enrich a small plot of land or area of soil to designate as your garden. This land always receives the benefit of the spell Enrich Vegetation, and you are always aware of the status of these plants even when separated. You must expend 1 MP/day to maintain this arcane garden. ",specialization
+164,Druid: Rank 3,"If you rest in the presence of flourishing plants in nature you recover and become well rested in 1/2 the time, but you cannot become well rested if you are not in the presence of nature.",specialization
+165,Druid: Rank 5,"When using Manipulate Vines while concentrating and communicating with a plant via Green Communion your connection allows for a much stronger spell. Increase the damage dealt from 3d6 to 6d6, and the TN for a foe to break free from being bound from a 14 Str (Might) to 18. ",specialization
+166,Druid: Rank 6,The plants in your garden are now always connected to you via Green Communion. You may cast this spell as a free action when targeting your garden regardless of your location. This expends no additional MP.,specialization
+167,Druid: Rank 8,Casting Floral Portal to return to your garden costs you no MP.,specialization
+168,Druid: Rank 9,"While communicating with plants using Green Communion you may now receive their energy as MP if the plants are willing to spare their energy with you. The amount of MP varies by species, but some ancient groves have nearly limitless MP.",specialization
+169,Drunken Master: Rank 1,"Being buzzed now grants you +1 Dex instead of -1 Dex.
+
+You may also choose to fail End (Poison Res) tests.",specialization
+170,Drunken Master: Rank 3,Being drunk now grants you +2 Dex and you no longer suffer -1 to Per.,specialization
+171,Drunken Master: Rank 4,"If you are under the influence of alcohol, you are immune to all other poisons. ",specialization
+172,Drunken Master: Rank 5,Being plastered now grants you +3 Dex and does not lower your other attributes. You must still roll a Dex (Balance) test to move,specialization
+173,Drunken Master: Rank 6,While under the influence of alcohol you generate 1 additional doubles point whenever you roll doubles.,specialization
+174,Drunken Master: Rank 7,Being wasted now grants you +4 Dex and does not lower your other attributes. You must still roll a Dex (balance) test to move.,specialization
+175,Drunken Master: Rank 8,"You can no longer die from excessive drinking, and consuming additional alcohol once you are wasted resulting in you gaining 5HP. You may not receive the benefits of this healing a second time unless you take damage again.",specialization
+176,Drunken Master: Rank 9,"When making a melee attack while under the influence of alcohol you may choose to attempt to force alcohol onto your enemy instead of making an attack. Roll an Acc (Brawling) test vs their defense. If you win, the opponent drinks the booze.",specialization
+177,Duelist: Rank 3,Your Secondary Attacks may now generate up to 2 doubles points maximum.,specialization
+178,Duelist: Rank 4,You may now make Secondary Attacks while wielding any one-handed weapon in your off hand as long as you still pass the combined Weight Requirement for both weapons.,specialization
+179,Duelist: Rank 6,Making Secondary Attacks may now generate up to 3 doubles points maximum.,specialization
+180,Duelist: Rank 7,Making Secondary Attacks no longer suffer a -2 to hit opponents.,specialization
+181,Duelist: Rank 8,While dual wielding two weapons from the same focus category you may reduce the weight requirement by 1 for each weapon.,specialization
+182,Elementalist: Rank 4,You may cast manipulate element as a minor action. ,specialization
+183,Elementalist: Rank 6,"You gain arcane armor to resist damage from the elements you are skilled at using. This armor is based off of your degree of skill with that element. Novice gives you 5 armor, Adept gives you 10, and Master gives you 15. This arcane armor ONLY applies to elemental damage.",specialization
+184,Elementalist: Rank 8,When casting Manipulate Element you may reduce the TN of the spell by 3 and may now cast the spell as a free action once per turn.,specialization
+185,Elementalist: Rank 9,"Select one of the elements that you have reached master rank with. When casting spells from this element reduce the spell target number by 2, and the MP required to cast by 25%.",specialization
+186,Engineer: Rank 1,You have the ability to build a (BPE) basic powered exoskeleton. This augments different base attributes and grants an armor rating based on the materials it is built from. (30kg of material). See the engineer specific gear section for more details.,specialization
+187,Engineer: Rank 3,You have the ability to install either a (PAC) powered arm cannon or a (PJC) plasma jet cutter into your BPE. These require Energy Cells and have 3 uses/Cell. It is a major action to reload an Energy Cell in this weapon.,specialization
+188,Engineer: Rank 5,You have the ability to add a visual modifier to your BPE with either a (IRV) Infrared Visor or (AVT) Acute Vitality Tracker,specialization
+189,Engineer: Rank 6,You may now Turbo Charge Energy Cells. It takes you 30 min and 10 extra credits worth of materials to modify each Cell. This new design doubles the cell's previous usage before recharge. Likewise RCC can now be performed for 1 less dp.,specialization
+190,Engineer: Rank 7,"You may now convert your (BPE) into an (MPA) Mechanized Power Armor. Requires either Adamantite, Promethium, Mythril, or Astral as building material. (300 kg of material). Grants additional Attribute modifiers, armor ratings, and more.",specialization
+191,Engineer: Rank 8,You can now add the other invention from the Rank 3 Engineer and Rank 5 Engineer to your MPA (mechanized power armor).,specialization
+192,Engineer: Rank 9,You have the ability to invent a (MPA) upgrade for either a (JPT) Jet Propulsion Thruster or a (OHM) Onboard Hovering Mechanism.,specialization
+193,Gambler of Fate: Rank 3,"At the beginning of your turn you may roll a 1d6. If you roll a 5 or 6 you gain an extra minor action. If you roll 2, 3, or 4 nothing happens. If you roll a 1 you lose a minor action.",specialization
+194,Gambler of Fate: Rank 5,A tie roll is always in your favor now. (This usually applies when defending),specialization
+195,Gambler of Fate: Rank 6,"When you are Well Rested you may choose to call mulligan on one of your dice after making a roll letting you reroll a single dice. If the rerolled dice is a 4 or lower, you are no longer Well Rested. If you roll a 1, you become Weary.",specialization
+196,Gambler of Fate: Rank 8,When casting Mystery Swap you may now choose which attribute score you want to trade with your target.,specialization
+197,Gambler of Fate: Rank 9,"Anytime you fail a roll or it doesn't go the way you wanted, you may roll a single dice. If you roll a 1, the result becomes worse, a 2-4 the result is unchanged, but if you roll a 5-6 your luck changes and the failed result becomes in your favor. GM decides the results",specialization
+198,Gladiator: Rank 1,You now gain a bonus d6 called a glory die. This dice can be used either when making an attack or dealing damage. You can expend 1 hour in intense training  to regain a glory die (doing so will leave you Drained). You may also regain a glory die upon defeating an opponent in 1-1 combat or by spending a conviction point.,specialization
+199,Gladiator: Rank 4,"You gain a 2nd Glory die, and now recover a glory die whenever you slay any opponant.",specialization
+200,Gladiator: Rank 5,"At the beginning of the combat encounter you may declare a 1v1 battle against an opponent. If they agree you gain +2 to your Per (Initiative) test, +2 to all damage rolls, and can sway the crowd for 1dp until the 1v1 ends.",specialization
+201,Gladiator: Rank 6,"When attacking an enemy that has been knocked prone, you deal an additional 2d6 damge.",specialization
+202,Gladiator: Rank 7,You gain a 3rd glory die. And may now regain a spent glory die through training for 15 min. If you train this way you will become Weary.,specialization
+203,Gladiator: Rank 8,Deal +1 bonus damage for every 100 people who are watching your fight. ,specialization
+204,Gladiator: Rank 9,You gain a 4th glory die AND whenever you enter 1-on-1 combat will regain all spent glory dice.,specialization
+205,Guardian: Rank 1,Your dex penalty when using shields and armor is now reduced by 1.,specialization
+206,Guardian: Rank 4,Your dex penalty when using shields and armor is now reduced by a total of 2.,specialization
+207,Guardian: Rank 5,When you are protecting an ally your shield's physical armor bonus is considered 2 higher than normal. ,specialization
+208,Guardian: Rank 6,Protect now applies to all allies within 2 m of you.,specialization
+209,Guardian: Rank 7,Your dex penalty when using shields and armor is now reduced by a total of 3.,specialization
+210,Guardian: Rank 8,Protecting an ally is now a minor action.,specialization
+211,Guardian: Rank 9,You may now add your End attribute to your Physical Armor.,specialization
+212,Gunfighter: Rank 3,You may now make a Secondary Shot with any one-handed gun in your off hand. This weapon is considered to have +1 to its weight requirement.,specialization
+213,Gunfighter: Rank 4,Attacks made in your short range gain +2 to hit opponents. ,specialization
+214,Gunfighter: Rank 5,You may now reload two pistols at once as a minor action.,specialization
+215,Gunfighter: Rank 6,Secondary Shot attacks may now generate up to 2 doubles points.,specialization
+216,Gunfighter: Rank 7,The Lightning Shot stunt may now be performed for 3dp instead of 5.,specialization
+217,Gunfighter: Rank 9,You are fully aware of the inner workings of your firearms. You can now reload a single pistol as a free action once per turn.,specialization
+218,Hunter: Rank 3,Your bonus for marking an enemy is now doubled for all moderate level threats and below.,specialization
+219,Hunter: Rank 4,When you mark a target you now gain +2 towards all damage rolls. (rank 3 doubling applies),specialization
+220,Hunter: Rank 5,Your bonus for marking an enemy is now doubled for all major level threats and below.,specialization
+221,Hunter: Rank 6,You may now mark a target as a free action once per turn.,specialization
+222,Hunter: Rank 7,Your bonus for marking an enemy is now doubled for all dire level threats and below.,specialization
+223,Hunter: Rank 8,You can now mark a number of targets equal to your perception attribute.,specialization
+224,Hunter: Rank 9,"Your bonus for marking an enemy is now doubled for all legendary level threats and below. In addition, you will always have a vague sense of where a marked target is.",specialization
+225,Juggler: Rank 1,"If you use a major action to throw an item in combat prior to making a movement action, you may move at double your normal movement speed during any subsequent movement actions.",specialization
+226,Juggler: Rank 3,"If an item is thrown at you in combat and you are able to dodge based on your defense, you may choose to catch the item as a Free Action instead of dodging it.",specialization
+227,Juggler: Rank 4,"When you throw items, you no longer suffer a penalty for throwing past your short range.",specialization
+228,Juggler: Rank 5,"When juggling to impress others as a Cha (Performance) test, you may now add your Throwing focus bonus to your test result.",specialization
+229,Juggler: Rank 6,You may throw any light weapon as a minor action.,specialization
+230,Juggler: Rank 7,You may now perform Double Time for 2 less doubles points.,specialization
+231,Juggler: Rank 8,You may choose to catch all items thrown at you regardless of your defense or the opponent's attack roll.,specialization
+232,Juggler: Rank 9,You may modify any 1 of your weapons to turn it into a boomerang. It will return to you immediately after hitting a target and dealing damage.,specialization
+233,Knight: Rank 1,When defending someone you perceive to be innocent and virtuous you deal 1d6 extra physical damage and gain +2 to Heart (Courage) tests,specialization
+234,Knight: Rank 3,"Your dex penalty for wearing armor is reduced by 1, and your armor is so shiny it halves the effective range of projectile weapons when fired against you. However you suffer a -1  towards Dex (Stealth) tests.",specialization
+235,Knight: Rank 4,"You are a Knight trained in the art of combat. When wielding Medium Weapons you cannot be disarmed, skirmished, or knocked prone.",specialization
+236,Knight: Rank 5,"You may now add your Hrt (Morality) focus modifier (+1, +2, or +3)  as bonus physical damage when making melee attacks.",specialization
+237,Knight: Rank 6,"You have gained enough fame to take on a squire. The squire must be willing, and respect you. It is your duty to instill in the squire your sense of virtues. Your squire starts as a lvl 3 Rank 1 knight.",specialization
+238,Knight: Rank 7,Your dex penalty for wearing armor is further reduced by 1 and is now so shiny that when you are being attacked the tie goes to defender [you] instead of the attacker. You suffer an additional -1 (-2 total) to Stealth though.,specialization
+239,Knight: Rank 8,"When fighting unvirtuous foes your heroic aura protects you from gaining fatigue of any kind. Any fatigue you would have accumulated, gets applied after the battle. (this could kill you)",specialization
+240,Knight: Rank 9,When fighting against truly unvirtuous foes your virtue shines through. Your blade deals an additional 2d6 damage and is considered to be arcane. (this may be combined with Sword of Truth),specialization
+241,Mage Hunter: Rank 1,Gain permanent arcane armor equal to your Mage Hunter level. You may also make Wis (Intuition) tests to detect traces of arcana. TN determined by the spell rating and time since the spell was cast. GM discretion,specialization
+242,Mage Hunter: Rank 3,"When attacking a target that cast a spell within the last 3 rounds of combat, your attack deals extra damage equal to your level as a Mage Hunter.",specialization
+243,Mage Hunter: Rank 4,Spells that target you increase the TN for the caster by 2.,specialization
+244,Mage Hunter: Rank 5,The Spellbreaker stunt now applies to ongoing Adept level spells (for 4dp). AND Your physical armor now adds to your arcane armor.,specialization
+245,Mage Hunter: Rank 6,"When you are targeted by an enemy spell whether it is successful or not, your next attack deals +2d6 extra damage towards that enemy as a counterattack.",specialization
+246,Mage Hunter: Rank 7,"Your infamy now alters the battle. After using any of your Mage Hunter abilities against an enemy mage of threat level major or below, the opponent must make a Hrt (Courage) test vs your Str (Intimidation) If they fail, they attempt to flee from battle, if they succeed, they must target you.",specialization
+247,Mage Hunter: Rank 8,Your spellbreaker stunt can now disrupt ongoing master level spells (for 6dp).,specialization
+248,Mage Hunter: Rank 9,While in combat all enemy spells must target you as long as both the caster and original target are within 50 m of your position.,specialization
+249,Martial Artist: Rank 1,Attacks with martial weapons gain damage equal to your Dex attribute modifer. You may also carry a number of unequiped weapons equal to your Martial Artist rank without needing to pass a Weight requirement.,specialization
+250,Martial Artist: Rank 4,"As long as your Dex attribute is higher than your opponant's, you now no longer suffer from the foe getting to take an attack of opportunity against you when you disengage or flee from combat.",specialization
+251,Martial Artist: Rank 5,You may switch weapons once per turn as a free action. Every time you switch weapons you gain +2 towards hitting the opponent on your next attack.,specialization
+252,Martial Artist: Rank 8,You may now perform Paralyzing Blow as a combat stunt with any martial weapon for 8dp.,specialization
+253,Martial Artist: Rank 9,Reduce the cost of all combat stunts by 2 dp. (minimum 1dp). ,specialization
+254,Medic: Rank 1,When you heal others with First Aid you may now add your Medic level to the amount of HP the target recovers.,specialization
+255,Medic: Rank 3,Your knowledge of the body gives you a +2 towards targeting attacks for humanoid creatures.,specialization
+256,Medic: Rank 4,You may now perform the First Aid action as a minor action. You may also improvise healing materials without penalty with the GM's discretion,specialization
+257,Medic: Rank 6,As the medic you must not fall and you have trained to avoid attacks. After healing someone gain +2 defense until your next turn.,specialization
+258,Medic: Rank 7,"Out of combat, you may tend to up to 3 others while they are making a short rest where they gain the benefits of a long rest instead.",specialization
+259,Medic: Rank 8,Your medical knowledge now allows you to bring back those others may have already declared dead. Roll a TN 21 Int (Healing) test to bring back a dead character. Add +3 for each round (minute) past death.,specialization
+260,Medic: Rank 9,If an ally enters a dying state on the battlefield in your line of sight you may immediately take the effects of a conviction point without expending one of your conviction points.,specialization
+261,Mentalist: Rank 3,"During combat encounters roll a single dice. If 1-3, then all enemies below you in the initiative order ignore you for the first round of combat. If 4-6, then all enemies above you in the initiative order ignore you for the first round of combat",specialization
+262,Mentalist: Rank 5,You may now add your Cha attribute modifier towards your spell power when casting Mentalist spells.,specialization
+263,Mentalist: Rank 6,"You have mastered the art of reading people. You can spend 10 minutes talking to someone and you will learn about their class, level, attributes, talents, speccializations, focuses, and background.",specialization
+264,Mentalist: Rank 8,You can easily predict your enemies' next move. At the beginning of each combat encounter gain +2 to Dexterity or gain +4 to Perception.,specialization
+265,Monk: Rank 1,"When you take a Breather (15 min rest) you may meditate in an attempt to ""Seek Enlightnenment"" by making a Hrt (Meditation) roll to restore additional HP equal to half your test result (rounded down). ",specialization
+266,Monk: Rank 4,Your brawling attacks now deal bonus arcane damage equal to your Hrt attribute.,specialization
+267,Monk: Rank 5,Your training as a monk has enabled you to use Defend as a minor action.,specialization
+268,Monk: Rank 6,"""Seeking Enlightenment"" while resting can now be used to overcome debilitating effects or level 2 fatigue (drained). The Hrt (Meditation) TN varies by affliction/effect. ",specialization
+269,Monk: Rank 7,Your brawling attacks now fully deal arcane damage instead of physical damage. (in addition to the bonus damage dealt from Monk-Rank 4),specialization
+270,Monk: Rank 8,"You may spend your entire turn in combat to ""Seek Enlightenment"" to gain the full effects of a 'Breather'. This normally takes 15 min. You can only perform this once per encounter.",specialization
+271,Monk: Rank 9,Quick Jab no longer suffers any penalties to attack.,specialization
+272,Necromancer: Rank 2,"Select one of the following summon spells: zombie, human skeleton, ghost
+You may now summon an elite version of this creature (See Game Info/Creature Upgrade Table). Doing so will double the MP cost of summoning.",specialization
+273,Necromancer: Rank 3,"You may now summon an undead of any minor threat creature to use as a mount. This creature will be summoned as either a zombie, skeleton, or ghost depending on your rank 2 proficiency.",specialization
+274,Necromancer: Rank 5,Your Elite creature may now be summoned as a Herioc version of that creature (See Game Info/Creature Upgrade Table). Doing this triples the cost of the original spell. This summon now has intelligence and command other undead in your stead. It will also stay summoned indefinitely until defeated.,specialization
+275,Necromancer: Rank 6,Reduce the MP cost of your Necromancy spells by 1 for every visable dead creature within 30 m of you (undead do not count).,specialization
+276,Necromancer: Rank 9,Your heroic creature may now be summoned as an legendary version of that creature (See Game Info/Creature Upgrade Table). Doing this quadruples the cost of the original spell.,specialization
+277,Noble: Rank 1,Flaunting your nobility to someone now gives you a +2 bonus to your Charisma for the next 10 minutes. You may only do this once per day per target. This ability does not stack.,specialization
+278,Noble: Rank 3,"Whenever you attack an opponent with less Cha than you, the opponent suffers a -2 penalty to all rolls until the end of the round (resets at the beginning of initiative).",specialization
+279,Noble: Rank 4,Whenever an ally generates doubles points you also gain a single doubles point. You must use that doubles point on your next turn. Stackable,specialization
+280,Noble: Rank 5,All focuses you have gain an additional +1 when making tests.,specialization
+281,Noble: Rank 6,Select a single attribute test focus. When making rolls for that test you always gain advantage.,specialization
+282,Noble: Rank 7,Your defense is now equal to 10 + Charisma instead of 10 + Dex.,specialization
+283,Noble: Rank 8,"Once per encounter, before rolling initiative, if you can communicate with the potential combatants, make a Cha (Persuasion) vs Hrt (Empathy). If you succeed the opponents must listen to what you have to say for 1 min, and cannot attack unless they are attacked first.",specialization
+284,Noble: Rank 9,Select a single attribute group. When making any tests from that attribute you always have advantage. (does not stack with Rank 6),specialization
+285,Orator: Rank 3,You may now add your Int (Harmonics) focus bonus to  Perception hearing tests,specialization
+286,Orator: Rank 5,You no longer need to see a target to cast Harmonic spells on them. As long as they can hear you you can affect them with arcana. Doing so adds a +2 to the spell's target number.,specialization
+287,Orator: Rank 6,While Well Rested your Wards and Force Fields gain +2 to their spellpower.,specialization
+288,Orator: Rank 8,Increase the TN that foes must roll to avoid the negative effects of Bass Boost by +3,specialization
+289,Orator: Rank 9,You may now expend a level of fatigue to target all creatures within hearing range for any of your sound based spells.,specialization
+290,,,specialization
+291,,,specialization
+292,,,specialization
+293,,,specialization
+294,,,specialization
+295,,,specialization
+296,,,specialization
+297,,,specialization
+298,,,specialization
+299,,,specialization
+300,,,specialization
+301,,,specialization
+302,,,specialization
+303,,,specialization
+304,,,specialization
+305,,,specialization
+306,,,specialization
+307,,,specialization
+308,,,specialization
+309,,,specialization
+310,,,specialization
+311,,,specialization
+312,,,specialization
+313,,,specialization
+314,,,specialization
+315,,,specialization
+316,,,specialization
+317,,,specialization
+318,,,specialization
+319,,,specialization
+320,,,specialization
+321,,,specialization
+322,,,specialization
+323,,,specialization
+324,,,specialization
+325,,,specialization
+326,,,specialization
+327,,,specialization
+328,,,specialization
+329,,,specialization
+330,,,specialization
+331,,,specialization
+332,,,specialization
+333,,,specialization
+334,,,specialization
+335,,,specialization
+336,,,specialization
+337,,,specialization
+338,,,specialization
+339,,,specialization
+340,,,specialization
+341,,,specialization
+342,,,specialization
+343,,,specialization
+344,,,specialization
+345,,,specialization
+346,,,specialization
+347,,,specialization
+348,,,specialization
+349,,,specialization
+350,,,specialization
+351,,,specialization
+352,,,specialization
+353,,,specialization
+354,,,specialization
+355,,,specialization
+356,,,specialization
+357,,,specialization
+358,,,specialization
+359,,,specialization
+360,,,specialization
+361,,,specialization
+362,,,specialization
+363,,,specialization
+364,,,specialization
+365,,,specialization
+366,,,specialization
+367,,,specialization
+368,,,specialization
+369,,,specialization
+370,,,specialization
+371,,,specialization
+372,,,specialization
+373,,,specialization
+374,,,specialization
+375,,,specialization
+376,,,specialization
+377,,,specialization
+378,,,specialization
+379,,,specialization
+380,,,specialization
+381,,,specialization
+382,,,specialization
+383,,,specialization
+384,,,specialization
+385,,,specialization
+386,,,specialization
+387,,,specialization
+388,,,specialization
+389,,,specialization
+390,,,specialization
+391,,,specialization
+392,,,specialization
+393,,,specialization
+394,,,specialization
+395,,,specialization
+396,,,specialization
+397,,,specialization
+398,,,specialization
+399,,,specialization
+400,,,specialization

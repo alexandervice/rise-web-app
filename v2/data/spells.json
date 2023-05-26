@@ -593,7 +593,7 @@
     "mpCost": "12",
     "actionType": "Major",
     "range": "Varies",
-    "targetArea": "Self",
+    "targetArea": "2 Target plants",
     "description": "Select a plant within your range of sight to be linked to another plant that you are familiar with and link the two with a druidic portal. Any creature who steps into one of these plants will be instantaneously transported to the other as long as you maintain this spell.",
     "targetNumber": "11+ familiarity",
     "duration": "",
@@ -2079,7 +2079,7 @@
     "actionType": "Major",
     "range": "25 m",
     "targetArea": "1 Target",
-    "description": "Select a target and roll a random number between 1 and 9 (via RNG or by rolling two 1d3s). These numbers correspond with the attributes of the target (1 = End, 2 = Str…). You and the target swap the corresponding attribute modifier, as well as any focuses either of you possess. ",
+    "description": "Select a target and roll a random number between 1 and 9. These numbers correspond with the attributes of the target (1 = End, 2 = Str…). You and the target swap the corresponding attribute modifier, as well as any focuses either of you possess.",
     "targetNumber": "12",
     "duration": "3 Rounds",
     "concentration": "X"
