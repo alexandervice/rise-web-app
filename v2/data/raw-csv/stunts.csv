@@ -65,7 +65,7 @@
 64,Free Casting,level table,4,You may cast this spell for 1/2 MP
 65,Split Arcana,level table,5,"This spell may now affect one additional target as long as they are within spell range of you, and the original target."
 66,Grenadier,specialization,2,Immediately ready and throw a grenade that you have in your inventory.
-67,Spirit Armor,specialization,3,Your Ancestral Spirit grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body.
+67,Spirit Armor,specialization,3,Your Patron grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body.
 68,Must Have Been the Wind,specialization,5,"If performing this action while sneaking, your stealth is not broken."
 69,Sunder Armor,specialization,3,Damage medium or heavy armors and reduce it's physical armor rating by 2 until it is fixed.
 70,Barbarian Smash,specialization,3,"When attacking an enemy wielding or using a tech or arcane based tool, you may smash said tool rendering it unusable until it is fixed."
@@ -111,13 +111,13 @@
 110,Crippling Shot,specialization,3,Your shot hits your opponent in the legs knocking them prone and halving their movement speed for the next 3 rounds.
 111,Repositioning,specialization,2,You may change location and move up to 1/2 your movement speed immediately after firing a projectile.
 112,Vengeful Blow,specialization,3,Your sworn enemy must die. Your attack against your designated species deals 2d6 extra damage and penetrates the opponent's armor.
-113,Abra-ca-stab-ya,specialization,3,Immediately after casting a Spellsword spell you may make a melee atack or vice-versa.
-114,The richer they are...,specialization,3,Deal +1d6 more damage for every 1000 credits the foe is carrying on their person.
+113,Abra-ca-Stab-ya,specialization,3,Immediately after casting a Spellsword spell you may make a melee atack or vice-versa.
+114,The Richer They Are...,specialization,3,Deal +1d6 more damage for every 1000 credits the foe is carrying on their person.
 115,What are Friends For?,specialization,3,The character you are interacting with begins to see you as a friend. The next time you lie or try to fool them gain a +3 Cha (Deception) towards this target.
 116,Fast Casting,specialization,4,"After you resolve casting a spell, you may immediately cast another spell. This second spell does not generate doubles points."
 117,Combined Arms,specialization,3,"After you make a melee attack, a squadmate may make an immediate attack with firearms and vice-versa."
 118,A Cut Above,talent,2,"When evaluating goods you notice that a particular piece has caught your eye. This item is a higher rank than it's counterparts. These are often worth more, have special abilities, or represent specific groups or faiths."
-119,Fierce Bolt,talent,3,Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone.
+119,Fierce Bolt,specialization,3,Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone.
 120,Drinking Buddies,talent,2,The character you are drinking with now views you as someone they trust. They are more likely to go out of their way to help you. 
 121,Create Handhold,talent,2,While climbing you are able to find handholds in the surface you are climbing. Anyone with knowledge of the handholds you have found gains +2 to further climbing tests.
 122,Know a Guy,talent,3,You just remembered you have a friend of a friend who's mother's brother's neice lives in this city. This contact will be willing to give you information for free.
