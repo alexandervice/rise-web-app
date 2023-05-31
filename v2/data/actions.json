@@ -493,7 +493,7 @@
     "id": 71,
     "name": "Dantalion's Passion",
     "actionType": "Major",
-    "description": "Channel the passion of Dantalion and roll a Hrt (Faith) test and deal 3d6 + Hrt arcane damage to all targets in a 10m radius. Targets must roll Dex (Acrobatics) test vs your faith test. If succesful, they take no damage.",
+    "description": "Channel the passion of Dantalion and roll a Hrt (Faith) test and deal 3d6 + Hrt arcane fire damage to all targets in a 10m radius. Targets must roll Dex (Acrobatics) test vs your faith test. If succesful, they take no damage.",
     "origin": "constellation"
   },
   {

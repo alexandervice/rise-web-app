@@ -1838,13 +1838,13 @@
   {
     "id": 307,
     "name": "Paladin: Rank 3",
-    "description": "Gain the favor of your Constellation, and one adept level spell from your constellation's element. If you follow no constellation, you can choose from any elemental spell.",
+    "description": "Gain the favor of your Constellation.",
     "origin": "specialization"
   },
   {
     "id": 308,
     "name": "Paladin: Rank 4",
-    "description": "You may now cast spells of the same elemental type of your constellation with your Hrt (Faith) roll instead of Int (Elemancy).",
+    "description": "You now recieve half damage (rounded up) from all elemental attacks from your constellation's element.",
     "origin": "specialization"
   },
   {
@@ -1856,7 +1856,7 @@
   {
     "id": 310,
     "name": "Paladin: Rank 6",
-    "description": "All damage from your melee or ranged weapons deals additional arcane damage equal to your Hrt+Faith bonus. This additional damage is elemental based on your Constellation's element.",
+    "description": "Your weapon becomes enveloped in your constellation's element. All damage from your melee or ranged weapons deal additional arcane damage equal to your Hrt+Faith bonus. This additional damage is elemental based on your Constellation's element.",
     "origin": "specialization"
   },
   {
@@ -1868,7 +1868,7 @@
   {
     "id": 312,
     "name": "Paladin: Rank 8",
-    "description": "Casting spells from your Constellation's element now cost 1/2 the required MP.",
+    "description": "Once per day you may cast a single spell from your Constellation's respective element as a free action without needing to make a roll, or expend MP. Concentration is resolved normally, and if the spell requires your spell power you must make a Hrt (Faith) test to represent the spell power.",
     "origin": "specialization"
   },
   {
@@ -3313,26 +3313,50 @@
   },
   {
     "id": 553,
-    "name": "Atheist's Fortune",
+    "name": "Anti-theist's Fortune",
     "description": "Gain a bonus to Cha (Persuasion) equal to your Hrt + Faith towards convincing others of the folley of the Constellations.",
-    "origin": "constellation"
+    "origin": "specialization"
   },
   {
     "id": 554,
-    "name": "Atheist's Favor",
-    "description": "Gain bonus armor equal to your Hrt + Faith bonus towards those who serve the constellations.",
-    "origin": "constellation"
+    "name": "Anti-theist's Favor",
+    "description": "Gain bonus physical and arcane armor equal to your Hrt + Faith bonus towards those who serve the constellations.",
+    "origin": "specialization"
   },
   {
     "id": 555,
-    "name": "Atheist's Gift",
+    "name": "Anti-theist's Gift",
     "description": "Gain bonus physical damage equal to your Hrt + Faith bonus when attacking those who serve the constellations.",
-    "origin": "constellation"
+    "origin": "specialization"
   },
   {
     "id": 556,
-    "name": "Atheist's Blessing",
-    "description": "Whenever a follower of a constellation uses a power against you via a Hrt (Faith) test, you may make an opposed Hrt (Faith) test. If you succeed, then you negate the effect of the ability they were trying to use.",
-    "origin": "constellation"
+    "name": "Anti-theist's Blessing",
+    "description": "Whenever a follower of a constellation uses a power against you via a Hrt (Faith) test, you may make an opposed Hrt (Faith) test. If you succeed, then you negate the effects of the ability they were trying to use.",
+    "origin": "specialization"
+  },
+  {
+    "id": 557,
+    "name": "Anti-Paladin: Rank 2",
+    "description": "When interacting with worshipers of the Constellations gain a bonus to your Charisma equal to your Hrt (faith) focus bonus.",
+    "origin": "specialization"
+  },
+  {
+    "id": 558,
+    "name": "Anti-Paladin: Rank 4",
+    "description": "You recieve half damage from all damage sources that take power from the constellations. (normal elemental damage does not count).",
+    "origin": "specialization"
+  },
+  {
+    "id": 559,
+    "name": "Anti-Paladin: Rank 6",
+    "description": "All damage from your melee or ranged weapons deals additional arcane damage equal to your Hrt+Faith bonus.",
+    "origin": "specialization"
+  },
+  {
+    "id": 560,
+    "name": "Anti-Paladin: Rank 8",
+    "description": "Gain advantage on Hrt (Faith) tests.",
+    "origin": "specialization"
   }
 ]
