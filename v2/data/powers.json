@@ -1087,25 +1087,25 @@
   },
   {
     "id": 182,
-    "name": "Elementalist: Rank 4",
+    "name": "Elemancer: Rank 4",
     "description": "You may cast manipulate element as a minor action. ",
     "origin": "specialization"
   },
   {
     "id": 183,
-    "name": "Elementalist: Rank 6",
+    "name": "Elemancer: Rank 6",
     "description": "You gain arcane armor to resist damage from the elements you are skilled at using. This armor is based off of your degree of skill with that element. Novice gives you 5 armor, Adept gives you 10, and Master gives you 15. This arcane armor ONLY applies to elemental damage.",
     "origin": "specialization"
   },
   {
     "id": 184,
-    "name": "Elementalist: Rank 8",
+    "name": "Elemancer: Rank 8",
     "description": "When casting Manipulate Element you may reduce the TN of the spell by 3 and may now cast the spell as a free action once per turn.",
     "origin": "specialization"
   },
   {
     "id": 185,
-    "name": "Elementalist: Rank 9",
+    "name": "Elemancer: Rank 9",
     "description": "Select one of the elements that you have reached master rank with. When casting spells from this element reduce the spell target number by 2, and the MP required to cast by 25%.",
     "origin": "specialization"
   },
