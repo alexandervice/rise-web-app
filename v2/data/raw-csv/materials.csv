@@ -1,0 +1,14 @@
+﻿id,name,costModifier,weapon/damageBonus,weapon/attackBonus,weapon/weight,weapon/property,armor/physArmor,armor/dexPenalty,armor/weight,armor/property
+1,Iron,1,0,0,0,,0,,,
+2,Steel,5,1,0,0,,1,,,
+3,Black Steel,10,2,0,0,,2,,,
+4,Orichalcum,10,0,1,0,,0,,,
+5,Tritanium ,10,0,0,0,,0,,,
+6,Adamantite,50,3,,,,3,,,
+7,Mythril,50,0,,,,0,,,
+8,Prometheum,50,0,,,,0,,,
+9,Astral,100,2,,,,2,,,
+10,Stone,0.5,0,,,Brittle. Stone weapons will break after 3 stunts are used with them.,0,0,0,Brittle. Stone armor breaks after it is hit by 3 stunts.
+11,Wood,varies,varies,varies,varies,Effects vary based on type of wood used. Consult with the GM.,varies,varies,varies,Effects vary based on type of wood used. Consult with the GM.
+12,Bone,varies,varies,varies,varies,Effects vary based on what creature the bone came from. Consult with the GM.,varies,varies,varies,Effects vary based on what creature the bone came from. Consult with the GM.
+13,Hide,varies,,,,,varies,varies,varies,Effects vary based on what creature the hide came from. Consult with the GM.
