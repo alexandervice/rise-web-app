@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Alchemist",
     "description": "Using alteration, crafting, and alchemy to  create and prepare explosives, granades, and more. Change iron to steel, copper to gold.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Acc",
@@ -60,6 +61,7 @@
     "id": 2,
     "name": "Assassin",
     "description": "Focuses on stealth, silence, and one-shot kills.",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Acc",
@@ -117,6 +119,7 @@
     "id": 3,
     "name": "Barbarian",
     "description": "Less is more, they seek victory by brute strength alone. No trickery here.",
+    "image": "",
     "recommendedAttributes": [
       "Str",
       "End",
@@ -174,6 +177,7 @@
     "id": 4,
     "name": "Bard",
     "description": "Influencing others is the way to play. Use story and song to save the day.",
+    "image": "",
     "recommendedAttributes": [
       "Cha",
       "Dex",
@@ -231,6 +235,7 @@
     "id": 5,
     "name": "Beastmaster",
     "description": "Let your animal friends do all the dirty work. Gotta catch em all! ",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Wis",
@@ -288,6 +293,7 @@
     "id": 6,
     "name": "Berserker",
     "description": "Rage fuels these mighty warriros, they can ignore pain, and they fight to the end past what would kill a normal warrior.",
+    "image": "",
     "recommendedAttributes": [
       "Str",
       "Hrt",
@@ -345,6 +351,7 @@
     "id": 7,
     "name": "Blood Mage",
     "description": "Bloodmages have found a way to cast their spells without relying on MP. By using blood they gain power and manipulate arcana.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Wis",
@@ -402,6 +409,7 @@
     "id": 8,
     "name": "Blooded",
     "description": "The blooded absorb power from the flesh & blood of those they have slain. They are often associated with serial killers and cannibals, however some choose to only eat the flesh of animals and creatures.",
+    "image": "",
     "recommendedAttributes": [
       "End",
       "Dex",
@@ -459,6 +467,7 @@
     "id": 9,
     "name": "Champion",
     "description": "Rallying their allies on the battlefield, the champion gives even the worst outcomes hope.",
+    "image": "",
     "recommendedAttributes": [
       "End",
       "Hrt",
@@ -516,6 +525,7 @@
     "id": 10,
     "name": "Cleric",
     "description": "The worlds greatest healers, able to mend bones, cure disease, and even prevent death.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "End",
@@ -573,6 +583,7 @@
     "id": 11,
     "name": "Commander",
     "description": "The true leader on the battlefield. Commanding their armies and allies from the frontlines. The commander will bring their people victory.",
+    "image": "",
     "recommendedAttributes": [
       "Cha",
       "End",
@@ -630,6 +641,7 @@
     "id": 12,
     "name": "Death Knight",
     "description": "A lone knight falls amongst his slain comrades. As they lay dying, the knight's hatred and regret grows to the point where they will evade death until they have taken their revenge.",
+    "image": "",
     "recommendedAttributes": [
       "End",
       "Str",
@@ -687,6 +699,7 @@
     "id": 13,
     "name": "Delver",
     "description": "Explorer of the vast lands and ruins of the world. Careful not to delve into a dungeon deeper than you can climb out!",
+    "image": "",
     "recommendedAttributes": [
       "Per",
       "Dex",
@@ -744,6 +757,7 @@
     "id": 14,
     "name": "Druid",
     "description": "Friend to nature, you would rather be around plants and spend time in your garden than among people. Manipulate plants to attack your foes and cast powerful support spells using them.",
+    "image": "",
     "recommendedAttributes": [
       "Wis",
       "Hrt",
@@ -801,6 +815,7 @@
     "id": 15,
     "name": "Drunken Master",
     "description": "Your body has adapted to alcohol, and now gains power and strength from drinking.",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "End",
@@ -858,6 +873,7 @@
     "id": 16,
     "name": "Duelist",
     "description": "You have two hands, why not use two weapons? Seriously what a waste.",
+    "image": "",
     "recommendedAttributes": [
       "Acc",
       "Str",
@@ -915,6 +931,7 @@
     "id": 17,
     "name": "Elemancer",
     "description": "Only the Avatar, master of all the elements, could stop them, but when the world needed them most, they vanished. (go deep with one or shallow with many)",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Dex",
@@ -972,6 +989,7 @@
     "id": 18,
     "name": "Engineer",
     "description": "You make it your goal to design, build, and modify weapons and armor to suit your needs. Plasma sword anyone? Mech suit? ",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Int",
@@ -1029,6 +1047,7 @@
     "id": 19,
     "name": "Gambler of Fate",
     "description": "All or nothing, you guide the strings of fate and weave them to create the pattern you desire. This power could easily slip through your fingers though if your luck runs out.",
+    "image": "",
     "recommendedAttributes": [
       "Wis",
       "Cha",
@@ -1086,6 +1105,7 @@
     "id": 20,
     "name": "Gladiator",
     "description": "You are at your strongest when the crowds are cheering you on. You thrive in the one on one battle arena. You are the gladiator.",
+    "image": "",
     "recommendedAttributes": [
       "End",
       "Str",
@@ -1143,6 +1163,7 @@
     "id": 21,
     "name": "Guardian",
     "description": "Protect and serve. You live to guard those whom you have given your life to. Your live your life as a shield, so you better not go down, they are relying on you.",
+    "image": "",
     "recommendedAttributes": [
       "End",
       "Str",
@@ -1200,6 +1221,7 @@
     "id": 22,
     "name": "Gunfighter",
     "description": "Guns blazing is an excellent motto. Especially the guns part. Lots of them. ",
+    "image": "",
     "recommendedAttributes": [
       "Acc",
       "Dex",
@@ -1257,6 +1279,7 @@
     "id": 23,
     "name": "Hunter",
     "description": "Once you have set your mind to finding your target, they will never escape you. They can run, but they can't hide.",
+    "image": "",
     "recommendedAttributes": [
       "Per",
       "Dex",
@@ -1314,6 +1337,7 @@
     "id": 24,
     "name": "Juggler",
     "description": "Specialized in throwing all sorts of weapons or tools. Throw a dagger at an enemy, toss an ally a potion, or juggle flaming swords to impress a crowd.",
+    "image": "",
     "recommendedAttributes": [
       "Acc",
       "Dex",
@@ -1371,6 +1395,7 @@
     "id": 25,
     "name": "Knight",
     "description": "Valient and honorable. The knight is the epitome of what a warrior should strive to become. Don't forget to save the damsel in distress.",
+    "image": "",
     "recommendedAttributes": [
       "Str",
       "Hrt",
@@ -1428,6 +1453,7 @@
     "id": 26,
     "name": "Mage Hunter",
     "description": "You specialize in hunting down and eliminating users of magic. Resist and deflect magic with your shield, and cut through their defenses with your sword.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Str",
@@ -1485,6 +1511,7 @@
     "id": 27,
     "name": "Martial Artist",
     "description": "Mastery of weapons, fast as the wind. Silent and deadly. You prefer subs over dubs.",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Acc",
@@ -1542,6 +1569,7 @@
     "id": 28,
     "name": "Medic",
     "description": "Deftly provides support while out in the field, dodging all attacks to bring aide and healing to their wounded teammates.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "End",
@@ -1599,6 +1627,7 @@
     "id": 29,
     "name": "Mentalist",
     "description": "Manipulate the weak minded, confound the foolish, and become the center of attention. Their minds are like putty in your hands.",
+    "image": "",
     "recommendedAttributes": [
       "Wis",
       "Cha",
@@ -1656,6 +1685,7 @@
     "id": 30,
     "name": "Monk",
     "description": "Meditation is the key to enlightenment. Channel your inner energy into your fists and bring balance to the world.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Acc",
@@ -1713,6 +1743,7 @@
     "id": 31,
     "name": "Necromancer",
     "description": "The Necromancer is a master over death itself. They study the deep and forbidden secrets long since forbidden by the Constellations. ",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "End",
@@ -1770,6 +1801,7 @@
     "id": 32,
     "name": "Noble",
     "description": "I'm very important. I have many leather-bound books and my apartment smells of rich mahogany.",
+    "image": "",
     "recommendedAttributes": [
       "Cha",
       "Per",
@@ -1827,6 +1859,7 @@
     "id": 33,
     "name": "Orator",
     "description": "You are master of words and sound. Sticks and stones may break your bones, but an Orator's words WILL kill you.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Per",
@@ -1884,6 +1917,7 @@
     "id": 34,
     "name": "Outrider",
     "description": "Your steed will carry you to the ends of the earth. Faster and faster you ride. Able to wield weapons with ease while mounted",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Dex",
@@ -1941,6 +1975,7 @@
     "id": 35,
     "name": "Pacifist",
     "description": "You have a strong aversion to violence and prefer to use your words and actions to diffuse  combat scenarios. All NPC adversaries have the potential to be convinced to halt combat and reach a peaceful resolution. ",
+    "image": "",
     "recommendedAttributes": [
       "Cha",
       "Hrt",
@@ -1998,6 +2033,7 @@
     "id": 36,
     "name": "Paladin: Anti",
     "description": "You serve no God, in fact you believe the Constellations are the primary cause of most pain and suffering in the world. Your zeal against the Constellations counteracts the powers of those who do believe in them.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Cha",
@@ -2055,6 +2091,7 @@
     "id": 37,
     "name": "Pirate",
     "description": "Yaharrg matey, a pirates life be about sailing the seas (or lands or skies) in search of Treasure. Damned be the fools who get in your way!",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Per",
@@ -2112,6 +2149,7 @@
     "id": 38,
     "name": "Planes Walker",
     "description": "Space-Time is no obstacle to you. Your pocket dimensions grant you incredible versatility, and your mobility is unmatched among mortals. This power comes from your otherworldy tattoos.",
+    "image": "",
     "recommendedAttributes": [
       "Wis",
       "Int",
@@ -2169,6 +2207,7 @@
     "id": 39,
     "name": "Potions Master",
     "description": "A Master at creating and administering potions of all kinds from deadly toxins, venoms, and poisons as well as restoritive, supportive, and strength potions.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Per",
@@ -2226,6 +2265,7 @@
     "id": 40,
     "name": "Rampager",
     "description": "Born of grief and loss, you gave into the darkness of your Berserker rage. Blinded to everything but masacre and destruction you rampage across the battlefield cleaving friend and foe alike.",
+    "image": "",
     "recommendedAttributes": [
       "Str",
       "Acc",
@@ -2283,6 +2323,7 @@
     "id": 41,
     "name": "Razor",
     "description": "Your power is proportional to your lifeforce. Your blood makes your weapons and abilities stronger. The weaker you become the stronger you are.",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Per",
@@ -2340,6 +2381,7 @@
     "id": 42,
     "name": "Samurai",
     "description": "Warriors of old, wielding techniques perfected and passed down through countless generations. There is very little, if anything, they hold more value in than their honor.",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Str",
@@ -2397,6 +2439,7 @@
     "id": 43,
     "name": "Seer",
     "description": "Visions and insight have always come to you in dreams or awake. Some of them come to pass exactly the way you have seen them, others you try to keep coming to pass.",
+    "image": "",
     "recommendedAttributes": [
       "Wis or Per",
       "Int",
@@ -2454,6 +2497,7 @@
     "id": 44,
     "name": "Shade",
     "description": "You merely adopted the dark; I was born in it, moulded by it. I didn't see the light until I was already a man, by then it was nothing to me but BLINDING!",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Acc",
@@ -2511,6 +2555,7 @@
     "id": 45,
     "name": "Shaman",
     "description": "Your spores can only infect biological organisms. You are seriously one fun guy!",
+    "image": "",
     "recommendedAttributes": [
       "Wis",
       "End",
@@ -2568,6 +2613,7 @@
     "id": 46,
     "name": "Shapeshifter",
     "description": "Why should animals and monsters get all the fun. Sometimes it would be nice to have the sense of smell of a dog. Sometimes you just want to grow a giant crab claw. Why not both?",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Hrt",
@@ -2625,6 +2671,7 @@
     "id": 47,
     "name": "Sniper",
     "description": "It is much safer, and more effective, to shoot someone from hundreds of meters away than getting up close and personal. ",
+    "image": "",
     "recommendedAttributes": [
       "Acc",
       "Per",
@@ -2682,6 +2729,7 @@
     "id": 48,
     "name": "Slayer",
     "description": "Your vengence will not be quenched until your nemesis have been slain. You are specialized to kill them, and you're damn good at it.",
+    "image": "",
     "recommendedAttributes": [
       "Str",
       "Acc",
@@ -2739,6 +2787,7 @@
     "id": 49,
     "name": "Sorcerer",
     "description": "A powerful and efficient magic-user who doesn't care to learn multitudes of spells, and instead relies on their innate magical power to hurl pure energy at their foes.",
+    "image": "",
     "recommendedAttributes": [
       "Wis",
       "Acc",
@@ -2796,6 +2845,7 @@
     "id": 50,
     "name": "Spellsword",
     "description": "Magic.. Swords… You use magic swords and use magic on your swords. You could even use swords on your magic if you wanted. Your weapon of choice doesn't have to be a sword… but it just wouldn't sound as cool.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Wis",
@@ -2853,6 +2903,7 @@
     "id": 51,
     "name": "Thief",
     "description": "Sneaking and stealing, breaking and entering, disarming traps, picking locks and pockets. Oh. And getting hella rich too.",
+    "image": "",
     "recommendedAttributes": [
       "Dex",
       "Per",
@@ -2910,6 +2961,7 @@
     "id": 52,
     "name": "Trickster",
     "description": "Master of sleight of hand and real Illusion. Make the people see what you want them to see, and believe what you want them to believe.",
+    "image": "",
     "recommendedAttributes": [
       "Cha",
       "Wis",
@@ -2967,6 +3019,7 @@
     "id": 53,
     "name": "Warlock",
     "description": "Make a connection to an ancestor. Speak with them, borrow their weapons, tools, and armor. Summon them and their powers to this world.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Hrt",
@@ -3024,6 +3077,7 @@
     "id": 54,
     "name": "Wizard / Witch",
     "description": "Wield your staff or wand to channel more powerful arcana.  The most versatile of all the mages. Every spell is a tool in your arsenal.",
+    "image": "",
     "recommendedAttributes": [
       "Int",
       "Wis",
@@ -3081,6 +3135,7 @@
     "id": 55,
     "name": "Paladin: Dantalion",
     "description": "Your strength comes from Dantalion. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Str",
@@ -3138,6 +3193,7 @@
     "id": 56,
     "name": "Paladin: Baal",
     "description": "Your strength comes from Baal. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Acc",
@@ -3195,6 +3251,7 @@
     "id": 57,
     "name": "Paladin: Seir",
     "description": "Your strength comes from Seir. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Cha",
@@ -3252,6 +3309,7 @@
     "id": 58,
     "name": "Paladin: Blythe",
     "description": "Your strength comes from Blythe. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Int",
@@ -3309,6 +3367,7 @@
     "id": 59,
     "name": "Paladin: Morax",
     "description": "Your strength comes from Morax. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "End",
@@ -3366,6 +3425,7 @@
     "id": 60,
     "name": "Paladin: Asmodeus",
     "description": "Your strength comes from Asmodeus. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Wis",
@@ -3423,6 +3483,7 @@
     "id": 61,
     "name": "Paladin: Aster",
     "description": "Your strength comes from Aster. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Dex",
@@ -3480,6 +3541,7 @@
     "id": 62,
     "name": "Paladin: Zagan",
     "description": "Your strength comes from Zagan. You have sworn your life to them and must follow their tennets or lose your power.",
+    "image": "",
     "recommendedAttributes": [
       "Hrt",
       "Per",
