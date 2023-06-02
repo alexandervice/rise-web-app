@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Endurance",
+    "description": "Endurance governs resisting various types of effects and exhaustion. It is the attribute that determines how hard you can get hit and how much stamina you have."
+  },
+  {
+    "id": 2,
+    "name": "Strength",
+    "description": "Strength determines how strong your body is, and the maximum output of your muscles. This effects how hard you can hit."
+  },
+  {
+    "id": 3,
+    "name": "Accuracy",
+    "description": "Accuracy primarily effects the use of both physical and ranged weapons, as well as some forms of arcane systems. This attribute effects your ability to hit a target."
+  },
+  {
+    "id": 4,
+    "name": "Dexterity",
+    "description": "Dexterity directly influences your ability to dodge attacks. It effects your ability to ride and steer a variety of vehicles and creatures, and the intricate use of your hands to create art and tech."
+  },
+  {
+    "id": 5,
+    "name": "Perception",
+    "description": "Perception governs your body's senses and reaction time. It effects your ability to track a target and how long it takes you to find what you are searching for."
+  },
+  {
+    "id": 6,
+    "name": "Charisma",
+    "description": "Charisma is the attribute that deals with relating to others. High charisma will enable you to persuade, deceive, or romance just about anyone."
+  },
+  {
+    "id": 7,
+    "name": "Heart",
+    "description": "Heart determines your intrapersonal skills. Your strength of will, your faith in your beliefs, your moral fortitude, and spiritual power."
+  },
+  {
+    "id": 8,
+    "name": "Intelligence",
+    "description": "Intelligence represents your academic learning, and the application of knowledge. It also reflects your ability to cast spells that require an intricate understanding of the laws of nature."
+  },
+  {
+    "id": 9,
+    "name": "Wisdom",
+    "description": "Wisdom governs the skills learned through experiencing life and overcoming hardships. This influences your ability to cast spells that require intuition over intellect."
+  }
+]
