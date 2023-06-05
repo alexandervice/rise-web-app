@@ -1,17 +1,17 @@
-﻿id,name,attribute,description
-1,Poison Res,Endurance,"For use with any test involving your body detoxifying a consumed poison (incuding alcohol). This also applies when you eat something poisonous. See the Drunkeness Table for more info on alcohol consumption.
+﻿id,name,attribute,description,creatorId,worldId
+1,Poison Res,Endurance,"For use with any test involving your body detoxifying a consumed poison (including alcohol). This also applies when you eat something poisonous. See the Drunkenness Table for more info on alcohol consumption.
 
 TN to resist a poison by grade: (GM Discretion)
 common - 11
 uncommon - 14
 rare - 17
 epic - 20
-legendary - 23"
-2,Pain Res,Endurance,For use in resisting fatigue or losing consciousness after suffering a terrible injury.
-3,Stamina,Endurance,For use in rolls to stay awake/focused for extended periods of time or resist some debilitating effect. Failure generally results in taking damage or gaining fatigue.
+legendary - 23",1,1
+2,Pain Res,Endurance,For use in resisting fatigue or losing consciousness after suffering a terrible injury.,1,1
+3,Stamina,Endurance,For use in rolls to stay awake/focused for extended periods of time or resist some debilitating effect. Failure generally results in taking damage or gaining fatigue.,1,1
 4,Swimming,Endurance,"Swimming = 1/2 movement speed
 
-Holding your breath requires a TN 11 End (Swimming) test, and every round or 1 minute the TN increases by 2. If you fail once, then you are unconscious and will die in 2 minutes if you do not receive aid."
+Holding your breath requires a TN 11 End (Swimming) test, and every round or 1 minute the TN increases by 2. If you fail once, then you are unconscious and will die in 2 minutes if you do not receive aid.",1,1
 5,Running,Endurance,"Sprinting (double movement speed)
 TN 12 - 1 round (10 seconds)
 TN 14 - 2 rounds
@@ -24,20 +24,20 @@ TN 14 - 15 minutes
 TN 16 - 1 hour
 TN 18 - 4 hours
 
-Failing one of these tests will give you a level of fatigue."
-6,Temp Res,Endurance,For use in rolls to withstand extreme heat or cold. Failure generally results in taking damage or gaining fatigue.
+Failing one of these tests will give you a level of fatigue.",1,1
+6,Temp Res,Endurance,For use in rolls to withstand extreme heat or cold. Failure generally results in taking damage or gaining fatigue.,1,1
 7,Climbing,Strength,"While climbing you move at 1/2 your movement speed. Below are some example target numbers. If the surface is slippery increase the TN by 3.
 
 TN 12 - Surface with ledges, steep slope, or rope with knots
 TN 15 - Unknotted rope, surface with natural hand and footholds
 TN 18 -  Uneven surface with narrow handholds
 TN 21 - Rough surface (brick wall), sloped ceiling with handholds
-TN 24 - Vertical wall, celing with narrow handholds
-Impossible to climb a perfectly smooth surface without specialized equipment."
-8,Grappling,Strength,"Your ability to wrestle with, grapple, or ""manhandle"" someone/something else. Generally for use in a test vs another character. The character that rolls higher wins. Outcome may depend on the difference between rolls."
-9,Intimidation,Strength,"Your ability to simply look strong and scary. Often will be an opposed test vs another player's Heart (Courage). Winning will result in the other player backing down. If you roll significantly higher than the other character, hilartiy may insue.
+TN 24 - Vertical wall, celling with narrow handholds
+Impossible to climb a perfectly smooth surface without specialized equipment.",1,1
+8,Grappling,Strength,"Your ability to wrestle with, grapple, or ""manhandle"" someone/something else. Generally for use in a test vs another character. The character that rolls higher wins. Outcome may depend on the difference between rolls.",1,1
+9,Intimidation,Strength,"Your ability to simply look strong and scary. Often will be an opposed test vs another player's Heart (Courage). Winning will result in the other player backing down. If you roll significantly higher than the other character, hilarity may ensue.
 
-Attempting this test may affect how other characters view you. "
+Attempting this test may affect how other characters view you. ",1,1
 10,Jumping,Strength,"Long Jump (running start required, otherwise jump is halved)
 TN 11 - 2 meters
 TN 13 - 4 meters
@@ -48,7 +48,7 @@ High Jump (running start required, otherwise jump is halved)
 TN 11 - 1 meter
 TN 13 - 1.5 meters
 TN 15 - 2 meters
-TN 17 - 2.5 meters"
+TN 17 - 2.5 meters",1,1
 11,Lifting,Strength,"For use in making rolls to lift weight using your body. Failing this test results in gaining a level of fatigue.
 TN 10 - 10 kg
 TN 12 - 50 kg
@@ -57,10 +57,10 @@ TN 16 - 200 kg
 TN 18 - 350 kg
 TN 20 - 500 kg
 TN 22 - 750 kg
-TN 24 - 1000 kg"
+TN 24 - 1000 kg",1,1
 12,Might,Strength,"A test for when you may need to perform a feat of strength that does fit with the other Strength focuses such as Grappling or Lifting.
 
-Example - A player is handcuffed and wants to attempt to break free."
+Example - A player is handcuffed and wants to attempt to break free.",1,1
 13,Smithing,Strength,"Target Number by ore type
 TN 11 - Iron
 TN 14 - Steel
@@ -72,91 +72,91 @@ Target Number to obtain a masterwork feature:
 TN 14 - Durable
 TN 17 - Reinforced, Light-Weight, Well-Balanced
 TN 20 - Accurate, Deadly, Heavy-Duty, Flexible, Unique
-TN (varies) - Arcane, Specialized"
-14,Arcane,Accuracy,For use with firing arcane bolts of energy (Arcane Training Talent) or opperating specialized arcane weaponry.
-15,Archery,Accuracy,For use with firing bows and crossbows.
-16,Brawling,Accuracy,"For use while fighting unarmed. Punches, kicks, headbuts, etc. Ferali Natural Attacks also fall into this category. Add Str Attribute Modifier to base damage."
-17,Firearms,Accuracy,"For use while firing guns such as pistols, shotguns, rifles and rockets."
-18,Heavy Weapons,Accuracy,For use while wielding large and heavy melee weapons that require two hands. Heavy Weapons are known for the destructive damage they cause. Add Str Attribute Modifier to base damage.
-19,Light Weapons,Accuracy,For use while wielding small and light melee weapons that are often easily concealable or throwable. These are the weapons of choice for those aiming to make sneak attacks. Add Str Attribute Modifier to base damage.
-20,Martial Weapons,Accuracy,For use while wielding specialized melee and ranged weapons that do not fit within the other categories or those that require extra precision or skills. Add Str Attribute Modifier to base damage.
-21,Medium Weapons,Accuracy,For use while wielding weapons that can be used in either one or two hands. Known for their versatility and ease of use. The most common weapon type. Add Str Attribute Modifier to base damage.
-22,Polearms,Accuracy,For use while wielding long melee weapons. These are often used to gain a defensive advantage because of their long reach or ability to use them while mounted. Add Str Attribute Modifier to base damage.
-23,Throwing,Accuracy,For use while when throwing anything from knives to grenades.
-24,Acrobatics,Dexterity,"Your skill at performing aerial maneuvers, landing, and tumbling."
+TN (varies) - Arcane, Specialized",1,1
+14,Arcane,Accuracy,For use with firing arcane bolts of energy (Arcane Training Talent) or operating specialized arcane weaponry.,1,1
+15,Archery,Accuracy,For use with firing bows and crossbows.,1,1
+16,Brawling,Accuracy,"For use while fighting unarmed. Punches, kicks, headbutts, etc. Ferali Natural Attacks also fall into this category. Add Str Attribute Modifier to base damage.",1,1
+17,Firearms,Accuracy,"For use while firing guns such as pistols, shotguns, rifles and rockets.",1,1
+18,Heavy Weapons,Accuracy,For use while wielding large and heavy melee weapons that require two hands. Heavy Weapons are known for the destructive damage they cause. Add Str Attribute Modifier to base damage.,1,1
+19,Light Weapons,Accuracy,For use while wielding small and light melee weapons that are often easily concealable or throwable. These are the weapons of choice for those aiming to make sneak attacks. Add Str Attribute Modifier to base damage.,1,1
+20,Martial Weapons,Accuracy,For use while wielding specialized melee and ranged weapons that do not fit within the other categories or those that require extra precision or skills. Add Str Attribute Modifier to base damage.,1,1
+21,Medium Weapons,Accuracy,For use while wielding weapons that can be used in either one or two hands. Known for their versatility and ease of use. The most common weapon type. Add Str Attribute Modifier to base damage.,1,1
+22,Polearms,Accuracy,For use while wielding long melee weapons. These are often used to gain a defensive advantage because of their long reach or ability to use them while mounted. Add Str Attribute Modifier to base damage.,1,1
+23,Throwing,Accuracy,For use while when throwing anything from knives to grenades.,1,1
+24,Acrobatics,Dexterity,"Your skill at performing aerial maneuvers, landing, and tumbling.",1,1
 25,Balance,Dexterity,"Your ability to keep your balance and stay on your feet when standing on unstable footing.
 
-This focus does not apply to balance while riding on a creature. (see Riding)"
-26,Crafting,Dexterity,For use in making tests to create something from raw materials including the arts such as painting or sculpture. This is also used in knot tying.
-27,Piloting,Dexterity,Operating any vessel that runs with an engine.
-28,Riding,Dexterity,Riding or mounting any creature or machine that simulates a living creature.
-29,Sailing,Dexterity,Operating any vessel that moves primarily due to the wind and sails.
-30,Sleight of Hand,Dexterity,"For use in making tests that involve using your hands to trick or fool others. Pickpocketing, stealing, and hand tricks."
+This focus does not apply to balance while riding on a creature. (see Riding)",1,1
+26,Crafting,Dexterity,For use in making tests to create something from raw materials including the arts such as painting or sculpture. This is also used in knot tying.,1,1
+27,Piloting,Dexterity,Operating any vessel that runs with an engine.,1,1
+28,Riding,Dexterity,Riding or mounting any creature or machine that simulates a living creature.,1,1
+29,Sailing,Dexterity,Operating any vessel that moves primarily due to the wind and sails.,1,1
+30,Sleight of Hand,Dexterity,"For use in making tests that involve using your hands to trick or fool others. Pickpocketing, stealing, and hand tricks.",1,1
 31,Stealth,Dexterity,"Your skill in avoiding detection or pursuers. 
 While in combat: You must remake this test at the end of each of your turns. Once your stealth has been broken and while in combat you cannot attempt to stealth again. If you make any noise, or move at all you suffer a -1 to your stealth test. If you whisper or move more than 1/2 your movement speed during your turn you suffer a -2 to your stealth test. If you move at your full movement speed, speak aloud, or perform any non-movement minor action you suffer a -3 to your stealth test. Performing any major action will end your stealth.
 
 While in stealth you are able to make a Sneak Attack action against an opponent.
 
-Initiating Stealth is a major action. You cannot stealth while in combat or while being seen. You cannot stealth unless you have at least light obscurement. You cannot stealth while making noise."
-32,Tinkering,Dexterity,"For making tests that involve using your hands to work on machines. Setting and disarming traps, lock picking, and repairing machinery."
-33,Hearing,Perception,Using the body's sense of hearing to detect noises and pinpoint their location. Is also used in recognizing what the noise may be.
-34,Initiative,Perception,Using the body's ability to percieve outside stimulus and how quickly you are able to react to what you percieved. Primarily used to determine the combat's initiative order.
+Initiating Stealth is a major action. You cannot stealth while in combat or while being seen. You cannot stealth unless you have at least light obscurement. You cannot stealth while making noise.",1,1
+32,Tinkering,Dexterity,"For making tests that involve using your hands to work on machines. Setting and disarming traps, lock picking, and repairing machinery.",1,1
+33,Hearing,Perception,Using the body's sense of hearing to detect noises and pinpoint their location. Is also used in recognizing what the noise may be.,1,1
+34,Initiative,Perception,Using the body's ability to perceive outside stimulus and how quickly you are able to react to what you perceived. Primarily used to determine the combat's initiative order.,1,1
 35,Searching,Perception,"Your ability to search for and find something that you are looking for. Examples include: Searching a body to find a key, looking through a room to find a secret button, rummaging through a haystack to find a needle, scanning a crowd to find the person you are looking for.
 
-Some objects require a min TN to even locate the item, while others will be found regardless. However a higher roll will result in you finding the object of your attention faster."
-36,Seeing,Perception,"Using the body's sense of sight to detect visually detect things. A higher TN is required when trying to see things that are small, moving fast, obscured, in the darkness, etc…"
-37,Smelling,Perception,Using the body's sense of smell to detect scents and pinpoint their origin.
-38,Tasting,Perception,"Your skill at tasting food and detecting ingredients, as well as the primary focus for cooking tests."
-39,Touching,Perception,Your skill in feeling minute details with your fingers and noticing movement or vibrations in what you are touching. This is the primary focus for fishing tests.
-40,Tracking,Perception,Your skill in detecting and following the tracks of a creature you are pursuing. Generally by making a counter test vs the creature's Dex (Stealth).
-41,Bargaining,Charisma,"Your skill in convincing the other person to bargain with you. Such as by getting a lower price on an item you wish to buy or a higher price on one you wish to sell. This may also be used when attempting to gain a favor or negotiate the terms to an agreement. This will almost always result in the target making a counter Cha (Bargaining) test, with the character who gains a higher value being the one who wins the negotiation. However if the results are very close, then a compromise will most likely be made. In addition outrageous demands may fail regardless of the roll. (example: give me that very expensive item for 10 credits)"
-42,Deception,Charisma,"Your skill in deceiving others, generally through verbally lying to them, but it may be used when wearing a disguise or attempting to impersonate another. This focus applies even when telling half truths or mostly truths. Often made as a counter test vs Hrt (Empathy)"
-43,Etiquette,Charisma,"Your ability to speak eloquently and understand the cultural norms and expectations during conversation regarding your words, body language, and actions."
-44,Gambling,Charisma,"Your skill at knowing how to read others who are gambling, when to raise, when to fold, and when to go all in."
-45,Leadership,Charisma,"Your ability to lead and inspire others, to give a rousing speech, or simply appear regal and worthy of being followed."
-46,Performance,Charisma,Your skill in making artistic performances involving music or theater mostly.
-47,Persuasion,Charisma,"Your ability to convince others to agree with you or see your side of an argument. This test does not apply if you are lying or distorting the truth, or if you are attempting to bargian or negotiate."
+Some objects require a min TN to even locate the item, while others will be found regardless. However a higher roll will result in you finding the object of your attention faster.",1,1
+36,Seeing,Perception,"Using the body's sense of sight to detect visually detect things. A higher TN is required when trying to see things that are small, moving fast, obscured, in the darkness, etc.…",1,1
+37,Smelling,Perception,Using the body's sense of smell to detect scents and pinpoint their origin.,1,1
+38,Tasting,Perception,"Your skill at tasting food and detecting ingredients, as well as the primary focus for cooking tests.",1,1
+39,Touching,Perception,Your skill in feeling minute details with your fingers and noticing movement or vibrations in what you are touching. This is the primary focus for fishing tests.,1,1
+40,Tracking,Perception,Your skill in detecting and following the tracks of a creature you are pursuing. Generally by making a counter test vs the creature's Dex (Stealth).,1,1
+41,Bargaining,Charisma,"Your skill in convincing the other person to bargain with you. Such as by getting a lower price on an item you wish to buy or a higher price on one you wish to sell. This may also be used when attempting to gain a favor or negotiate the terms to an agreement. This will almost always result in the target making a counter Cha (Bargaining) test, with the character who gains a higher value being the one who wins the negotiation. However if the results are very close, then a compromise will most likely be made. In addition outrageous demands may fail regardless of the roll. (example: give me that very expensive item for 10 credits)",1,1
+42,Deception,Charisma,"Your skill in deceiving others, generally through verbally lying to them, but it may be used when wearing a disguise or attempting to impersonate another. This focus applies even when telling half truths or mostly truths. Often made as a counter test vs Hrt (Empathy)",1,1
+43,Etiquette,Charisma,"Your ability to speak eloquently and understand the cultural norms and expectations during conversation regarding your words, body language, and actions.",1,1
+44,Gambling,Charisma,"Your skill at knowing how to read others who are gambling, when to raise, when to fold, and when to go all in.",1,1
+45,Leadership,Charisma,"Your ability to lead and inspire others, to give a rousing speech, or simply appear regal and worthy of being followed.",1,1
+46,Performance,Charisma,Your skill in making artistic performances involving music or theater mostly.,1,1
+47,Persuasion,Charisma,"Your ability to convince others to agree with you or see your side of an argument. This test does not apply if you are lying or distorting the truth, or if you are attempting to bargain or negotiate.",1,1
 48,Questioning,Charisma,"Your skill in asking questions to provoke the target to give you an answer. A low roll may result in the target ignoring your question, whereas a high roll may result in the target opening up and sharing in great detail. 
 
-Generally yes or no questions would have a lower TN, but not always."
-49,Romance,Charisma,Your ability to woo and court others. This focus also determines how attractive you appear to others. The TN is dependant on the person and situation.
-50,Animal Handling,Heart,"Your general connection to animals (and other creatures), how they perceive you and your ability to befriend, tame, and train them. Some creatures may be nearly impossibe to tame."
-51,Courage,Heart,"Your willingness to stand firm in the face of fear and death. Depending on your character you may have fears that will result in you rolling disadvantage on this test. Generally courage tests are made in response to something, and passing them does not affect you much. Failing a courage test may have very detrimental results depending on the situation. Failure can result in anything from a small debuff to a specific test or ability, to fleeing from the source of fear, to even urination or loss of consciousness."
-52,Empathy,Heart,Your ability to ascertain the emotional state of another person. This can also be used as a counter test to determine if a target is lying to you or not vs their Cha (Deception). (Note: the GM should always roll for the NPC regardless of if they are lying or not). If the target is attempting to hide their emotional state they should make a counter Hrt (Self-Discipline) test.
-53,Faith,Heart,"A focus that is primarily used to pray by those who serve and follow the constellations. Although in some situations they may be used for those who have faith in an idol or ""lucky"" item. The outcome of faith tests usually results in the one who made the test feeling better about a situation, but in rare instances they may see their prayer reach a higher power."
-54,Meditation,Heart,"Meditation is similar to Faith, but is used when one needs to meditate and calm themselves to look within instead of seeking guidance from an outside source."
+Generally yes or no questions would have a lower TN, but not always.",1,1
+49,Romance,Charisma,Your ability to woo and court others. This focus also determines how attractive you appear to others. The TN is dependent on the person and situation.,1,1
+50,Animal Handling,Heart,"Your general connection to animals (and other creatures), how they perceive you and your ability to befriend, tame, and train them. Some creatures may be nearly impossible to tame.",1,1
+51,Courage,Heart,"Your willingness to stand firm in the face of fear and death. Depending on your character you may have fears that will result in you rolling disadvantage on this test. Generally courage tests are made in response to something, and passing them does not affect you much. Failing a courage test may have very detrimental results depending on the situation. Failure can result in anything from a small debuff to a specific test or ability, to fleeing from the source of fear, to even urination or loss of consciousness.",1,1
+52,Empathy,Heart,Your ability to ascertain the emotional state of another person. This can also be used as a counter test to determine if a target is lying to you or not vs their Cha (Deception). (Note: the GM should always roll for the NPC regardless of if they are lying or not). If the target is attempting to hide their emotional state they should make a counter Hrt (Self-Discipline) test.,1,1
+53,Faith,Heart,"A focus that is primarily used to pray by those who serve and follow the constellations. Although in some situations they may be used for those who have faith in an idol or ""lucky"" item. The outcome of faith tests usually results in the one who made the test feeling better about a situation, but in rare instances they may see their prayer reach a higher power.",1,1
+54,Meditation,Heart,"Meditation is similar to Faith, but is used when one needs to meditate and calm themselves to look within instead of seeking guidance from an outside source.",1,1
 55,Morality,Heart,"Mostly for NPC's for convincing them to act in a way that is against their nature and moral compass. A character may also need to make a morality test when attacking a target that refuses to fight back.
 
 The GM might ask a player to roll this if they want to do something very out of character.
 
 A player can choose to roll this for themself to help determine how they would act or respond to a situation.
-Target numbers are very subjective."
+Target numbers are very subjective.",1,1
 56,Self-Discipline,Heart,"For use with very specific spells or resisting the effects of certain powers/abilities.
 
-A player may also choose to roll this for themselves similar to morality (see above)"
-57,Spirit,Heart,For use resisting some magical effects and spells.
-58,Alteration,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Alteration school of magic."
+A player may also choose to roll this for themselves similar to morality (see above)",1,1
+57,Spirit,Heart,For use resisting some magical effects and spells.,1,1
+58,Alteration,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Alteration school of magic.",1,1
 59,Brewing,Intelligence,"For use in brewing alcohol and potions. In most instances the test must be made in conjunction with the correct ingredients to produce the desired result.
 TN 11 - common
 TN 14 - uncommon
 TN 17 - rare
 TN 20 - epic
-TN 23 - legendary"
-60,Conjuration,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Alteration school of magic."
-61,Elemancy,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Elemancy school of magic."
-62,Engineering,Intelligence,"Your understanding of mechanical, architectural, computational, and other types of engineering. How something is made, how it can be fixed or modified, or how it can be taken apart and destroyed."
-63,Harmonics,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Harmonics school of magic."
-64,Linguistics,Intelligence,"Your skill in understanding various forms of speech and language, both spoken and written. Linguistics is used when attempting to decipher codes or written clues, as well as attempting to match handwriting and signatures."
-65,Lore,Intelligence,"Your knowledge of things that have been written and that can be learned. Everything from historical, arcane, cultural, and military knowledge, to all the branches of science and mathematics."
-66,Medicine,Intelligence,"Your ability to apply bandages, stitch a wound, splint and set a broken bone, and determine and identify diseases and ailments."
-67,Restoration,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Restoration school of magic."
-68,Animism,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Animism school of magic."
-69,Evaluation,Wisdom,"The general ability to determine the monetary value of an items, goods, and services. Evaluation is also used to distinguish between ores and metals, to determine the quality of skill that a person may have, and evaluate the arcane signatures or spells."
-70,Illusion,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Illusion school of magic."
+TN 23 - legendary",1,1
+60,Conjuration,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Alteration school of magic.",1,1
+61,Elemancy,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Elemancy school of magic.",1,1
+62,Engineering,Intelligence,"Your understanding of mechanical, architectural, computational, and other types of engineering. How something is made, how it can be fixed or modified, or how it can be taken apart and destroyed.",1,1
+63,Harmonics,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Harmonics school of magic.",1,1
+64,Linguistics,Intelligence,"Your skill in understanding various forms of speech and language, both spoken and written. Linguistics is used when attempting to decipher codes or written clues, as well as attempting to match handwriting and signatures.",1,1
+65,Lore,Intelligence,"Your knowledge of things that have been written and that can be learned. Everything from historical, arcane, cultural, and military knowledge, to all the branches of science and mathematics.",1,1
+66,Medicine,Intelligence,"Your ability to apply bandages, stitch a wound, splint and set a broken bone, and determine and identify diseases and ailments.",1,1
+67,Restoration,Intelligence,"Your skill, knowledge, and ability to cast spells that fall under the Restoration school of magic.",1,1
+68,Animism,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Animism school of magic.",1,1
+69,Evaluation,Wisdom,"The general ability to determine the monetary value of an items, goods, and services. Evaluation is also used to distinguish between ores and metals, to determine the quality of skill that a person may have, and evaluate the arcane signatures or spells.",1,1
+70,Illusion,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Illusion school of magic.",1,1
 71,Intuition,Wisdom,"This is a vague test that gives you a general sense of rightness or wrongness. It is your gut instinct. This test is similar to Hrt (Empathy) tests, but is used for locations, situations, and anything other than people. Example: 
-A player walks into a forest, and they notice it is dark so they decide to make a Wis (Intuition) test. Depending on the forest and the test result, the GM may reply ""this forest gives you an eerie feeling like you are being watched, but you don't sense to be in immediate danger"""
-72,Mysticism,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Mysticism school of magic."
-73,Navigation,Wisdom,"Your ability to not get lost, maintain your sense of direction, notice landmarks, determine your location, read a map, and use a compass. Oftentimes a low roll will result in you getting lost, and a higher rolls result in how quickly you determine your location or reach your destination."
-74,Psychic,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Psychic school of magic."
-75,Survival,Wisdom,"Your ability to survive in the wilderness. This governs everything from making a fire and pitching a tent, to determining edible and poisonous plants,  reading the weather, and even identifying safe and defensible locations to setup camp."
-76,Visionary,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Visionary school of magic."
+A player walks into a forest, and they notice it is dark so they decide to make a Wis (Intuition) test. Depending on the forest and the test result, the GM may reply ""this forest gives you an eerie feeling like you are being watched, but you don't sense to be in immediate danger""",1,1
+72,Mysticism,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Mysticism school of magic.",1,1
+73,Navigation,Wisdom,"Your ability to not get lost, maintain your sense of direction, notice landmarks, determine your location, read a map, and use a compass. Oftentimes a low roll will result in you getting lost, and a higher rolls result in how quickly you determine your location or reach your destination.",1,1
+74,Psychic,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Psychic school of magic.",1,1
+75,Survival,Wisdom,"Your ability to survive in the wilderness. This governs everything from making a fire and pitching a tent, to determining edible and poisonous plants,  reading the weather, and even identifying safe and defensible locations to setup camp.",1,1
+76,Visionary,Wisdom,"Your skill, knowledge, and ability to cast spells that fall under the Visionary school of magic.",1,1
