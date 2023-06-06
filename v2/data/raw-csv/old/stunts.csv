@@ -1,0 +1,149 @@
+﻿id,name,origin,dpCost,description
+1,Divine Inspiration,background,2,Your faith has impressed your Constellation. You gain a divine inspiration that will give you a +1 to your next ability test.
+2,Who's Your Daddy,background,2,You recognize the heritage of who you are speaking with. You are able to slip in a reference that reminds them of home. Gain +1 to Charisma for the remainder of your conversation.
+3,Ruin Expert,background,2,Your knowledge of ruins have helped you connect the dots here. The GM gives you previously unknown knowledge regarding the place you are studying.
+4,Niche Design,background,2,"The art you created is… interesting. Surely there is someone out there who will greatly appreciate this, you just need to find them. Adds an intriguing or strange aspect to your art."
+5,Second Wind,background,2,Running energizes you. You may ignore the reduced movement penalty from fatigue for the next 5 minutes.
+6,Social Drinker,background,2,"You form bonds with those you are drinking with. They now consider you their drinking buddy, and are more likely to open up to you."
+7,Efficient Smithing,background,2,You smith your item while using up only 1/2 of the expected materials
+8,Convincing Lie,background,3,Your lie has convinced the other person so thoroughly that they may try to spread this information to others. 
+9,Nostalgic Flavors,background,2,When cooking with a particular individual in mind you are able to recreate the flavors of their childhood. 
+10,Foreign Relations,background,2,Able to verbally communicate a rudimentary message to another person regardless of a language barrier.
+11,Encore,background,2,Wow the crowd with your outstanding performance. They are so entertained they demand an encore.
+12,New Adventure,background,2,"If you are exploring somewhere you have never been, you can temporarily ignore the effects of fatigue (up to Drained) for the next five minutes. (not applicable in combat)"
+13,Early Riser,background,2,"If you begin a Short Rest within the next hour, you will recover in half the time (1 hour instead of 2)."
+14,"""Reely"" Ready",background,2,Your senses are finely tuned from your time spent fishing. Gain +1 on the next Per (Initiative) test that you make within the next 15 minutes.
+15,Luck Deferred,background,2,Gain +2 on the next Cha (gambling) test that you make within the next 15 minutes.
+16,Shameless Flattery,background,2,Kiss up to someone to get in their good graces. Their impression of you improves.
+17,Good Vibes,background,2,Reset the duration of one of your currently active effects or bonuses.
+18,Triangulate Quarry,background,2,Able to interpret the approximate destination of the creatures you are tracking and track them without a penalty to your movement speed.
+19,Heavy-Duty Gizmo,background,2,The object you are working on is made into a durable version of its kind. Durability is doubled.
+20,Weight Training,background,2,"You could do this all day. +2 to your next Str (Lifting) test, and even if you fail you won't be fatigued."
+21,Motivational Manager,background,2,"Your management skills are superb, those you are leading accomplish their task in 1/2 the time."
+22,Efficient Overhaul,background,2,Repair something without expending materials.
+23,Price Is Right,background,3,You are able to discern the loweset/highest price the character you are bargaining with would be willing to sell or buy at.
+24,Discerning Ore,background,2,"You recognize the raw materials used to make this object, and also where to obtain them."
+25,Organic Classification,background,2,Gain additional survival information about the organism in question.
+26,Well Cared For,background,2,"When caring for someone taking a rest, they heal additional HP equal to your Int attribute modifier."
+27,Soothing Rider,background,2,"You are able to calm your mount if it is stressed, tired, or afraid. Your mount gains +1 Hrt for the next 15 min."
+28,A little bit extra,background,2,You steal more than you expected. Obtain a random grab bag item that this character was holding onto.
+29,Prision Eyes,background,2,Your stare is intense and intimidating causing weak willed individuals to break eye contact and leave you alone. Roll Str (Intimidation) vs the target's Hrt (Courage).
+30,Skeptic's Eye,background,2,"If the character you are questioning is withholding relevant information, you are aware that they are keeping something important from you."
+31,Maritime Melody,background,2,You begin singing a sea shanty that inspires everyone on board. Everyone whom hears gains +1 to Dex (Sailing) for the next hour.
+32,New Theory,background,3,Making a new hypothesis engages your inner curiosity. Gain +1 Cha (Persuasion) for the next 15 min when you share your theory with others.
+33,Quick Search,background,2,You are able to find what you are looking for quickly and efficiently. You may also find something extra based on GM discretion.
+34,Smuggle Buddies,background,3,Use your stealth test to apply to one other character you are in physical contact with. Replaces their stealth test with yours.
+35,Attention!,background,2,Your training has prepared you for this. Stand at attention and gain +1 to Perception (Initiative) tests for the next 5 minutes.
+36,Lion's Courage,background,2,Your courage is strengthened. Gain +2 on all subsequent courage tests for the remainder of the encounter.
+37,Smooth Moves,background,2,Your piloting expertize results in a smooth and speedy ride for your passengers and cargo. For the next 15 minutes your vehicle gains +2 defense from attacks while you are driving.
+38,Discern Mojo,background,2,You are given an additional clue as to why the object/person of your attention might be giving off bad vibes.
+39,Rock Steady,level table,2,Grants the user the effects of the Stand Firm minor action
+40,Fortify Armor,level table,4,Temporarily gain +3 physical armor. This effect expires after you take a hit or on your next turn.
+41,Tenacious Will,level table,5,Immediately recover HP equal to your Endurance
+42,Knock Prone,level table,2,Knock your opponant to the ground with a powerful melee attack. A prone target suffers a -1 penalty to their defense. You cannot knock prone a creature if it is considered to be a size larger than you.
+43,Mighty Blow,level table,2,Inflict an extra 1d6 physical damage with your melee attack.
+44,Sweeping Strike,level table,6,Your melee attack roll is so strong it affects all targets within range. Apply the test result of your original attack roll to all additional targets. Roll damage seperately for all targets hit by this attack.
+45,Skirmish,level table,1,Move yourself or your target 1 meter per doubles point spent. You cannot skirmish a creature if it is considered to be a size larger than you.
+46,Disarm,level table,3,Disarm your enemy's weapon with your melee attack. The weapon is knocked a number of meters away equal to your Strength attribute in the direction you choose.
+47,Rapid Reload,level table,3,Immediately reload an unloaded ranged weapon.
+48,Defensive Stance,level table,2,Your most recent action sets you up perfectly to defend yourself. Gain +1 to your defense until your next turn.
+49,Disengage,level table,3,You may immediately move up to your movement speed in distance away from a target you are currently engaged with without giving the opponent an attack of opportunity
+50,Disappearing Act,level table,5,After completing your action immediately roll a Dex (Stealth) test to attempt to hide from your foes. (GM discretion for TN)
+51,Pierce Armor,level table,2,"Ignore half of your opponent's physical armor (rounded down) with your attack. This may be used with most Melee and Ranged Attacks excluding: grenades, energy firearms, and other such weapons."
+52,Stay Aware,level table,3,Until your next turn you will remain aware of any changes to the environment around you.
+53,Penetrate Armor,level table,4,Ignore all of your opponant's physical armor with your attack.
+54,Taunt,level table,1,"Taunt an opponent. If they attack you on their next turn, they suffer a -1 to hit you."
+55,Feign Weakness,level table,3,You seem like less of a threat. Next turn this foe will try to attack another instead of you. (If applicable)
+56,Cutting Words,level table,5,"Select a target, and insult them deeply to their very core. The next ability test that target makes is at disadvantage."
+57,Clear Mind,level table,2,Steady your mind and gain +1 towards THIS ability test for every 2 dp spent.
+58,Stunned Silence,level table,4,"Your intensity has stunned a single target of your choice within 10 m of you, breaking their spell concentration immediately."
+59,Meditative Spirit,level table,5,Immediately restore MP equal to your Heart Atribute.
+60,Powerful Casting,level table,1," For each doubles point spent, increase your spell's Spell Power by 1. (Max 3)"
+61,Mighty Arcanum,level table,2,Inflict an extra 1d6 arcane damage to one target of your spell. (may only be used with damage dealing spells)
+62,Flashbang,level table,5,The effects of this arcana are explosive. All targets within a 3m radius of you are knocked backwards and prone to the edge of the 3m blast radius.
+63,Lasting Focus,level table,2,Increase the duration of this spell by 1 additional round. This only applies if the spell already has a duration.
+64,Free Casting,level table,4,You may cast this spell for 1/2 MP
+65,Split Arcana,level table,5,"This spell may now affect one additional target as long as they are within spell range of you, and the original target."
+66,Grenadier,specialization,2,Immediately ready and throw a grenade that you have in your inventory.
+67,Spirit Armor,specialization,3,Your Patron grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body.
+68,Must Have Been the Wind,specialization,5,"If performing this action while sneaking, your stealth is not broken."
+69,Sunder Armor,specialization,3,Damage medium or heavy armors and reduce it's physical armor rating by 2 until it is fixed.
+70,Barbarian Smash,specialization,3,"When attacking an enemy wielding or using a tech or arcane based tool, you may smash said tool rendering it unusable until it is fixed."
+71,Tooth and Claw,specialization,3,A summoned or tamed creature will make an additional attack immediately following yours
+72,Bleeding Edge,specialization,3,For the next 2 rounds at the beginning of the enemy's turn they take 1d6 penetrating bleeding damage.
+73,Valiant Roar,specialization,3,Raise your voice and let out a rallying battle cry in combat. All allies who hear your cry gain +1 Def for the remainder of the round.
+74,Healer's Spirit,specialization,3,Recover half of the HP you just restored to another. (this stunt can only be used immediately after healing a target with a restoration spell)
+75,Forward March,specialization,3,"Give your followers an order, they get +1 to all tests directly related to following your order. (does not stack)"
+76,Quick Reaction,specialization,2,You can take a Minor Action before the combat encounter begins.
+77,Advantageous Positioning,specialization,3,For the next 3 rounds your movement speed is doubled. You may also immediately move to any position in range.
+78,"SHOTS, SHOTS",specialization,3,"You may make a free ranged attack and take a drink, increasing your level on the drunkeness table"
+79,Lightning Attack,specialization,3,Immediately make a second attack with a currently equipped weapon of your choice.
+80,Channel Element,specialization,3,"Add elemental effects to any weapon of your choice within 20 m for 1 round. Fire - can set enemies on fire, water - attacks become piercing, earth - +3 damage, air - +2 to attack"
+81,Quick Weapon Modification (QWM),specialization,2,On the fly you are able to quickly modify your or an adjacent ally's weapon to deal an additional 1d6 lightning damage for 2 rounds.
+82,Rapid Cell Change (RCC),specialization,2,Immediately replace an expended energy cell to any device you are using.
+83,Stunt Bank,specialization,1,Save these doubles points to be used for your next roll. They are lost if not used on the next roll.  (max 3)
+84,Sway the Crowd,specialization,3,Your actions have gained the favor of the spectators. This returns a spent glory die to you
+85,Shield Bash,specialization,3,Stun your target with a shield resulting in them losing one of their next minor actions.
+86,Lightning Shot,specialization,5,Immediately reload and make a second attack with an equipped gun of your choice.
+87,Target Vitals,specialization,3,Your attack automatically is considered to hit the vitals of the creature you have marked. You also deal +1d6 extra damage if the target was marked.
+88,Double Time,specialization,3,Throw two readied weapons/items at the same time. Make an attack roll for each.
+89,Sword of Truth,specialization,4,"As a paragon of virtue, your melee attack deals an extra 2d6 arcane damage to an unvirtuous foe."
+90,Spellbreaker,specialization,2,Your attack is able to disrupt arcane energy. You are able to negate any one ongoing novice level spell within 3m of your target.
+91,Martial Barrage,specialization,3,You may immediately make an attack with a different/unequiped weapon of yours with a +2 bonus to hit and end your attack with the new weapon.
+92,Urgent Care,specialization,4,You may immediately move to an ally within movement speed range and provide a First Aid action.
+93,Confusion,specialization,4,You have confused your foe and redirected their attention away from you to the target of your choosing the next round.
+94,Crane Strike,specialization,3,Strike with your bare hand extended. This attack may disarm the opponent and their next attack will suffer a -2 penalty to hit.
+95,Reanimate,specialization,6,Bring back one the recently deceased to life. This undead creature has all of it's attributes decreased by 1 and will serve you for a number of rounds equal to it's new End attribute. Range 10m
+96,Command Vassal,specialization,3,"Your birthrite allows you to command those around you. Give a command to someone nearby, if they view you positively they will attempt to follow your command."
+97,Whisper,specialization,1,Whisper a message under your breath to communicate with any creature of your choice within 10m. Expending additional doubles points adds extra targets you can communicate with (1dp/target).
+98,Mounted Strike,specialization,3,"Your attack strikes with the power of your mount behind it, dealing 2d6 extra damage."
+99,Heartfelt Plea,specialization,2,"Use your words or body language to convince a sentient target to choose peace. The target must roll a TN 12 Hrt (Morality) test. If they fail, they may not intentionally deal damage on their next turn unless they are attacked before their next turn."
+100,Wish,specialization,8,"Pray and ask of your Constellation a single wish, and they will answer your prayer as they see fit within their power."
+101,Convenient Coincidence,specialization,8,The GM chooses an extremely beneficial outcome for you.
+102,Dirty Fighting,specialization,4,You deal a swift kick below the belt knocking your opponent prone and leaving them with -2 defense for the next 3 rounds
+103,Allied Exchange,specialization,3,"You may select a willing ally to trade places with. This exchange occurs instantaneously, but the ally must be within your line of sight."
+104,Pass it around,specialization,4,Take a drink from a potion and pass it to an adjacent ally. The ally may also drink from the potion gaining the effects.
+105,Razor's Edge,specialization,3,"Upon making a melee attack, roll a 3d6, you and your opponent both take this as physical damage with your attack."
+106,Strengthen Resolve,specialization,2,Focus your willpower to improve your NEXT test result by 1 per 2 doubles points spent.
+107,Unseen Eyes,specialization,3,"You are made aware if there is anything watching, stalking, listening to, or sneaking up on you. You know the general direction of your watcher."
+108,Into the Darkness,specialization,3,"At the end of your action, if you are in the light you may move up to twice your movement speed to find an area in the shadows or darkness."
+109,Beast Boy/Girl,specialization,3,You may imediately cast partial transformation on yourself and take on a single bodypart of a target in your current line of sight.
+110,Crippling Shot,specialization,3,Your shot hits your opponent in the legs knocking them prone and halving their movement speed for the next 3 rounds.
+111,Repositioning,specialization,2,You may change location and move up to 1/2 your movement speed immediately after firing a projectile.
+112,Vengeful Blow,specialization,3,Your sworn enemy must die. Your attack against your designated species deals 2d6 extra damage and penetrates the opponent's armor.
+113,Abra-ca-Stab-ya,specialization,3,Immediately after casting a Spellsword spell you may make a melee atack or vice-versa.
+114,The Richer They Are...,specialization,3,Deal +1d6 more damage for every 1000 credits the foe is carrying on their person.
+115,What are Friends For?,specialization,3,The character you are interacting with begins to see you as a friend. The next time you lie or try to fool them gain a +3 Cha (Deception) towards this target.
+116,Fast Casting,specialization,4,"After you resolve casting a spell, you may immediately cast another spell. This second spell does not generate doubles points."
+117,Combined Arms,specialization,3,"After you make a melee attack, a squadmate may make an immediate attack with firearms and vice-versa."
+118,A Cut Above,talent,2,"When evaluating goods you notice that a particular piece has caught your eye. This item is a higher rank than it's counterparts. These are often worth more, have special abilities, or represent specific groups or faiths."
+119,Fierce Bolt,specialization,3,Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone.
+120,Drinking Buddies,talent,2,The character you are drinking with now views you as someone they trust. They are more likely to go out of their way to help you. 
+121,Create Handhold,talent,2,While climbing you are able to find handholds in the surface you are climbing. Anyone with knowledge of the handholds you have found gains +2 to further climbing tests.
+122,Know a Guy,talent,3,You just remembered you have a friend of a friend who's mother's brother's neice lives in this city. This contact will be willing to give you information for free.
+123,Bon Appétit,talent,2,You have made a delicious meal. Any who eat this meal while it is still fresh gain +1 Heart for the next 6 hours.
+124,Complete Transformation,talent,2,With limited resources and and endless imagination you have transformed (yourself or a target) to gain +2 on deception tests while wearing the disguise
+125,Good Listener,talent,2,The character you are interacting with can tell that you truly care for them. They open up more and tell you what has been burdening them.
+126,Craft Samurai,talent,4,Add a unique aspect to your created design that will grant a temporary +1 boost to a relevant focus (for 1 hour) for anyone who is using or appreciating your art. They may only gain the benefit of this effect once per day.
+127,Sway the Crowd,talent,1,"Your persuasiveness has not only convinced your target to agree with you, but others who were listening as well. Convince a number of people equal to the amount of doubles points spent."
+128,Flowery Tongue,talent,3,"Impress wittnesses and compliment those around you, all who witnessed your speach will be more likely to view you as a friend."
+129,Uplifting Performance,talent,3,Your performance was so impressive those who witnessed it gain +1 to all Heart rolls for the next hour.
+130,Loaded Dice,talent,3,Gambling is a mix of luck and stacking the odds in your favor. Reroll the non doubles die. (if you rolled triples reroll any die)
+131,Aerial Artistry,talent,2,"Add in a flip, twist, or roll to whatever movement based action you were performing. Doing so increases your movement speed for the remainder of the turn by double."
+132,Lion's Heart,talent,2,Let out a roar of defiance against your enemies bringing courage to your nearby allies. Every ally within 10 meters of you gains +1 to Hrt (Courage) tests for every 2 dp you spend.
+133,Tell Me More,talent,3,The character you are interviewing will willingly give more information than they originally intended.
+134,Speedy Search,talent,2,You complete your search nearly instantly. The first place you looked was the right place.
+135,Commander's Order,talent,3,Immediately give an order to a non hostile character. The authority in your voice startles them into following the order until they realize they do not need to follow it.
+136,Stinging Lie,talent,3,Attempt to decieve your opponent to demoralize them. Roll Cha (Deception) vs the target's Hrt (Empathy). If you succeed they suffer a -2 for all rolls on their next turn.
+137,Tools at Hand,talent,2,"You were able to work on this machine without the need to expend materials, resources, or tools."
+138,Evasive Maneuver,talent,3,Pull off a sick fake out to lose your pursuers/attackers and escape safely.
+139,Runner's High,talent,2,You love the feel of running! Gain +3 towards your next End (Running) test.
+140,Perfect Recall,talent,4,You perfectly remember in detail all of the relevent information you need. You might even remember this information as text from a book you remember reading.
+141,Scout's Insight,talent,2,While tracking you are able to glean the intentions of an individual or group based on the tracks they leave behind.
+142,Smithological,talent,2,"For every 2 doubles points spent, increase the outcome of your roll to receive the benefits of a masterwork ability from the masterwork table."
+143,Disappearing Act,talent,5,You may move up to 1/4 your movement to attempt to hide during combat. After you move make a Dex (Stealth) test vs the Perception of all who witnessed you take your movement. If you succeed then you are currently hidden from your opponents. If one target beats you then you are not hidden.
+144,Lift and Throw,talent,2,When succeeing a Str (Lifting) test you may throw the object you lifted a number of meters equal to your Str attribute modifier.
+145,Lethal Blow,level table,4,Inflict an extra 2d6 physical damage with your melee attack.
+146,Deadly Blow,level table,6,Inflict an extra 3d6 physical damage with your melee attack.
+147,Lethal Arcanum,level table,4,Inflict an extra 2d6 arcane damage to one target of your spell (may only be used with damage dealing spells).
+148,Deadly Arcanum,level table,6,Inflict an extra 3d6 arcane damage to one target of your spell (may only be used with damage dealing spells).
