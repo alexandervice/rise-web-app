@@ -35,7 +35,7 @@ id,name,description,origin,creatorId,worldId,notes
 34,Vata lvl 1,"As a Vata, you may receive the benefits of a long rest in 4 hours instead of 8.",racial,1,1,
 35,Vata lvl 10,Your Vata bloodline awakens access to a spell that is inaccessible to the normal person. (consult with the GM to build this spell),racial,1,1,
 36,Vata lvl 20,"When you use a conviction point, you may receive the benefit of two conviction actions instead of one.",racial,1,1,
-37,Starforged lvl 1,"Starforged cannot eat or drink food nor potions, are immune to poisons, do not need to sleep, and can survive in the vacuum of space. However they also cannot become well rested.",racial,1,1,
+37,Starforged lvl 1,"Starforged are immune to poisons, do not need to sleep, and can survive in the vacuum of space. However, they cannot eat food or drink potions and they cannot become well rested.",racial,1,1,
 38,Starforged lvl 10,While resting under sunlight recover double the HP and MP as you heal faster when your core is exposed to solar radiation.,racial,1,1,
 39,Starforged lvl 20,You are able to recover HP and MP beyond 100%. When resting in sunlight you are able to store up to 120% of your maximum HP and MP.,racial,1,1,
 40,Infernal lvl 1,"As an Infernal, you naturally gain +1 arcane armor.",racial,1,1,
