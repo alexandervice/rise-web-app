@@ -7,10 +7,6 @@
    ],
    "name": "Alchemist",
    "description": "Using alteration, crafting, and alchemy to  create and prepare explosives, grenades, and more. Change iron to steel, copper to gold.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Acc",
@@ -29,9 +25,7 @@
       {
          "type": "power",
          "id": [
-            "86",
-            null,
-            null
+            "86"
          ]
       },
       {
@@ -44,16 +38,13 @@
       {
          "type": "stunt",
          "id": [
-            "66",
-            null
+            "66"
          ]
       },
       {
          "type": "power",
          "id": [
-            "87",
-            null,
-            null
+            "87"
          ]
       },
       {
@@ -72,9 +63,7 @@
       {
          "type": "power",
          "id": [
-            "89",
-            null,
-            null
+            "89"
          ]
       },
       {
@@ -87,8 +76,7 @@
       {
          "type": "power",
          "id": [
-            "90",
-            null
+            "90"
          ]
       }
    ]
@@ -101,10 +89,6 @@
    ],
    "name": "Assassin",
    "description": "Focuses on stealth, silence, and one-shot kills.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Acc",
@@ -123,38 +107,31 @@
       {
          "type": "power",
          "id": [
-            "91",
-            null,
-            null
+            "91"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            68,
-            null
+            68
          ]
       },
       {
          "type": "action",
          "id": [
-            "26",
-            null
+            "26"
          ]
       },
       {
          "type": "power",
          "id": [
-            "92",
-            null,
-            null
+            "92"
          ]
       },
       {
          "type": "power",
          "id": [
-            "93",
-            null
+            "93"
          ]
       },
       {
@@ -166,23 +143,19 @@
       {
          "type": "power",
          "id": [
-            "95",
-            null,
-            null
+            "95"
          ]
       },
       {
          "type": "power",
          "id": [
-            96,
-            null
+            96
          ]
       },
       {
          "type": "power",
          "id": [
-            "97",
-            null
+            "97"
          ]
       }
    ]
@@ -195,10 +168,6 @@
    ],
    "name": "Barbarian",
    "description": "Less is more, they seek victory by brute strength alone. No trickery here.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Str",
       "End",
@@ -217,38 +186,31 @@
       {
          "type": "power",
          "id": [
-            "98",
-            null,
-            null
+            "98"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            69,
-            null
+            69
          ]
       },
       {
          "type": "action",
          "id": [
-            "27",
-            null
+            "27"
          ]
       },
       {
          "type": "power",
          "id": [
-            "99",
-            null,
-            null
+            "99"
          ]
       },
       {
          "type": "power",
          "id": [
-            "100",
-            null
+            "100"
          ]
       },
       {
@@ -260,23 +222,19 @@
       {
          "type": "power",
          "id": [
-            "102",
-            null,
-            null
+            "102"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            70,
-            null
+            70
          ]
       },
       {
          "type": "power",
          "id": [
-            "103",
-            null
+            "103"
          ]
       }
    ]
@@ -289,10 +247,6 @@
    ],
    "name": "Bard",
    "description": "Influencing others is the way to play. Use story and song to save the day.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Cha",
       "Dex",
@@ -311,38 +265,31 @@
       {
          "type": "action",
          "id": [
-            "28",
-            null,
-            null
+            "28"
          ]
       },
       {
          "type": "action",
          "id": [
-            29,
-            null
+            29
          ]
       },
       {
          "type": "action",
          "id": [
-            "30",
-            null
+            "30"
          ]
       },
       {
          "type": "action",
          "id": [
-            "31",
-            null,
-            null
+            "31"
          ]
       },
       {
          "type": "action",
          "id": [
-            "32",
-            null
+            "32"
          ]
       },
       {
@@ -354,23 +301,19 @@
       {
          "type": "power",
          "id": [
-            "105",
-            null,
-            null
+            "105"
          ]
       },
       {
          "type": "power",
          "id": [
-            106,
-            null
+            106
          ]
       },
       {
          "type": "action",
          "id": [
-            "33",
-            null
+            "33"
          ]
       }
    ]
@@ -383,10 +326,6 @@
    ],
    "name": "Beastmaster",
    "description": "Let your animal friends do all the dirty work. Gotta catch em all! ",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Wis",
@@ -405,38 +344,31 @@
       {
          "type": "spells",
          "id": [
-            "24",
-            null,
-            null
+            "24"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            71,
-            null
+            71
          ]
       },
       {
          "type": "power",
          "id": [
-            "107",
-            null
+            "107"
          ]
       },
       {
          "type": "spells",
          "id": [
-            "31",
-            null,
-            null
+            "31"
          ]
       },
       {
          "type": "power",
          "id": [
-            "108",
-            null
+            "108"
          ]
       },
       {
@@ -448,23 +380,19 @@
       {
          "type": "spells",
          "id": [
-            "38",
-            null,
-            null
+            "38"
          ]
       },
       {
          "type": "power",
          "id": [
-            110,
-            null
+            110
          ]
       },
       {
          "type": "power",
          "id": [
-            "111",
-            null
+            "111"
          ]
       }
    ]
@@ -477,10 +405,6 @@
    ],
    "name": "Berserker",
    "description": "Rage fuels these mighty warriors, they can ignore pain, and they fight to the end past what would kill a normal warrior.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Str",
       "Hrt",
@@ -499,38 +423,31 @@
       {
          "type": "action",
          "id": [
-            "34",
-            null,
-            null
+            "34"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            72,
-            null
+            72
          ]
       },
       {
          "type": "action",
          "id": [
-            "35",
-            null
+            "35"
          ]
       },
       {
          "type": "power",
          "id": [
-            "112",
-            null,
-            null
+            "112"
          ]
       },
       {
          "type": "power",
          "id": [
-            "113",
-            null
+            "113"
          ]
       },
       {
@@ -542,23 +459,19 @@
       {
          "type": "power",
          "id": [
-            "115",
-            null,
-            null
+            "115"
          ]
       },
       {
          "type": "power",
          "id": [
-            116,
-            null
+            116
          ]
       },
       {
          "type": "power",
          "id": [
-            "117",
-            null
+            "117"
          ]
       }
    ]
@@ -571,10 +484,6 @@
    ],
    "name": "Blood Mage",
    "description": "Bloodmages have found a way to cast their spells without relying on MP. By using blood they gain power and manipulate arcana.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Wis",
@@ -594,15 +503,13 @@
          "type": "spells",
          "id": [
             "51",
-            162,
-            null
+            162
          ]
       },
       {
          "type": "power",
          "id": [
-            118,
-            null
+            118
          ]
       },
       {
@@ -615,9 +522,7 @@
       {
          "type": "power",
          "id": [
-            "119",
-            null,
-            null
+            "119"
          ]
       },
       {
@@ -637,15 +542,13 @@
          "type": "spells",
          "id": [
             "156",
-            180,
-            null
+            180
          ]
       },
       {
          "type": "power",
          "id": [
-            120,
-            null
+            120
          ]
       },
       {
@@ -665,10 +568,6 @@
    ],
    "name": "Blooded",
    "description": "The blooded absorb power from the flesh & blood of those they have slain. They are often associated with serial killers and cannibals, however some choose to only eat the flesh of animals and creatures.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "End",
       "Dex",
@@ -687,38 +586,31 @@
       {
          "type": "action",
          "id": [
-            "37",
-            null,
-            null
+            "37"
          ]
       },
       {
          "type": "power",
          "id": [
-            121,
-            null
+            121
          ]
       },
       {
          "type": "power",
          "id": [
-            "122",
-            null
+            "122"
          ]
       },
       {
          "type": "power",
          "id": [
-            "123",
-            null,
-            null
+            "123"
          ]
       },
       {
          "type": "power",
          "id": [
-            "124",
-            null
+            "124"
          ]
       },
       {
@@ -730,23 +622,19 @@
       {
          "type": "power",
          "id": [
-            "126",
-            null,
-            null
+            "126"
          ]
       },
       {
          "type": "power",
          "id": [
-            127,
-            null
+            127
          ]
       },
       {
          "type": "power",
          "id": [
-            "128",
-            null
+            "128"
          ]
       }
    ]
@@ -759,10 +647,6 @@
    ],
    "name": "Champion",
    "description": "Rallying their allies on the battlefield, the champion gives even the worst outcomes hope.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "End",
       "Hrt",
@@ -781,38 +665,31 @@
       {
          "type": "action",
          "id": [
-            "38",
-            null,
-            null
+            "38"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            73,
-            null
+            73
          ]
       },
       {
          "type": "power",
          "id": [
-            "129",
-            null
+            "129"
          ]
       },
       {
          "type": "power",
          "id": [
-            "130",
-            null,
-            null
+            "130"
          ]
       },
       {
          "type": "power",
          "id": [
-            "131",
-            null
+            "131"
          ]
       },
       {
@@ -824,23 +701,19 @@
       {
          "type": "power",
          "id": [
-            "133",
-            null,
-            null
+            "133"
          ]
       },
       {
          "type": "power",
          "id": [
-            134,
-            null
+            134
          ]
       },
       {
          "type": "power",
          "id": [
-            "135",
-            null
+            "135"
          ]
       }
    ]
@@ -853,10 +726,6 @@
    ],
    "name": "Cleric",
    "description": "The worlds greatest healers, able to mend bones, cure disease, and even prevent death.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "End",
@@ -876,37 +745,32 @@
          "type": "spells",
          "id": [
             "173",
-            174,
-            null
+            174
          ]
       },
       {
          "type": "stunt",
          "id": [
-            74,
-            null
+            74
          ]
       },
       {
          "type": "power",
          "id": [
-            "136",
-            null
+            "136"
          ]
       },
       {
          "type": "spells",
          "id": [
             "177",
-            178,
-            null
+            178
          ]
       },
       {
          "type": "power",
          "id": [
-            "137",
-            null
+            "137"
          ]
       },
       {
@@ -919,22 +783,19 @@
          "type": "spells",
          "id": [
             "183",
-            184,
-            null
+            184
          ]
       },
       {
          "type": "power",
          "id": [
-            139,
-            null
+            139
          ]
       },
       {
          "type": "power",
          "id": [
-            "140",
-            null
+            "140"
          ]
       }
    ]
@@ -947,10 +808,6 @@
    ],
    "name": "Commander",
    "description": "The true leader on the battlefield. Commanding their armies and allies from the frontlines. The commander will bring their people victory.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Cha",
       "End",
@@ -969,38 +826,31 @@
       {
          "type": "power",
          "id": [
-            "141",
-            null,
-            null
+            "141"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            75,
-            null
+            75
          ]
       },
       {
          "type": "action",
          "id": [
-            "39",
-            null
+            "39"
          ]
       },
       {
          "type": "power",
          "id": [
-            "142",
-            null,
-            null
+            "142"
          ]
       },
       {
          "type": "power",
          "id": [
-            "143",
-            null
+            "143"
          ]
       },
       {
@@ -1012,23 +862,19 @@
       {
          "type": "power",
          "id": [
-            "145",
-            null,
-            null
+            "145"
          ]
       },
       {
          "type": "power",
          "id": [
-            146,
-            null
+            146
          ]
       },
       {
          "type": "power",
          "id": [
-            "147",
-            null
+            "147"
          ]
       }
    ]
@@ -1041,10 +887,6 @@
    ],
    "name": "Death Knight",
    "description": "A lone knight falls amongst his slain comrades. As they lay dying, the knight's hatred and regret grows to the point where they will evade death until they have taken their revenge.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "End",
       "Str",
@@ -1063,38 +905,31 @@
       {
          "type": "power",
          "id": [
-            "148",
-            null,
-            null
+            "148"
          ]
       },
       {
          "type": "power",
          "id": [
-            149,
-            null
+            149
          ]
       },
       {
          "type": "power",
          "id": [
-            "150",
-            null
+            "150"
          ]
       },
       {
          "type": "power",
          "id": [
-            "151",
-            null,
-            null
+            "151"
          ]
       },
       {
          "type": "action",
          "id": [
-            "40",
-            null
+            "40"
          ]
       },
       {
@@ -1106,23 +941,19 @@
       {
          "type": "power",
          "id": [
-            "153",
-            null,
-            null
+            "153"
          ]
       },
       {
          "type": "power",
          "id": [
-            154,
-            null
+            154
          ]
       },
       {
          "type": "power",
          "id": [
-            "155",
-            null
+            "155"
          ]
       }
    ]
@@ -1135,10 +966,6 @@
    ],
    "name": "Delver",
    "description": "Explorer of the vast lands and ruins of the world. Careful not to delve into a dungeon deeper than you can climb out!",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Per",
       "Dex",
@@ -1157,38 +984,31 @@
       {
          "type": "power",
          "id": [
-            "156",
-            null,
-            null
+            "156"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            76,
-            null
+            76
          ]
       },
       {
          "type": "power",
          "id": [
-            "157",
-            null
+            "157"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "77",
-            null,
-            null
+            "77"
          ]
       },
       {
          "type": "power",
          "id": [
-            "158",
-            null
+            "158"
          ]
       },
       {
@@ -1200,23 +1020,19 @@
       {
          "type": "power",
          "id": [
-            "160",
-            null,
-            null
+            "160"
          ]
       },
       {
          "type": "power",
          "id": [
-            161,
-            null
+            161
          ]
       },
       {
          "type": "power",
          "id": [
-            "162",
-            null
+            "162"
          ]
       }
    ]
@@ -1229,10 +1045,6 @@
    ],
    "name": "Druid",
    "description": "Friend to nature, you would rather be around plants and spend time in your garden than among people. Manipulate plants to attack your foes and cast powerful support spells using them.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis",
       "Hrt",
@@ -1252,37 +1064,32 @@
          "type": "spells",
          "id": [
             "25",
-            26,
-            null
+            26
          ]
       },
       {
          "type": "power",
          "id": [
-            163,
-            null
+            163
          ]
       },
       {
          "type": "power",
          "id": [
-            "164",
-            null
+            "164"
          ]
       },
       {
          "type": "spells",
          "id": [
             "32",
-            33,
-            null
+            33
          ]
       },
       {
          "type": "power",
          "id": [
-            "165",
-            null
+            "165"
          ]
       },
       {
@@ -1295,22 +1102,19 @@
          "type": "spells",
          "id": [
             "39",
-            40,
-            null
+            40
          ]
       },
       {
          "type": "power",
          "id": [
-            167,
-            null
+            167
          ]
       },
       {
          "type": "power",
          "id": [
-            "168",
-            null
+            "168"
          ]
       }
    ]
@@ -1323,10 +1127,6 @@
    ],
    "name": "Drunken Master",
    "description": "Your body has adapted to alcohol, and now gains power and strength from drinking.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "End",
@@ -1345,38 +1145,31 @@
       {
          "type": "power",
          "id": [
-            "169",
-            null,
-            null
+            "169"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            78,
-            null
+            78
          ]
       },
       {
          "type": "power",
          "id": [
-            "170",
-            null
+            "170"
          ]
       },
       {
          "type": "power",
          "id": [
-            "171",
-            null,
-            null
+            "171"
          ]
       },
       {
          "type": "power",
          "id": [
-            "172",
-            null
+            "172"
          ]
       },
       {
@@ -1388,23 +1181,19 @@
       {
          "type": "power",
          "id": [
-            "174",
-            null,
-            null
+            "174"
          ]
       },
       {
          "type": "power",
          "id": [
-            175,
-            null
+            175
          ]
       },
       {
          "type": "power",
          "id": [
-            "176",
-            null
+            "176"
          ]
       }
    ]
@@ -1417,10 +1206,6 @@
    ],
    "name": "Duelist",
    "description": "You have two hands, why not use two weapons? Seriously what a waste.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Acc",
       "Str",
@@ -1439,38 +1224,31 @@
       {
          "type": "action",
          "id": [
-            "41",
-            null,
-            null
+            "41"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            79,
-            null
+            79
          ]
       },
       {
          "type": "power",
          "id": [
-            "177",
-            null
+            "177"
          ]
       },
       {
          "type": "power",
          "id": [
-            "178",
-            null,
-            null
+            "178"
          ]
       },
       {
          "type": "action",
          "id": [
-            "42",
-            null
+            "42"
          ]
       },
       {
@@ -1482,23 +1260,19 @@
       {
          "type": "power",
          "id": [
-            "180",
-            null,
-            null
+            "180"
          ]
       },
       {
          "type": "power",
          "id": [
-            181,
-            null
+            181
          ]
       },
       {
          "type": "action",
          "id": [
-            "43",
-            null
+            "43"
          ]
       }
    ]
@@ -1511,10 +1285,6 @@
    ],
    "name": "Elemancer",
    "description": "Only the Avatar, master of all the elements, could stop them, but when the world needed them most, they vanished. (go deep with one or shallow with many)",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Dex",
@@ -1533,38 +1303,31 @@
       {
          "type": "spell choice",
          "id": [
-            "elemancy",
-            null,
-            null
+            "elemancy"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            80,
-            null
+            80
          ]
       },
       {
          "type": "spell choice",
          "id": [
-            "elemancy",
-            null
+            "elemancy"
          ]
       },
       {
          "type": "power",
          "id": [
-            "182",
-            null,
-            null
+            "182"
          ]
       },
       {
          "type": "spell choice",
          "id": [
-            "elemancy",
-            null
+            "elemancy"
          ]
       },
       {
@@ -1576,23 +1339,19 @@
       {
          "type": "spell choice",
          "id": [
-            "elemancy",
-            null,
-            null
+            "elemancy"
          ]
       },
       {
          "type": "power",
          "id": [
-            184,
-            null
+            184
          ]
       },
       {
          "type": "power",
          "id": [
-            "185",
-            null
+            "185"
          ]
       }
    ]
@@ -1605,10 +1364,6 @@
    ],
    "name": "Engineer",
    "description": "You make it your goal to design, build, and modify weapons and armor to suit your needs. Plasma sword anyone? Mech suit? ",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Int",
@@ -1627,38 +1382,31 @@
       {
          "type": "power",
          "id": [
-            "186",
-            null,
-            null
+            "186"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            81,
-            null
+            81
          ]
       },
       {
          "type": "power",
          "id": [
-            "187",
-            null
+            "187"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "82",
-            null,
-            null
+            "82"
          ]
       },
       {
          "type": "power",
          "id": [
-            "188",
-            null
+            "188"
          ]
       },
       {
@@ -1670,23 +1418,19 @@
       {
          "type": "power",
          "id": [
-            "190",
-            null,
-            null
+            "190"
          ]
       },
       {
          "type": "power",
          "id": [
-            191,
-            null
+            191
          ]
       },
       {
          "type": "power",
          "id": [
-            "192",
-            null
+            "192"
          ]
       }
    ]
@@ -1699,10 +1443,6 @@
    ],
    "name": "Gambler of Fate",
    "description": "All or nothing, you guide the strings of fate and weave them to create the pattern you desire. This power could easily slip through your fingers though if your luck runs out.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis",
       "Cha",
@@ -1722,37 +1462,32 @@
          "type": "spells",
          "id": [
             "139",
-            140,
-            null
+            140
          ]
       },
       {
          "type": "stunt",
          "id": [
-            83,
-            null
+            83
          ]
       },
       {
          "type": "power",
          "id": [
-            "193",
-            null
+            "193"
          ]
       },
       {
          "type": "spells",
          "id": [
             "145",
-            146,
-            null
+            146
          ]
       },
       {
          "type": "power",
          "id": [
-            "194",
-            null
+            "194"
          ]
       },
       {
@@ -1765,22 +1500,19 @@
          "type": "spells",
          "id": [
             "151",
-            152,
-            null
+            152
          ]
       },
       {
          "type": "power",
          "id": [
-            196,
-            null
+            196
          ]
       },
       {
          "type": "power",
          "id": [
-            "197",
-            null
+            "197"
          ]
       }
    ]
@@ -1793,10 +1525,6 @@
    ],
    "name": "Gladiator",
    "description": "You are at your strongest when the crowds are cheering you on. You thrive in the one on one battle arena. You are the gladiator.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "End",
       "Str",
@@ -1815,38 +1543,31 @@
       {
          "type": "power",
          "id": [
-            "198",
-            null,
-            null
+            "198"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            84,
-            null
+            84
          ]
       },
       {
          "type": "action",
          "id": [
-            "44",
-            null
+            "44"
          ]
       },
       {
          "type": "power",
          "id": [
-            "199",
-            null,
-            null
+            "199"
          ]
       },
       {
          "type": "power",
          "id": [
-            "200",
-            null
+            "200"
          ]
       },
       {
@@ -1858,23 +1579,19 @@
       {
          "type": "power",
          "id": [
-            "202",
-            null,
-            null
+            "202"
          ]
       },
       {
          "type": "power",
          "id": [
-            203,
-            null
+            203
          ]
       },
       {
          "type": "power",
          "id": [
-            "204",
-            null
+            "204"
          ]
       }
    ]
@@ -1887,10 +1604,6 @@
    ],
    "name": "Guardian",
    "description": "Protect and serve. You live to guard those whom you have given your life to. Your live your life as a shield, so you better not go down, they are relying on you.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "End",
       "Str",
@@ -1909,38 +1622,31 @@
       {
          "type": "power",
          "id": [
-            "205",
-            null,
-            null
+            "205"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            85,
-            null
+            85
          ]
       },
       {
          "type": "action",
          "id": [
-            "45",
-            null
+            "45"
          ]
       },
       {
          "type": "power",
          "id": [
-            "206",
-            null,
-            null
+            "206"
          ]
       },
       {
          "type": "power",
          "id": [
-            "207",
-            null
+            "207"
          ]
       },
       {
@@ -1952,23 +1658,19 @@
       {
          "type": "power",
          "id": [
-            "209",
-            null,
-            null
+            "209"
          ]
       },
       {
          "type": "power",
          "id": [
-            210,
-            null
+            210
          ]
       },
       {
          "type": "power",
          "id": [
-            "211",
-            null
+            "211"
          ]
       }
    ]
@@ -1981,10 +1683,6 @@
    ],
    "name": "Gunfighter",
    "description": "Guns blazing is an excellent motto. Especially the guns part. Lots of them. ",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Acc",
       "Dex",
@@ -2003,38 +1701,31 @@
       {
          "type": "action",
          "id": [
-            "46",
-            null,
-            null
+            "46"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            86,
-            null
+            86
          ]
       },
       {
          "type": "power",
          "id": [
-            "212",
-            null
+            "212"
          ]
       },
       {
          "type": "power",
          "id": [
-            "213",
-            null,
-            null
+            "213"
          ]
       },
       {
          "type": "power",
          "id": [
-            "214",
-            null
+            "214"
          ]
       },
       {
@@ -2046,23 +1737,19 @@
       {
          "type": "power",
          "id": [
-            "216",
-            null,
-            null
+            "216"
          ]
       },
       {
          "type": "action",
          "id": [
-            47,
-            null
+            47
          ]
       },
       {
          "type": "power",
          "id": [
-            "217",
-            null
+            "217"
          ]
       }
    ]
@@ -2075,10 +1762,6 @@
    ],
    "name": "Hunter",
    "description": "Once you have set your mind to finding your target, they will never escape you. They can run, but they can't hide.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Per",
       "Dex",
@@ -2097,38 +1780,31 @@
       {
          "type": "action",
          "id": [
-            "48",
-            null,
-            null
+            "48"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            87,
-            null
+            87
          ]
       },
       {
          "type": "power",
          "id": [
-            "218",
-            null
+            "218"
          ]
       },
       {
          "type": "power",
          "id": [
-            "219",
-            null,
-            null
+            "219"
          ]
       },
       {
          "type": "power",
          "id": [
-            "220",
-            null
+            "220"
          ]
       },
       {
@@ -2140,23 +1816,19 @@
       {
          "type": "power",
          "id": [
-            "222",
-            null,
-            null
+            "222"
          ]
       },
       {
          "type": "power",
          "id": [
-            223,
-            null
+            223
          ]
       },
       {
          "type": "power",
          "id": [
-            "224",
-            null
+            "224"
          ]
       }
    ]
@@ -2169,10 +1841,6 @@
    ],
    "name": "Juggler",
    "description": "Specialized in throwing all sorts of weapons or tools. Throw a dagger at an enemy, toss an ally a potion, or juggle flaming swords to impress a crowd.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Acc",
       "Dex",
@@ -2191,38 +1859,31 @@
       {
          "type": "power",
          "id": [
-            "225",
-            null,
-            null
+            "225"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            88,
-            null
+            88
          ]
       },
       {
          "type": "power",
          "id": [
-            "226",
-            null
+            "226"
          ]
       },
       {
          "type": "power",
          "id": [
-            "227",
-            null,
-            null
+            "227"
          ]
       },
       {
          "type": "power",
          "id": [
-            "228",
-            null
+            "228"
          ]
       },
       {
@@ -2234,23 +1895,19 @@
       {
          "type": "power",
          "id": [
-            "230",
-            null,
-            null
+            "230"
          ]
       },
       {
          "type": "power",
          "id": [
-            231,
-            null
+            231
          ]
       },
       {
          "type": "power",
          "id": [
-            "232",
-            null
+            "232"
          ]
       }
    ]
@@ -2263,10 +1920,6 @@
    ],
    "name": "Knight",
    "description": "Valiant and honorable. The knight is the epitome of what a warrior should strive to become. Don't forget to save the damsel in distress.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Str",
       "Hrt",
@@ -2285,38 +1938,31 @@
       {
          "type": "power",
          "id": [
-            "233",
-            null,
-            null
+            "233"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            89,
-            null
+            89
          ]
       },
       {
          "type": "power",
          "id": [
-            "234",
-            null
+            "234"
          ]
       },
       {
          "type": "power",
          "id": [
-            "235",
-            null,
-            null
+            "235"
          ]
       },
       {
          "type": "power",
          "id": [
-            "236",
-            null
+            "236"
          ]
       },
       {
@@ -2328,23 +1974,19 @@
       {
          "type": "power",
          "id": [
-            "238",
-            null,
-            null
+            "238"
          ]
       },
       {
          "type": "power",
          "id": [
-            239,
-            null
+            239
          ]
       },
       {
          "type": "power",
          "id": [
-            "240",
-            null
+            "240"
          ]
       }
    ]
@@ -2357,10 +1999,6 @@
    ],
    "name": "Mage Hunter",
    "description": "You specialize in hunting down and eliminating users of magic. Resist and deflect magic with your shield, and cut through their defenses with your sword.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Str",
@@ -2379,38 +2017,31 @@
       {
          "type": "power",
          "id": [
-            "241",
-            null,
-            null
+            "241"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            90,
-            null
+            90
          ]
       },
       {
          "type": "power",
          "id": [
-            "242",
-            null
+            "242"
          ]
       },
       {
          "type": "power",
          "id": [
-            "243",
-            null,
-            null
+            "243"
          ]
       },
       {
          "type": "power",
          "id": [
-            "244",
-            null
+            "244"
          ]
       },
       {
@@ -2422,23 +2053,19 @@
       {
          "type": "power",
          "id": [
-            "246",
-            null,
-            null
+            "246"
          ]
       },
       {
          "type": "power",
          "id": [
-            247,
-            null
+            247
          ]
       },
       {
          "type": "power",
          "id": [
-            "248",
-            null
+            "248"
          ]
       }
    ]
@@ -2451,10 +2078,6 @@
    ],
    "name": "Martial Artist",
    "description": "Mastery of weapons, fast as the wind. Silent and deadly. You prefer subs over dubs.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Acc",
@@ -2473,38 +2096,31 @@
       {
          "type": "power",
          "id": [
-            "249",
-            null,
-            null
+            "249"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            91,
-            null
+            91
          ]
       },
       {
          "type": "action",
          "id": [
-            "49",
-            null
+            "49"
          ]
       },
       {
          "type": "power",
          "id": [
-            "250",
-            null,
-            null
+            "250"
          ]
       },
       {
          "type": "power",
          "id": [
-            "251",
-            null
+            "251"
          ]
       },
       {
@@ -2516,23 +2132,19 @@
       {
          "type": "action",
          "id": [
-            "51",
-            null,
-            null
+            "51"
          ]
       },
       {
          "type": "power",
          "id": [
-            252,
-            null
+            252
          ]
       },
       {
          "type": "power",
          "id": [
-            "253",
-            null
+            "253"
          ]
       }
    ]
@@ -2545,10 +2157,6 @@
    ],
    "name": "Medic",
    "description": "Deftly provides support while out in the field, dodging all attacks to bring aide and healing to their wounded teammates.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "End",
@@ -2567,38 +2175,31 @@
       {
          "type": "power",
          "id": [
-            "254",
-            null,
-            null
+            "254"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            92,
-            null
+            92
          ]
       },
       {
          "type": "power",
          "id": [
-            "255",
-            null
+            "255"
          ]
       },
       {
          "type": "power",
          "id": [
-            "256",
-            null,
-            null
+            "256"
          ]
       },
       {
          "type": "action",
          "id": [
-            "52",
-            null
+            "52"
          ]
       },
       {
@@ -2610,23 +2211,19 @@
       {
          "type": "power",
          "id": [
-            "258",
-            null,
-            null
+            "258"
          ]
       },
       {
          "type": "power",
          "id": [
-            259,
-            null
+            259
          ]
       },
       {
          "type": "power",
          "id": [
-            "260",
-            null
+            "260"
          ]
       }
    ]
@@ -2639,10 +2236,6 @@
    ],
    "name": "Mentalist",
    "description": "Manipulate the weak minded, confound the foolish, and become the center of attention. Their minds are like putty in your hands.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis",
       "Cha",
@@ -2661,38 +2254,31 @@
       {
          "type": "spells",
          "id": [
-            "161",
-            null,
-            null
+            "161"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            93,
-            null
+            93
          ]
       },
       {
          "type": "power",
          "id": [
-            "261",
-            null
+            "261"
          ]
       },
       {
          "type": "spells",
          "id": [
-            "165",
-            null,
-            null
+            "165"
          ]
       },
       {
          "type": "power",
          "id": [
-            "262",
-            null
+            "262"
          ]
       },
       {
@@ -2704,23 +2290,19 @@
       {
          "type": "spells",
          "id": [
-            "168",
-            null,
-            null
+            "168"
          ]
       },
       {
          "type": "power",
          "id": [
-            264,
-            null
+            264
          ]
       },
       {
          "type": "action",
          "id": [
-            "53",
-            null
+            "53"
          ]
       }
    ]
@@ -2733,10 +2315,6 @@
    ],
    "name": "Monk",
    "description": "Meditation is the key to enlightenment. Channel your inner energy into your fists and bring balance to the world.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Acc",
@@ -2755,38 +2333,31 @@
       {
          "type": "power",
          "id": [
-            "265",
-            null,
-            null
+            "265"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            94,
-            null
+            94
          ]
       },
       {
          "type": "action",
          "id": [
-            "54",
-            null
+            "54"
          ]
       },
       {
          "type": "power",
          "id": [
-            "266",
-            null,
-            null
+            "266"
          ]
       },
       {
          "type": "power",
          "id": [
-            "267",
-            null
+            "267"
          ]
       },
       {
@@ -2798,23 +2369,19 @@
       {
          "type": "power",
          "id": [
-            "269",
-            null,
-            null
+            "269"
          ]
       },
       {
          "type": "power",
          "id": [
-            270,
-            null
+            270
          ]
       },
       {
          "type": "power",
          "id": [
-            "271",
-            null
+            "271"
          ]
       }
    ]
@@ -2827,10 +2394,6 @@
    ],
    "name": "Necromancer",
    "description": "The Necromancer is a master over death itself. They study the deep and forbidden secrets long since forbidden by the Constellations. ",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "End",
@@ -2857,15 +2420,13 @@
       {
          "type": "power",
          "id": [
-            272,
-            null
+            272
          ]
       },
       {
          "type": "power",
          "id": [
-            "273",
-            null
+            "273"
          ]
       },
       {
@@ -2879,8 +2440,7 @@
       {
          "type": "power",
          "id": [
-            "274",
-            null
+            "274"
          ]
       },
       {
@@ -2900,15 +2460,13 @@
       {
          "type": "stunt",
          "id": [
-            95,
-            null
+            95
          ]
       },
       {
          "type": "power",
          "id": [
-            "276",
-            null
+            "276"
          ]
       }
    ]
@@ -2921,10 +2479,6 @@
    ],
    "name": "Noble",
    "description": "I'm very important. I have many leather-bound books and my apartment smells of rich mahogany.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Cha",
       "Per",
@@ -2943,38 +2497,31 @@
       {
          "type": "power",
          "id": [
-            "277",
-            null,
-            null
+            "277"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            96,
-            null
+            96
          ]
       },
       {
          "type": "power",
          "id": [
-            "278",
-            null
+            "278"
          ]
       },
       {
          "type": "power",
          "id": [
-            "279",
-            null,
-            null
+            "279"
          ]
       },
       {
          "type": "power",
          "id": [
-            "280",
-            null
+            "280"
          ]
       },
       {
@@ -2986,23 +2533,19 @@
       {
          "type": "power",
          "id": [
-            "282",
-            null,
-            null
+            "282"
          ]
       },
       {
          "type": "power",
          "id": [
-            283,
-            null
+            283
          ]
       },
       {
          "type": "power",
          "id": [
-            "284",
-            null
+            "284"
          ]
       }
    ]
@@ -3015,10 +2558,6 @@
    ],
    "name": "Orator",
    "description": "You are master of words and sound. Sticks and stones may break your bones, but an Orator's words WILL kill you.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Per",
@@ -3038,37 +2577,32 @@
          "type": "spells",
          "id": [
             "111",
-            112,
-            null
+            112
          ]
       },
       {
          "type": "stunt",
          "id": [
-            97,
-            null
+            97
          ]
       },
       {
          "type": "power",
          "id": [
-            "285",
-            null
+            "285"
          ]
       },
       {
          "type": "spells",
          "id": [
             "115",
-            116,
-            null
+            116
          ]
       },
       {
          "type": "power",
          "id": [
-            "286",
-            null
+            "286"
          ]
       },
       {
@@ -3081,22 +2615,19 @@
          "type": "spells",
          "id": [
             "120",
-            121,
-            null
+            121
          ]
       },
       {
          "type": "power",
          "id": [
-            288,
-            null
+            288
          ]
       },
       {
          "type": "power",
          "id": [
-            "289",
-            null
+            "289"
          ]
       }
    ]
@@ -3109,10 +2640,6 @@
    ],
    "name": "Outrider",
    "description": "Your steed will carry you to the ends of the earth. Faster and faster you ride. Able to wield weapons with ease while mounted",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Dex",
@@ -3131,38 +2658,31 @@
       {
          "type": "power",
          "id": [
-            "290",
-            null,
-            null
+            "290"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            98,
-            null
+            98
          ]
       },
       {
          "type": "power",
          "id": [
-            "291",
-            null
+            "291"
          ]
       },
       {
          "type": "power",
          "id": [
-            "292",
-            null,
-            null
+            "292"
          ]
       },
       {
          "type": "power",
          "id": [
-            "293",
-            null
+            "293"
          ]
       },
       {
@@ -3174,23 +2694,19 @@
       {
          "type": "power",
          "id": [
-            "295",
-            null,
-            null
+            "295"
          ]
       },
       {
          "type": "power",
          "id": [
-            296,
-            null
+            296
          ]
       },
       {
          "type": "power",
          "id": [
-            "297",
-            null
+            "297"
          ]
       }
    ]
@@ -3203,10 +2719,6 @@
    ],
    "name": "Pacifist",
    "description": "You have a strong aversion to violence and prefer to use your words and actions to diffuse  combat scenarios. All NPC adversaries have the potential to be convinced to halt combat and reach a peaceful resolution. ",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Cha",
       "Hrt",
@@ -3225,38 +2737,31 @@
       {
          "type": "action",
          "id": [
-            "55",
-            null,
-            null
+            "55"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            99,
-            null
+            99
          ]
       },
       {
          "type": "power",
          "id": [
-            "298",
-            null
+            "298"
          ]
       },
       {
          "type": "power",
          "id": [
-            "299",
-            null,
-            null
+            "299"
          ]
       },
       {
          "type": "power",
          "id": [
-            "300",
-            null
+            "300"
          ]
       },
       {
@@ -3268,23 +2773,19 @@
       {
          "type": "power",
          "id": [
-            "302",
-            null,
-            null
+            "302"
          ]
       },
       {
          "type": "power",
          "id": [
-            303,
-            null
+            303
          ]
       },
       {
          "type": "power",
          "id": [
-            "304",
-            null
+            "304"
          ]
       }
    ]
@@ -3297,10 +2798,6 @@
    ],
    "name": "Paladin: Anti",
    "description": "You serve no God, in fact you believe the Constellations are the primary cause of most pain and suffering in the world. Your zeal against the Constellations counteracts the powers of those who do believe in them.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Cha",
@@ -3319,38 +2816,31 @@
       {
          "type": "power",
          "id": [
-            "553",
-            null,
-            null
+            "553"
          ]
       },
       {
          "type": "power",
          "id": [
-            557,
-            null
+            557
          ]
       },
       {
          "type": "power",
          "id": [
-            "554",
-            null
+            "554"
          ]
       },
       {
          "type": "power",
          "id": [
-            "558",
-            null,
-            null
+            "558"
          ]
       },
       {
          "type": "power",
          "id": [
-            "555",
-            null
+            "555"
          ]
       },
       {
@@ -3362,23 +2852,19 @@
       {
          "type": "power",
          "id": [
-            "556",
-            null,
-            null
+            "556"
          ]
       },
       {
          "type": "power",
          "id": [
-            560,
-            null
+            560
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "101",
-            null
+            "101"
          ]
       }
    ]
@@ -3391,10 +2877,6 @@
    ],
    "name": "Pirate",
    "description": "Yaharrg matey, a pirates life be about sailing the seas (or lands or skies) in search of Treasure. Damned be the fools who get in your way!",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Per",
@@ -3413,38 +2895,31 @@
       {
          "type": "action",
          "id": [
-            "56",
-            null,
-            null
+            "56"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            102,
-            null
+            102
          ]
       },
       {
          "type": "power",
          "id": [
-            "313",
-            null
+            "313"
          ]
       },
       {
          "type": "power",
          "id": [
-            "314",
-            null,
-            null
+            "314"
          ]
       },
       {
          "type": "power",
          "id": [
-            "315",
-            null
+            "315"
          ]
       },
       {
@@ -3456,23 +2931,19 @@
       {
          "type": "power",
          "id": [
-            "317",
-            null,
-            null
+            "317"
          ]
       },
       {
          "type": "power",
          "id": [
-            318,
-            null
+            318
          ]
       },
       {
          "type": "action",
          "id": [
-            "81",
-            null
+            "81"
          ]
       }
    ]
@@ -3485,10 +2956,6 @@
    ],
    "name": "Planes Walker",
    "description": "Space-Time is no obstacle to you. Your pocket dimensions grant you incredible versatility, and your mobility is unmatched among mortals. This power comes from your otherworldly tattoos.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis",
       "Int",
@@ -3508,37 +2975,32 @@
          "type": "spells",
          "id": [
             "141",
-            142,
-            null
+            142
          ]
       },
       {
          "type": "stunt",
          "id": [
-            103,
-            null
+            103
          ]
       },
       {
          "type": "power",
          "id": [
-            "319",
-            null
+            "319"
          ]
       },
       {
          "type": "spells",
          "id": [
             "147",
-            148,
-            null
+            148
          ]
       },
       {
          "type": "power",
          "id": [
-            "320",
-            null
+            "320"
          ]
       },
       {
@@ -3551,22 +3013,19 @@
          "type": "spells",
          "id": [
             "153",
-            154,
-            null
+            154
          ]
       },
       {
          "type": "power",
          "id": [
-            322,
-            null
+            322
          ]
       },
       {
          "type": "power",
          "id": [
-            "323",
-            null
+            "323"
          ]
       }
    ]
@@ -3579,10 +3038,6 @@
    ],
    "name": "Potions Master",
    "description": "A Master at creating and administering potions of all kinds from deadly toxins, venoms, and poisons as well as restorative, supportive, and strength potions.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Per",
@@ -3601,38 +3056,31 @@
       {
          "type": "power",
          "id": [
-            "324",
-            null,
-            null
+            "324"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            104,
-            null
+            104
          ]
       },
       {
          "type": "power",
          "id": [
-            "325",
-            null
+            "325"
          ]
       },
       {
          "type": "power",
          "id": [
-            "326",
-            null,
-            null
+            "326"
          ]
       },
       {
          "type": "power",
          "id": [
-            "327",
-            null
+            "327"
          ]
       },
       {
@@ -3644,23 +3092,19 @@
       {
          "type": "power",
          "id": [
-            "329",
-            null,
-            null
+            "329"
          ]
       },
       {
          "type": "power",
          "id": [
-            330,
-            null
+            330
          ]
       },
       {
          "type": "power",
          "id": [
-            "331",
-            null
+            "331"
          ]
       }
    ]
@@ -3673,10 +3117,6 @@
    ],
    "name": "Rampager",
    "description": "Born of grief and loss, you gave into the darkness of your Berserker rage. Blinded to everything but massacre and destruction you rampage across the battlefield cleaving friend and foe alike.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Str",
       "Acc",
@@ -3695,38 +3135,31 @@
       {
          "type": "action",
          "id": [
-            "57",
-            null,
-            null
+            "57"
          ]
       },
       {
          "type": "power",
          "id": [
-            332,
-            null
+            332
          ]
       },
       {
          "type": "power",
          "id": [
-            "333",
-            null
+            "333"
          ]
       },
       {
          "type": "power",
          "id": [
-            "334",
-            null,
-            null
+            "334"
          ]
       },
       {
          "type": "power",
          "id": [
-            "335",
-            null
+            "335"
          ]
       },
       {
@@ -3738,23 +3171,19 @@
       {
          "type": "power",
          "id": [
-            "337",
-            null,
-            null
+            "337"
          ]
       },
       {
          "type": "power",
          "id": [
-            338,
-            null
+            338
          ]
       },
       {
          "type": "power",
          "id": [
-            "339",
-            null
+            "339"
          ]
       }
    ]
@@ -3767,10 +3196,6 @@
    ],
    "name": "Razor",
    "description": "Your power is proportional to your lifeforce. Your blood makes your weapons and abilities stronger. The weaker you become the stronger you are.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Per",
@@ -3789,38 +3214,31 @@
       {
          "type": "power",
          "id": [
-            "340",
-            null,
-            null
+            "340"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            105,
-            null
+            105
          ]
       },
       {
          "type": "power",
          "id": [
-            "341",
-            null
+            "341"
          ]
       },
       {
          "type": "power",
          "id": [
-            "342",
-            null,
-            null
+            "342"
          ]
       },
       {
          "type": "power",
          "id": [
-            "343",
-            null
+            "343"
          ]
       },
       {
@@ -3832,23 +3250,19 @@
       {
          "type": "power",
          "id": [
-            "345",
-            null,
-            null
+            "345"
          ]
       },
       {
          "type": "power",
          "id": [
-            346,
-            null
+            346
          ]
       },
       {
          "type": "power",
          "id": [
-            "347",
-            null
+            "347"
          ]
       }
    ]
@@ -3861,10 +3275,6 @@
    ],
    "name": "Samurai",
    "description": "Warriors of old, wielding techniques perfected and passed down through countless generations. There is very little, if anything, they hold more value in than their honor.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Str",
@@ -3883,38 +3293,31 @@
       {
          "type": "power",
          "id": [
-            "348",
-            null,
-            null
+            "348"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            106,
-            null
+            106
          ]
       },
       {
          "type": "power",
          "id": [
-            "349",
-            null
+            "349"
          ]
       },
       {
          "type": "power",
          "id": [
-            "350",
-            null,
-            null
+            "350"
          ]
       },
       {
          "type": "power",
          "id": [
-            "351",
-            null
+            "351"
          ]
       },
       {
@@ -3926,23 +3329,19 @@
       {
          "type": "power",
          "id": [
-            "353",
-            null,
-            null
+            "353"
          ]
       },
       {
          "type": "power",
          "id": [
-            354,
-            null
+            354
          ]
       },
       {
          "type": "action",
          "id": [
-            "59",
-            null
+            "59"
          ]
       }
    ]
@@ -3955,10 +3354,6 @@
    ],
    "name": "Seer",
    "description": "Visions and insight have always come to you in dreams or awake. Some of them come to pass exactly the way you have seen them, others you try to keep coming to pass.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis or Per",
       "Int",
@@ -3978,37 +3373,32 @@
          "type": "spells",
          "id": [
             "188",
-            189,
-            null
+            189
          ]
       },
       {
          "type": "stunt",
          "id": [
-            107,
-            null
+            107
          ]
       },
       {
          "type": "power",
          "id": [
-            "355",
-            null
+            "355"
          ]
       },
       {
          "type": "spells",
          "id": [
             "193",
-            194,
-            null
+            194
          ]
       },
       {
          "type": "power",
          "id": [
-            "356",
-            null
+            "356"
          ]
       },
       {
@@ -4021,22 +3411,19 @@
          "type": "spells",
          "id": [
             "198",
-            199,
-            null
+            199
          ]
       },
       {
          "type": "power",
          "id": [
-            358,
-            null
+            358
          ]
       },
       {
          "type": "power",
          "id": [
-            "359",
-            null
+            "359"
          ]
       }
    ]
@@ -4049,10 +3436,6 @@
    ],
    "name": "Shade",
    "description": "You merely adopted the dark; I was born in it, molded by it. I didn't see the light until I was already a man, by then it was nothing to me but BLINDING!",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Acc",
@@ -4071,38 +3454,31 @@
       {
          "type": "power",
          "id": [
-            "360",
-            null,
-            null
+            "360"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            108,
-            null
+            108
          ]
       },
       {
          "type": "spells",
          "id": [
-            "129",
-            null
+            "129"
          ]
       },
       {
          "type": "power",
          "id": [
-            "361",
-            null,
-            null
+            "361"
          ]
       },
       {
          "type": "power",
          "id": [
-            "362",
-            null
+            "362"
          ]
       },
       {
@@ -4114,23 +3490,19 @@
       {
          "type": "power",
          "id": [
-            "363",
-            null,
-            null
+            "363"
          ]
       },
       {
          "type": "power",
          "id": [
-            364,
-            null
+            364
          ]
       },
       {
          "type": "power",
          "id": [
-            "365",
-            null
+            "365"
          ]
       }
    ]
@@ -4143,10 +3515,6 @@
    ],
    "name": "Shaman",
    "description": "Your spores can only infect biological organisms. You are seriously one fun guy!",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis",
       "End",
@@ -4165,9 +3533,7 @@
       {
          "type": "action",
          "id": [
-            "60",
-            null,
-            null
+            "60"
          ]
       },
       {
@@ -4180,16 +3546,13 @@
       {
          "type": "power",
          "id": [
-            "366",
-            null
+            "366"
          ]
       },
       {
          "type": "power",
          "id": [
-            "367",
-            null,
-            null
+            "367"
          ]
       },
       {
@@ -4208,9 +3571,7 @@
       {
          "type": "power",
          "id": [
-            "369",
-            null,
-            null
+            "369"
          ]
       },
       {
@@ -4223,8 +3584,7 @@
       {
          "type": "power",
          "id": [
-            "370",
-            null
+            "370"
          ]
       }
    ]
@@ -4237,10 +3597,6 @@
    ],
    "name": "Shapeshifter",
    "description": "Why should animals and monsters get all the fun. Sometimes it would be nice to have the sense of smell of a dog. Sometimes you just want to grow a giant crab claw. Why not both?",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Hrt",
@@ -4259,38 +3615,32 @@
       {
          "type": "spells",
          "id": [
-            "6",
-            null,
-            null
+            "6"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            109,
-            null
+            109
          ]
       },
       {
          "type": "power",
          "id": [
-            "371",
-            null
+            "371"
          ]
       },
       {
          "type": "spells",
          "id": [
             "12",
-            13,
-            null
+            13
          ]
       },
       {
          "type": "power",
          "id": [
-            "372",
-            null
+            "372"
          ]
       },
       {
@@ -4302,23 +3652,19 @@
       {
          "type": "spells",
          "id": [
-            "20",
-            null,
-            null
+            "20"
          ]
       },
       {
          "type": "action",
          "id": [
-            61,
-            null
+            61
          ]
       },
       {
          "type": "power",
          "id": [
-            "374",
-            null
+            "374"
          ]
       }
    ]
@@ -4331,10 +3677,6 @@
    ],
    "name": "Sniper",
    "description": "It is much safer, and more effective, to shoot someone from hundreds of meters away than getting up close and personal. ",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Acc",
       "Per",
@@ -4353,38 +3695,31 @@
       {
          "type": "action",
          "id": [
-            "62",
-            null,
-            null
+            "62"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            110,
-            null
+            110
          ]
       },
       {
          "type": "power",
          "id": [
-            "375",
-            null
+            "375"
          ]
       },
       {
          "type": "power",
          "id": [
-            "376",
-            null,
-            null
+            "376"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "111",
-            null
+            "111"
          ]
       },
       {
@@ -4396,23 +3731,19 @@
       {
          "type": "power",
          "id": [
-            "378",
-            null,
-            null
+            "378"
          ]
       },
       {
          "type": "power",
          "id": [
-            379,
-            null
+            379
          ]
       },
       {
          "type": "power",
          "id": [
-            "380",
-            null
+            "380"
          ]
       }
    ]
@@ -4425,10 +3756,6 @@
    ],
    "name": "Slayer",
    "description": "Your vengeance will not be quenched until your nemesis have been slain. You are specialized to kill them, and you're damn good at it.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Str",
       "Acc",
@@ -4447,38 +3774,31 @@
       {
          "type": "power",
          "id": [
-            "381",
-            null,
-            null
+            "381"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            112,
-            null
+            112
          ]
       },
       {
          "type": "power",
          "id": [
-            "382",
-            null
+            "382"
          ]
       },
       {
          "type": "power",
          "id": [
-            "383",
-            null,
-            null
+            "383"
          ]
       },
       {
          "type": "power",
          "id": [
-            "384",
-            null
+            "384"
          ]
       },
       {
@@ -4490,23 +3810,19 @@
       {
          "type": "power",
          "id": [
-            "386",
-            null,
-            null
+            "386"
          ]
       },
       {
          "type": "power",
          "id": [
-            387,
-            null
+            387
          ]
       },
       {
          "type": "power",
          "id": [
-            "388",
-            null
+            "388"
          ]
       }
    ]
@@ -4519,10 +3835,6 @@
    ],
    "name": "Sorcerer",
    "description": "A powerful and efficient magic-user who doesn't care to learn multitudes of spells, and instead relies on their innate magical power to hurl pure energy at their foes.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Wis",
       "Acc",
@@ -4541,38 +3853,31 @@
       {
          "type": "action",
          "id": [
-            "66",
-            null,
-            null
+            "66"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            119,
-            null
+            119
          ]
       },
       {
          "type": "action",
          "id": [
-            "67",
-            null
+            "67"
          ]
       },
       {
          "type": "power",
          "id": [
-            "389",
-            null,
-            null
+            "389"
          ]
       },
       {
          "type": "power",
          "id": [
-            "390",
-            null
+            "390"
          ]
       },
       {
@@ -4584,23 +3889,19 @@
       {
          "type": "power",
          "id": [
-            "391",
-            null,
-            null
+            "391"
          ]
       },
       {
          "type": "power",
          "id": [
-            392,
-            null
+            392
          ]
       },
       {
          "type": "action",
          "id": [
-            "80",
-            null
+            "80"
          ]
       }
    ]
@@ -4613,10 +3914,6 @@
    ],
    "name": "Spellsword",
    "description": "Magic.. Swords�� You use magic swords and use magic on your swords. You could even use swords on your magic if you wanted. Your weapon of choice doesn't have to be a sword�� but it just wouldn't sound as cool.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Wis",
@@ -4643,15 +3940,13 @@
       {
          "type": "stunt",
          "id": [
-            113,
-            null
+            113
          ]
       },
       {
          "type": "power",
          "id": [
-            "393",
-            null
+            "393"
          ]
       },
       {
@@ -4665,8 +3960,7 @@
       {
          "type": "power",
          "id": [
-            "394",
-            null
+            "394"
          ]
       },
       {
@@ -4686,15 +3980,13 @@
       {
          "type": "power",
          "id": [
-            396,
-            null
+            396
          ]
       },
       {
          "type": "power",
          "id": [
-            "397",
-            null
+            "397"
          ]
       }
    ]
@@ -4707,10 +3999,6 @@
    ],
    "name": "Thief",
    "description": "Sneaking and stealing, breaking and entering, disarming traps, picking locks and pockets. Oh. And getting hella rich too.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Dex",
       "Per",
@@ -4729,38 +4017,31 @@
       {
          "type": "power",
          "id": [
-            "398",
-            null,
-            null
+            "398"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            114,
-            null
+            114
          ]
       },
       {
          "type": "power",
          "id": [
-            "399",
-            null
+            "399"
          ]
       },
       {
          "type": "power",
          "id": [
-            "400",
-            null,
-            null
+            "400"
          ]
       },
       {
          "type": "action",
          "id": [
-            "64",
-            null
+            "64"
          ]
       },
       {
@@ -4772,23 +4053,19 @@
       {
          "type": "spells",
          "id": [
-            "14",
-            null,
-            null
+            "14"
          ]
       },
       {
          "type": "power",
          "id": [
-            401,
-            null
+            401
          ]
       },
       {
          "type": "power",
          "id": [
-            "402",
-            null
+            "402"
          ]
       }
    ]
@@ -4801,10 +4078,6 @@
    ],
    "name": "Trickster",
    "description": "Master of sleight of hand and real Illusion. Make the people see what you want them to see, and believe what you want them to believe.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Cha",
       "Wis",
@@ -4823,38 +4096,31 @@
       {
          "type": "power",
          "id": [
-            "403",
-            null,
-            null
+            "403"
          ]
       },
       {
          "type": "spells",
          "id": [
-            126,
-            null
+            126
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "115",
-            null
+            "115"
          ]
       },
       {
          "type": "power",
          "id": [
-            "404",
-            null,
-            null
+            "404"
          ]
       },
       {
          "type": "spells",
          "id": [
-            "131",
-            null
+            "131"
          ]
       },
       {
@@ -4866,23 +4132,19 @@
       {
          "type": "power",
          "id": [
-            "406",
-            null,
-            null
+            "406"
          ]
       },
       {
          "type": "spells",
          "id": [
-            134,
-            null
+            134
          ]
       },
       {
          "type": "power",
          "id": [
-            "407",
-            null
+            "407"
          ]
       }
    ]
@@ -4895,10 +4157,6 @@
    ],
    "name": "Warlock",
    "description": "Make a connection to an ancestor. Speak with them, borrow their weapons, tools, and armor. Summon them and their powers to this world.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Hrt",
@@ -4917,38 +4175,31 @@
       {
          "type": "spells",
          "id": [
-            "47",
-            null,
-            null
+            "47"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            67,
-            null
+            67
          ]
       },
       {
          "type": "power",
          "id": [
-            "408",
-            null
+            "408"
          ]
       },
       {
          "type": "spells",
          "id": [
-            "54",
-            null,
-            null
+            "54"
          ]
       },
       {
          "type": "power",
          "id": [
-            "409",
-            null
+            "409"
          ]
       },
       {
@@ -4960,23 +4211,19 @@
       {
          "type": "spells",
          "id": [
-            "60",
-            null,
-            null
+            "60"
          ]
       },
       {
          "type": "power",
          "id": [
-            411,
-            null
+            411
          ]
       },
       {
          "type": "power",
          "id": [
-            "412",
-            null
+            "412"
          ]
       }
    ]
@@ -4989,10 +4236,6 @@
    ],
    "name": "Wizard / Witch",
    "description": "Wield your staff or wand to channel more powerful arcana.  The most versatile of all the mages. Every spell is a tool in your arsenal.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Int",
       "Wis",
@@ -5011,38 +4254,31 @@
       {
          "type": "spell choice",
          "id": [
-            "novice",
-            null,
-            null
+            "novice"
          ]
       },
       {
          "type": "stunt",
          "id": [
-            116,
-            null
+            116
          ]
       },
       {
          "type": "action",
          "id": [
-            "65",
-            null
+            "65"
          ]
       },
       {
          "type": "spell choice",
          "id": [
-            "adept",
-            null,
-            null
+            "adept"
          ]
       },
       {
          "type": "power",
          "id": [
-            "413",
-            null
+            "413"
          ]
       },
       {
@@ -5054,23 +4290,19 @@
       {
          "type": "spell choice",
          "id": [
-            "master",
-            null,
-            null
+            "master"
          ]
       },
       {
          "type": "power",
          "id": [
-            415,
-            null
+            415
          ]
       },
       {
          "type": "spell choice",
          "id": [
-            "specialization",
-            null
+            "specialization"
          ]
       }
    ]
@@ -5083,10 +4315,6 @@
    ],
    "name": "Paladin: Dantalion",
    "description": "Your strength comes from Dantalion. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Str",
@@ -5105,38 +4333,31 @@
       {
          "type": "power",
          "id": [
-            "529",
-            null,
-            null
+            "529"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "530",
-            null
+            "530"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "71",
-            null
+            "71"
          ]
       },
       {
@@ -5148,23 +4369,19 @@
       {
          "type": "power",
          "id": [
-            "531",
-            null,
-            null
+            "531"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5177,10 +4394,6 @@
    ],
    "name": "Paladin: Baal",
    "description": "Your strength comes from Baal. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Acc",
@@ -5199,38 +4412,31 @@
       {
          "type": "power",
          "id": [
-            "532",
-            null,
-            null
+            "532"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "533",
-            null
+            "533"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "72",
-            null
+            "72"
          ]
       },
       {
@@ -5242,23 +4448,19 @@
       {
          "type": "power",
          "id": [
-            "534",
-            null,
-            null
+            "534"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5271,10 +4473,6 @@
    ],
    "name": "Paladin: Seir",
    "description": "Your strength comes from Seir. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Cha",
@@ -5293,38 +4491,31 @@
       {
          "type": "power",
          "id": [
-            "535",
-            null,
-            null
+            "535"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "536",
-            null
+            "536"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "73",
-            null
+            "73"
          ]
       },
       {
@@ -5336,23 +4527,19 @@
       {
          "type": "power",
          "id": [
-            "537",
-            null,
-            null
+            "537"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5365,10 +4552,6 @@
    ],
    "name": "Paladin: Blythe",
    "description": "Your strength comes from Blythe. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Int",
@@ -5387,38 +4570,31 @@
       {
          "type": "power",
          "id": [
-            "538",
-            null,
-            null
+            "538"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "539",
-            null
+            "539"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "74",
-            null
+            "74"
          ]
       },
       {
@@ -5430,23 +4606,19 @@
       {
          "type": "power",
          "id": [
-            "540",
-            null,
-            null
+            "540"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5459,10 +4631,6 @@
    ],
    "name": "Paladin: Morax",
    "description": "Your strength comes from Morax. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "End",
@@ -5481,38 +4649,31 @@
       {
          "type": "power",
          "id": [
-            "541",
-            null,
-            null
+            "541"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "542",
-            null
+            "542"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "75",
-            null
+            "75"
          ]
       },
       {
@@ -5524,23 +4685,19 @@
       {
          "type": "power",
          "id": [
-            "543",
-            null,
-            null
+            "543"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5553,10 +4710,6 @@
    ],
    "name": "Paladin: Asmodeus",
    "description": "Your strength comes from Asmodeus. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Wis",
@@ -5575,38 +4728,31 @@
       {
          "type": "power",
          "id": [
-            "544",
-            null,
-            null
+            "544"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "545",
-            null
+            "545"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "76",
-            null
+            "76"
          ]
       },
       {
@@ -5618,23 +4764,19 @@
       {
          "type": "power",
          "id": [
-            "546",
-            null,
-            null
+            "546"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5647,10 +4789,6 @@
    ],
    "name": "Paladin: Aster",
    "description": "Your strength comes from Aster. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Dex",
@@ -5669,38 +4807,31 @@
       {
          "type": "power",
          "id": [
-            "547",
-            null,
-            null
+            "547"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "548",
-            null
+            "548"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "77",
-            null
+            "77"
          ]
       },
       {
@@ -5712,23 +4843,19 @@
       {
          "type": "power",
          "id": [
-            "549",
-            null,
-            null
+            "549"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]
@@ -5741,10 +4868,6 @@
    ],
    "name": "Paladin: Zagan",
    "description": "Your strength comes from Zagan. You have sworn your life to them and must follow their tenets or lose your power.",
-   "notes": "",
-   "image": [
-      ""
-   ],
    "recommendedAttributes": [
       "Hrt",
       "Per",
@@ -5763,38 +4886,31 @@
       {
          "type": "power",
          "id": [
-            "550",
-            null,
-            null
+            "550"
          ]
       },
       {
          "type": "power",
          "id": [
-            306,
-            null
+            306
          ]
       },
       {
          "type": "power",
          "id": [
-            "551",
-            null
+            "551"
          ]
       },
       {
          "type": "power",
          "id": [
-            "308",
-            null,
-            null
+            "308"
          ]
       },
       {
          "type": "action",
          "id": [
-            "78",
-            null
+            "78"
          ]
       },
       {
@@ -5806,23 +4922,19 @@
       {
          "type": "power",
          "id": [
-            "552",
-            null,
-            null
+            "552"
          ]
       },
       {
          "type": "power",
          "id": [
-            312,
-            null
+            312
          ]
       },
       {
          "type": "stunt",
          "id": [
-            "100",
-            null
+            "100"
          ]
       }
    ]

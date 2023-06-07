@@ -3,30 +3,55 @@
     "id": 1,
     "name": "Common",
     "script": "Common",
-    "description": "The language spoken by nearly everyone on Elara. The language and script is nearly identical to English."
+    "description": "The language spoken by nearly everyone on Elara. The language and script is nearly identical to English.",
+    "notes": "",
+    "creatorId": 1,
+    "world": [
+        1
+    ]
   },
   {
     "id": 2,
     "name": "Vatan",
     "script": "Vatan",
-    "description": "The language native to the Vatan home planet, spoken by most of the Vata and preprogamed into the Starforged. Many describe the language as beautiful and the script as elegant."
+    "description": "The language native to the Vatan home planet, spoken by most of the Vata and preprogamed into the Starforged. Many describe the language as beautiful and the script as elegant.",
+    "notes": "",
+    "creatorId": 1,
+    "world": [
+        1
+    ]
   },
   {
     "id": 3,
     "name": "Infernal",
     "script": "Vatan",
-    "description": "The Infernal language that broke off from Vatan over a thousand years ago. The language sounds much harsher than Vatan, though it uses the same alphabet."
+    "description": "The Infernal language that broke off from Vatan over a thousand years ago. The language sounds much harsher than Vatan, though it uses the same alphabet.",
+    "notes": "",
+    "creatorId": 1,
+    "world": [
+        1
+    ]
   },
   {
     "id": 4,
     "name": "Gargun",
     "script": "Gargun",
-    "description": "The language native to the Gargun home planet. It is described by many to be a gutteral and brutish language. Translation from common to Gargun can be difficult, as the Gargun language does not consist of many words."
+    "description": "The language native to the Gargun home planet. It is described by many to be a gutteral and brutish language. Translation from common to Gargun can be difficult, as the Gargun language does not consist of many words.",
+    "notes": "",
+    "creatorId": 1,
+    "world": [
+        1
+    ]
   },
   {
     "id": 5,
     "name": "Jargon",
     "script": "Common",
-    "description": "The language most commonly spoken by the Orion people. It is an offshoot of Common and was developed during the long period of time the Oions were isolated in space before landing on Elara."
+    "description": "The language most commonly spoken by the Orion people. It is an offshoot of Common and was developed during the long period of time the Oions were isolated in space before landing on Elara.",
+    "notes": "",
+    "creatorId": 1,
+    "world": [
+        1
+    ]
   }
 ]
