@@ -1,0 +1,3170 @@
+[
+ {
+   "id": 1,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Increase Max HP",
+   "notes": "Gain +3 to your maximum HP. \n*Once your maximum HP is equal to or greater than 60, this only grants +2 towards your maximum HP.\n**Once your maximum HP is equal to or greater than 90, this only grants +1 towards your maximum HP.",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stat",
+      "id": 1,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 2,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Increase Movement Speed",
+   "notes": "Gain +0.5 to your maximum Movement Speed. \n*Once your maximum Speed is equal to or greater than 10, this only grants +0.25 towards your maximum Speed.",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stat",
+      "id": 2,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 3,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Increase Max MP",
+   "notes": "Gain +2 to your maximum MP\n*Once your maximum MP is equal to or greater than 50, this only grants +1 towards your maximum MP.",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stat",
+      "id": 3,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 4,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Focus Level 1",
+   "notes": "Gain a +1 focus for a single attribute test. This grants you +1 on all test results towards tests relevant to your focus.",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "focus"
+   },
+   "upgrade": {
+      "type": "focus",
+      "id": null,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 5,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Focus Level 2",
+   "notes": "Upgrade your +1 focus to be a +2 focus.",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "focus"
+   },
+   "upgrade": {
+      "type": "focus",
+      "id": null,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 6,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Focus Level 3",
+   "notes": "Upgrade your +2 focus to be a +3 focus.",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "focus"
+   },
+   "upgrade": {
+      "type": "focus",
+      "id": null,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 7,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Talent Level",
+   "notes": "Gain the Novice abilities for a new talent, or the next level of a talent you already have.",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "talent"
+   },
+   "upgrade": {
+      "type": "talent",
+      "id": null,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 8,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Specialization Level",
+   "notes": "Gain a new Specialization, or the next level of a Specialization you already have.",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "specialization"
+   },
+   "upgrade": {
+      "type": "specialization",
+      "id": null,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 9,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Endurance",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 1,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 10,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Rock Steady",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 39,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 11,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Armor Training 1",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 43,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 12,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Armor Training 2",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 44,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 13,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Armor Training 3",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 45,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 14,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Fortify Armor",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 40,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 15,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Soldier's Nap",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 46,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 16,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Tenacious Will",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 41,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 17,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Indominable",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 47,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 18,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Strength",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 2,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 19,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Knock Prone",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 42,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 20,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Charge Attack",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "action",
+      "id": 22,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 21,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Mighty Blow",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 43,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 22,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Lethal Blow",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 145,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 23,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Deadly Blow",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 146,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 24,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Heavy Handed",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 48,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 25,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Sweeping Strike",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 44,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 26,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Warlord",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 49,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 27,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Accuracy",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 3,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 28,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Skirmish",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 45,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 29,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Weapon Training 1",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 50,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 30,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Weapon Training 2",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 51,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 31,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Disarm",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 46,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 32,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Marksman",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 52,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 33,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Rapid Reload",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 47,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 34,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Tenacious Spirit",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 3,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 53,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 35,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Juggernaut Rush",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 5
+         },
+         {
+            "id": 2,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "action",
+      "id": 25,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 36,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Sentinel",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 5
+         },
+         {
+            "id": 3,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 54,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 37,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Expert Strike",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 2,
+            "value": 5
+         },
+         {
+            "id": 3,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 55,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 38,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Last Stand",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 1,
+            "value": 5
+         },
+         {
+            "id": 2,
+            "value": 5
+         },
+         {
+            "id": 3,
+            "value": 5
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 56,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 39,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Dexterity",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 4,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 40,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Defensive Stance",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 48,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 41,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Speedy 1",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 57,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 42,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Speedy 2",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 58,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 43,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Speedy 3",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 59,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 44,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Disengage",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 49,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 45,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Uncanny Dodge",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 60,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 46,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Disappearing Act",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 50,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 47,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Elusive",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 61,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 48,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Perception",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 5,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 49,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Pierce Armor",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 51,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 50,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Pinpoint Attack",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 62,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 51,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Stay Aware",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 52,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 52,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Scan Weakness",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "action",
+      "id": 23,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 53,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Penetrate Armor",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 53,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 54,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Sharpshooter",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 63,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 55,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Charisma",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 6,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 56,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Taunt",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 54,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 57,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Alluring Visage",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 64,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 58,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Feign Weakness",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 55,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 59,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Unassuming",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 65,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 60,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Cutting Words",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 56,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 61,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Rabble Rouser",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 6,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 66,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 62,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "No Hesitation",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 5
+         },
+         {
+            "id": 5,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 67,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 63,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Lucky",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 5
+         },
+         {
+            "id": 6,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 68,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 64,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "6th Sense",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 5,
+            "value": 5
+         },
+         {
+            "id": 6,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 69,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 65,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Cunning Action",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 4,
+            "value": 5
+         },
+         {
+            "id": 5,
+            "value": 5
+         },
+         {
+            "id": 6,
+            "value": 5
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 70,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 66,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Heart",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 7,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 67,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Clear Mind",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 57,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 68,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Deep Focus 1",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 71,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 69,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Deep Focus 2",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 72,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 70,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Deep Focus 3",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 73,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 71,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Stunned Silence",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 58,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 72,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Strong Willed",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 74,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 73,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Meditative Spirit",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 59,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 74,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Caring Soul",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 77,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 75,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Intelligence",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 8,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 76,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Basic Spell",
+   "notes": "Learn a basic level spell from any school of magic.",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 0
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "basic"
+   },
+   "upgrade": {
+      "type": "spell",
+      "id": null,
+      "isRepeatable": 1
+   }
+},
+ {
+   "id": 77,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Powerful Casting 1",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 60,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 78,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Powerful Casting 2",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 561,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 79,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Powerful Casting 3",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 562,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 80,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Novice Spell",
+   "notes": "Learn a novice level spell from any school of magic.",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "novice"
+   },
+   "upgrade": {
+      "type": "spell",
+      "id": null,
+      "isRepeatable": 1
+   }
+},
+ {
+   "id": 81,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Mighty Arcanum",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 61,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 82,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Lethal Arcanum",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 147,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 83,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Deadly Arcanum",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 148,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 84,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Adept Spell",
+   "notes": "Learn an Adept level spell for a school of magic that you already know at least one novice spell in.",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "adept"
+   },
+   "upgrade": {
+      "type": "spell",
+      "id": null,
+      "isRepeatable": 1
+   }
+},
+ {
+   "id": 85,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Flashbang",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 62,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 86,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Master Spell",
+   "notes": "Learn a Master level spell for a school of magic that you already know at least one Adept level spell in.",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "master"
+   },
+   "upgrade": {
+      "type": "spell",
+      "id": null,
+      "isRepeatable": 1
+   }
+},
+ {
+   "id": 87,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Wisdom",
+   "notes": "The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. \nExample 1: you currently have 2 End and you want 3 End, this will cost 3 points. \nExample 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",
+   "points": null,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": "attribute"
+   },
+   "upgrade": {
+      "type": "attribute",
+      "id": 9,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 88,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Lasting Focus",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 1
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 63,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 89,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Plan of Action 1",
+   "notes": "",
+   "points": 1,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 2
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "action",
+      "id": 24,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 90,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Plan of Action 2",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 78,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 91,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Plan of Action 3",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 79,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 92,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Free Casting",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 3
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 64,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 93,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Experienced Mage",
+   "notes": "",
+   "points": 2,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 4
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 80,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 94,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Split Arcana",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "stunt",
+      "id": 65,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 95,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Great Sage",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 9,
+            "value": 6
+         },
+         {
+            "id": null,
+            "value": null
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 81,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 96,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Overclock",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 5
+         },
+         {
+            "id": 8,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 82,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 97,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Arcane Recovery",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 5
+         },
+         {
+            "id": 9,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 83,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 98,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Spell Failsafe",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 8,
+            "value": 5
+         },
+         {
+            "id": 9,
+            "value": 5
+         },
+         {
+            "id": null,
+            "value": null
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 84,
+      "isRepeatable": 0
+   }
+},
+ {
+   "id": 99,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Magus Intellectus",
+   "notes": "",
+   "points": 3,
+   "requirement": {
+      "attribute": [
+         {
+            "id": 7,
+            "value": 5
+         },
+         {
+            "id": 8,
+            "value": 5
+         },
+         {
+            "id": 9,
+            "value": 5
+         }
+      ],
+      "other": ""
+   },
+   "upgrade": {
+      "type": "power",
+      "id": 85,
+      "isRepeatable": 0
+   }
+}
+]

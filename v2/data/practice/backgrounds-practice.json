@@ -5,8 +5,15 @@
     "description": "You have been a devout follower of one of the Constellations for a long time. Your humble dream is to one day stand before the physical form of your Constellation and worship them in person.",
     "credits": "160",
     "gear": "Robes, walking stick, incense, holy symbol.",
-    "focusId": 53,
-    "stuntId": 1
+    "focus": {
+      "attribute": "Hrt",
+      "focus": "Faith"
+    },
+    "stunt": {
+      "name": "Divine Inspiration",
+      "cost": 2,
+      "description": "Your faith has impressed your Constellation. You gain a divine inspiration that will give you a +1 to your next ability test."
+    }
   },
   {
     "id": 2,
@@ -14,8 +21,15 @@
     "description": "You studied past cultures and are well versed in the various cultural customs of the world. Museums paid you a small living, but you are motivated by your own curiosity to learn about lost cultures.",
     "credits": "180",
     "gear": "City clothes, small backpack, compass, temporary camera, notebook & pen.",
-    "focusId": 52,
-    "stuntId": 2
+    "focus": {
+      "attribute": "Hrt",
+      "focus": "Empathy"
+    },
+    "stunt": {
+      "name": "Who's Your Daddy",
+      "cost": 2,
+      "description": "You recognize the heritage of who you are speaking with. You are able to slip in a reference that reminds them of home. Gain +1 to Charisma for the remainder of your conversation."
+    }
   },
   {
     "id": 3,
@@ -23,8 +37,15 @@
     "description": "Always fascinated by The Fall, your life goal is to study the ancient and lost technology and relics of the starfaring civilizations from the past. You haven't had much luck yet, but won't let your hopes be dismayed.",
     "credits": "130",
     "gear": "Travel clothes, small backpack, compass, camera, shovel, magnifying glass.",
-    "focusId": 65,
-    "stuntId": 3
+    "focus": {
+      "attribute": "Int",
+      "focus": "Lore"
+    },
+    "stunt": {
+      "name": "Ruin Expert",
+      "cost": 2,
+      "description": "Your knowledge of ruins have helped you connect the dots here. The GM gives you previously unknown knowledge regarding the place you are studying."
+    }
   },
   {
     "id": 4,
@@ -32,8 +53,15 @@
     "description": "You spent your time learning and making art of various forms, some of which you were able to sell to make a profit. You are now looking for inspiration to create a true masterpiece.",
     "credits": "150",
     "gear": "City clothes, belt pouch, leather apron, hammer, chisel, knife, can of paint (x3), painter's kit.",
-    "focusId": 26,
-    "stuntId": 4
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Crafting"
+    },
+    "stunt": {
+      "name": "Niche Design",
+      "cost": 2,
+      "description": "The art you created is… interesting. Surely there is someone out there who will greatly appreciate this, you just need to find them. Adds an intriguing or strange aspect to your art."
+    }
   },
   {
     "id": 5,
@@ -41,8 +69,15 @@
     "description": "You honed your body to compete all kinds of sports and events. You have already bested everyone from your town or neighborhood, and want to prove yourself to be the best athelete in the world.",
     "credits": "150",
     "gear": "Athletic clothes, small athletic bag, first aid kit, stopwatch, and water bottle.",
-    "focusId": 5,
-    "stuntId": 5
+    "focus": {
+      "attribute": "End",
+      "focus": "Running"
+    },
+    "stunt": {
+      "name": "Second Wind",
+      "cost": 2,
+      "description": "Running energizes you. You may ignore the reduced movement penalty from fatigue for the next 5 minutes."
+    }
   },
   {
     "id": 6,
@@ -50,8 +85,15 @@
     "description": "You have worked in inns, pubs, and bars serving drinks and making friends. You desire to see more of the world and try all of the drinks of every culture.",
     "credits": "190",
     "gear": "City clothes, belt pouch, apron, bottle opener, corkscrew, beer bottle (x3), flask.",
-    "focusId": 1,
-    "stuntId": 6
+    "focus": {
+      "attribute": "End",
+      "focus": "Poison Res"
+    },
+    "stunt": {
+      "name": "Social Drinker",
+      "cost": 2,
+      "description": "You form bonds with those you are drinking with. They now consider you their drinking buddy, and are more likely to open up to you."
+    }
   },
   {
     "id": 7,
@@ -59,8 +101,15 @@
     "description": "You apprenticed under a blacksmith with a dream to make powerful weapons and armor, but were never trusted enough to make what you wanted. One day you want to forge the most powerful equipment.",
     "credits": "175",
     "gear": "Work clothes, backpack, leather apron, forge hammer, portable anvil, tongs, 1kg iron ore, 1kg coal.",
-    "focusId": 13,
-    "stuntId": 7
+    "focus": {
+      "attribute": "Str",
+      "focus": "Smithing"
+    },
+    "stunt": {
+      "name": "Efficient Smithing",
+      "cost": 2,
+      "description": "You smith your item while using up only 1/2 of the expected materials"
+    }
   },
   {
     "id": 8,
@@ -68,8 +117,15 @@
     "description": "You learned to survive by tricking and swindling others out of their hard earned cash. You have grown bored of tricking commoners and small fries, and are looking for a more exciting mark.",
     "credits": "225",
     "gear": "Fine clothes, fake id, deck of cards, silk scarf.",
-    "focusId": 42,
-    "stuntId": 8
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Deception"
+    },
+    "stunt": {
+      "name": "Convincing Lie",
+      "cost": 3,
+      "description": "Your lie has convinced the other person so thoroughly that they may try to spread this information to others. "
+    }
   },
   {
     "id": 9,
@@ -77,8 +133,15 @@
     "description": "You worked in a restaurant cooking the food and recipies dictated by the head chef, but you never got the chance to make your own recipies. Your dream is to cook exquisite food from the rarest of ingredients.",
     "credits": "175",
     "gear": "Work clothes, grocery bag, apron, knife, pot, pan, serving utensils, salt & pepper shaker.",
-    "focusId": 38,
-    "stuntId": 9
+    "focus": {
+      "attribute": "Per",
+      "focus": "Tasting"
+    },
+    "stunt": {
+      "name": "Nostalgic Flavors",
+      "cost": 2,
+      "description": "When cooking with a particular individual in mind you are able to recreate the flavors of their childhood. "
+    }
   },
   {
     "id": 10,
@@ -86,8 +149,15 @@
     "description": "You have earned a moderate living travelling from city to city delivering important documents and packages for others. You love travelling and meeting new people, but are sick of working for others.",
     "credits": "200",
     "gear": "Travel clothes, messenger bag, map, compass, Prodence travel guide.",
-    "focusId": 64,
-    "stuntId": 10
+    "focus": {
+      "attribute": "Int",
+      "focus": "Linguistics"
+    },
+    "stunt": {
+      "name": "Foreign Relations",
+      "cost": 2,
+      "description": "Able to verbally communicate a rudimentary message to another person regardless of a language barrier."
+    }
   },
   {
     "id": 11,
@@ -95,8 +165,15 @@
     "description": "Singing, dancing, and performing are your passion, but you are sick of the measly tips you have made in bars and taverns and desire a life of fame and grandeur.",
     "credits": "145",
     "gear": "Fine clothes, small purse, makeup, musical instrument, perfume.",
-    "focusId": 46,
-    "stuntId": 11
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Performance"
+    },
+    "stunt": {
+      "name": "Encore",
+      "cost": 2,
+      "description": "Wow the crowd with your outstanding performance. They are so entertained they demand an encore."
+    }
   },
   {
     "id": 12,
@@ -104,8 +181,15 @@
     "description": "You are a restless soul who is always on the lookout for new and exciting places to explore. You have been to a few exotic locations, but desire to explore the entire world.",
     "credits": "135",
     "gear": "Travel clothes, backpack, map, compass, sleeping bag, tarp, water bottle, firestarter.",
-    "focusId": 73,
-    "stuntId": 12
+    "focus": {
+      "attribute": "Wis",
+      "focus": "Navigation"
+    },
+    "stunt": {
+      "name": "New Adventure",
+      "cost": 2,
+      "description": "If you are exploring somewhere you have never been, you can temporarily ignore the effects of fatigue (up to Drained) for the next five minutes. (not applicable in combat)"
+    }
   },
   {
     "id": 13,
@@ -113,8 +197,15 @@
     "description": "You grew up on a farm and have always known the hard work of growing food. You have made some money from selling your yield, but you have always yearned for more than your crops and land. ",
     "credits": "160",
     "gear": "Work clothes, wheelbarrow, hoe, pitchfork, vegetable seeds, 1kg vegetables.",
-    "focusId": 3,
-    "stuntId": 13
+    "focus": {
+      "attribute": "End",
+      "focus": "Stamina"
+    },
+    "stunt": {
+      "name": "Early Riser",
+      "cost": 2,
+      "description": "If you begin a Short Rest within the next hour, you will recover in half the time (1 hour instead of 2)."
+    }
   },
   {
     "id": 14,
@@ -122,8 +213,15 @@
     "description": "Born and raised along the sea you made a living catching and selling fish. Your heart lies with the sea and you desire to explore the world to catch the biggest and rarest fish.",
     "credits": "155",
     "gear": "Work clothes, dry bag, basic fishing rod, tacklebox, net, 1kg bait.",
-    "focusId": 39,
-    "stuntId": 14
+    "focus": {
+      "attribute": "Per",
+      "focus": "Touching"
+    },
+    "stunt": {
+      "name": "\"Reely\" Ready",
+      "cost": 2,
+      "description": "Your senses are finely tuned from your time spent fishing. Gain +1 on the next Per (Initiative) test that you make within the next 15 minutes."
+    }
   },
   {
     "id": 15,
@@ -131,8 +229,15 @@
     "description": "Most things in life struggle to hold your attention, but nothing is as exciting as the high you get when you go all in and win big. You desire to search the world and live life to the fullest wherever you go.",
     "credits": "3d6 x 20",
     "gear": "Fine clothes, dice bag, dice, playing cards, watch or necklace.",
-    "focusId": 44,
-    "stuntId": 15
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Gambling"
+    },
+    "stunt": {
+      "name": "Luck Deferred",
+      "cost": 2,
+      "description": "Gain +2 on the next Cha (gambling) test that you make within the next 15 minutes."
+    }
   },
   {
     "id": 16,
@@ -140,8 +245,15 @@
     "description": "Raised to navigate the upper echelons of society, but you have different plans for your life than to simply inherit something you didn't earn. (Work with the GM to determine why you wanted to leave your family)",
     "credits": "300",
     "gear": "Fine clothes, large purse, necklace, makeup, perfume, hand mirror.",
-    "focusId": 43,
-    "stuntId": 16
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Etiquette"
+    },
+    "stunt": {
+      "name": "Shameless Flattery",
+      "cost": 2,
+      "description": "Kiss up to someone to get in their good graces. Their impression of you improves."
+    }
   },
   {
     "id": 17,
@@ -149,8 +261,15 @@
     "description": "You have always been a loner and can often be found sitting alone in a cave or under a bridge, but you are at peace with yourself and think the world would be much better off if everyone would just chill out. ",
     "credits": "120",
     "gear": "Rag clothes, sack, walking stick, waterskin, knife.",
-    "focusId": 54,
-    "stuntId": 17
+    "focus": {
+      "attribute": "Hrt",
+      "focus": "Meditation"
+    },
+    "stunt": {
+      "name": "Good Vibes",
+      "cost": 2,
+      "description": "Reset the duration of one of your currently active effects or bonuses."
+    }
   },
   {
     "id": 18,
@@ -158,8 +277,15 @@
     "description": "At home in the woods you are proficient in trapping and tracking animals, and made a living selling the furs and meat you gathered from your hunts. There is nothing you love more than hunting a new prey.",
     "credits": "195",
     "gear": "Fur clothes, leather bag, knife, net, rope, water skin, 1kg rabbit meat.",
-    "focusId": 40,
-    "stuntId": 18
+    "focus": {
+      "attribute": "Per",
+      "focus": "Tracking"
+    },
+    "stunt": {
+      "name": "Triangulate Quarry",
+      "cost": 2,
+      "description": "Able to interpret the approximate destination of the creatures you are tracking and track them without a penalty to your movement speed."
+    }
   },
   {
     "id": 19,
@@ -167,8 +293,15 @@
     "description": "Creative and skilled with your hands, you have always dreamed of changing the world with your creations. (Work with the GM on a starting prototype invention)",
     "credits": "135",
     "gear": "City clothes, backpack, small energy cell, screwdriver, blueprint notebook, soldering iron, prototype invention.",
-    "focusId": 62,
-    "stuntId": 19
+    "focus": {
+      "attribute": "Int",
+      "focus": "Engineering"
+    },
+    "stunt": {
+      "name": "Heavy-Duty Gizmo",
+      "cost": 2,
+      "description": "The object you are working on is made into a durable version of its kind. Durability is doubled."
+    }
   },
   {
     "id": 20,
@@ -176,8 +309,15 @@
     "description": "Strong and sturdy, you didn't know what else to do besides put your body to work. Manual labor may be what you are best at, but you know there is more to life than working yourself to the bone.",
     "credits": "150",
     "gear": "Work clothes, backpack, waterskin, hammer, shovel, tape measure.",
-    "focusId": 11,
-    "stuntId": 20
+    "focus": {
+      "attribute": "Str",
+      "focus": "Lifting"
+    },
+    "stunt": {
+      "name": "Weight Training",
+      "cost": 2,
+      "description": "You could do this all day. +2 to your next Str (Lifting) test, and even if you fail you won't be fatigued."
+    }
   },
   {
     "id": 21,
@@ -185,8 +325,15 @@
     "description": "Your people skills are better than most, and can often see the most efficient way to get the job done. You believe that your skills would be better put to use achieving your dreams vs simply making a profit.",
     "credits": "240",
     "gear": "Fine clothes, briefcase, notepad, handheld commlink",
-    "focusId": 45,
-    "stuntId": 21
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Leadership"
+    },
+    "stunt": {
+      "name": "Motivational Manager",
+      "cost": 2,
+      "description": "Your management skills are superb, those you are leading accomplish their task in 1/2 the time."
+    }
   },
   {
     "id": 22,
@@ -194,8 +341,15 @@
     "description": "Machines are your bread and butter, you are more at home working on an engine than anything else. Your dream is to one day learn about the engines of the great spaceships of the past.",
     "credits": "200",
     "gear": "Work clothes, backpack, hammer, screwdriver, wrenches, welding mask.",
-    "focusId": 32,
-    "stuntId": 22
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Tinkering"
+    },
+    "stunt": {
+      "name": "Efficient Overhaul",
+      "cost": 2,
+      "description": "Repair something without expending materials."
+    }
   },
   {
     "id": 23,
@@ -203,8 +357,15 @@
     "description": "You have always been good at bargaining and have worked for some time as a merchant, buying and selling product to maximize profits. One day you hope to build your own merchant empire.",
     "credits": "220",
     "gear": "City clothes, briefcase & small purse, scale, ledger, pen.",
-    "focusId": 41,
-    "stuntId": 23
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Bargaining"
+    },
+    "stunt": {
+      "name": "Price Is Right",
+      "cost": 3,
+      "description": "You are able to discern the loweset/highest price the character you are bargaining with would be willing to sell or buy at."
+    }
   },
   {
     "id": 24,
@@ -212,8 +373,15 @@
     "description": "You have an eye for finding ore and have worked in the mines for a long time. Sick of your labor being exploited by the mining corporations, you have decided to set out on your own path.",
     "credits": "165",
     "gear": "Work clothes, backpack, pickaxe, 1kg iron ore, water skin, headlamp, flashlight.",
-    "focusId": 69,
-    "stuntId": 24
+    "focus": {
+      "attribute": "Wis",
+      "focus": "Evaluation"
+    },
+    "stunt": {
+      "name": "Discerning Ore",
+      "cost": 2,
+      "description": "You recognize the raw materials used to make this object, and also where to obtain them."
+    }
   },
   {
     "id": 25,
@@ -221,8 +389,15 @@
     "description": "You love nature and have dedicated much of your life to studying various organisms and advocating for the environment. Your dream is to see even more of the flora and fuana this world has to offer.",
     "credits": "130",
     "gear": "Travel clothes, backpack, binoculers, compass, water purifier, local fieldguide, camera.",
-    "focusId": 75,
-    "stuntId": 25
+    "focus": {
+      "attribute": "Wis",
+      "focus": "Survival"
+    },
+    "stunt": {
+      "name": "Organic Classification",
+      "cost": 2,
+      "description": "Gain additional survival information about the organism in question."
+    }
   },
   {
     "id": 26,
@@ -230,8 +405,15 @@
     "description": "You learned medical skills and have compassion for people. You have worked in a hospital to use your skills to help others, but the long hours and lack of respect have driven you to seek a different path.",
     "credits": "200",
     "gear": "Robes, medical bag, first aid kit, water bottle, thermometer, rubber gloves.",
-    "focusId": 66,
-    "stuntId": 26
+    "focus": {
+      "attribute": "Int",
+      "focus": "Medicine"
+    },
+    "stunt": {
+      "name": "Well Cared For",
+      "cost": 2,
+      "description": "When caring for someone taking a rest, they heal additional HP equal to your Int attribute modifier."
+    }
   },
   {
     "id": 27,
@@ -239,8 +421,15 @@
     "description": "You grew up on the plains riding horses and you have a deep connection with creatures when you ride them. (Work with the GM to determine your starting mount)",
     "credits": "100",
     "gear": "Travel clothes, saddlebag, saddle, reins, knife, waterskin.",
-    "focusId": 28,
-    "stuntId": 27
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Riding"
+    },
+    "stunt": {
+      "name": "Soothing Rider",
+      "cost": 2,
+      "description": "You are able to calm your mount if it is stressed, tired, or afraid. Your mount gains +1 Hrt for the next 15 min."
+    }
   },
   {
     "id": 28,
@@ -248,8 +437,15 @@
     "description": "Deft with your hands and a compulsive thief, you never wanted an honest job when you could steal what cash you needed from others. To you the rush you get from lifting a wallet is more addicting than the reward.",
     "credits": "220",
     "gear": "City clothes, backpack, knife, lockpick (x3), noisemaker.",
-    "focusId": 30,
-    "stuntId": 28
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Sleight of Hand"
+    },
+    "stunt": {
+      "name": "A little bit extra",
+      "cost": 2,
+      "description": "You steal more than you expected. Obtain a random grab bag item that this character was holding onto."
+    }
   },
   {
     "id": 29,
@@ -257,8 +453,15 @@
     "description": "Locked up long ago for a crime you may or may not have comitted, you have only recently been released from prison. (Work with the GM to determine why you were imprisoned)",
     "credits": "120",
     "gear": "Rag clothes, sack, shiv, soap, shackles.",
-    "focusId": 9,
-    "stuntId": 29
+    "focus": {
+      "attribute": "Str",
+      "focus": "Intimidation"
+    },
+    "stunt": {
+      "name": "Prision Eyes",
+      "cost": 2,
+      "description": "Your stare is intense and intimidating causing weak willed individuals to break eye contact and leave you alone. Roll Str (Intimidation) vs the target's Hrt (Courage)."
+    }
   },
   {
     "id": 30,
@@ -266,8 +469,15 @@
     "description": "Ever inquisitive and with a knack for reading people, you have worked as a private eye for most of your adult life. There is still one mystery that you have yet to solve (work with the GM to determine the mystery).",
     "credits": "180",
     "gear": "City clothes, trench coat, fedora, gloves, voice recorder, notebook & pen.",
-    "focusId": 48,
-    "stuntId": 30
+    "focus": {
+      "attribute": "Cha",
+      "focus": "Questioning"
+    },
+    "stunt": {
+      "name": "Skeptic's Eye",
+      "cost": 2,
+      "description": "If the character you are questioning is withholding relevant information, you are aware that they are keeping something important from you."
+    }
   },
   {
     "id": 31,
@@ -275,8 +485,15 @@
     "description": "You grew up along the coast, and spent your youth working as a deckhand on cargo ships. Your dream is to one day sail across the world, taming even the most dangerous of seas.",
     "credits": "170",
     "gear": "Work clothes, dry bag, rope, knife, sextant, compass, star chart, telescope, net.",
-    "focusId": 29,
-    "stuntId": 31
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Sailing"
+    },
+    "stunt": {
+      "name": "Maritime Melody",
+      "cost": 2,
+      "description": "You begin singing a sea shanty that inspires everyone on board. Everyone whom hears gains +1 to Dex (Sailing) for the next hour."
+    }
   },
   {
     "id": 32,
@@ -284,8 +501,15 @@
     "description": "You love coming up with new hypotheses and are always looking to disprove well established theories. You hope to one day contribute a major discovery to the scientific community.",
     "credits": "190",
     "gear": "City clothes, lab coat, backpack, calculator, laser pointer, small data disk.",
-    "focusId": 65,
-    "stuntId": 32
+    "focus": {
+      "attribute": "Int",
+      "focus": "Lore"
+    },
+    "stunt": {
+      "name": "New Theory",
+      "cost": 3,
+      "description": "Making a new hypothesis engages your inner curiosity. Gain +1 Cha (Persuasion) for the next 15 min when you share your theory with others."
+    }
   },
   {
     "id": 33,
@@ -293,8 +517,15 @@
     "description": "You have worked as a local scout for a few years now. However, there is something important to you that you are still seraching for. (Work with the GM to determine what you are looking for)",
     "credits": "180",
     "gear": "Travel clothes, backpack, knife, rope, whistle, water bottle, grappling hook, tarp, binoculars.",
-    "focusId": 35,
-    "stuntId": 33
+    "focus": {
+      "attribute": "Per",
+      "focus": "Searching"
+    },
+    "stunt": {
+      "name": "Quick Search",
+      "cost": 2,
+      "description": "You are able to find what you are looking for quickly and efficiently. You may also find something extra based on GM discretion."
+    }
   },
   {
     "id": 34,
@@ -302,8 +533,15 @@
     "description": "You have a reputation for being able to smuggle all sorts of illicit goods, including people. You have managed to avoid being caught so far, but the authorities have begun to take notice of you.",
     "credits": "230",
     "gear": "City clothes, large backpack with hidden pockets, lockpick, knife, water bottle, compass, rope, crowbar.",
-    "focusId": 31,
-    "stuntId": 34
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Stealth"
+    },
+    "stunt": {
+      "name": "Smuggle Buddies",
+      "cost": 3,
+      "description": "Use your stealth test to apply to one other character you are in physical contact with. Replaces their stealth test with yours."
+    }
   },
   {
     "id": 35,
@@ -311,8 +549,15 @@
     "description": "You served for a period of time in the Federation Army until you were dishonorably discharged from active duty. (Work with the GM to determine why you were kicked out of the Army)",
     "credits": "140",
     "gear": "Work clothes, large backpack, tent, waterskin, rations (x3), flashlight, shovel, knife.",
-    "focusId": 56,
-    "stuntId": 35
+    "focus": {
+      "attribute": "Hrt",
+      "focus": "Self Discipline"
+    },
+    "stunt": {
+      "name": "Attention!",
+      "cost": 2,
+      "description": "Your training has prepared you for this. Stand at attention and gain +1 to Perception (Initiative) tests for the next 5 minutes."
+    }
   },
   {
     "id": 36,
@@ -320,8 +565,15 @@
     "description": "A self procalimed apprentice to a renouned and retired knight. Your dream is to one day become a brave and vallient knight yourself. (Work with the GM to determine your relationship to the retired knight)",
     "credits": "170",
     "gear": "Travel clothes, large backpack, first aid kit, water bottle, frying pan, lanturn, whetstone.",
-    "focusId": 51,
-    "stuntId": 36
+    "focus": {
+      "attribute": "Hrt",
+      "focus": "Courage"
+    },
+    "stunt": {
+      "name": "Lion's Courage",
+      "cost": 2,
+      "description": "Your courage is strengthened. Gain +2 on all subsequent courage tests for the remainder of the encounter."
+    }
   },
   {
     "id": 37,
@@ -329,8 +581,15 @@
     "description": "A skilled driver, you have made a living by transporting goods and working as a taxi driver in the big city. You don't own your own vehicle yet, but one day your dream is to become the best pilot in the world.",
     "credits": "190",
     "gear": "City clothes, small backpack, water bottle, watch, handheld commlink.",
-    "focusId": 27,
-    "stuntId": 37
+    "focus": {
+      "attribute": "Dex",
+      "focus": "Piloting"
+    },
+    "stunt": {
+      "name": "Smooth Moves",
+      "cost": 2,
+      "description": "Your piloting expertize results in a smooth and speedy ride for your passengers and cargo. For the next 15 minutes your vehicle gains +2 defense from attacks while you are driving."
+    }
   },
   {
     "id": 38,
@@ -338,7 +597,14 @@
     "description": "Orphaned at a young age, you never had somewhere safe to call home so you became a wanderer and have relied on your own wits and instinct ever since.",
     "credits": "130",
     "gear": "Travel clothes, large backpack, lighter, rope, tarp, waterskin, sleeping bag, saw.",
-    "focusId": 71,
-    "stuntId": 38
+    "focus": {
+      "attribute": "Wis",
+      "focus": "Intuition"
+    },
+    "stunt": {
+      "name": "Discern Mojo",
+      "cost": 2,
+      "description": "You are given an additional clue as to why the object/person of your attention might be giving off bad vibes."
+    }
   }
 ]

@@ -1,1038 +1,1778 @@
 [
-  {
-    "id": 1,
-    "name": "Divine Inspiration",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your faith has impressed your Constellation. You gain a divine inspiration that will give you a +1 to your next ability test."
-  },
-  {
-    "id": 2,
-    "name": "Who's Your Daddy",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You recognize the heritage of who you are speaking with. You are able to slip in a reference that reminds them of home. Gain +1 to Charisma for the remainder of your conversation."
-  },
-  {
-    "id": 3,
-    "name": "Ruin Expert",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your knowledge of ruins have helped you connect the dots here. The GM gives you previously unknown knowledge regarding the place you are studying."
-  },
-  {
-    "id": 4,
-    "name": "Niche Design",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "The art you created is… interesting. Surely there is someone out there who will greatly appreciate this, you just need to find them. Adds an intriguing or strange aspect to your art."
-  },
-  {
-    "id": 5,
-    "name": "Second Wind",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Running energizes you. You may ignore the reduced movement penalty from fatigue for the next 5 minutes."
-  },
-  {
-    "id": 6,
-    "name": "Social Drinker",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You form bonds with those you are drinking with. They now consider you their drinking buddy, and are more likely to open up to you."
-  },
-  {
-    "id": 7,
-    "name": "Efficient Smithing",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You smith your item while using up only 1/2 of the expected materials"
-  },
-  {
-    "id": 8,
-    "name": "Convincing Lie",
-    "origin": "background",
-    "dpCost": 3,
-    "description": "Your lie has convinced the other person so thoroughly that they may try to spread this information to others. "
-  },
-  {
-    "id": 9,
-    "name": "Nostalgic Flavors",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "When cooking with a particular individual in mind you are able to recreate the flavors of their childhood. "
-  },
-  {
-    "id": 10,
-    "name": "Foreign Relations",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Able to verbally communicate a rudimentary message to another person regardless of a language barrier."
-  },
-  {
-    "id": 11,
-    "name": "Encore",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Wow the crowd with your outstanding performance. They are so entertained they demand an encore."
-  },
-  {
-    "id": 12,
-    "name": "New Adventure",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "If you are exploring somewhere you have never been, you can temporarily ignore the effects of fatigue (up to Drained) for the next five minutes. (not applicable in combat)"
-  },
-  {
-    "id": 13,
-    "name": "Early Riser",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "If you begin a Short Rest within the next hour, you will recover in half the time (1 hour instead of 2)."
-  },
-  {
-    "id": 14,
-    "name": "\"Reely\" Ready",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your senses are finely tuned from your time spent fishing. Gain +1 on the next Per (Initiative) test that you make within the next 15 minutes."
-  },
-  {
-    "id": 15,
-    "name": "Luck Deferred",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Gain +2 on the next Cha (gambling) test that you make within the next 15 minutes."
-  },
-  {
-    "id": 16,
-    "name": "Shameless Flattery",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Kiss up to someone to get in their good graces. Their impression of you improves."
-  },
-  {
-    "id": 17,
-    "name": "Good Vibes",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Reset the duration of one of your currently active effects or bonuses."
-  },
-  {
-    "id": 18,
-    "name": "Triangulate Quarry",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Able to interpret the approximate destination of the creatures you are tracking and track them without a penalty to your movement speed."
-  },
-  {
-    "id": 19,
-    "name": "Heavy-Duty Gizmo",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "The object you are working on is made into a durable version of its kind. Durability is doubled."
-  },
-  {
-    "id": 20,
-    "name": "Weight Training",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You could do this all day. +2 to your next Str (Lifting) test, and even if you fail you won't be fatigued."
-  },
-  {
-    "id": 21,
-    "name": "Motivational Manager",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your management skills are superb, those you are leading accomplish their task in 1/2 the time."
-  },
-  {
-    "id": 22,
-    "name": "Efficient Overhaul",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Repair something without expending materials."
-  },
-  {
-    "id": 23,
-    "name": "Price Is Right",
-    "origin": "background",
-    "dpCost": 3,
-    "description": "You are able to discern the loweset/highest price the character you are bargaining with would be willing to sell or buy at."
-  },
-  {
-    "id": 24,
-    "name": "Discerning Ore",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You recognize the raw materials used to make this object, and also where to obtain them."
-  },
-  {
-    "id": 25,
-    "name": "Organic Classification",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Gain additional survival information about the organism in question."
-  },
-  {
-    "id": 26,
-    "name": "Well Cared For",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "When caring for someone taking a rest, they heal additional HP equal to your Int attribute modifier."
-  },
-  {
-    "id": 27,
-    "name": "Soothing Rider",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You are able to calm your mount if it is stressed, tired, or afraid. Your mount gains +1 Hrt for the next 15 min."
-  },
-  {
-    "id": 28,
-    "name": "A little bit extra",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You steal more than you expected. Obtain a random grab bag item that this character was holding onto."
-  },
-  {
-    "id": 29,
-    "name": "Prision Eyes",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your stare is intense and intimidating causing weak willed individuals to break eye contact and leave you alone. Roll Str (Intimidation) vs the target's Hrt (Courage)."
-  },
-  {
-    "id": 30,
-    "name": "Skeptic's Eye",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "If the character you are questioning is withholding relevant information, you are aware that they are keeping something important from you."
-  },
-  {
-    "id": 31,
-    "name": "Maritime Melody",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You begin singing a sea shanty that inspires everyone on board. Everyone whom hears gains +1 to Dex (Sailing) for the next hour."
-  },
-  {
-    "id": 32,
-    "name": "New Theory",
-    "origin": "background",
-    "dpCost": 3,
-    "description": "Making a new hypothesis engages your inner curiosity. Gain +1 Cha (Persuasion) for the next 15 min when you share your theory with others."
-  },
-  {
-    "id": 33,
-    "name": "Quick Search",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You are able to find what you are looking for quickly and efficiently. You may also find something extra based on GM discretion."
-  },
-  {
-    "id": 34,
-    "name": "Smuggle Buddies",
-    "origin": "background",
-    "dpCost": 3,
-    "description": "Use your stealth test to apply to one other character you are in physical contact with. Replaces their stealth test with yours."
-  },
-  {
-    "id": 35,
-    "name": "Attention!",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your training has prepared you for this. Stand at attention and gain +1 to Perception (Initiative) tests for the next 5 minutes."
-  },
-  {
-    "id": 36,
-    "name": "Lion's Courage",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your courage is strengthened. Gain +2 on all subsequent courage tests for the remainder of the encounter."
-  },
-  {
-    "id": 37,
-    "name": "Smooth Moves",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "Your piloting expertize results in a smooth and speedy ride for your passengers and cargo. For the next 15 minutes your vehicle gains +2 defense from attacks while you are driving."
-  },
-  {
-    "id": 38,
-    "name": "Discern Mojo",
-    "origin": "background",
-    "dpCost": 2,
-    "description": "You are given an additional clue as to why the object/person of your attention might be giving off bad vibes."
-  },
-  {
-    "id": 39,
-    "name": "Rock Steady",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Grants the user the effects of the Stand Firm minor action"
-  },
-  {
-    "id": 40,
-    "name": "Fortify Armor",
-    "origin": "level table",
-    "dpCost": 4,
-    "description": "Temporarily gain +3 physical armor. This effect expires after you take a hit or on your next turn."
-  },
-  {
-    "id": 41,
-    "name": "Tenacious Will",
-    "origin": "level table",
-    "dpCost": 5,
-    "description": "Immediately recover HP equal to your Endurance"
-  },
-  {
-    "id": 42,
-    "name": "Knock Prone",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Knock your opponant to the ground with a powerful melee attack. A prone target suffers a -1 penalty to their defense. You cannot knock prone a creature if it is considered to be a size larger than you."
-  },
-  {
-    "id": 43,
-    "name": "Mighty Blow",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Inflict an extra 1d6 physical damage with your melee attack. \n(each upgrade costs 2 points)"
-  },
-  {
-    "id": 44,
-    "name": "Sweeping Strike",
-    "origin": "level table",
-    "dpCost": 6,
-    "description": "Your melee attack roll is so strong it affects all targets within range. Apply the test result of your original attack roll to all additional targets. Roll damage seperately for all targets hit by this attack."
-  },
-  {
-    "id": 45,
-    "name": "Skirmish",
-    "origin": "level table",
-    "dpCost": 1,
-    "description": "Move yourself or your target 1 meter per doubles point spent. You cannot skirmish a creature if it is considered to be a size larger than you."
-  },
-  {
-    "id": 46,
-    "name": "Disarm",
-    "origin": "level table",
-    "dpCost": 3,
-    "description": "Disarm your enemy's weapon with your melee attack. The weapon is knocked a number of meters away equal to your Strength attribute in the direction you choose."
-  },
-  {
-    "id": 47,
-    "name": "Rapid Reload",
-    "origin": "level table",
-    "dpCost": 3,
-    "description": "Immediately reload an unloaded ranged weapon."
-  },
-  {
-    "id": 48,
-    "name": "Defensive Stance",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Your most recent action sets you up perfectly to defend yourself. Gain +1 to your defense until your next turn."
-  },
-  {
-    "id": 49,
-    "name": "Disengage",
-    "origin": "level table",
-    "dpCost": 3,
-    "description": "You may immediately move up to your movement speed in distance away from a target you are currently engaged with without giving the opponent an attack of opportunity"
-  },
-  {
-    "id": 50,
-    "name": "Disappearing Act",
-    "origin": "level table",
-    "dpCost": 5,
-    "description": "After completing your action immediately roll a Dex (Stealth) test to attempt to hide from your foes. (GM discretion for TN)"
-  },
-  {
-    "id": 51,
-    "name": "Pierce Armor",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Ignore half of your opponent's physical armor (rounded down) with your attack. This may be used with most Melee and Ranged Attacks excluding: grenades, energy firearms, and other such weapons."
-  },
-  {
-    "id": 52,
-    "name": "Stay Aware",
-    "origin": "level table",
-    "dpCost": 3,
-    "description": "Until your next turn you will remain aware of any changes to the environment around you."
-  },
-  {
-    "id": 53,
-    "name": "Penetrate Armor",
-    "origin": "level table",
-    "dpCost": 4,
-    "description": "Ignore all of your opponant's physical armor with your attack."
-  },
-  {
-    "id": 54,
-    "name": "Taunt",
-    "origin": "level table",
-    "dpCost": 1,
-    "description": "Taunt an opponent. If they attack you on their next turn, they suffer a -1 to hit you."
-  },
-  {
-    "id": 55,
-    "name": "Feign Weakness",
-    "origin": "level table",
-    "dpCost": 3,
-    "description": "You seem like less of a threat. Next turn this foe will try to attack another instead of you. (If applicable)"
-  },
-  {
-    "id": 56,
-    "name": "Cutting Words",
-    "origin": "level table",
-    "dpCost": 5,
-    "description": "Select a target, and insult them deeply to their very core. The next ability test that target makes is at disadvantage."
-  },
-  {
-    "id": 57,
-    "name": "Clear Mind",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Steady your mind and gain +1 towards THIS ability test for every 2 dp spent."
-  },
-  {
-    "id": 58,
-    "name": "Stunned Silence",
-    "origin": "level table",
-    "dpCost": 4,
-    "description": "Your intensity has stunned a single target of your choice within 10 m of you, breaking their spell concentration immediately."
-  },
-  {
-    "id": 59,
-    "name": "Meditative Spirit",
-    "origin": "level table",
-    "dpCost": 5,
-    "description": "Immediately restore MP equal to your Heart Atribute."
-  },
-  {
-    "id": 60,
-    "name": "Powerful Casting",
-    "origin": "level table",
-    "dpCost": 1,
-    "description": " For each doubles point spent, increase your spell's Spell Power by 1. (Max 3)"
-  },
-  {
-    "id": 61,
-    "name": "Mighty Arcanum",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Inflict an extra 1d6 arcane damage to one target of your spell. \n(may only be used with damage dealing spells)"
-  },
-  {
-    "id": 62,
-    "name": "Flashbang",
-    "origin": "level table",
-    "dpCost": 5,
-    "description": "The effects of this arcana are explosive. All targets within a 3m radius of you are knocked backwards and prone to the edge of the 3m blast radius."
-  },
-  {
-    "id": 63,
-    "name": "Lasting Focus",
-    "origin": "level table",
-    "dpCost": 2,
-    "description": "Increase the duration of this spell by 1 additional round. This only applies if the spell already has a duration."
-  },
-  {
-    "id": 64,
-    "name": "Free Casting",
-    "origin": "level table",
-    "dpCost": 4,
-    "description": "You may cast this spell for 1/2 MP"
-  },
-  {
-    "id": 65,
-    "name": "Split Arcana",
-    "origin": "level table",
-    "dpCost": 5,
-    "description": "This spell may now affect one additional target as long as they are within spell range of you, and the original target."
-  },
-  {
-    "id": 66,
-    "name": "Grenadier",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "Immediately ready and throw a grenade that you have in your inventory."
-  },
-  {
-    "id": 67,
-    "name": "Spirit Armor",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your Patron grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body."
-  },
-  {
-    "id": 68,
-    "name": "Must Have Been the Wind",
-    "origin": "specialization",
-    "dpCost": 5,
-    "description": "If performing this action while sneaking, your stealth is not broken."
-  },
-  {
-    "id": 69,
-    "name": "Sunder Armor",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Damage medium or heavy armors and reduce it's physical armor rating by 2 until it is fixed."
-  },
-  {
-    "id": 70,
-    "name": "Barbarian Smash",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "When attacking an enemy wielding or using a tech or arcane based tool, you may smash said tool rendering it unusable until it is fixed."
-  },
-  {
-    "id": 71,
-    "name": "Tooth and Claw",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "A summoned or tamed creature will make an additional attack immediately following yours"
-  },
-  {
-    "id": 72,
-    "name": "Bleeding Edge",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "For the next 2 rounds at the beginning of the enemy's turn they take 1d6 penetrating bleeding damage."
-  },
-  {
-    "id": 73,
-    "name": "Valiant Roar",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Raise your voice and let out a rallying battle cry in combat. All allies who hear your cry gain +1 Def for the remainder of the round."
-  },
-  {
-    "id": 74,
-    "name": "Healer's Spirit",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Recover half of the HP you just restored to another. (this stunt can only be used immediately after healing a target with a restoration spell)"
-  },
-  {
-    "id": 75,
-    "name": "Forward March",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Give your followers an order, they get +1 to all tests directly related to following your order. (does not stack)"
-  },
-  {
-    "id": 76,
-    "name": "Quick Reaction",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "You can take a Minor Action before the combat encounter begins."
-  },
-  {
-    "id": 77,
-    "name": "Advantageous Positioning",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "For the next 3 rounds your movement speed is doubled. You may also immediately move to any position in range."
-  },
-  {
-    "id": 78,
-    "name": "SHOTS, SHOTS",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "You may make a free ranged attack and take a drink, increasing your level on the drunkeness table"
-  },
-  {
-    "id": 79,
-    "name": "Lightning Attack",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Immediately make a second attack with a currently equipped weapon of your choice."
-  },
-  {
-    "id": 80,
-    "name": "Channel Element",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Add elemental effects to any weapon of your choice within 20 m for 1 round. Fire - can set enemies on fire, water - attacks become piercing, earth - +3 damage, air - +2 to attack"
-  },
-  {
-    "id": 81,
-    "name": "Quick Weapon Modification (QWM)",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "On the fly you are able to quickly modify your or an adjacent ally's weapon to deal an additional 1d6 lightning damage for 2 rounds."
-  },
-  {
-    "id": 82,
-    "name": "Rapid Cell Change (RCC)",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "Immediately replace an expended energy cell to any device you are using."
-  },
-  {
-    "id": 83,
-    "name": "Stunt Bank",
-    "origin": "specialization",
-    "dpCost": 1,
-    "description": "Save these doubles points to be used for your next roll. They are lost if not used on the next roll.  (max 3)"
-  },
-  {
-    "id": 84,
-    "name": "Sway the Crowd",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your actions have gained the favor of the spectators. This returns a spent glory die to you"
-  },
-  {
-    "id": 85,
-    "name": "Shield Bash",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Stun your target with a shield resulting in them losing one of their next minor actions."
-  },
-  {
-    "id": 86,
-    "name": "Lightning Shot",
-    "origin": "specialization",
-    "dpCost": 5,
-    "description": "Immediately reload and make a second attack with an equipped gun of your choice."
-  },
-  {
-    "id": 87,
-    "name": "Target Vitals",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your attack automatically is considered to hit the vitals of the creature you have marked. You also deal +1d6 extra damage if the target was marked."
-  },
-  {
-    "id": 88,
-    "name": "Double Time",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Throw two readied weapons/items at the same time. Make an attack roll for each."
-  },
-  {
-    "id": 89,
-    "name": "Sword of Truth",
-    "origin": "specialization",
-    "dpCost": 4,
-    "description": "As a paragon of virtue, your melee attack deals an extra 2d6 arcane damage to an unvirtuous foe."
-  },
-  {
-    "id": 90,
-    "name": "Spellbreaker",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "Your attack is able to disrupt arcane energy. You are able to negate any one ongoing novice level spell within 3m of your target."
-  },
-  {
-    "id": 91,
-    "name": "Martial Barrage",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "You may immediately make an attack with a different/unequiped weapon of yours with a +2 bonus to hit and end your attack with the new weapon."
-  },
-  {
-    "id": 92,
-    "name": "Urgent Care",
-    "origin": "specialization",
-    "dpCost": 4,
-    "description": "You may immediately move to an ally within movement speed range and provide a First Aid action."
-  },
-  {
-    "id": 93,
-    "name": "Confusion",
-    "origin": "specialization",
-    "dpCost": 4,
-    "description": "You have confused your foe and redirected their attention away from you to the target of your choosing the next round."
-  },
-  {
-    "id": 94,
-    "name": "Crane Strike",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Strike with your bare hand extended. This attack may disarm the opponent and their next attack will suffer a -2 penalty to hit."
-  },
-  {
-    "id": 95,
-    "name": "Reanimate",
-    "origin": "specialization",
-    "dpCost": 6,
-    "description": "Bring back one the recently deceased to life. This undead creature has all of it's attributes decreased by 1 and will serve you for a number of rounds equal to it's new End attribute. Range 10m"
-  },
-  {
-    "id": 96,
-    "name": "Command Vassal",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your birthrite allows you to command those around you. Give a command to someone nearby, if they view you positively they will attempt to follow your command."
-  },
-  {
-    "id": 97,
-    "name": "Whisper",
-    "origin": "specialization",
-    "dpCost": 1,
-    "description": "Whisper a message under your breath to communicate with any creature of your choice within 10m. Expending additional doubles points adds extra targets you can communicate with (1dp/target)."
-  },
-  {
-    "id": 98,
-    "name": "Mounted Strike",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your attack strikes with the power of your mount behind it, dealing 2d6 extra damage."
-  },
-  {
-    "id": 99,
-    "name": "Heartfelt Plea",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "Use your words or body language to convince a sentient target to choose peace. The target must roll a TN 12 Hrt (Morality) test. If they fail, they may not intentionally deal damage on their next turn unless they are attacked before their next turn."
-  },
-  {
-    "id": 100,
-    "name": "Wish",
-    "origin": "specialization",
-    "dpCost": 8,
-    "description": "Pray and ask of your Constellation a single wish, and they will answer your prayer as they see fit within their power."
-  },
-  {
-    "id": 101,
-    "name": "Convenient Coincidence",
-    "origin": "specialization",
-    "dpCost": 8,
-    "description": "The GM chooses an extremely beneficial outcome for you."
-  },
-  {
-    "id": 102,
-    "name": "Dirty Fighting",
-    "origin": "specialization",
-    "dpCost": 4,
-    "description": "You deal a swift kick below the belt knocking your opponent prone and leaving them with -2 defense for the next 3 rounds"
-  },
-  {
-    "id": 103,
-    "name": "Allied Exchange",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "You may select a willing ally to trade places with. This exchange occurs instantaneously, but the ally must be within your line of sight."
-  },
-  {
-    "id": 104,
-    "name": "Pass it around",
-    "origin": "specialization",
-    "dpCost": 4,
-    "description": "Take a drink from a potion and pass it to an adjacent ally. The ally may also drink from the potion gaining the effects."
-  },
-  {
-    "id": 105,
-    "name": "Razor's Edge",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Upon making a melee attack, roll a 3d6, you and your opponent both take this as physical damage with your attack."
-  },
-  {
-    "id": 106,
-    "name": "Strengthen Resolve",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "Focus your willpower to improve your NEXT test result by 1 per 2 doubles points spent."
-  },
-  {
-    "id": 107,
-    "name": "Unseen Eyes",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "You are made aware if there is anything watching, stalking, listening to, or sneaking up on you. You know the general direction of your watcher."
-  },
-  {
-    "id": 108,
-    "name": "Into the Darkness",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "At the end of your action, if you are in the light you may move up to twice your movement speed to find an area in the shadows or darkness."
-  },
-  {
-    "id": 109,
-    "name": "Beast Boy/Girl",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "You may imediately cast partial transformation on yourself and take on a single bodypart of a target in your current line of sight."
-  },
-  {
-    "id": 110,
-    "name": "Crippling Shot",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your shot hits your opponent in the legs knocking them prone and halving their movement speed for the next 3 rounds."
-  },
-  {
-    "id": 111,
-    "name": "Repositioning",
-    "origin": "specialization",
-    "dpCost": 2,
-    "description": "You may change location and move up to 1/2 your movement speed immediately after firing a projectile."
-  },
-  {
-    "id": 112,
-    "name": "Vengeful Blow",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your sworn enemy must die. Your attack against your designated species deals 2d6 extra damage and penetrates the opponent's armor."
-  },
-  {
-    "id": 113,
-    "name": "Abra-ca-Stab-ya",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Immediately after casting a Spellsword spell you may make a melee atack or vice-versa."
-  },
-  {
-    "id": 114,
-    "name": "The Richer They Are...",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Deal +1d6 more damage for every 1000 credits the foe is carrying on their person."
-  },
-  {
-    "id": 115,
-    "name": "What are Friends For?",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "The character you are interacting with begins to see you as a friend. The next time you lie or try to fool them gain a +3 Cha (Deception) towards this target."
-  },
-  {
-    "id": 116,
-    "name": "Fast Casting",
-    "origin": "specialization",
-    "dpCost": 4,
-    "description": "After you resolve casting a spell, you may immediately cast another spell. This second spell does not generate doubles points."
-  },
-  {
-    "id": 117,
-    "name": "Combined Arms",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "After you make a melee attack, a squadmate may make an immediate attack with firearms and vice-versa."
-  },
-  {
-    "id": 118,
-    "name": "A Cut Above",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "When evaluating goods you notice that a particular piece has caught your eye. This item is a higher rank than it's counterparts. These are often worth more, have special abilities, or represent specific groups or faiths."
-  },
-  {
-    "id": 119,
-    "name": "Fierce Bolt",
-    "origin": "specialization",
-    "dpCost": 3,
-    "description": "Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone."
-  },
-  {
-    "id": 120,
-    "name": "Drinking Buddies",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "The character you are drinking with now views you as someone they trust. They are more likely to go out of their way to help you. "
-  },
-  {
-    "id": 121,
-    "name": "Create Handhold",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "While climbing you are able to find handholds in the surface you are climbing. Anyone with knowledge of the handholds you have found gains +2 to further climbing tests."
-  },
-  {
-    "id": 122,
-    "name": "Know a Guy",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "You just remembered you have a friend of a friend who's mother's brother's neice lives in this city. This contact will be willing to give you information for free."
-  },
-  {
-    "id": 123,
-    "name": "Bon Appétit",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "You have made a delicious meal. Any who eat this meal while it is still fresh gain +1 Heart for the next 6 hours."
-  },
-  {
-    "id": 124,
-    "name": "Complete Transformation",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "With limited resources and and endless imagination you have transformed (yourself or a target) to gain +2 on deception tests while wearing the disguise"
-  },
-  {
-    "id": 125,
-    "name": "Good Listener",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "The character you are interacting with can tell that you truly care for them. They open up more and tell you what has been burdening them."
-  },
-  {
-    "id": 126,
-    "name": "Craft Samurai",
-    "origin": "talent",
-    "dpCost": 4,
-    "description": "Add a unique aspect to your created design that will grant a temporary +1 boost to a relevant focus (for 1 hour) for anyone who is using or appreciating your art. They may only gain the benefit of this effect once per day."
-  },
-  {
-    "id": 127,
-    "name": "Sway the Crowd",
-    "origin": "talent",
-    "dpCost": 1,
-    "description": "Your persuasiveness has not only convinced your target to agree with you, but others who were listening as well. Convince a number of people equal to the amount of doubles points spent."
-  },
-  {
-    "id": 128,
-    "name": "Flowery Tongue",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "Impress wittnesses and compliment those around you, all who witnessed your speach will be more likely to view you as a friend."
-  },
-  {
-    "id": 129,
-    "name": "Uplifting Performance",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "Your performance was so impressive those who witnessed it gain +1 to all Heart rolls for the next hour."
-  },
-  {
-    "id": 130,
-    "name": "Loaded Dice",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "Gambling is a mix of luck and stacking the odds in your favor. Reroll the non doubles die. (if you rolled triples reroll any die)"
-  },
-  {
-    "id": 131,
-    "name": "Aerial Artistry",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "Add in a flip, twist, or roll to whatever movement based action you were performing. Doing so increases your movement speed for the remainder of the turn by double."
-  },
-  {
-    "id": 132,
-    "name": "Lion's Heart",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "Let out a roar of defiance against your enemies bringing courage to your nearby allies. Every ally within 10 meters of you gains +1 to Hrt (Courage) tests for every 2 dp you spend."
-  },
-  {
-    "id": 133,
-    "name": "Tell Me More",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "The character you are interviewing will willingly give more information than they originally intended."
-  },
-  {
-    "id": 134,
-    "name": "Speedy Search",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "You complete your search nearly instantly. The first place you looked was the right place."
-  },
-  {
-    "id": 135,
-    "name": "Commander's Order",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "Immediately give an order to a non hostile character. The authority in your voice startles them into following the order until they realize they do not need to follow it."
-  },
-  {
-    "id": 136,
-    "name": "Stinging Lie",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "Attempt to decieve your opponent to demoralize them. Roll Cha (Deception) vs the target's Hrt (Empathy). If you succeed they suffer a -2 for all rolls on their next turn."
-  },
-  {
-    "id": 137,
-    "name": "Tools at Hand",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "You were able to work on this machine without the need to expend materials, resources, or tools."
-  },
-  {
-    "id": 138,
-    "name": "Evasive Maneuver",
-    "origin": "talent",
-    "dpCost": 3,
-    "description": "Pull off a sick fake out to lose your pursuers/attackers and escape safely."
-  },
-  {
-    "id": 139,
-    "name": "Runner's High",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "You love the feel of running! Gain +3 towards your next End (Running) test."
-  },
-  {
-    "id": 140,
-    "name": "Perfect Recall",
-    "origin": "talent",
-    "dpCost": 4,
-    "description": "You perfectly remember in detail all of the relevent information you need. You might even remember this information as text from a book you remember reading."
-  },
-  {
-    "id": 141,
-    "name": "Scout's Insight",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "While tracking you are able to glean the intentions of an individual or group based on the tracks they leave behind."
-  },
-  {
-    "id": 142,
-    "name": "Smithological",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "For every 2 doubles points spent, increase the outcome of your roll to receive the benefits of a masterwork ability from the masterwork table."
-  },
-  {
-    "id": 143,
-    "name": "Disappearing Act",
-    "origin": "talent",
-    "dpCost": 5,
-    "description": "You may move up to 1/4 your movement to attempt to hide during combat. After you move make a Dex (Stealth) test vs the Perception of all who witnessed you take your movement. If you succeed then you are currently hidden from your opponents. If one target beats you then you are not hidden."
-  },
-  {
-    "id": 144,
-    "name": "Lift and Throw",
-    "origin": "talent",
-    "dpCost": 2,
-    "description": "When succeeing a Str (Lifting) test you may throw the object you lifted a number of meters equal to your Str attribute modifier."
-  },
-  {
-    "id": 145,
-    "name": "Lethal Blow",
-    "origin": "level table",
-    "dpCost": 4,
-    "description": "Inflict an extra 2d6 physical damage with your melee attack."
-  },
-  {
-    "id": 146,
-    "name": "Deadly Blow",
-    "origin": "level table",
-    "dpCost": 6,
-    "description": "Inflict an extra 3d6 physical damage with your melee attack."
-  },
-  {
-    "id": 147,
-    "name": "Lethal Arcanum",
-    "origin": "level table",
-    "dpCost": 4,
-    "description": "Inflict an extra 2d6 arcane damage to one target of your spell (may only be used with damage dealing spells)."
-  },
-  {
-    "id": 148,
-    "name": "Deadly Arcanum",
-    "origin": "level table",
-    "dpCost": 6,
-    "description": "Inflict an extra 3d6 arcane damage to one target of your spell (may only be used with damage dealing spells)."
-  }
+ {
+   "id": 1,
+   "name": "Divine Inspiration",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your faith has impressed your Constellation. You gain a divine inspiration that will give you a +1 to your next ability test.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 2,
+   "name": "Who's Your Daddy",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You recognize the heritage of who you are speaking with. You are able to slip in a reference that reminds them of home. Gain +1 to Charisma for the remainder of your conversation.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 3,
+   "name": "Ruin Expert",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your knowledge of ruins have helped you connect the dots here. The GM gives you previously unknown knowledge regarding the place you are studying.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 4,
+   "name": "Niche Design",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "The art you created is�� interesting. Surely there is someone out there who will greatly appreciate this, you just need to find them. Adds an intriguing or strange aspect to your art.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 5,
+   "name": "Second Wind",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Running energizes you. You may ignore the reduced movement penalty from fatigue for the next 5 minutes.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 6,
+   "name": "Social Drinker",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You form bonds with those you are drinking with. They now consider you their drinking buddy, and are more likely to open up to you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 7,
+   "name": "Efficient Smithing",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You smith your item while using up only 1/2 of the expected materials",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 8,
+   "name": "Convincing Lie",
+   "origin": "background",
+   "dpCost": 3,
+   "description": "Your lie has convinced the other person so thoroughly that they may try to spread this information to others. ",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 9,
+   "name": "Nostalgic Flavors",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "When cooking with a particular individual in mind you are able to recreate the flavors of their childhood. ",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 10,
+   "name": "Foreign Relations",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Able to verbally communicate a rudimentary message to another person regardless of a language barrier.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 11,
+   "name": "Encore",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Wow the crowd with your outstanding performance. They are so entertained they demand an encore.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 12,
+   "name": "New Adventure",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "If you are exploring somewhere you have never been, you can temporarily ignore the effects of fatigue (up to Drained) for the next five minutes. (not applicable in combat)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 13,
+   "name": "Early Riser",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "If you begin a Short Rest within the next hour, you will recover in half the time (1 hour instead of 2).",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 14,
+   "name": "\"Reely\" Ready",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your senses are finely tuned from your time spent fishing. Gain +1 on the next Per (Initiative) test that you make within the next 15 minutes.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 15,
+   "name": "Luck Deferred",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Gain +2 on the next Cha (gambling) test that you make within the next 15 minutes.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 16,
+   "name": "Shameless Flattery",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Kiss up to someone to get in their good graces. Their impression of you improves.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 17,
+   "name": "Good Vibes",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Reset the duration of one of your currently active effects or bonuses.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 18,
+   "name": "Triangulate Quarry",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Able to interpret the approximate destination of the creatures you are tracking and track them without a penalty to your movement speed.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 19,
+   "name": "Heavy-Duty Gizmo",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "The object you are working on is made into a durable version of its kind. Durability is doubled.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 20,
+   "name": "Weight Training",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You could do this all day. +2 to your next Str (Lifting) test, and even if you fail you won't be fatigued.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 21,
+   "name": "Motivational Manager",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your management skills are superb, those you are leading accomplish their task in 1/2 the time.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 22,
+   "name": "Efficient Overhaul",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Repair something without expending materials.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 23,
+   "name": "Price Is Right",
+   "origin": "background",
+   "dpCost": 3,
+   "description": "You are able to discern the lowest/highest price the character you are bargaining with would be willing to sell or buy at.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 24,
+   "name": "Discerning Ore",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You recognize the raw materials used to make this object, and also where to obtain them.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 25,
+   "name": "Organic Classification",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Gain additional survival information about the organism in question.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 26,
+   "name": "Well Cared For",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "When caring for someone taking a rest, they heal additional HP equal to your Int attribute modifier.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 27,
+   "name": "Soothing Rider",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You are able to calm your mount if it is stressed, tired, or afraid. Your mount gains +1 Hrt for the next 15 min.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 28,
+   "name": "A little bit extra",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You steal more than you expected. Obtain a random grab bag item that this character was holding onto.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 29,
+   "name": "Prison Eyes",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your stare is intense and intimidating causing weak willed individuals to break eye contact and leave you alone. Roll Str (Intimidation) vs the target's Hrt (Courage).",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 30,
+   "name": "Skeptic's Eye",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "If the character you are questioning is withholding relevant information, you are aware that they are keeping something important from you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 31,
+   "name": "Maritime Melody",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You begin singing a sea shanty that inspires everyone on board. Everyone whom hears gains +1 to Dex (Sailing) for the next hour.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 32,
+   "name": "New Theory",
+   "origin": "background",
+   "dpCost": 3,
+   "description": "Making a new hypothesis engages your inner curiosity. Gain +1 Cha (Persuasion) for the next 15 min when you share your theory with others.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 33,
+   "name": "Quick Search",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You are able to find what you are looking for quickly and efficiently. You may also find something extra based on GM discretion.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 34,
+   "name": "Smuggle Buddies",
+   "origin": "background",
+   "dpCost": 3,
+   "description": "Use your stealth test to apply to one other character you are in physical contact with. Replaces their stealth test with yours.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 35,
+   "name": "Attention!",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your training has prepared you for this. Stand at attention and gain +1 to Perception (Initiative) tests for the next 5 minutes.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 36,
+   "name": "Lion's Courage",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your courage is strengthened. Gain +2 on all subsequent courage tests for the remainder of the encounter.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 37,
+   "name": "Smooth Moves",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "Your piloting expertise results in a smooth and speedy ride for your passengers and cargo. For the next 15 minutes your vehicle gains +2 defense from attacks while you are driving.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 38,
+   "name": "Discern Mojo",
+   "origin": "background",
+   "dpCost": 2,
+   "description": "You are given an additional clue as to why the object/person of your attention might be giving off bad vibes.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 39,
+   "name": "Rock Steady",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Grants the user the effects of the Stand Firm minor action",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 40,
+   "name": "Fortify Armor",
+   "origin": "level table",
+   "dpCost": 4,
+   "description": "Temporarily gain +3 physical armor. This effect expires after you take a hit or on your next turn.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 41,
+   "name": "Tenacious Will",
+   "origin": "level table",
+   "dpCost": 5,
+   "description": "Immediately recover HP equal to your Endurance",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 42,
+   "name": "Knock Prone",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Knock your opponent to the ground with a powerful melee attack. A prone target suffers a -1 penalty to their defense. You cannot knock prone a creature if it is considered to be a size larger than you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 43,
+   "name": "Mighty Blow",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Inflict an extra 1d6 physical damage with your melee attack. \n(each upgrade costs 2 points)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 44,
+   "name": "Sweeping Strike",
+   "origin": "level table",
+   "dpCost": 6,
+   "description": "Your melee attack roll is so strong it affects all targets within range. Apply the test result of your original attack roll to all additional targets. Roll damage separately for all targets hit by this attack.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 45,
+   "name": "Skirmish",
+   "origin": "level table",
+   "dpCost": 1,
+   "description": "Move yourself or your target 1 meter per doubles point spent. You cannot skirmish a creature if it is considered to be a size larger than you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 46,
+   "name": "Disarm",
+   "origin": "level table",
+   "dpCost": 3,
+   "description": "Disarm your enemy's weapon with your melee attack. The weapon is knocked a number of meters away equal to your Strength attribute in the direction you choose.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 47,
+   "name": "Rapid Reload",
+   "origin": "level table",
+   "dpCost": 3,
+   "description": "Immediately reload an unloaded ranged weapon.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 48,
+   "name": "Defensive Stance",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Your most recent action sets you up perfectly to defend yourself. Gain +1 to your defense until your next turn.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 49,
+   "name": "Disengage",
+   "origin": "level table",
+   "dpCost": 3,
+   "description": "You may immediately move up to your movement speed in distance away from a target you are currently engaged with without giving the opponent an attack of opportunity",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 50,
+   "name": "Disappearing Act",
+   "origin": "level table",
+   "dpCost": 5,
+   "description": "After completing your action immediately roll a Dex (Stealth) test to attempt to hide from your foes. (GM discretion for TN)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 51,
+   "name": "Pierce Armor",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Ignore half of your opponent's physical armor (rounded down) with your attack. This may be used with most Melee and Ranged Attacks excluding: grenades, energy firearms, and other such weapons.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 52,
+   "name": "Stay Aware",
+   "origin": "level table",
+   "dpCost": 3,
+   "description": "Until your next turn you will remain aware of any changes to the environment around you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 53,
+   "name": "Penetrate Armor",
+   "origin": "level table",
+   "dpCost": 4,
+   "description": "Ignore all of your opponent's physical armor with your attack.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 54,
+   "name": "Taunt",
+   "origin": "level table",
+   "dpCost": 1,
+   "description": "Taunt an opponent. If they attack you on their next turn, they suffer a -1 to hit you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 55,
+   "name": "Feign Weakness",
+   "origin": "level table",
+   "dpCost": 3,
+   "description": "You seem like less of a threat. Next turn this foe will try to attack another instead of you. (If applicable)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 56,
+   "name": "Cutting Words",
+   "origin": "level table",
+   "dpCost": 5,
+   "description": "Select a target, and insult them deeply to their very core. The next ability test that target makes is at disadvantage.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 57,
+   "name": "Clear Mind",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Steady your mind and gain +1 towards THIS ability test for every 2 dp spent.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 58,
+   "name": "Stunned Silence",
+   "origin": "level table",
+   "dpCost": 4,
+   "description": "Your intensity has stunned a single target of your choice within 10 m of you, breaking their spell concentration immediately.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 59,
+   "name": "Meditative Spirit",
+   "origin": "level table",
+   "dpCost": 5,
+   "description": "Immediately restore MP equal to your Heart Attribute.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 60,
+   "name": "Powerful Casting",
+   "origin": "level table",
+   "dpCost": 1,
+   "description": " For each doubles point spent, increase your spell's Spell Power by 1. (Max 3)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 61,
+   "name": "Mighty Arcanum",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Inflict an extra 1d6 arcane damage to one target of your spell. \n(may only be used with damage dealing spells)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 62,
+   "name": "Flashbang",
+   "origin": "level table",
+   "dpCost": 5,
+   "description": "The effects of this arcana are explosive. All targets within a 3m radius of you are knocked backwards and prone to the edge of the 3m blast radius.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 63,
+   "name": "Lasting Focus",
+   "origin": "level table",
+   "dpCost": 2,
+   "description": "Increase the duration of this spell by 1 additional round. This only applies if the spell already has a duration.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 64,
+   "name": "Free Casting",
+   "origin": "level table",
+   "dpCost": 4,
+   "description": "You may cast this spell for 1/2 MP",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 65,
+   "name": "Split Arcana",
+   "origin": "level table",
+   "dpCost": 5,
+   "description": "This spell may now affect one additional target as long as they are within spell range of you, and the original target.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 66,
+   "name": "Grenadier",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "Immediately ready and throw a grenade that you have in your inventory.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 67,
+   "name": "Spirit Armor",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your Patron grants you +6 physical and arcane armor for 1 round by wrapping their spirit around your body in exchange for allowing them 1 round of control of your body.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 68,
+   "name": "Must Have Been the Wind",
+   "origin": "specialization",
+   "dpCost": 5,
+   "description": "If performing this action while sneaking, your stealth is not broken.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 69,
+   "name": "Sunder Armor",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Damage medium or heavy armors and reduce it's physical armor rating by 2 until it is fixed.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 70,
+   "name": "Barbarian Smash",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "When attacking an enemy wielding or using a tech or arcane based tool, you may smash said tool rendering it unusable until it is fixed.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 71,
+   "name": "Tooth and Claw",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "A summoned or tamed creature will make an additional attack immediately following yours",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 72,
+   "name": "Bleeding Edge",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "For the next 2 rounds at the beginning of the enemy's turn they take 1d6 penetrating bleeding damage.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 73,
+   "name": "Valiant Roar",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Raise your voice and let out a rallying battle cry in combat. All allies who hear your cry gain +1 Def for the remainder of the round.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 74,
+   "name": "Healer's Spirit",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Recover half of the HP you just restored to another. (this stunt can only be used immediately after healing a target with a restoration spell)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 75,
+   "name": "Forward March",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Give your followers an order, they get +1 to all tests directly related to following your order. (does not stack)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 76,
+   "name": "Quick Reaction",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "You can take a Minor Action before the combat encounter begins.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 77,
+   "name": "Advantageous Positioning",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "For the next 3 rounds your movement speed is doubled. You may also immediately move to any position in range.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 78,
+   "name": "SHOTS, SHOTS",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "You may make a free ranged attack and take a drink, increasing your level on the drunkenness table",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 79,
+   "name": "Lightning Attack",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Immediately make a second attack with a currently equipped weapon of your choice.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 80,
+   "name": "Channel Element",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Add elemental effects to any weapon of your choice within 20 m for 1 round. Fire - can set enemies on fire, water - attacks become piercing, earth - +3 damage, air - +2 to attack",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 81,
+   "name": "Quick Weapon Modification (QWM)",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "On the fly you are able to quickly modify your or an adjacent ally's weapon to deal an additional 1d6 lightning damage for 2 rounds.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 82,
+   "name": "Rapid Cell Change (RCC)",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "Immediately replace an expended energy cell to any device you are using.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 83,
+   "name": "Stunt Bank",
+   "origin": "specialization",
+   "dpCost": 1,
+   "description": "Save these doubles points to be used for your next roll. They are lost if not used on the next roll.  (max 3)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 84,
+   "name": "Sway the Crowd",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your actions have gained the favor of the spectators. This returns a spent glory die to you",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 85,
+   "name": "Shield Bash",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Stun your target with a shield resulting in them losing one of their next minor actions.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 86,
+   "name": "Lightning Shot",
+   "origin": "specialization",
+   "dpCost": 5,
+   "description": "Immediately reload and make a second attack with an equipped gun of your choice.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 87,
+   "name": "Target Vitals",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your attack automatically is considered to hit the vitals of the creature you have marked. You also deal +1d6 extra damage if the target was marked.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 88,
+   "name": "Double Time",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Throw two readied weapons/items at the same time. Make an attack roll for each.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 89,
+   "name": "Sword of Truth",
+   "origin": "specialization",
+   "dpCost": 4,
+   "description": "As a paragon of virtue, your melee attack deals an extra 2d6 arcane damage to an unvirtuous foe.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 90,
+   "name": "Spellbreaker",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "Your attack is able to disrupt arcane energy. You are able to negate any one ongoing novice level spell within 3m of your target.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 91,
+   "name": "Martial Barrage",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "You may immediately make an attack with a different/unequipped weapon of yours with a +2 bonus to hit and end your attack with the new weapon.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 92,
+   "name": "Urgent Care",
+   "origin": "specialization",
+   "dpCost": 4,
+   "description": "You may immediately move to an ally within movement speed range and provide a First Aid action.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 93,
+   "name": "Confusion",
+   "origin": "specialization",
+   "dpCost": 4,
+   "description": "You have confused your foe and redirected their attention away from you to the target of your choosing the next round.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 94,
+   "name": "Crane Strike",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Strike with your bare hand extended. This attack may disarm the opponent and their next attack will suffer a -2 penalty to hit.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 95,
+   "name": "Reanimate",
+   "origin": "specialization",
+   "dpCost": 6,
+   "description": "Bring back one the recently deceased to life. This undead creature has all of it's attributes decreased by 1 and will serve you for a number of rounds equal to it's new End attribute. Range 10m",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 96,
+   "name": "Command Vassal",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your birthright allows you to command those around you. Give a command to someone nearby, if they view you positively they will attempt to follow your command.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 97,
+   "name": "Whisper",
+   "origin": "specialization",
+   "dpCost": 1,
+   "description": "Whisper a message under your breath to communicate with any creature of your choice within 10m. Expending additional doubles points adds extra targets you can communicate with (1dp/target).",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 98,
+   "name": "Mounted Strike",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your attack strikes with the power of your mount behind it, dealing 2d6 extra damage.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 99,
+   "name": "Heartfelt Plea",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "Use your words or body language to convince a sentient target to choose peace. The target must roll a TN 12 Hrt (Morality) test. If they fail, they may not intentionally deal damage on their next turn unless they are attacked before their next turn.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 100,
+   "name": "Wish",
+   "origin": "specialization",
+   "dpCost": 8,
+   "description": "Pray and ask of your Constellation a single wish, and they will answer your prayer as they see fit within their power.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 101,
+   "name": "Convenient Coincidence",
+   "origin": "specialization",
+   "dpCost": 8,
+   "description": "The GM chooses an extremely beneficial outcome for you.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 102,
+   "name": "Dirty Fighting",
+   "origin": "specialization",
+   "dpCost": 4,
+   "description": "You deal a swift kick below the belt knocking your opponent prone and leaving them with -2 defense for the next 3 rounds",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 103,
+   "name": "Allied Exchange",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "You may select a willing ally to trade places with. This exchange occurs instantaneously, but the ally must be within your line of sight.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 104,
+   "name": "Pass it around",
+   "origin": "specialization",
+   "dpCost": 4,
+   "description": "Take a drink from a potion and pass it to an adjacent ally. The ally may also drink from the potion gaining the effects.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 105,
+   "name": "Razor's Edge",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Upon making a melee attack, roll a 3d6, you and your opponent both take this as physical damage with your attack.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 106,
+   "name": "Strengthen Resolve",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "Focus your willpower to improve your NEXT test result by 1 per 2 doubles points spent.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 107,
+   "name": "Unseen Eyes",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "You are made aware if there is anything watching, stalking, listening to, or sneaking up on you. You know the general direction of your watcher.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 108,
+   "name": "Into the Darkness",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "At the end of your action, if you are in the light you may move up to twice your movement speed to find an area in the shadows or darkness.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 109,
+   "name": "Beast Boy/Girl",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "You may immediately cast partial transformation on yourself and take on a single body part of a target in your current line of sight.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 110,
+   "name": "Crippling Shot",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your shot hits your opponent in the legs knocking them prone and halving their movement speed for the next 3 rounds.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 111,
+   "name": "Repositioning",
+   "origin": "specialization",
+   "dpCost": 2,
+   "description": "You may change location and move up to 1/2 your movement speed immediately after firing a projectile.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 112,
+   "name": "Vengeful Blow",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your sworn enemy must die. Your attack against your designated species deals 2d6 extra damage and penetrates the opponent's armor.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 113,
+   "name": "Abra-ca-Stab-ya",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Immediately after casting a Spellsword spell you may make a melee attack or vice-versa.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 114,
+   "name": "The Richer They Are...",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Deal +1d6 more damage for every 1000 credits the foe is carrying on their person.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 115,
+   "name": "What are Friends For?",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "The character you are interacting with begins to see you as a friend. The next time you lie or try to fool them gain a +3 Cha (Deception) towards this target.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 116,
+   "name": "Fast Casting",
+   "origin": "specialization",
+   "dpCost": 4,
+   "description": "After you resolve casting a spell, you may immediately cast another spell. This second spell does not generate doubles points.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 117,
+   "name": "Combined Arms",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "After you make a melee attack, a squad mate may make an immediate attack with firearms and vice-versa.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 118,
+   "name": "A Cut Above",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "When evaluating goods you notice that a particular piece has caught your eye. This item is a higher rank than it's counterparts. These are often worth more, have special abilities, or represent specific groups or faiths.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 119,
+   "name": "Fierce Bolt",
+   "origin": "specialization",
+   "dpCost": 3,
+   "description": "Your arcane bolt deals 1d6 extra arcane damage and knocks the opponent prone.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 120,
+   "name": "Drinking Buddies",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "The character you are drinking with now views you as someone they trust. They are more likely to go out of their way to help you. ",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 121,
+   "name": "Create Handhold",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "While climbing you are able to find handholds in the surface you are climbing. Anyone with knowledge of the handholds you have found gains +2 to further climbing tests.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 122,
+   "name": "Know a Guy",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "You just remembered you have a friend of a friend who's mother's brother's niece lives in this city. This contact will be willing to give you information for free.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 123,
+   "name": "Bon Appetit",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "You have made a delicious meal. Any who eat this meal while it is still fresh gain +1 Heart for the next 6 hours.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 124,
+   "name": "Complete Transformation",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "With limited resources and  endless imagination you have transformed (yourself or a target) to gain +2 on deception tests while wearing the disguise",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 125,
+   "name": "Good Listener",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "The character you are interacting with can tell that you truly care for them. They open up more and tell you what has been burdening them.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 126,
+   "name": "Craft Samurai",
+   "origin": "talent",
+   "dpCost": 4,
+   "description": "Add a unique aspect to your created design that will grant a temporary +1 boost to a relevant focus (for 1 hour) for anyone who is using or appreciating your art. They may only gain the benefit of this effect once per day.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 127,
+   "name": "Sway the Crowd",
+   "origin": "talent",
+   "dpCost": 1,
+   "description": "Your persuasiveness has not only convinced your target to agree with you, but others who were listening as well. Convince a number of people equal to the amount of doubles points spent.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 128,
+   "name": "Flowery Tongue",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "Impress witnesses and compliment those around you, all who witnessed your speech will be more likely to view you as a friend.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 129,
+   "name": "Uplifting Performance",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "Your performance was so impressive those who witnessed it gain +1 to all Heart rolls for the next hour.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 130,
+   "name": "Loaded Dice",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "Gambling is a mix of luck and stacking the odds in your favor. Reroll the non doubles die. (if you rolled triples reroll any die)",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 131,
+   "name": "Aerial Artistry",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "Add in a flip, twist, or roll to whatever movement based action you were performing. Doing so increases your movement speed for the remainder of the turn by double.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 132,
+   "name": "Lion's Heart",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "Let out a roar of defiance against your enemies bringing courage to your nearby allies. Every ally within 10 meters of you gains +1 to Hrt (Courage) tests for every 2 dp you spend.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 133,
+   "name": "Tell Me More",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "The character you are interviewing will willingly give more information than they originally intended.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 134,
+   "name": "Speedy Search",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "You complete your search nearly instantly. The first place you looked was the right place.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 135,
+   "name": "Commander's Order",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "Immediately give an order to a non hostile character. The authority in your voice startles them into following the order until they realize they do not need to follow it.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 136,
+   "name": "Stinging Lie",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "Attempt to deceive your opponent to demoralize them. Roll Cha (Deception) vs the target's Hrt (Empathy). If you succeed they suffer a -2 for all rolls on their next turn.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 137,
+   "name": "Tools at Hand",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "You were able to work on this machine without the need to expend materials, resources, or tools.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 138,
+   "name": "Evasive Maneuver",
+   "origin": "talent",
+   "dpCost": 3,
+   "description": "Pull off a sick fake out to lose your pursuers/attackers and escape safely.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 139,
+   "name": "Runner's High",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "You love the feel of running! Gain +3 towards your next End (Running) test.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 140,
+   "name": "Perfect Recall",
+   "origin": "talent",
+   "dpCost": 4,
+   "description": "You perfectly remember in detail all of the relevant information you need. You might even remember this information as text from a book you remember reading.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 141,
+   "name": "Scout's Insight",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "While tracking you are able to glean the intentions of an individual or group based on the tracks they leave behind.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 142,
+   "name": "Smithological",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "For every 2 doubles points spent, increase the outcome of your roll to receive the benefits of a masterwork ability from the masterwork table.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 143,
+   "name": "Disappearing Act",
+   "origin": "talent",
+   "dpCost": 5,
+   "description": "You may move up to 1/4 your movement to attempt to hide during combat. After you move make a Dex (Stealth) test vs the Perception of all who witnessed you take your movement. If you succeed then you are currently hidden from your opponents. If one target beats you then you are not hidden.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 144,
+   "name": "Lift and Throw",
+   "origin": "talent",
+   "dpCost": 2,
+   "description": "When succeeding a Str (Lifting) test you may throw the object you lifted a number of meters equal to your Str attribute modifier.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 145,
+   "name": "Lethal Blow",
+   "origin": "level table",
+   "dpCost": 4,
+   "description": "Inflict an extra 2d6 physical damage with your melee attack.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 146,
+   "name": "Deadly Blow",
+   "origin": "level table",
+   "dpCost": 6,
+   "description": "Inflict an extra 3d6 physical damage with your melee attack.",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 147,
+   "name": "Lethal Arcanum",
+   "origin": "level table",
+   "dpCost": 4,
+   "description": "Inflict an extra 2d6 arcane damage to one target of your spell (may only be used with damage dealing spells).",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+},
+ {
+   "id": 148,
+   "name": "Deadly Arcanum",
+   "origin": "level table",
+   "dpCost": 6,
+   "description": "Inflict an extra 3d6 arcane damage to one target of your spell (may only be used with damage dealing spells).",
+   "notes": "",
+   "creatorId": 1,
+   "world": [
+      1
+   ]
+}
 ]

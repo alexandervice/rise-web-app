@@ -1,895 +1,1271 @@
 [
-  {
-    "id": 1,
-    "name": "Animal Taming",
-    "description": "Tame animals, have pets, and teach them to perform a variety of commands. Be careful trying to tame wild and dangerous beasts though…",
-    "ranks": [
+ {
+   "id": 1,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Animal Taming",
+   "description": "Tame animals, have pets, and teach them to perform a variety of commands. Be careful trying to tame wild and dangerous beasts though!",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 417
+         "type": "power",
+         "id": 417
       },
       {
-          "type": "power",
-          "id": 418
+         "type": "power",
+         "id": 418
       },
       {
-          "type": "power",
-          "id": 419
+         "type": "power",
+         "id": 419
       }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Appraisal",
-    "description": "Understanding of the worth of goods of various rarities, types, and brands.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 2,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Appraisal",
+   "description": "Understanding of the worth of goods of various rarities, types, and brands.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 118
+         "type": "stunt",
+         "id": 118
       },
       {
-          "type": "power",
-          "id": 420
+         "type": "power",
+         "id": 420
       },
       {
-          "type": "focus",
-          "id": 69
+         "type": "focus",
+         "id": 69
       }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Archeology",
-    "description": "Knowledge and understanding of what ancient ruins and artifacts were used for.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 3,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Archeology",
+   "description": "Knowledge and understanding of what ancient ruins and artifacts were used for.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 422
+         "type": "power",
+         "id": 422
       },
       {
-          "type": "power",
-          "id": 423
+         "type": "power",
+         "id": 423
       },
       {
-          "type": "power",
-          "id": 424
+         "type": "power",
+         "id": 424
       }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Brawling",
-    "description": "Rough and tumble fist fights and knockout boxing manuevers. ",
-    "ranks": [
+   ]
+},
+ {
+   "id": 4,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Brawling",
+   "description": "Rough and tumble fist fights and knockout boxing maneuvers. ",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 425
+         "type": "power",
+         "id": 425
       },
       {
-          "type": "power",
-          "id": 426
+         "type": "power",
+         "id": 426
       },
       {
-          "type": "power",
-          "id": 427
+         "type": "power",
+         "id": 427
       }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Brewing",
-    "description": "The ability to brew and create various forms of alcoholic beverages and potions",
-    "ranks": [
+   ]
+},
+ {
+   "id": 5,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Brewing",
+   "description": "The ability to brew and create various forms of alcoholic beverages and potions",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 428
+         "type": "power",
+         "id": 428
       },
       {
-          "type": "power",
-          "id": 429
+         "type": "power",
+         "id": 429
       },
       {
-          "type": "focus",
-          "id": 59
+         "type": "focus",
+         "id": 59
       }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Bullying",
-    "description": "Knowledge of strategies to intimidate or coerce others who are more vulnerable than you.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 6,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Bullying",
+   "description": "Knowledge of strategies to intimidate or coerce others who are more vulnerable than you.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 431
+         "type": "power",
+         "id": 431
       },
       {
-          "type": "power",
-          "id": 432
+         "type": "power",
+         "id": 432
       },
       {
-          "type": "focus",
-          "id": 9
+         "type": "focus",
+         "id": 9
       }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Business",
-    "description": "Skills to succeed in commerce, bargaining, and trade.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 7,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Business",
+   "description": "Skills to succeed in commerce, bargaining, and trade.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 434
+         "type": "power",
+         "id": 434
       },
       {
-          "type": "power",
-          "id": 435
+         "type": "power",
+         "id": 435
       },
       {
-          "type": "focus",
-          "id": 41
+         "type": "focus",
+         "id": 41
       }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Camping",
-    "description": "Make the best out of sleeping out in the wilderness. Building fires, keeping watch, and staying rested even in the wilds.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 8,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Camping",
+   "description": "Make the best out of sleeping out in the wilderness. Building fires, keeping watch, and staying rested even in the wilds.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 437
+         "type": "power",
+         "id": 437
       },
       {
-          "type": "power",
-          "id": 438
+         "type": "power",
+         "id": 438
       },
       {
-          "type": "focus",
-          "id": 75
+         "type": "focus",
+         "id": 75
       }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Carousing",
-    "description": "Drink plentiful amounts of alcohol, develop tolerances, and make connections with others.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 9,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Carousing",
+   "description": "Drink plentiful amounts of alcohol, develop tolerances, and make connections with others.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 120
+         "type": "stunt",
+         "id": 120
       },
       {
-          "type": "power",
-          "id": 440
+         "type": "power",
+         "id": 440
       },
       {
-          "type": "focus",
-          "id": 1
+         "type": "focus",
+         "id": 1
       }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Climbing",
-    "description": "Effectively, and speedily scale and climb up slopes, walls, trees, ropes, etc.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 10,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Climbing",
+   "description": "Effectively, and speedily scale and climb up slopes, walls, trees, ropes, etc.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 121
+         "type": "stunt",
+         "id": 121
       },
       {
-          "type": "power",
-          "id": 442
+         "type": "power",
+         "id": 442
       },
       {
-          "type": "focus",
-          "id": 7
+         "type": "focus",
+         "id": 7
       }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Contacts",
-    "description": "You have made friends all over. Learn how to develop and make best use of your relationships with others.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 11,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Contacts",
+   "description": "You have made friends all over. Learn how to develop and make best use of your relationships with others.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 122
+         "type": "stunt",
+         "id": 122
       },
       {
-          "type": "power",
-          "id": 444
+         "type": "power",
+         "id": 444
       },
       {
-          "type": "power",
-          "id": 445
+         "type": "power",
+         "id": 445
       }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Cooking",
-    "description": "Improve in your skill of preparing food by combining, mixing, and heating ingredients.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 12,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Cooking",
+   "description": "Improve in your skill of preparing food by combining, mixing, and heating ingredients.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 123
+         "type": "stunt",
+         "id": 123
       },
       {
-          "type": "power",
-          "id": 446
+         "type": "power",
+         "id": 446
       },
       {
-          "type": "focus",
-          "id": 78
+         "type": "focus",
+         "id": 78
       }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Costume Design",
-    "description": "Adjust and alter clothing to fit a performer, or even disguise yourself when you need to hide among others.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 13,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Costume Design",
+   "description": "Adjust and alter clothing to fit a performer, or even disguise yourself when you need to hide among others.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 124
+         "type": "stunt",
+         "id": 124
       },
       {
-          "type": "power",
-          "id": 448
+         "type": "power",
+         "id": 448
       },
       {
-          "type": "power",
-          "id": 449
+         "type": "power",
+         "id": 449
       }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Counsel",
-    "description": "Care for and listen to others, offer advice and give help to them regarding their problems.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 14,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Counsel",
+   "description": "Care for and listen to others, offer advice and give help to them regarding their problems.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 125
+         "type": "stunt",
+         "id": 125
       },
       {
-          "type": "power",
-          "id": 450
+         "type": "power",
+         "id": 450
       },
       {
-          "type": "focus",
-          "id": 52
+         "type": "focus",
+         "id": 52
       }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Crafting",
-    "description": "Skills related to designing or making useful, functional, and beautiful items by hand.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 15,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Crafting",
+   "description": "Skills related to designing or making useful, functional, and beautiful items by hand.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 126
+         "type": "stunt",
+         "id": 126
       },
       {
-          "type": "power",
-          "id": 452
+         "type": "power",
+         "id": 452
       },
       {
-          "type": "focus",
-          "id": 26
+         "type": "focus",
+         "id": 26
       }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Dancing",
-    "description": "Learn to move rhythmically to music, practice beeing light on your feet, and learn how to avoid falling.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 16,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Dancing",
+   "description": "Learn to move rhythmically to music, practice being light on your feet, and learn how to avoid falling.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 454
+         "type": "power",
+         "id": 454
       },
       {
-          "type": "power",
-          "id": 455
+         "type": "power",
+         "id": 455
       },
       {
-          "type": "focus",
-          "id": 25
+         "type": "focus",
+         "id": 25
       }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Debate",
-    "description": "Gain skills to formally discuss and argue to both individuals and crowds.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 17,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Debate",
+   "description": "Gain skills to formally discuss and argue to both individuals and crowds.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 127
+         "type": "stunt",
+         "id": 127
       },
       {
-          "type": "power",
-          "id": 457
+         "type": "power",
+         "id": 457
       },
       {
-          "type": "focus",
-          "id": 47
+         "type": "focus",
+         "id": 47
       }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Demolition",
-    "description": "The art and science of efficiently breaking and blowing stuff up.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 18,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Demolition",
+   "description": "The art and science of efficiently breaking and blowing stuff up.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 459
+         "type": "power",
+         "id": 459
       },
       {
-          "type": "power",
-          "id": 460
+         "type": "power",
+         "id": 460
       },
       {
-          "type": "focus",
-          "id": 62
+         "type": "focus",
+         "id": 62
       }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Diplomacy",
-    "description": "Learn the skills you need to deal with others in a sensitive and effective way; particularly with international relations.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 19,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Diplomacy",
+   "description": "Learn the skills you need to deal with others in a sensitive and effective way; particularly with international relations.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 128
+         "type": "stunt",
+         "id": 128
       },
       {
-          "type": "power",
-          "id": 462
+         "type": "power",
+         "id": 462
       },
       {
-          "type": "focus",
-          "id": 43
+         "type": "focus",
+         "id": 43
       }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Entertainment",
-    "description": "Understand how to bring others amusement, enjoyment, and a lively performance.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 20,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Entertainment",
+   "description": "Understand how to bring others amusement, enjoyment, and a lively performance.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 129
+         "type": "stunt",
+         "id": 129
       },
       {
-          "type": "power",
-          "id": 464
+         "type": "power",
+         "id": 464
       },
       {
-          "type": "focus",
-          "id": 46
+         "type": "focus",
+         "id": 46
       }
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Fishing",
-    "description": "Use knowledge of the sea, sailing, and your own sensitive touch to catch rare, delicious, and sometimes dangerous aquatic creatures.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 21,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Fishing",
+   "description": "Use knowledge of the sea, sailing, and your own sensitive touch to catch rare, delicious, and sometimes dangerous aquatic creatures.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 466
+         "type": "power",
+         "id": 466
       },
       {
-          "type": "power",
-          "id": 467
+         "type": "power",
+         "id": 467
       },
       {
-          "type": "focus",
-          "id": 39
+         "type": "focus",
+         "id": 39
       }
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Gambling",
-    "description": "Improve your odds at winning in games of \"chance\" by playing others and rigging the game.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 22,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Gambling",
+   "description": "Improve your odds at winning in games of \"chance\" by playing others and rigging the game.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 130
+         "type": "stunt",
+         "id": 130
       },
       {
-          "type": "power",
-          "id": 469
+         "type": "power",
+         "id": 469
       },
       {
-          "type": "focus",
-          "id": 44
+         "type": "focus",
+         "id": 44
       }
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Gymnastics",
-    "description": "Develop and display physical agility and coordination. Learn to take a fall safely, and move around the battlefield more efficiently.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 23,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Gymnastics",
+   "description": "Develop and display physical agility and coordination. Learn to take a fall safely, and move around the battlefield more efficiently.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 131
+         "type": "stunt",
+         "id": 131
       },
       {
-          "type": "power",
-          "id": 471
+         "type": "power",
+         "id": 471
       },
       {
-          "type": "focus",
-          "id": 24
+         "type": "focus",
+         "id": 24
       }
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Heroism",
-    "description": "Display great bravery to put others first above yourself, even to your own peril.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 24,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Heroism",
+   "description": "Display great bravery to put others first above yourself, even to your own peril.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 132
+         "type": "stunt",
+         "id": 132
       },
       {
-          "type": "power",
-          "id": 473
+         "type": "power",
+         "id": 473
       },
       {
-          "type": "focus",
-          "id": 51
+         "type": "focus",
+         "id": 51
       }
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Intrigue",
-    "description": "Arouse your curiosity and interest, question others and learn secrets.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 25,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Intrigue",
+   "description": "Arouse your curiosity and interest, question others and learn secrets.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 133
+         "type": "stunt",
+         "id": 133
       },
       {
-          "type": "power",
-          "id": 475
+         "type": "power",
+         "id": 475
       },
       {
-          "type": "focus",
-          "id": 48
+         "type": "focus",
+         "id": 48
       }
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Investigation",
-    "description": "Discover how ciminals and law enforcers think, and find things that are hidden quickly and efficiently.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 26,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Investigation",
+   "description": "Discover how criminals and law enforcers think, and find things that are hidden quickly and efficiently.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 134
+         "type": "stunt",
+         "id": 134
       },
       {
-          "type": "power",
-          "id": 477
+         "type": "power",
+         "id": 477
       },
       {
-          "type": "focus",
-          "id": 35
+         "type": "focus",
+         "id": 35
       }
-    ]
-  },
-  {
-    "id": 27,
-    "name": "Jumping",
-    "description": "Learn techniques to improve your long and high jumps to go further and higher.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 27,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Jumping",
+   "description": "Learn techniques to improve your long and high jumps to go further and higher.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 479
+         "type": "power",
+         "id": 479
       },
       {
-          "type": "power",
-          "id": 480
+         "type": "power",
+         "id": 480
       },
       {
-          "type": "focus",
-          "id": 10
+         "type": "focus",
+         "id": 10
       }
-    ]
-  },
-  {
-    "id": 28,
-    "name": "Leadership",
-    "description": "Influence, guide, and lead individuals or groups to do perform at a higher level.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 28,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Leadership",
+   "description": "Influence, guide, and lead individuals or groups to do perform at a higher level.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 135
+         "type": "stunt",
+         "id": 135
       },
       {
-          "type": "action",
-          "id": 68
+         "type": "action",
+         "id": 68
       },
       {
-          "type": "focus",
-          "id": 45
+         "type": "focus",
+         "id": 45
       }
-    ]
-  },
-  {
-    "id": 29,
-    "name": "Linguistics",
-    "description": "Study language and the structure of how different groups of people communicate.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 29,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Linguistics",
+   "description": "Study language and the structure of how different groups of people communicate.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 483
+         "type": "power",
+         "id": 483
       },
       {
-          "type": "power",
-          "id": 484
+         "type": "power",
+         "id": 484
       },
       {
-          "type": "power",
-          "id": 485
+         "type": "power",
+         "id": 485
       }
-    ]
-  },
-  {
-    "id": 30,
-    "name": "Lying",
-    "description": "Swindle and fool others. Bury lies within lies. Become a master of cons and deception",
-    "ranks": [
+   ]
+},
+ {
+   "id": 30,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Lying",
+   "description": "Swindle and fool others. Bury lies within lies. Become a master of cons and deception",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 136
+         "type": "stunt",
+         "id": 136
       },
       {
-          "type": "power",
-          "id": 486
+         "type": "power",
+         "id": 486
       },
       {
-          "type": "focus",
-          "id": 42
+         "type": "focus",
+         "id": 42
       }
-    ]
-  },
-  {
-    "id": 31,
-    "name": "Mechanics",
-    "description": "Gain the skills needed to work on and repair machines and other such technology.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 31,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Mechanics",
+   "description": "Gain the skills needed to work on and repair machines and other such technology.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 137
+         "type": "stunt",
+         "id": 137
       },
       {
-          "type": "power",
-          "id": 488
+         "type": "power",
+         "id": 488
       },
       {
-          "type": "focus",
-          "id": 32
+         "type": "focus",
+         "id": 32
       }
-    ]
-  },
-  {
-    "id": 32,
-    "name": "Medicine",
-    "description": "The practice of diagnosing, treating, and preventing diseases and other illnesses. Healing others of their wounds.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 32,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Medicine",
+   "description": "The practice of diagnosing, treating, and preventing diseases and other illnesses. Healing others of their wounds.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "action",
-          "id": 69
+         "type": "action",
+         "id": 69
       },
       {
-          "type": "power",
-          "id": 490
+         "type": "power",
+         "id": 490
       },
       {
-          "type": "focus",
-          "id": 66
+         "type": "focus",
+         "id": 66
       }
-    ]
-  },
-  {
-    "id": 33,
-    "name": "Navigation",
-    "description": "Accurately ascertain your precise location in reference to other locations. Plotting and following a route.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 33,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Navigation",
+   "description": "Accurately ascertain your precise location in reference to other locations. Plotting and following a route.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 492
+         "type": "power",
+         "id": 492
       },
       {
-          "type": "power",
-          "id": 493
+         "type": "power",
+         "id": 493
       },
       {
-          "type": "focus",
-          "id": 73
+         "type": "focus",
+         "id": 73
       }
-    ]
-  },
-  {
-    "id": 34,
-    "name": "Piloting",
-    "description": "Competence in operating any and all mechanically powered vehicles, including air and watercraft.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 34,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Piloting",
+   "description": "Competence in operating any and all mechanically powered vehicles, including air and watercraft.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 138
+         "type": "stunt",
+         "id": 138
       },
       {
-          "type": "power",
-          "id": 495
+         "type": "power",
+         "id": 495
       },
       {
-          "type": "focus",
-          "id": 27
+         "type": "focus",
+         "id": 27
       }
-    ]
-  },
-  {
-    "id": 35,
-    "name": "Riding",
-    "description": "Ability to effectively ride creatures and fight while mounted. Also applies to small 1 man vehicles such as motorcycles.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 35,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Riding",
+   "description": "Ability to effectively ride creatures and fight while mounted. Also applies to small 1 man vehicles such as motorcycles.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 497
+         "type": "power",
+         "id": 497
       },
       {
-          "type": "power",
-          "id": 498
+         "type": "power",
+         "id": 498
       },
       {
-          "type": "focus",
-          "id": 28
+         "type": "focus",
+         "id": 28
       }
-    ]
-  },
-  {
-    "id": 36,
-    "name": "Running",
-    "description": "You love to run and you can keep going all day long. Whereas speed is how fast you are, End (Running) is how far you can go.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 36,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Running",
+   "description": "You love to run and you can keep going all day long. Whereas speed is how fast you are, End (Running) is how far you can go.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 139
+         "type": "stunt",
+         "id": 139
       },
       {
-          "type": "power",
-          "id": 500
+         "type": "power",
+         "id": 500
       },
       {
-          "type": "focus",
-          "id": 5
+         "type": "focus",
+         "id": 5
       }
-    ]
-  },
-  {
-    "id": 37,
-    "name": "Sailing",
-    "description": "Competence in operating any and all sailing vessels large and small. ",
-    "ranks": [
+   ]
+},
+ {
+   "id": 37,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Sailing",
+   "description": "Competence in operating any and all sailing vessels large and small. ",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 502
+         "type": "power",
+         "id": 502
       },
       {
-          "type": "power",
-          "id": 503
+         "type": "power",
+         "id": 503
       },
       {
-          "type": "focus",
-          "id": 29
+         "type": "focus",
+         "id": 29
       }
-    ]
-  },
-  {
-    "id": 38,
-    "name": "Scholarship",
-    "description": "You have learned the skills needed to improve your long term memory and information retention. ",
-    "ranks": [
+   ]
+},
+ {
+   "id": 38,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Scholarship",
+   "description": "You have learned the skills needed to improve your long term memory and information retention. ",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 140
+         "type": "stunt",
+         "id": 140
       },
       {
-          "type": "power",
-          "id": 505
+         "type": "power",
+         "id": 505
       },
       {
-          "type": "focus",
-          "id": 65
+         "type": "focus",
+         "id": 65
       }
-    ]
-  },
-  {
-    "id": 39,
-    "name": "Scouting",
-    "description": "The ability to track your prey quickly, learn information from examining tracks, and keeping watch from prying eyes.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 39,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Scouting",
+   "description": "The ability to track your prey quickly, learn information from examining tracks, and keeping watch from prying eyes.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 141
+         "type": "stunt",
+         "id": 141
       },
       {
-          "type": "power",
-          "id": 507
+         "type": "power",
+         "id": 507
       },
       {
-          "type": "focus",
-          "id": 40
+         "type": "focus",
+         "id": 40
       }
-    ]
-  },
-  {
-    "id": 40,
-    "name": "Smithing",
-    "description": "The ability to smith weapons and armor to produce masterful works of art and war. Learn how to effectively work with different metals.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 40,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Smithing",
+   "description": "The ability to smith weapons and armor to produce masterful works of art and war. Learn how to effectively work with different metals.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 142
+         "type": "stunt",
+         "id": 142
       },
       {
-          "type": "power",
-          "id": 509
+         "type": "power",
+         "id": 509
       },
       {
-          "type": "focus",
-          "id": 13
+         "type": "focus",
+         "id": 13
       }
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Sneaking",
-    "description": "Learn how to move about in a stealthy manner, avoid notice, and hide in plain sight.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 41,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Sneaking",
+   "description": "Learn how to move about in a stealthy manner, avoid notice, and hide in plain sight.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 511
+         "type": "power",
+         "id": 511
       },
       {
-          "type": "stunt",
-          "id": 143
+         "type": "stunt",
+         "id": 143
       },
       {
-          "type": "focus",
-          "id": 31
+         "type": "focus",
+         "id": 31
       }
-    ]
-  },
-  {
-    "id": 42,
-    "name": "Stealing",
-    "description": "Learn the skills necessary to efficiently and efectively pick pockets and locks. ",
-    "ranks": [
+   ]
+},
+ {
+   "id": 42,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Stealing",
+   "description": "Learn the skills necessary to efficiently and effectively pick pockets and locks. ",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 513
+         "type": "power",
+         "id": 513
       },
       {
-          "type": "power",
-          "id": 514
+         "type": "power",
+         "id": 514
       },
       {
-          "type": "focus",
-          "id": 30
+         "type": "focus",
+         "id": 30
       }
-    ]
-  },
-  {
-    "id": 43,
-    "name": "Swimming",
-    "description": "The practice of holding your breath, swimming long distances, and even swimming faster.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 43,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Swimming",
+   "description": "The practice of holding your breath, swimming long distances, and even swimming faster.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 516
+         "type": "power",
+         "id": 516
       },
       {
-          "type": "power",
-          "id": 517
+         "type": "power",
+         "id": 517
       },
       {
-          "type": "focus",
-          "id": 4
+         "type": "focus",
+         "id": 4
       }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "Toughness",
-    "description": "You have learned how to adapt to whatever life throws at you, hold your own when outnumbered, and fight through the pain of injury.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 44,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Toughness",
+   "description": "You have learned how to adapt to whatever life throws at you, hold your own when outnumbered, and fight through the pain of injury.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 519
+         "type": "power",
+         "id": 519
       },
       {
-          "type": "power",
-          "id": 520
+         "type": "power",
+         "id": 520
       },
       {
-          "type": "focus",
-          "id": 2
+         "type": "focus",
+         "id": 2
       }
-    ]
-  },
-  {
-    "id": 45,
-    "name": "Weight Lifting",
-    "description": "Improve at your ability to lift heavy objects and your techniques in avoiding injury.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 45,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Weight Lifting",
+   "description": "Improve at your ability to lift heavy objects and your techniques in avoiding injury.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "stunt",
-          "id": 144
+         "type": "stunt",
+         "id": 144
       },
       {
-          "type": "power",
-          "id": 522
+         "type": "power",
+         "id": 522
       },
       {
-          "type": "focus",
-          "id": 11
+         "type": "focus",
+         "id": 11
       }
-    ]
-  },
-  {
-    "id": 46,
-    "name": "Wrestling",
-    "description": "Learn new grappling techniques to bring down your foes without using weapons.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 46,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Wrestling",
+   "description": "Learn new grappling techniques to bring down your foes without using weapons.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "action",
-          "id": 70
+         "type": "action",
+         "id": 70
       },
       {
-          "type": "power",
-          "id": 524
+         "type": "power",
+         "id": 524
       },
       {
-          "type": "focus",
-          "id": 8
+         "type": "focus",
+         "id": 8
       }
-    ]
-  },
-  {
-    "id": 47,
-    "name": "Zen",
-    "description": "The act of calming your emotions and meditating to achieve enlightnemnet.",
-    "ranks": [
+   ]
+},
+ {
+   "id": 47,
+   "creatorId": 1,
+   "world": [
+      1
+   ],
+   "name": "Zen",
+   "description": "The act of calming your emotions and meditating to achieve enlightenment.",
+   "notes": "",
+   "image": [
+      ""
+   ],
+   "ranks": [
       {
-          "type": "power",
-          "id": 526
+         "type": "power",
+         "id": 526
       },
       {
-          "type": "power",
-          "id": 527
+         "type": "power",
+         "id": 527
       },
       {
-          "type": "focus",
-          "id": 54
+         "type": "focus",
+         "id": 54
       }
-    ]
-  }
+   ]
+}
 ]
