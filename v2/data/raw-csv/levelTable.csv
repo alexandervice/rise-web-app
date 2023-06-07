@@ -1,0 +1,122 @@
+﻿id,creatorId,world/0,name,notes,points,requirement/attribute/0/id,requirement/attribute/0/value,requirement/attribute/1/id,requirement/attribute/1/value,requirement/attribute/2/id,requirement/attribute/2/value,requirement/other,upgrade/type,upgrade/id,upgrade/isRepeatable
+1,1,1,Increase Max HP,"Gain +3 to your maximum HP. 
+*Once your maximum HP is equal to or greater than 60, this only grants +2 towards your maximum HP.
+**Once your maximum HP is equal to or greater than 90, this only grants +1 towards your maximum HP.",1,,,,,,,,stat,1,0
+2,1,1,Increase Movement Speed,"Gain +0.5 to your maximum Movement Speed. 
+*Once your maximum Speed is equal to or greater than 10, this only grants +0.25 towards your maximum Speed.",1,,,,,,,,stat,2,0
+3,1,1,Increase Max MP,"Gain +2 to your maximum MP
+*Once your maximum MP is equal to or greater than 50, this only grants +1 towards your maximum MP.",1,,,,,,,,stat,3,0
+4,1,1,Focus Level 1,Gain a +1 focus for a single attribute test. This grants you +1 on all test results towards tests relevant to your focus.,1,,,,,,,focus,focus,,0
+5,1,1,Focus Level 2,Upgrade your +1 focus to be a +2 focus.,2,,,,,,,focus,focus,,0
+6,1,1,Focus Level 3,Upgrade your +2 focus to be a +3 focus.,3,,,,,,,focus,focus,,0
+7,1,1,Talent Level,"Gain the Novice abilities for a new talent, or the next level of a talent you already have.",2,,,,,,,talent,talent,,0
+8,1,1,Specialization Level,"Gain a new Specialization, or the next level of a Specialization you already have.",3,,,,,,,specialization,specialization,,0
+9,1,1,Endurance,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,1,,,,,,attribute,attribute,1,0
+10,1,1,Rock Steady,,1,1,1,,,,,,stunt,39,0
+11,1,1,Armor Training 1,,1,1,2,,,,,,power,43,0
+12,1,1,Armor Training 2,,2,1,4,,,,,,power,44,0
+13,1,1,Armor Training 3,,3,1,6,,,,,,power,45,0
+14,1,1,Fortify Armor,,2,1,3,,,,,,stunt,40,0
+15,1,1,Soldier's Nap,,2,1,4,,,,,,power,46,0
+16,1,1,Tenacious Will,,3,1,5,,,,,,stunt,41,0
+17,1,1,Indominable,,3,1,6,,,,,,power,47,0
+18,1,1,Strength,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,2,,,,,,attribute,attribute,2,0
+19,1,1,Knock Prone,,1,2,1,,,,,,stunt,42,0
+20,1,1,Charge Attack,,1,2,2,,,,,,action,22,0
+21,1,1,Mighty Blow,,2,2,3,,,,,,stunt,43,0
+22,1,1,Lethal Blow,,2,2,4,,,,,,stunt,145,0
+23,1,1,Deadly Blow,,2,2,5,,,,,,stunt,146,0
+24,1,1,Heavy Handed,,2,2,4,,,,,,power,48,0
+25,1,1,Sweeping Strike,,3,2,5,,,,,,stunt,44,0
+26,1,1,Warlord,,3,2,6,,,,,,power,49,0
+27,1,1,Accuracy,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,3,,,,,,attribute,attribute,3,0
+28,1,1,Skirmish,,1,3,1,,,,,,stunt,45,0
+29,1,1,Weapon Training 1,,1,3,2,,,,,,power,50,0
+30,1,1,Weapon Training 2,,2,3,4,,,,,,power,51,0
+31,1,1,Disarm,,2,3,3,,,,,,stunt,46,0
+32,1,1,Marksman,,2,3,4,,,,,,power,52,0
+33,1,1,Rapid Reload,,3,3,5,,,,,,stunt,47,0
+34,1,1,Tenacious Spirit,,3,3,6,,,,,,power,53,0
+35,1,1,Juggernaut Rush,,3,1,5,2,5,,,,action,25,0
+36,1,1,Sentinel,,3,1,5,3,5,,,,power,54,0
+37,1,1,Expert Strike,,3,2,5,3,5,,,,power,55,0
+38,1,1,Last Stand,,3,1,5,2,5,3,5,,power,56,0
+39,1,1,Dexterity,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,4,,,,,,attribute,attribute,4,0
+40,1,1,Defensive Stance,,1,4,1,,,,,,stunt,48,0
+41,1,1,Speedy 1,,1,4,2,,,,,,power,57,0
+42,1,1,Speedy 2,,2,4,4,,,,,,power,58,0
+43,1,1,Speedy 3,,3,4,6,,,,,,power,59,0
+44,1,1,Disengage,,2,4,3,,,,,,stunt,49,0
+45,1,1,Uncanny Dodge,,2,4,4,,,,,,power,60,0
+46,1,1,Disappearing Act,,3,4,5,,,,,,stunt,50,0
+47,1,1,Elusive,,3,4,6,,,,,,power,61,0
+48,1,1,Perception,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,5,,,,,,attribute,attribute,5,0
+49,1,1,Pierce Armor,,1,5,1,,,,,,stunt,51,0
+50,1,1,Pinpoint Attack,,1,5,2,,,,,,power,62,0
+51,1,1,Stay Aware,,2,5,3,,,,,,stunt,52,0
+52,1,1,Scan Weakness,,2,5,4,,,,,,action,23,0
+53,1,1,Penetrate Armor,,3,5,5,,,,,,stunt,53,0
+54,1,1,Sharpshooter,,3,5,6,,,,,,power,63,0
+55,1,1,Charisma,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,6,,,,,,attribute,attribute,6,0
+56,1,1,Taunt,,1,6,1,,,,,,stunt,54,0
+57,1,1,Alluring Visage,,1,6,2,,,,,,power,64,0
+58,1,1,Feign Weakness,,2,6,3,,,,,,stunt,55,0
+59,1,1,Unassuming,,2,6,4,,,,,,power,65,0
+60,1,1,Cutting Words,,3,6,5,,,,,,stunt,56,0
+61,1,1,Rabble Rouser,,3,6,6,,,,,,power,66,0
+62,1,1,No Hesitation,,3,4,5,5,5,,,,power,67,0
+63,1,1,Lucky,,3,4,5,6,5,,,,power,68,0
+64,1,1,6th Sense,,3,5,5,6,5,,,,power,69,0
+65,1,1,Cunning Action,,3,4,5,5,5,6,5,,power,70,0
+66,1,1,Heart,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,7,,,,,,attribute,attribute,7,0
+67,1,1,Clear Mind,,1,7,1,,,,,,stunt,57,0
+68,1,1,Deep Focus 1,,1,7,2,,,,,,power,71,0
+69,1,1,Deep Focus 2,,2,7,4,,,,,,power,72,0
+70,1,1,Deep Focus 3,,3,7,6,,,,,,power,73,0
+71,1,1,Stunned Silence,,2,7,3,,,,,,stunt,58,0
+72,1,1,Strong Willed,,2,7,4,,,,,,power,74,0
+73,1,1,Meditative Spirit,,3,7,5,,,,,,stunt,59,0
+74,1,1,Caring Soul,,3,7,6,,,,,,power,77,0
+75,1,1,Intelligence,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,8,,,,,,attribute,attribute,8,0
+76,1,1,Basic Spell,Learn a basic level spell from any school of magic.,1,8,0,,,,,basic,spell,,1
+77,1,1,Powerful Casting 1,,1,8,1,,,,,,stunt,60,0
+78,1,1,Powerful Casting 2,,2,8,3,,,,,,power,561,0
+79,1,1,Powerful Casting 3,,3,8,5,,,,,,power,562,0
+80,1,1,Novice Spell,Learn a novice level spell from any school of magic.,1,8,2,,,,,novice,spell,,1
+81,1,1,Mighty Arcanum,,2,8,3,,,,,,stunt,61,0
+82,1,1,Lethal Arcanum,,2,8,4,,,,,,stunt,147,0
+83,1,1,Deadly Arcanum,,2,8,5,,,,,,stunt,148,0
+84,1,1,Adept Spell,Learn an Adept level spell for a school of magic that you already know at least one novice spell in.,2,8,4,,,,,adept,spell,,1
+85,1,1,Flashbang,,3,8,5,,,,,,stunt,62,0
+86,1,1,Master Spell,Learn a Master level spell for a school of magic that you already know at least one Adept level spell in.,3,8,6,,,,,master,spell,,1
+87,1,1,Wisdom,"The cost to increase this attribute is equivalent to the level of the attribute you are attempting to gain. Minimum 2 points. 
+Example 1: you currently have 2 End and you want 3 End, this will cost 3 points. 
+Example 2: you currently have 0 Dex and want 1 Dex, this will cost 2 points. (minimum of 2)",,9,,,,,,attribute,attribute,9,0
+88,1,1,Lasting Focus,,1,9,1,,,,,,stunt,63,0
+89,1,1,Plan of Action 1,,1,9,2,,,,,,action,24,0
+90,1,1,Plan of Action 2,,2,9,4,,,,,,power,78,0
+91,1,1,Plan of Action 3,,3,9,6,,,,,,power,79,0
+92,1,1,Free Casting,,2,9,3,,,,,,stunt,64,0
+93,1,1,Experienced Mage,,2,9,4,,,,,,power,80,0
+94,1,1,Split Arcana,,3,9,5,,,,,,stunt,65,0
+95,1,1,Great Sage,,3,9,6,,,,,,power,81,0
+96,1,1,Overclock,,3,7,5,8,5,,,,power,82,0
+97,1,1,Arcane Recovery,,3,7,5,9,5,,,,power,83,0
+98,1,1,Spell Failsafe,,3,8,5,9,5,,,,power,84,0
+99,1,1,Magus Intellectus,,3,7,5,8,5,9,5,,power,85,0
