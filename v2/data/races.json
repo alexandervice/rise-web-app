@@ -91,12 +91,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "human1",
+      "human2",
+      "human3",
+      "human4",
+      "human5",
+      "human6"
    ]
 },
  {
@@ -191,12 +191,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "halfling1",
+      "halfling2",
+      "halfling3",
+      "halfling4",
+      "halfling5",
+      "halfling6"
    ]
 },
  {
@@ -291,12 +291,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "orion1",
+      "orion2",
+      "orion3",
+      "orion4",
+      "orion5",
+      "orion6"
    ]
 },
  {
@@ -391,12 +391,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "gargunFel1",
+      "gargunFel2",
+      "gargunFel3",
+      "gargunFel4",
+      "gargunFel5",
+      "gargunFel6"
    ]
 },
  {
@@ -491,12 +491,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "gargunUl1",
+      "gargunUl2",
+      "gargunUl3",
+      "gargunUl4",
+      "gargunUl5",
+      "gargunUl6"
    ]
 },
  {
@@ -591,12 +591,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "vata1",
+      "vata2",
+      "vata3",
+      "vata4",
+      "vata5",
+      "vata6"
    ]
 },
  {
@@ -691,12 +691,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "starforged1",
+      "starforged2",
+      "starforged3",
+      "starforged4",
+      "starforged5",
+      "starforged6"
    ]
 },
  {
@@ -791,12 +791,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "infernal1",
+      "infernal2",
+      "infernal3",
+      "infernal4",
+      "infernal5",
+      "infernal6"
    ]
 },
  {
@@ -891,12 +891,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliApe1",
+      "feraliApe2",
+      "feraliApe3",
+      "feraliApe4",
+      "feraliApe5",
+      "feraliApe6"
    ]
 },
  {
@@ -991,12 +991,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliBear1",
+      "feraliBear2",
+      "feraliBear3",
+      "feraliBear4",
+      "feraliBear5",
+      "feraliBear6"
    ]
 },
  {
@@ -1091,12 +1091,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliFeline1",
+      "feraliFeline2",
+      "feraliFeline3",
+      "feraliFeline4",
+      "feraliFeline5",
+      "feraliFeline6"
    ]
 },
  {
@@ -1191,12 +1191,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliEagle1",
+      "feraliEagle2",
+      "feraliEagle3",
+      "feraliEagle4",
+      "feraliEagle5",
+      "feraliEagle6"
    ]
 },
  {
@@ -1291,12 +1291,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliLizard1",
+      "feraliLizard2",
+      "feraliLizard3",
+      "feraliLizard4",
+      "feraliLizard5",
+      "feraliLizard6"
    ]
 },
  {
@@ -1391,12 +1391,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliRaven1",
+      "feraliRaven2",
+      "feraliRaven3",
+      "feraliRaven4",
+      "feraliRaven5",
+      "feraliRaven6"
    ]
 },
  {
@@ -1491,12 +1491,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliTurtle1",
+      "feraliTurtle2",
+      "feraliTurtle3",
+      "feraliTurtle4",
+      "feraliTurtle5",
+      "feraliTurtle6"
    ]
 },
  {
@@ -1591,12 +1591,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliCanine1",
+      "feraliCanine2",
+      "feraliCanine3",
+      "feraliCanine4",
+      "feraliCanine5",
+      "feraliCanine6"
    ]
 },
  {
@@ -1691,12 +1691,12 @@
       }
    ],
    "image": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "feraliFrog1",
+      "feraliFrog2",
+      "feraliFrog3",
+      "feraliFrog4",
+      "feraliFrog5",
+      "feraliFrog6"
    ]
 }
 ]

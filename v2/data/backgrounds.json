@@ -4,6 +4,10 @@
    "name": "Acolyte",
    "description": "You have been a devout follower of one of the Constellations for a long time. Your humble dream is to one day stand before the physical form of your Constellation and worship them in person.",
    "notes": "",
+   "image": [
+      "acolyte",
+      ""
+   ],
    "credits": "160",
    "gear": "Robes, walking stick, incense, holy symbol.",
    "focusId": 53,
@@ -18,6 +22,10 @@
    "name": "Anthropologist",
    "description": "You studied past cultures and are well versed in the various cultural customs of the world. Museums paid you a small living, but you are motivated by your own curiosity to learn about lost cultures.",
    "notes": "",
+   "image": [
+      "anthropologist",
+      ""
+   ],
    "credits": "180",
    "gear": "City clothes, small backpack, compass, temporary camera, notebook & pen.",
    "focusId": 52,
@@ -32,6 +40,10 @@
    "name": "Archaeologist",
    "description": "Always fascinated by The Fall, your life goal is to study the ancient and lost technology and relics of the star faring civilizations from the past. You haven't had much luck yet, but won't let your hopes be dismayed.",
    "notes": "",
+   "image": [
+      "archaeologist",
+      ""
+   ],
    "credits": "130",
    "gear": "Travel clothes, small backpack, compass, camera, shovel, magnifying glass.",
    "focusId": 65,
@@ -46,6 +58,10 @@
    "name": "Artisan",
    "description": "You spent your time learning and making art of various forms, some of which you were able to sell to make a profit. You are now looking for inspiration to create a true masterpiece.",
    "notes": "",
+   "image": [
+      "artisan",
+      ""
+   ],
    "credits": "150",
    "gear": "City clothes, belt pouch, leather apron, hammer, chisel, knife, can of paint (x3), painter's kit.",
    "focusId": 26,
@@ -60,6 +76,10 @@
    "name": "Athlete",
    "description": "You honed your body to compete all kinds of sports and events. You have already bested everyone from your town or neighborhood, and want to prove yourself to be the best athlete in the world.",
    "notes": "",
+   "image": [
+      "athlete",
+      ""
+   ],
    "credits": "150",
    "gear": "Athletic clothes, small athletic bag, first aid kit, stopwatch, and water bottle.",
    "focusId": 5,
@@ -74,6 +94,10 @@
    "name": "Bartender",
    "description": "You have worked in inns, pubs, and bars serving drinks and making friends. You desire to see more of the world and try all of the drinks of every culture.",
    "notes": "",
+   "image": [
+      "bartender",
+      ""
+   ],
    "credits": "190",
    "gear": "City clothes, belt pouch, apron, bottle opener, corkscrew, beer bottle (x3), flask.",
    "focusId": 1,
@@ -88,6 +112,10 @@
    "name": "Blacksmith",
    "description": "You apprenticed under a blacksmith with a dream to make powerful weapons and armor, but were never trusted enough to make what you wanted. One day you want to forge the most powerful equipment.",
    "notes": "",
+   "image": [
+      "blacksmith",
+      ""
+   ],
    "credits": "175",
    "gear": "Work clothes, backpack, leather apron, forge hammer, portable anvil, tongs, 1kg iron ore, 1kg coal.",
    "focusId": 13,
@@ -102,6 +130,10 @@
    "name": "Charlatan",
    "description": "You learned to survive by tricking and swindling others out of their hard earned cash. You have grown bored of tricking commoners and small fries, and are looking for a more exciting mark.",
    "notes": "",
+   "image": [
+      "charlatan",
+      ""
+   ],
    "credits": "225",
    "gear": "Fine clothes, fake id, deck of cards, silk scarf.",
    "focusId": 42,
@@ -116,6 +148,10 @@
    "name": "Cook",
    "description": "You worked in a restaurant cooking the food and recipes dictated by the head chef, but you never got the chance to make your own recipes. Your dream is to cook exquisite food from the rarest of ingredients.",
    "notes": "",
+   "image": [
+      "cook",
+      ""
+   ],
    "credits": "175",
    "gear": "Work clothes, grocery bag, apron, knife, pot, pan, serving utensils, salt & pepper shaker.",
    "focusId": 38,
@@ -130,6 +166,10 @@
    "name": "Courier",
    "description": "You have earned a moderate living travelling from city to city delivering important documents and packages for others. You love travelling and meeting new people, but are sick of working for others.",
    "notes": "",
+   "image": [
+      "courier",
+      ""
+   ],
    "credits": "200",
    "gear": "Travel clothes, messenger bag, map, compass, Prodence travel guide.",
    "focusId": 64,
@@ -144,6 +184,10 @@
    "name": "Entertainer",
    "description": "Singing, dancing, and performing are your passion, but you are sick of the measly tips you have made in bars and taverns and desire a life of fame and grandeur.",
    "notes": "",
+   "image": [
+      "entertainer",
+      ""
+   ],
    "credits": "145",
    "gear": "Fine clothes, small purse, makeup, musical instrument, perfume.",
    "focusId": 46,
@@ -158,6 +202,10 @@
    "name": "Explorer",
    "description": "You are a restless soul who is always on the lookout for new and exciting places to explore. You have been to a few exotic locations, but desire to explore the entire world.",
    "notes": "",
+   "image": [
+      "explorer",
+      ""
+   ],
    "credits": "135",
    "gear": "Travel clothes, backpack, map, compass, sleeping bag, tarp, water bottle, firestarter.",
    "focusId": 73,
@@ -172,6 +220,10 @@
    "name": "Farmer",
    "description": "You grew up on a farm and have always known the hard work of growing food. You have made some money from selling your yield, but you have always yearned for more than your crops and land. ",
    "notes": "",
+   "image": [
+      "farmer",
+      ""
+   ],
    "credits": "160",
    "gear": "Work clothes, wheelbarrow, hoe, pitchfork, vegetable seeds, 1kg vegetables.",
    "focusId": 3,
@@ -186,6 +238,10 @@
    "name": "Fisher",
    "description": "Born and raised along the sea you made a living catching and selling fish. Your heart lies with the sea and you desire to explore the world to catch the biggest and rarest fish.",
    "notes": "",
+   "image": [
+      "fisher",
+      ""
+   ],
    "credits": "155",
    "gear": "Work clothes, dry bag, basic fishing rod, tacklebox, net, 1kg bait.",
    "focusId": 39,
@@ -200,6 +256,10 @@
    "name": "Gambler",
    "description": "Most things in life struggle to hold your attention, but nothing is as exciting as the high you get when you go all in and win big. You desire to search the world and live life to the fullest wherever you go.",
    "notes": "",
+   "image": [
+      "gambler",
+      ""
+   ],
    "credits": "3d6 x 20",
    "gear": "Fine clothes, dice bag, dice, playing cards, watch or necklace.",
    "focusId": 44,
@@ -214,6 +274,10 @@
    "name": "Heir",
    "description": "Raised to navigate the upper echelons of society, but you have different plans for your life than to simply inherit something you didn't earn. (Work with the GM to determine why you wanted to leave your family)",
    "notes": "",
+   "image": [
+      "heir",
+      ""
+   ],
    "credits": "300",
    "gear": "Fine clothes, large purse, necklace, makeup, perfume, hand mirror.",
    "focusId": 43,
@@ -228,6 +292,10 @@
    "name": "Hermit",
    "description": "You have always been a loner and can often be found sitting alone in a cave or under a bridge, but you are at peace with yourself and think the world would be much better off if everyone would just chill out. ",
    "notes": "",
+   "image": [
+      "hermit",
+      ""
+   ],
    "credits": "120",
    "gear": "Rag clothes, sack, walking stick, waterskin, knife.",
    "focusId": 54,
@@ -242,6 +310,10 @@
    "name": "Hunter",
    "description": "At home in the woods you are proficient in trapping and tracking animals, and made a living selling the furs and meat you gathered from your hunts. There is nothing you love more than hunting a new prey.",
    "notes": "",
+   "image": [
+      "hunter",
+      ""
+   ],
    "credits": "195",
    "gear": "Fur clothes, leather bag, knife, net, rope, water skin, 1kg rabbit meat.",
    "focusId": 40,
@@ -256,6 +328,10 @@
    "name": "Inventor",
    "description": "Creative and skilled with your hands, you have always dreamed of changing the world with your creations. (Work with the GM on a starting prototype invention)",
    "notes": "",
+   "image": [
+      "inventor",
+      ""
+   ],
    "credits": "135",
    "gear": "City clothes, backpack, small energy cell, screwdriver, blueprint notebook, soldering iron, prototype invention.",
    "focusId": 62,
@@ -270,6 +346,10 @@
    "name": "Laborer",
    "description": "Strong and sturdy, you didn't know what else to do besides put your body to work. Manual labor may be what you are best at, but you know there is more to life than working yourself to the bone.",
    "notes": "",
+   "image": [
+      "laborer",
+      ""
+   ],
    "credits": "150",
    "gear": "Work clothes, backpack, waterskin, hammer, shovel, tape measure.",
    "focusId": 11,
@@ -284,6 +364,10 @@
    "name": "Manager",
    "description": "Your people skills are better than most, and can often see the most efficient way to get the job done. You believe that your skills would be better put to use achieving your dreams vs simply making a profit.",
    "notes": "",
+   "image": [
+      "manager",
+      ""
+   ],
    "credits": "240",
    "gear": "Fine clothes, briefcase, notepad, handheld commlink",
    "focusId": 45,
@@ -298,6 +382,10 @@
    "name": "Mechanic",
    "description": "Machines are your bread and butter, you are more at home working on an engine than anything else. Your dream is to one day learn about the engines of the great spaceships of the past.",
    "notes": "",
+   "image": [
+      "mechanic",
+      ""
+   ],
    "credits": "200",
    "gear": "Work clothes, backpack, hammer, screwdriver, wrenches, welding mask.",
    "focusId": 32,
@@ -312,6 +400,10 @@
    "name": "Merchant",
    "description": "You have always been good at bargaining and have worked for some time as a merchant, buying and selling product to maximize profits. One day you hope to build your own merchant empire.",
    "notes": "",
+   "image": [
+      "merchant",
+      ""
+   ],
    "credits": "220",
    "gear": "City clothes, briefcase & small purse, scale, ledger, pen.",
    "focusId": 41,
@@ -326,6 +418,10 @@
    "name": "Miner",
    "description": "You have an eye for finding ore and have worked in the mines for a long time. Sick of your labor being exploited by the mining corporations, you have decided to set out on your own path.",
    "notes": "",
+   "image": [
+      "miner",
+      ""
+   ],
    "credits": "165",
    "gear": "Work clothes, backpack, pickaxe, 1kg iron ore, water skin, headlamp, flashlight.",
    "focusId": 69,
@@ -340,6 +436,10 @@
    "name": "Naturalist",
    "description": "You love nature and have dedicated much of your life to studying various organisms and advocating for the environment. Your dream is to see even more of the flora and fauna this world has to offer.",
    "notes": "",
+   "image": [
+      "naturalist",
+      ""
+   ],
    "credits": "130",
    "gear": "Travel clothes, backpack, binoculars, compass, water purifier, local field guide, camera.",
    "focusId": 75,
@@ -354,6 +454,10 @@
    "name": "Nurse",
    "description": "You learned medical skills and have compassion for people. You have worked in a hospital to use your skills to help others, but the long hours and lack of respect have driven you to seek a different path.",
    "notes": "",
+   "image": [
+      "nurse",
+      ""
+   ],
    "credits": "200",
    "gear": "Robes, medical bag, first aid kit, water bottle, thermometer, rubber gloves.",
    "focusId": 66,
@@ -368,6 +472,10 @@
    "name": "Outlander",
    "description": "You grew up on the plains riding horses and you have a deep connection with creatures when you ride them. (Work with the GM to determine your starting mount)",
    "notes": "",
+   "image": [
+      "outlander",
+      ""
+   ],
    "credits": "100",
    "gear": "Travel clothes, saddlebag, saddle, reins, knife, waterskin.",
    "focusId": 28,
@@ -382,6 +490,10 @@
    "name": "Pickpocket",
    "description": "Deft with your hands and a compulsive thief, you never wanted an honest job when you could steal what cash you needed from others. To you the rush you get from lifting a wallet is more addicting than the reward.",
    "notes": "",
+   "image": [
+      "pickpocket",
+      ""
+   ],
    "credits": "220",
    "gear": "City clothes, backpack, knife, lockpick (x3), noisemaker.",
    "focusId": 30,
@@ -396,6 +508,10 @@
    "name": "Prisoner",
    "description": "Locked up long ago for a crime you may or may not have committed, you have only recently been released from prison. (Work with the GM to determine why you were imprisoned)",
    "notes": "",
+   "image": [
+      "prisoner",
+      ""
+   ],
    "credits": "120",
    "gear": "Rag clothes, sack, shiv, soap, shackles.",
    "focusId": 9,
@@ -410,6 +526,10 @@
    "name": "Private Eye",
    "description": "Ever inquisitive and with a knack for reading people, you have worked as a private eye for most of your adult life. There is still one mystery that you have yet to solve (work with the GM to determine the mystery).",
    "notes": "",
+   "image": [
+      "privateEye",
+      ""
+   ],
    "credits": "180",
    "gear": "City clothes, trench coat, fedora, gloves, voice recorder, notebook & pen.",
    "focusId": 48,
@@ -424,6 +544,10 @@
    "name": "Sailor",
    "description": "You grew up along the coast, and spent your youth working as a deckhand on cargo ships. Your dream is to one day sail across the world, taming even the most dangerous of seas.",
    "notes": "",
+   "image": [
+      "sailor",
+      ""
+   ],
    "credits": "170",
    "gear": "Work clothes, dry bag, rope, knife, sextant, compass, star chart, telescope, net.",
    "focusId": 29,
@@ -438,6 +562,10 @@
    "name": "Scientist",
    "description": "You love coming up with new hypotheses and are always looking to disprove well established theories. You hope to one day contribute a major discovery to the scientific community.",
    "notes": "",
+   "image": [
+      "scientist",
+      ""
+   ],
    "credits": "190",
    "gear": "City clothes, lab coat, backpack, calculator, laser pointer, small data disk.",
    "focusId": 65,
@@ -452,6 +580,10 @@
    "name": "Scout",
    "description": "You have worked as a local scout for a few years now. However, there is something important to you that you are still searching for. (Work with the GM to determine what you are looking for)",
    "notes": "",
+   "image": [
+      "scout",
+      ""
+   ],
    "credits": "180",
    "gear": "Travel clothes, backpack, knife, rope, whistle, water bottle, grappling hook, tarp, binoculars.",
    "focusId": 35,
@@ -466,6 +598,10 @@
    "name": "Smuggler",
    "description": "You have a reputation for being able to smuggle all sorts of illicit goods, including people. You have managed to avoid being caught so far, but the authorities have begun to take notice of you.",
    "notes": "",
+   "image": [
+      "smuggler",
+      ""
+   ],
    "credits": "230",
    "gear": "City clothes, large backpack with hidden pockets, lockpick, knife, water bottle, compass, rope, crowbar.",
    "focusId": 31,
@@ -480,6 +616,10 @@
    "name": "Soldier",
    "description": "You served for a period of time in the Federation Army until you were dishonorably discharged from active duty. (Work with the GM to determine why you were kicked out of the Army)",
    "notes": "",
+   "image": [
+      "soldier",
+      ""
+   ],
    "credits": "140",
    "gear": "Work clothes, large backpack, tent, waterskin, rations (x3), flashlight, shovel, knife.",
    "focusId": 56,
@@ -494,6 +634,10 @@
    "name": "Squire",
    "description": "A self proclaimed apprentice to a renowned and retired knight. Your dream is to one day become a brave and valiant knight yourself. (Work with the GM to determine your relationship to the retired knight)",
    "notes": "",
+   "image": [
+      "squire",
+      ""
+   ],
    "credits": "170",
    "gear": "Travel clothes, large backpack, first aid kit, water bottle, frying pan, lantern, whetstone.",
    "focusId": 51,
@@ -508,6 +652,10 @@
    "name": "Transporter",
    "description": "A skilled driver, you have made a living by transporting goods and working as a taxi driver in the big city. You don't own your own vehicle yet, but one day your dream is to become the best pilot in the world.",
    "notes": "",
+   "image": [
+      "transporter",
+      ""
+   ],
    "credits": "190",
    "gear": "City clothes, small backpack, water bottle, watch, handheld commlink.",
    "focusId": 27,
@@ -522,6 +670,10 @@
    "name": "Wanderer",
    "description": "Orphaned at a young age, you never had somewhere safe to call home so you became a wanderer and have relied on your own wits and instinct ever since.",
    "notes": "",
+   "image": [
+      "wanderer",
+      ""
+   ],
    "credits": "130",
    "gear": "Travel clothes, large backpack, lighter, rope, tarp, waterskin, sleeping bag, saw.",
    "focusId": 71,
