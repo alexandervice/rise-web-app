@@ -91,12 +91,12 @@
       }
    ],
    "image": [
-      "human1",
-      "human2",
-      "human3",
-      "human4",
-      "human5",
-      "human6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/human1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/human2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/human3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/human4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/human5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/human6.jpg"
    ]
 },
  {
@@ -191,12 +191,12 @@
       }
    ],
    "image": [
-      "halfling1",
-      "halfling2",
-      "halfling3",
-      "halfling4",
-      "halfling5",
-      "halfling6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/halfling1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/halfling2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/halfling3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/halfling4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/halfling5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/halfling6.jpg"
    ]
 },
  {
@@ -291,12 +291,12 @@
       }
    ],
    "image": [
-      "orion1",
-      "orion2",
-      "orion3",
-      "orion4",
-      "orion5",
-      "orion6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/orion1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/orion2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/orion3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/orion4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/orion5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/orion6.jpg"
    ]
 },
  {
@@ -391,12 +391,12 @@
       }
    ],
    "image": [
-      "gargunFel1",
-      "gargunFel2",
-      "gargunFel3",
-      "gargunFel4",
-      "gargunFel5",
-      "gargunFel6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunFel1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunFel2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunFel3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunFel4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunFel5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunFel6.jpg"
    ]
 },
  {
@@ -491,12 +491,12 @@
       }
    ],
    "image": [
-      "gargunUl1",
-      "gargunUl2",
-      "gargunUl3",
-      "gargunUl4",
-      "gargunUl5",
-      "gargunUl6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunUl1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunUl2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunUl3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunUl4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunUl5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/gargunUl6.jpg"
    ]
 },
  {
@@ -591,12 +591,12 @@
       }
    ],
    "image": [
-      "vata1",
-      "vata2",
-      "vata3",
-      "vata4",
-      "vata5",
-      "vata6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/vata1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/vata2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/vata3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/vata4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/vata5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/vata6.jpg"
    ]
 },
  {
@@ -691,12 +691,12 @@
       }
    ],
    "image": [
-      "starforged1",
-      "starforged2",
-      "starforged3",
-      "starforged4",
-      "starforged5",
-      "starforged6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/starforged1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/starforged2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/starforged3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/starforged4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/starforged5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/starforged6.jpg"
    ]
 },
  {
@@ -791,12 +791,12 @@
       }
    ],
    "image": [
-      "infernal1",
-      "infernal2",
-      "infernal3",
-      "infernal4",
-      "infernal5",
-      "infernal6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/infernal1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/infernal2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/infernal3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/infernal4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/infernal5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/infernal6.jpg"
    ]
 },
  {
@@ -891,12 +891,12 @@
       }
    ],
    "image": [
-      "feraliApe1",
-      "feraliApe2",
-      "feraliApe3",
-      "feraliApe4",
-      "feraliApe5",
-      "feraliApe6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliApe1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliApe2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliApe3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliApe4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliApe5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliApe6.jpg"
    ]
 },
  {
@@ -991,12 +991,12 @@
       }
    ],
    "image": [
-      "feraliBear1",
-      "feraliBear2",
-      "feraliBear3",
-      "feraliBear4",
-      "feraliBear5",
-      "feraliBear6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliBear1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliBear2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliBear3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliBear4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliBear5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliBear6.jpg"
    ]
 },
  {
@@ -1091,12 +1091,12 @@
       }
    ],
    "image": [
-      "feraliFeline1",
-      "feraliFeline2",
-      "feraliFeline3",
-      "feraliFeline4",
-      "feraliFeline5",
-      "feraliFeline6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFeline1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFeline2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFeline3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFeline4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFeline5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFeline6.jpg"
    ]
 },
  {
@@ -1191,12 +1191,12 @@
       }
    ],
    "image": [
-      "feraliEagle1",
-      "feraliEagle2",
-      "feraliEagle3",
-      "feraliEagle4",
-      "feraliEagle5",
-      "feraliEagle6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliEagle1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliEagle2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliEagle3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliEagle4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliEagle5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliEagle6.jpg"
    ]
 },
  {
@@ -1291,12 +1291,12 @@
       }
    ],
    "image": [
-      "feraliLizard1",
-      "feraliLizard2",
-      "feraliLizard3",
-      "feraliLizard4",
-      "feraliLizard5",
-      "feraliLizard6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliLizard1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliLizard2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliLizard3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliLizard4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliLizard5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliLizard6.jpg"
    ]
 },
  {
@@ -1391,12 +1391,12 @@
       }
    ],
    "image": [
-      "feraliRaven1",
-      "feraliRaven2",
-      "feraliRaven3",
-      "feraliRaven4",
-      "feraliRaven5",
-      "feraliRaven6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliRaven1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliRaven2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliRaven3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliRaven4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliRaven5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliRaven6.jpg"
    ]
 },
  {
@@ -1491,12 +1491,12 @@
       }
    ],
    "image": [
-      "feraliTurtle1",
-      "feraliTurtle2",
-      "feraliTurtle3",
-      "feraliTurtle4",
-      "feraliTurtle5",
-      "feraliTurtle6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliTurtle1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliTurtle2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliTurtle3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliTurtle4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliTurtle5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliTurtle6.jpg"
    ]
 },
  {
@@ -1591,12 +1591,12 @@
       }
    ],
    "image": [
-      "feraliCanine1",
-      "feraliCanine2",
-      "feraliCanine3",
-      "feraliCanine4",
-      "feraliCanine5",
-      "feraliCanine6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliCanine1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliCanine2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliCanine3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliCanine4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliCanine5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliCanine6.jpg"
    ]
 },
  {
@@ -1691,12 +1691,312 @@
       }
    ],
    "image": [
-      "feraliFrog1",
-      "feraliFrog2",
-      "feraliFrog3",
-      "feraliFrog4",
-      "feraliFrog5",
-      "feraliFrog6"
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFrog1.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFrog2.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFrog3.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFrog4.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFrog5.jpg",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/races/feraliFrog6.jpg"
+   ]
+},
+ {
+   "creatorId": null,
+   "worldId": null,
+   "id": null,
+   "name": "",
+   "description": "",
+   "notes": "",
+   "baseStats": {
+      "hp": "",
+      "spd": "",
+      "mp": ""
+   },
+   "brawling": [
+      null,
+      null
+   ],
+   "attributeId": [
+      null,
+      null
+   ],
+   "language": [
+      null,
+      ""
+   ],
+   "raceBonus": [
+      {
+         "type": [
+            "",
+            ""
+         ],
+         "id": [
+            null,
+            null
+         ]
+      }
+   ],
+   "raceFocus": [
+      null,
+      null,
+      null
+   ],
+   "rollTable": [
+      {
+         "type": "",
+         "attributeId": ""
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": ""
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": ""
+      }
+   ],
+   "lvl10Bonus": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": ""
+      }
+   ],
+   "lvl20Bonus": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": ""
+      }
+   ],
+   "image": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "creatorId": null,
+   "worldId": null,
+   "id": null,
+   "name": "",
+   "description": "",
+   "notes": "",
+   "baseStats": {
+      "hp": "",
+      "spd": "",
+      "mp": ""
+   },
+   "brawling": [
+      null,
+      null
+   ],
+   "attributeId": [
+      null,
+      null
+   ],
+   "language": [
+      null,
+      ""
+   ],
+   "raceBonus": [
+      {
+         "type": [
+            "",
+            ""
+         ],
+         "id": [
+            null,
+            null
+         ]
+      }
+   ],
+   "raceFocus": [
+      null,
+      null,
+      null
+   ],
+   "rollTable": [
+      {
+         "type": "",
+         "attributeId": ""
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": ""
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": ""
+      }
+   ],
+   "lvl10Bonus": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": ""
+      }
+   ],
+   "lvl20Bonus": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": ""
+      }
+   ],
+   "image": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ]
+},
+ {
+   "creatorId": null,
+   "worldId": null,
+   "id": null,
+   "name": "",
+   "description": "",
+   "notes": "",
+   "baseStats": {
+      "hp": "",
+      "spd": "",
+      "mp": ""
+   },
+   "brawling": [
+      null,
+      null
+   ],
+   "attributeId": [
+      null,
+      null
+   ],
+   "language": [
+      null,
+      ""
+   ],
+   "raceBonus": [
+      {
+         "type": [
+            "",
+            ""
+         ],
+         "id": [
+            null,
+            null
+         ]
+      }
+   ],
+   "raceFocus": [
+      null,
+      null,
+      null
+   ],
+   "rollTable": [
+      {
+         "type": "",
+         "attributeId": ""
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": ""
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": null
+      },
+      {
+         "type": "",
+         "attributeId": ""
+      }
+   ],
+   "lvl10Bonus": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": ""
+      }
+   ],
+   "lvl20Bonus": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": ""
+      }
+   ],
+   "image": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
    ]
 }
 ]

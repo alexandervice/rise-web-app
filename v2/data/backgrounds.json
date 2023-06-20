@@ -5,7 +5,7 @@
    "description": "You have been a devout follower of one of the Constellations for a long time. Your humble dream is to one day stand before the physical form of your Constellation and worship them in person.",
    "notes": "",
    "image": [
-      "acolyte",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/acolyte.png",
       ""
    ],
    "credits": "160",
@@ -23,7 +23,7 @@
    "description": "You studied past cultures and are well versed in the various cultural customs of the world. Museums paid you a small living, but you are motivated by your own curiosity to learn about lost cultures.",
    "notes": "",
    "image": [
-      "anthropologist",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/anthropologist.png",
       ""
    ],
    "credits": "180",
@@ -41,7 +41,7 @@
    "description": "Always fascinated by The Fall, your life goal is to study the ancient and lost technology and relics of the star faring civilizations from the past. You haven't had much luck yet, but won't let your hopes be dismayed.",
    "notes": "",
    "image": [
-      "archaeologist",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/archaeologist.png",
       ""
    ],
    "credits": "130",
@@ -59,7 +59,7 @@
    "description": "You spent your time learning and making art of various forms, some of which you were able to sell to make a profit. You are now looking for inspiration to create a true masterpiece.",
    "notes": "",
    "image": [
-      "artisan",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/artisan.png",
       ""
    ],
    "credits": "150",
@@ -77,7 +77,7 @@
    "description": "You honed your body to compete all kinds of sports and events. You have already bested everyone from your town or neighborhood, and want to prove yourself to be the best athlete in the world.",
    "notes": "",
    "image": [
-      "athlete",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/athlete.png",
       ""
    ],
    "credits": "150",
@@ -95,7 +95,7 @@
    "description": "You have worked in inns, pubs, and bars serving drinks and making friends. You desire to see more of the world and try all of the drinks of every culture.",
    "notes": "",
    "image": [
-      "bartender",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/bartender.png",
       ""
    ],
    "credits": "190",
@@ -113,7 +113,7 @@
    "description": "You apprenticed under a blacksmith with a dream to make powerful weapons and armor, but were never trusted enough to make what you wanted. One day you want to forge the most powerful equipment.",
    "notes": "",
    "image": [
-      "blacksmith",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/blacksmith.png",
       ""
    ],
    "credits": "175",
@@ -131,7 +131,7 @@
    "description": "You learned to survive by tricking and swindling others out of their hard earned cash. You have grown bored of tricking commoners and small fries, and are looking for a more exciting mark.",
    "notes": "",
    "image": [
-      "charlatan",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/charlatan.png",
       ""
    ],
    "credits": "225",
@@ -149,7 +149,7 @@
    "description": "You worked in a restaurant cooking the food and recipes dictated by the head chef, but you never got the chance to make your own recipes. Your dream is to cook exquisite food from the rarest of ingredients.",
    "notes": "",
    "image": [
-      "cook",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/cook.png",
       ""
    ],
    "credits": "175",
@@ -167,7 +167,7 @@
    "description": "You have earned a moderate living travelling from city to city delivering important documents and packages for others. You love travelling and meeting new people, but are sick of working for others.",
    "notes": "",
    "image": [
-      "courier",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/courier.png",
       ""
    ],
    "credits": "200",
@@ -185,7 +185,7 @@
    "description": "Singing, dancing, and performing are your passion, but you are sick of the measly tips you have made in bars and taverns and desire a life of fame and grandeur.",
    "notes": "",
    "image": [
-      "entertainer",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/entertainer.png",
       ""
    ],
    "credits": "145",
@@ -203,7 +203,7 @@
    "description": "You are a restless soul who is always on the lookout for new and exciting places to explore. You have been to a few exotic locations, but desire to explore the entire world.",
    "notes": "",
    "image": [
-      "explorer",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/explorer.png",
       ""
    ],
    "credits": "135",
@@ -221,7 +221,7 @@
    "description": "You grew up on a farm and have always known the hard work of growing food. You have made some money from selling your yield, but you have always yearned for more than your crops and land. ",
    "notes": "",
    "image": [
-      "farmer",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/farmer.png",
       ""
    ],
    "credits": "160",
@@ -239,7 +239,7 @@
    "description": "Born and raised along the sea you made a living catching and selling fish. Your heart lies with the sea and you desire to explore the world to catch the biggest and rarest fish.",
    "notes": "",
    "image": [
-      "fisher",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/fisher.png",
       ""
    ],
    "credits": "155",
@@ -257,7 +257,7 @@
    "description": "Most things in life struggle to hold your attention, but nothing is as exciting as the high you get when you go all in and win big. You desire to search the world and live life to the fullest wherever you go.",
    "notes": "",
    "image": [
-      "gambler",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/gambler.png",
       ""
    ],
    "credits": "3d6 x 20",
@@ -275,7 +275,7 @@
    "description": "Raised to navigate the upper echelons of society, but you have different plans for your life than to simply inherit something you didn't earn. (Work with the GM to determine why you wanted to leave your family)",
    "notes": "",
    "image": [
-      "heir",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/heir.png",
       ""
    ],
    "credits": "300",
@@ -293,7 +293,7 @@
    "description": "You have always been a loner and can often be found sitting alone in a cave or under a bridge, but you are at peace with yourself and think the world would be much better off if everyone would just chill out. ",
    "notes": "",
    "image": [
-      "hermit",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/hermit.png",
       ""
    ],
    "credits": "120",
@@ -311,7 +311,7 @@
    "description": "At home in the woods you are proficient in trapping and tracking animals, and made a living selling the furs and meat you gathered from your hunts. There is nothing you love more than hunting a new prey.",
    "notes": "",
    "image": [
-      "hunter",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/hunter.png",
       ""
    ],
    "credits": "195",
@@ -329,7 +329,7 @@
    "description": "Creative and skilled with your hands, you have always dreamed of changing the world with your creations. (Work with the GM on a starting prototype invention)",
    "notes": "",
    "image": [
-      "inventor",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/inventor.png",
       ""
    ],
    "credits": "135",
@@ -347,7 +347,7 @@
    "description": "Strong and sturdy, you didn't know what else to do besides put your body to work. Manual labor may be what you are best at, but you know there is more to life than working yourself to the bone.",
    "notes": "",
    "image": [
-      "laborer",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/laborer.png",
       ""
    ],
    "credits": "150",
@@ -365,7 +365,7 @@
    "description": "Your people skills are better than most, and can often see the most efficient way to get the job done. You believe that your skills would be better put to use achieving your dreams vs simply making a profit.",
    "notes": "",
    "image": [
-      "manager",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/manager.png",
       ""
    ],
    "credits": "240",
@@ -383,7 +383,7 @@
    "description": "Machines are your bread and butter, you are more at home working on an engine than anything else. Your dream is to one day learn about the engines of the great spaceships of the past.",
    "notes": "",
    "image": [
-      "mechanic",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/mechanic.png",
       ""
    ],
    "credits": "200",
@@ -401,7 +401,7 @@
    "description": "You have always been good at bargaining and have worked for some time as a merchant, buying and selling product to maximize profits. One day you hope to build your own merchant empire.",
    "notes": "",
    "image": [
-      "merchant",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/merchant.png",
       ""
    ],
    "credits": "220",
@@ -419,7 +419,7 @@
    "description": "You have an eye for finding ore and have worked in the mines for a long time. Sick of your labor being exploited by the mining corporations, you have decided to set out on your own path.",
    "notes": "",
    "image": [
-      "miner",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/miner.png",
       ""
    ],
    "credits": "165",
@@ -437,7 +437,7 @@
    "description": "You love nature and have dedicated much of your life to studying various organisms and advocating for the environment. Your dream is to see even more of the flora and fauna this world has to offer.",
    "notes": "",
    "image": [
-      "naturalist",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/naturalist.png",
       ""
    ],
    "credits": "130",
@@ -455,7 +455,7 @@
    "description": "You learned medical skills and have compassion for people. You have worked in a hospital to use your skills to help others, but the long hours and lack of respect have driven you to seek a different path.",
    "notes": "",
    "image": [
-      "nurse",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/nurse.png",
       ""
    ],
    "credits": "200",
@@ -473,7 +473,7 @@
    "description": "You grew up on the plains riding horses and you have a deep connection with creatures when you ride them. (Work with the GM to determine your starting mount)",
    "notes": "",
    "image": [
-      "outlander",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/outlander.png",
       ""
    ],
    "credits": "100",
@@ -491,7 +491,7 @@
    "description": "Deft with your hands and a compulsive thief, you never wanted an honest job when you could steal what cash you needed from others. To you the rush you get from lifting a wallet is more addicting than the reward.",
    "notes": "",
    "image": [
-      "pickpocket",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/pickpocket.png",
       ""
    ],
    "credits": "220",
@@ -509,7 +509,7 @@
    "description": "Locked up long ago for a crime you may or may not have committed, you have only recently been released from prison. (Work with the GM to determine why you were imprisoned)",
    "notes": "",
    "image": [
-      "prisoner",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/prisoner.png",
       ""
    ],
    "credits": "120",
@@ -527,7 +527,7 @@
    "description": "Ever inquisitive and with a knack for reading people, you have worked as a private eye for most of your adult life. There is still one mystery that you have yet to solve (work with the GM to determine the mystery).",
    "notes": "",
    "image": [
-      "privateEye",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/privateEye.png",
       ""
    ],
    "credits": "180",
@@ -545,7 +545,7 @@
    "description": "You grew up along the coast, and spent your youth working as a deckhand on cargo ships. Your dream is to one day sail across the world, taming even the most dangerous of seas.",
    "notes": "",
    "image": [
-      "sailor",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/sailor.png",
       ""
    ],
    "credits": "170",
@@ -563,7 +563,7 @@
    "description": "You love coming up with new hypotheses and are always looking to disprove well established theories. You hope to one day contribute a major discovery to the scientific community.",
    "notes": "",
    "image": [
-      "scientist",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/scientist.png",
       ""
    ],
    "credits": "190",
@@ -581,7 +581,7 @@
    "description": "You have worked as a local scout for a few years now. However, there is something important to you that you are still searching for. (Work with the GM to determine what you are looking for)",
    "notes": "",
    "image": [
-      "scout",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/scout.png",
       ""
    ],
    "credits": "180",
@@ -599,7 +599,7 @@
    "description": "You have a reputation for being able to smuggle all sorts of illicit goods, including people. You have managed to avoid being caught so far, but the authorities have begun to take notice of you.",
    "notes": "",
    "image": [
-      "smuggler",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/smuggler.png",
       ""
    ],
    "credits": "230",
@@ -617,7 +617,7 @@
    "description": "You served for a period of time in the Federation Army until you were dishonorably discharged from active duty. (Work with the GM to determine why you were kicked out of the Army)",
    "notes": "",
    "image": [
-      "soldier",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/soldier.png",
       ""
    ],
    "credits": "140",
@@ -635,7 +635,7 @@
    "description": "A self proclaimed apprentice to a renowned and retired knight. Your dream is to one day become a brave and valiant knight yourself. (Work with the GM to determine your relationship to the retired knight)",
    "notes": "",
    "image": [
-      "squire",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/squire.png",
       ""
    ],
    "credits": "170",
@@ -653,7 +653,7 @@
    "description": "A skilled driver, you have made a living by transporting goods and working as a taxi driver in the big city. You don't own your own vehicle yet, but one day your dream is to become the best pilot in the world.",
    "notes": "",
    "image": [
-      "transporter",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/transporter.png",
       ""
    ],
    "credits": "190",
@@ -671,7 +671,7 @@
    "description": "Orphaned at a young age, you never had somewhere safe to call home so you became a wanderer and have relied on your own wits and instinct ever since.",
    "notes": "",
    "image": [
-      "wanderer",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/backgrounds/wanderer.png",
       ""
    ],
    "credits": "130",
@@ -681,6 +681,24 @@
    "creatorId": 1,
    "world": [
       1
+   ]
+},
+ {
+   "id": null,
+   "name": "",
+   "description": "",
+   "notes": "",
+   "image": [
+      "",
+      ""
+   ],
+   "credits": "",
+   "gear": "",
+   "focusId": null,
+   "stuntId": null,
+   "creatorId": null,
+   "world": [
+      null
    ]
 }
 ]

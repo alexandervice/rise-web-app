@@ -1,48 +1,50 @@
 id,creatorId,world/0,name,description,notes,image/0,image/1,ranks/0/type,ranks/0/id,ranks/1/type,ranks/1/id,ranks/2/type,ranks/2/id
-1,1,1,Animal Taming,"Tame animals, have pets, and teach them to perform a variety of commands. Be careful trying to tame wild and dangerous beasts though!",,animalTaming,,power,417,power,418,power,419
-2,1,1,Appraisal,"Understanding of the worth of goods of various rarities, types, and brands.",,appraisal,,stunt,118,power,420,focus,69
-3,1,1,Archeology,Knowledge and understanding of what ancient ruins and artifacts were used for.,,archeology,,power,422,power,423,power,424
-4,1,1,Brawling,Rough and tumble fist fights and knockout boxing maneuvers. ,,brawling,,power,425,power,426,power,427
-5,1,1,Brewing,The ability to brew and create various forms of alcoholic beverages and potions,,brewing,,power,428,power,429,focus,59
-6,1,1,Bullying,Knowledge of strategies to intimidate or coerce others who are more vulnerable than you.,,bullying,,power,431,power,432,focus,9
-7,1,1,Business,"Skills to succeed in commerce, bargaining, and trade.",,business,,power,434,power,435,focus,41
-8,1,1,Camping,"Make the best out of sleeping out in the wilderness. Building fires, keeping watch, and staying rested even in the wilds.",,camping,,power,437,power,438,focus,75
-9,1,1,Carousing,"Drink plentiful amounts of alcohol, develop tolerances, and make connections with others.",,carousing,,stunt,120,power,440,focus,1
-10,1,1,Climbing,"Effectively, and speedily scale and climb up slopes, walls, trees, ropes, etc.",,climbing,,stunt,121,power,442,focus,7
-11,1,1,Contacts,You have made friends all over. Learn how to develop and make best use of your relationships with others.,,contacts,,stunt,122,power,444,power,445
-12,1,1,Cooking,"Improve in your skill of preparing food by combining, mixing, and heating ingredients.",,cooking,,stunt,123,power,446,focus,78
-13,1,1,Costume Design,"Adjust and alter clothing to fit a performer, or even disguise yourself when you need to hide among others.",,costumeDesign,,stunt,124,power,448,power,449
-14,1,1,Counsel,"Care for and listen to others, offer advice and give help to them regarding their problems.",,counsel,,stunt,125,power,450,focus,52
-15,1,1,Crafting,"Skills related to designing or making useful, functional, and beautiful items by hand.",,crafting,,stunt,126,power,452,focus,26
-16,1,1,Dancing,"Learn to move rhythmically to music, practice being light on your feet, and learn how to avoid falling.",,dancing,,power,454,power,455,focus,25
-17,1,1,Debate,Gain skills to formally discuss and argue to both individuals and crowds.,,debate,,stunt,127,power,457,focus,47
-18,1,1,Demolition,The art and science of efficiently breaking and blowing stuff up.,,demolition,,power,459,power,460,focus,62
-19,1,1,Diplomacy,Learn the skills you need to deal with others in a sensitive and effective way; particularly with international relations.,,diplomacy,,stunt,128,power,462,focus,43
-20,1,1,Entertainment,"Understand how to bring others amusement, enjoyment, and a lively performance.",,entertainment,,stunt,129,power,464,focus,46
-21,1,1,Fishing,"Use knowledge of the sea, sailing, and your own sensitive touch to catch rare, delicious, and sometimes dangerous aquatic creatures.",,fishing,,power,466,power,467,focus,39
-22,1,1,Gambling,"Improve your odds at winning in games of ""chance"" by playing others and rigging the game.",,gambling,,stunt,130,power,469,focus,44
-23,1,1,Gymnastics,"Develop and display physical agility and coordination. Learn to take a fall safely, and move around the battlefield more efficiently.",,gymnastics,,stunt,131,power,471,focus,24
-24,1,1,Heroism,"Display great bravery to put others first above yourself, even to your own peril.",,heroism,,stunt,132,power,473,focus,51
-25,1,1,Intrigue,"Arouse your curiosity and interest, question others and learn secrets.",,intrigue,,stunt,133,power,475,focus,48
-26,1,1,Investigation,"Discover how criminals and law enforcers think, and find things that are hidden quickly and efficiently.",,investigation,,stunt,134,power,477,focus,35
-27,1,1,Jumping,Learn techniques to improve your long and high jumps to go further and higher.,,jumping,,power,479,power,480,focus,10
-28,1,1,Leadership,"Influence, guide, and lead individuals or groups to do perform at a higher level.",,leadership,,stunt,135,action,68,focus,45
-29,1,1,Linguistics,Study language and the structure of how different groups of people communicate.,,linguistics,,power,483,power,484,power,485
-30,1,1,Lying,Swindle and fool others. Bury lies within lies. Become a master of cons and deception,,lying,,stunt,136,power,486,focus,42
-31,1,1,Mechanics,Gain the skills needed to work on and repair machines and other such technology.,,mechanics,,stunt,137,power,488,focus,32
-32,1,1,Medicine,"The practice of diagnosing, treating, and preventing diseases and other illnesses. Healing others of their wounds.",,medicine,,action,69,power,490,focus,66
-33,1,1,Navigation,Accurately ascertain your precise location in reference to other locations. Plotting and following a route.,,navigation,,power,492,power,493,focus,73
-34,1,1,Piloting,"Competence in operating any and all mechanically powered vehicles, including air and watercraft.",,piloting,,stunt,138,power,495,focus,27
-35,1,1,Riding,Ability to effectively ride creatures and fight while mounted. Also applies to small 1 man vehicles such as motorcycles.,,riding,,power,497,power,498,focus,28
-36,1,1,Running,"You love to run and you can keep going all day long. Whereas speed is how fast you are, End (Running) is how far you can go.",,running,,stunt,139,power,500,focus,5
-37,1,1,Sailing,Competence in operating any and all sailing vessels large and small. ,,sailing,,power,502,power,503,focus,29
-38,1,1,Scholarship,You have learned the skills needed to improve your long term memory and information retention. ,,scholarship,,stunt,140,power,505,focus,65
-39,1,1,Scouting,"The ability to track your prey quickly, learn information from examining tracks, and keeping watch from prying eyes.",,scouting,,stunt,141,power,507,focus,40
-40,1,1,Smithing,The ability to smith weapons and armor to produce masterful works of art and war. Learn how to effectively work with different metals.,,smithing,,stunt,142,power,509,focus,13
-41,1,1,Sneaking,"Learn how to move about in a stealthy manner, avoid notice, and hide in plain sight.",,sneaking,,power,511,stunt,143,focus,31
-42,1,1,Stealing,Learn the skills necessary to efficiently and effectively pick pockets and locks. ,,stealing,,power,513,power,514,focus,30
-43,1,1,Swimming,"The practice of holding your breath, swimming long distances, and even swimming faster.",,swimming,,power,516,power,517,focus,4
-44,1,1,Toughness,"You have learned how to adapt to whatever life throws at you, hold your own when outnumbered, and fight through the pain of injury.",,toughness,,power,519,power,520,focus,2
-45,1,1,Weight Lifting,Improve at your ability to lift heavy objects and your techniques in avoiding injury.,,weightLifting,,stunt,144,power,522,focus,11
-46,1,1,Wrestling,Learn new grappling techniques to bring down your foes without using weapons.,,wrestling,,action,70,power,524,focus,8
-47,1,1,Zen,The act of calming your emotions and meditating to achieve enlightenment.,,zen,,power,526,power,527,focus,54
+1,1,1,Animal Taming,"Tame animals, have pets, and teach them to perform a variety of commands. Be careful trying to tame wild and dangerous beasts though!",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/animalTaming.png,,power,417,power,418,power,419
+2,1,1,Appraisal,"Understanding of the worth of goods of various rarities, types, and brands.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/appraisal.png,,stunt,118,power,420,focus,69
+3,1,1,Archeology,Knowledge and understanding of what ancient ruins and artifacts were used for.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/archeology.png,,power,422,power,423,power,424
+4,1,1,Brawling,Rough and tumble fist fights and knockout boxing maneuvers. ,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/brawling.png,,power,425,power,426,power,427
+5,1,1,Brewing,The ability to brew and create various forms of alcoholic beverages and potions,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/brewing.png,,power,428,power,429,focus,59
+6,1,1,Bullying,Knowledge of strategies to intimidate or coerce others who are more vulnerable than you.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/bullying.png,,power,431,power,432,focus,9
+7,1,1,Business,"Skills to succeed in commerce, bargaining, and trade.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/business.png,,power,434,power,435,focus,41
+8,1,1,Camping,"Make the best out of sleeping out in the wilderness. Building fires, keeping watch, and staying rested even in the wilds.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/camping.png,,power,437,power,438,focus,75
+9,1,1,Carousing,"Drink plentiful amounts of alcohol, develop tolerances, and make connections with others.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/carousing.png,,stunt,120,power,440,focus,1
+10,1,1,Climbing,"Effectively, and speedily scale and climb up slopes, walls, trees, ropes, etc.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/climbing.png,,stunt,121,power,442,focus,7
+11,1,1,Contacts,You have made friends all over. Learn how to develop and make best use of your relationships with others.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/contacts.png,,stunt,122,power,444,power,445
+12,1,1,Cooking,"Improve in your skill of preparing food by combining, mixing, and heating ingredients.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/cooking.png,,stunt,123,power,446,focus,78
+13,1,1,Costume Design,"Adjust and alter clothing to fit a performer, or even disguise yourself when you need to hide among others.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/costumeDesign.png,,stunt,124,power,448,power,449
+14,1,1,Counsel,"Care for and listen to others, offer advice and give help to them regarding their problems.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/counsel.png,,stunt,125,power,450,focus,52
+15,1,1,Crafting,"Skills related to designing or making useful, functional, and beautiful items by hand.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/crafting.png,,stunt,126,power,452,focus,26
+16,1,1,Dancing,"Learn to move rhythmically to music, practice being light on your feet, and learn how to avoid falling.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/dancing.png,,power,454,power,455,focus,25
+17,1,1,Debate,Gain skills to formally discuss and argue to both individuals and crowds.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/debate.png,,stunt,127,power,457,focus,47
+18,1,1,Demolition,The art and science of efficiently breaking and blowing stuff up.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/demolition.png,,power,459,power,460,focus,62
+19,1,1,Diplomacy,Learn the skills you need to deal with others in a sensitive and effective way; particularly with international relations.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/diplomacy.png,,stunt,128,power,462,focus,43
+20,1,1,Entertainment,"Understand how to bring others amusement, enjoyment, and a lively performance.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/entertainment.png,,stunt,129,power,464,focus,46
+21,1,1,Fishing,"Use knowledge of the sea, sailing, and your own sensitive touch to catch rare, delicious, and sometimes dangerous aquatic creatures.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/fishing.png,,power,466,power,467,focus,39
+22,1,1,Gambling,"Improve your odds at winning in games of ""chance"" by playing others and rigging the game.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/gambling.png,,stunt,130,power,469,focus,44
+23,1,1,Gymnastics,"Develop and display physical agility and coordination. Learn to take a fall safely, and move around the battlefield more efficiently.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/gymnastics.png,,stunt,131,power,471,focus,24
+24,1,1,Heroism,"Display great bravery to put others first above yourself, even to your own peril.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/heroism.png,,stunt,132,power,473,focus,51
+25,1,1,Intrigue,"Arouse your curiosity and interest, question others and learn secrets.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/intrigue.png,,stunt,133,power,475,focus,48
+26,1,1,Investigation,"Discover how criminals and law enforcers think, and find things that are hidden quickly and efficiently.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/investigation.png,,stunt,134,power,477,focus,35
+27,1,1,Jumping,Learn techniques to improve your long and high jumps to go further and higher.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/jumping.png,,power,479,power,480,focus,10
+28,1,1,Leadership,"Influence, guide, and lead individuals or groups to do perform at a higher level.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/leadership.png,,stunt,135,action,68,focus,45
+29,1,1,Linguistics,Study language and the structure of how different groups of people communicate.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/linguistics.png,,power,483,power,484,power,485
+30,1,1,Lying,Swindle and fool others. Bury lies within lies. Become a master of cons and deception,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/lying.png,,stunt,136,power,486,focus,42
+31,1,1,Mechanics,Gain the skills needed to work on and repair machines and other such technology.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/mechanics.png,,stunt,137,power,488,focus,32
+32,1,1,Medicine,"The practice of diagnosing, treating, and preventing diseases and other illnesses. Healing others of their wounds.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/medicine.png,,action,69,power,490,focus,66
+33,1,1,Navigation,Accurately ascertain your precise location in reference to other locations. Plotting and following a route.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/navigation.png,,power,492,power,493,focus,73
+34,1,1,Piloting,"Competence in operating any and all mechanically powered vehicles, including air and watercraft.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/piloting.png,,stunt,138,power,495,focus,27
+35,1,1,Riding,Ability to effectively ride creatures and fight while mounted. Also applies to small 1 man vehicles such as motorcycles.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/riding.png,,power,497,power,498,focus,28
+36,1,1,Running,"You love to run and you can keep going all day long. Whereas speed is how fast you are, End (Running) is how far you can go.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/running.png,,stunt,139,power,500,focus,5
+37,1,1,Sailing,Competence in operating any and all sailing vessels large and small. ,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/sailing.png,,power,502,power,503,focus,29
+38,1,1,Scholarship,You have learned the skills needed to improve your long term memory and information retention. ,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/scholarship.png,,stunt,140,power,505,focus,65
+39,1,1,Scouting,"The ability to track your prey quickly, learn information from examining tracks, and keeping watch from prying eyes.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/scouting.png,,stunt,141,power,507,focus,40
+40,1,1,Smithing,The ability to smith weapons and armor to produce masterful works of art and war. Learn how to effectively work with different metals.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/smithing.png,,stunt,142,power,509,focus,13
+41,1,1,Sneaking,"Learn how to move about in a stealthy manner, avoid notice, and hide in plain sight.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/sneaking.png,,power,511,stunt,143,focus,31
+42,1,1,Stealing,Learn the skills necessary to efficiently and effectively pick pockets and locks. ,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/stealing.png,,power,513,power,514,focus,30
+43,1,1,Swimming,"The practice of holding your breath, swimming long distances, and even swimming faster.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/swimming.png,,power,516,power,517,focus,4
+44,1,1,Toughness,"You have learned how to adapt to whatever life throws at you, hold your own when outnumbered, and fight through the pain of injury.",,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/toughness.png,,power,519,power,520,focus,2
+45,1,1,Weight Lifting,Improve at your ability to lift heavy objects and your techniques in avoiding injury.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/weightLifting.png,,stunt,144,power,522,focus,11
+46,1,1,Wrestling,Learn new grappling techniques to bring down your foes without using weapons.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/wrestling.png,,action,70,power,524,focus,8
+47,1,1,Zen,The act of calming your emotions and meditating to achieve enlightenment.,,https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/zen.png,,power,526,power,527,focus,54
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

@@ -9,7 +9,7 @@
    "description": "Tame animals, have pets, and teach them to perform a variety of commands. Be careful trying to tame wild and dangerous beasts though!",
    "notes": "",
    "image": [
-      "animalTaming",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/animalTaming.png",
       ""
    ],
    "ranks": [
@@ -37,7 +37,7 @@
    "description": "Understanding of the worth of goods of various rarities, types, and brands.",
    "notes": "",
    "image": [
-      "appraisal",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/appraisal.png",
       ""
    ],
    "ranks": [
@@ -65,7 +65,7 @@
    "description": "Knowledge and understanding of what ancient ruins and artifacts were used for.",
    "notes": "",
    "image": [
-      "archeology",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/archeology.png",
       ""
    ],
    "ranks": [
@@ -93,7 +93,7 @@
    "description": "Rough and tumble fist fights and knockout boxing maneuvers. ",
    "notes": "",
    "image": [
-      "brawling",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/brawling.png",
       ""
    ],
    "ranks": [
@@ -121,7 +121,7 @@
    "description": "The ability to brew and create various forms of alcoholic beverages and potions",
    "notes": "",
    "image": [
-      "brewing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/brewing.png",
       ""
    ],
    "ranks": [
@@ -149,7 +149,7 @@
    "description": "Knowledge of strategies to intimidate or coerce others who are more vulnerable than you.",
    "notes": "",
    "image": [
-      "bullying",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/bullying.png",
       ""
    ],
    "ranks": [
@@ -177,7 +177,7 @@
    "description": "Skills to succeed in commerce, bargaining, and trade.",
    "notes": "",
    "image": [
-      "business",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/business.png",
       ""
    ],
    "ranks": [
@@ -205,7 +205,7 @@
    "description": "Make the best out of sleeping out in the wilderness. Building fires, keeping watch, and staying rested even in the wilds.",
    "notes": "",
    "image": [
-      "camping",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/camping.png",
       ""
    ],
    "ranks": [
@@ -233,7 +233,7 @@
    "description": "Drink plentiful amounts of alcohol, develop tolerances, and make connections with others.",
    "notes": "",
    "image": [
-      "carousing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/carousing.png",
       ""
    ],
    "ranks": [
@@ -261,7 +261,7 @@
    "description": "Effectively, and speedily scale and climb up slopes, walls, trees, ropes, etc.",
    "notes": "",
    "image": [
-      "climbing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/climbing.png",
       ""
    ],
    "ranks": [
@@ -289,7 +289,7 @@
    "description": "You have made friends all over. Learn how to develop and make best use of your relationships with others.",
    "notes": "",
    "image": [
-      "contacts",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/contacts.png",
       ""
    ],
    "ranks": [
@@ -317,7 +317,7 @@
    "description": "Improve in your skill of preparing food by combining, mixing, and heating ingredients.",
    "notes": "",
    "image": [
-      "cooking",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/cooking.png",
       ""
    ],
    "ranks": [
@@ -345,7 +345,7 @@
    "description": "Adjust and alter clothing to fit a performer, or even disguise yourself when you need to hide among others.",
    "notes": "",
    "image": [
-      "costumeDesign",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/costumeDesign.png",
       ""
    ],
    "ranks": [
@@ -373,7 +373,7 @@
    "description": "Care for and listen to others, offer advice and give help to them regarding their problems.",
    "notes": "",
    "image": [
-      "counsel",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/counsel.png",
       ""
    ],
    "ranks": [
@@ -401,7 +401,7 @@
    "description": "Skills related to designing or making useful, functional, and beautiful items by hand.",
    "notes": "",
    "image": [
-      "crafting",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/crafting.png",
       ""
    ],
    "ranks": [
@@ -429,7 +429,7 @@
    "description": "Learn to move rhythmically to music, practice being light on your feet, and learn how to avoid falling.",
    "notes": "",
    "image": [
-      "dancing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/dancing.png",
       ""
    ],
    "ranks": [
@@ -457,7 +457,7 @@
    "description": "Gain skills to formally discuss and argue to both individuals and crowds.",
    "notes": "",
    "image": [
-      "debate",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/debate.png",
       ""
    ],
    "ranks": [
@@ -485,7 +485,7 @@
    "description": "The art and science of efficiently breaking and blowing stuff up.",
    "notes": "",
    "image": [
-      "demolition",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/demolition.png",
       ""
    ],
    "ranks": [
@@ -513,7 +513,7 @@
    "description": "Learn the skills you need to deal with others in a sensitive and effective way; particularly with international relations.",
    "notes": "",
    "image": [
-      "diplomacy",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/diplomacy.png",
       ""
    ],
    "ranks": [
@@ -541,7 +541,7 @@
    "description": "Understand how to bring others amusement, enjoyment, and a lively performance.",
    "notes": "",
    "image": [
-      "entertainment",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/entertainment.png",
       ""
    ],
    "ranks": [
@@ -569,7 +569,7 @@
    "description": "Use knowledge of the sea, sailing, and your own sensitive touch to catch rare, delicious, and sometimes dangerous aquatic creatures.",
    "notes": "",
    "image": [
-      "fishing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/fishing.png",
       ""
    ],
    "ranks": [
@@ -597,7 +597,7 @@
    "description": "Improve your odds at winning in games of \"chance\" by playing others and rigging the game.",
    "notes": "",
    "image": [
-      "gambling",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/gambling.png",
       ""
    ],
    "ranks": [
@@ -625,7 +625,7 @@
    "description": "Develop and display physical agility and coordination. Learn to take a fall safely, and move around the battlefield more efficiently.",
    "notes": "",
    "image": [
-      "gymnastics",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/gymnastics.png",
       ""
    ],
    "ranks": [
@@ -653,7 +653,7 @@
    "description": "Display great bravery to put others first above yourself, even to your own peril.",
    "notes": "",
    "image": [
-      "heroism",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/heroism.png",
       ""
    ],
    "ranks": [
@@ -681,7 +681,7 @@
    "description": "Arouse your curiosity and interest, question others and learn secrets.",
    "notes": "",
    "image": [
-      "intrigue",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/intrigue.png",
       ""
    ],
    "ranks": [
@@ -709,7 +709,7 @@
    "description": "Discover how criminals and law enforcers think, and find things that are hidden quickly and efficiently.",
    "notes": "",
    "image": [
-      "investigation",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/investigation.png",
       ""
    ],
    "ranks": [
@@ -737,7 +737,7 @@
    "description": "Learn techniques to improve your long and high jumps to go further and higher.",
    "notes": "",
    "image": [
-      "jumping",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/jumping.png",
       ""
    ],
    "ranks": [
@@ -765,7 +765,7 @@
    "description": "Influence, guide, and lead individuals or groups to do perform at a higher level.",
    "notes": "",
    "image": [
-      "leadership",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/leadership.png",
       ""
    ],
    "ranks": [
@@ -793,7 +793,7 @@
    "description": "Study language and the structure of how different groups of people communicate.",
    "notes": "",
    "image": [
-      "linguistics",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/linguistics.png",
       ""
    ],
    "ranks": [
@@ -821,7 +821,7 @@
    "description": "Swindle and fool others. Bury lies within lies. Become a master of cons and deception",
    "notes": "",
    "image": [
-      "lying",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/lying.png",
       ""
    ],
    "ranks": [
@@ -849,7 +849,7 @@
    "description": "Gain the skills needed to work on and repair machines and other such technology.",
    "notes": "",
    "image": [
-      "mechanics",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/mechanics.png",
       ""
    ],
    "ranks": [
@@ -877,7 +877,7 @@
    "description": "The practice of diagnosing, treating, and preventing diseases and other illnesses. Healing others of their wounds.",
    "notes": "",
    "image": [
-      "medicine",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/medicine.png",
       ""
    ],
    "ranks": [
@@ -905,7 +905,7 @@
    "description": "Accurately ascertain your precise location in reference to other locations. Plotting and following a route.",
    "notes": "",
    "image": [
-      "navigation",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/navigation.png",
       ""
    ],
    "ranks": [
@@ -933,7 +933,7 @@
    "description": "Competence in operating any and all mechanically powered vehicles, including air and watercraft.",
    "notes": "",
    "image": [
-      "piloting",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/piloting.png",
       ""
    ],
    "ranks": [
@@ -961,7 +961,7 @@
    "description": "Ability to effectively ride creatures and fight while mounted. Also applies to small 1 man vehicles such as motorcycles.",
    "notes": "",
    "image": [
-      "riding",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/riding.png",
       ""
    ],
    "ranks": [
@@ -989,7 +989,7 @@
    "description": "You love to run and you can keep going all day long. Whereas speed is how fast you are, End (Running) is how far you can go.",
    "notes": "",
    "image": [
-      "running",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/running.png",
       ""
    ],
    "ranks": [
@@ -1017,7 +1017,7 @@
    "description": "Competence in operating any and all sailing vessels large and small. ",
    "notes": "",
    "image": [
-      "sailing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/sailing.png",
       ""
    ],
    "ranks": [
@@ -1045,7 +1045,7 @@
    "description": "You have learned the skills needed to improve your long term memory and information retention. ",
    "notes": "",
    "image": [
-      "scholarship",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/scholarship.png",
       ""
    ],
    "ranks": [
@@ -1073,7 +1073,7 @@
    "description": "The ability to track your prey quickly, learn information from examining tracks, and keeping watch from prying eyes.",
    "notes": "",
    "image": [
-      "scouting",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/scouting.png",
       ""
    ],
    "ranks": [
@@ -1101,7 +1101,7 @@
    "description": "The ability to smith weapons and armor to produce masterful works of art and war. Learn how to effectively work with different metals.",
    "notes": "",
    "image": [
-      "smithing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/smithing.png",
       ""
    ],
    "ranks": [
@@ -1129,7 +1129,7 @@
    "description": "Learn how to move about in a stealthy manner, avoid notice, and hide in plain sight.",
    "notes": "",
    "image": [
-      "sneaking",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/sneaking.png",
       ""
    ],
    "ranks": [
@@ -1157,7 +1157,7 @@
    "description": "Learn the skills necessary to efficiently and effectively pick pockets and locks. ",
    "notes": "",
    "image": [
-      "stealing",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/stealing.png",
       ""
    ],
    "ranks": [
@@ -1185,7 +1185,7 @@
    "description": "The practice of holding your breath, swimming long distances, and even swimming faster.",
    "notes": "",
    "image": [
-      "swimming",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/swimming.png",
       ""
    ],
    "ranks": [
@@ -1213,7 +1213,7 @@
    "description": "You have learned how to adapt to whatever life throws at you, hold your own when outnumbered, and fight through the pain of injury.",
    "notes": "",
    "image": [
-      "toughness",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/toughness.png",
       ""
    ],
    "ranks": [
@@ -1241,7 +1241,7 @@
    "description": "Improve at your ability to lift heavy objects and your techniques in avoiding injury.",
    "notes": "",
    "image": [
-      "weightLifting",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/weightLifting.png",
       ""
    ],
    "ranks": [
@@ -1269,7 +1269,7 @@
    "description": "Learn new grappling techniques to bring down your foes without using weapons.",
    "notes": "",
    "image": [
-      "wrestling",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/wrestling.png",
       ""
    ],
    "ranks": [
@@ -1297,7 +1297,7 @@
    "description": "The act of calming your emotions and meditating to achieve enlightenment.",
    "notes": "",
    "image": [
-      "zen",
+      "https://rise-character-planner.s3.us-west-1.amazonaws.com/images/talents/zen.png",
       ""
    ],
    "ranks": [
@@ -1312,6 +1312,62 @@
       {
          "type": "focus",
          "id": 54
+      }
+   ]
+},
+ {
+   "id": null,
+   "creatorId": null,
+   "world": [
+      null
+   ],
+   "name": "",
+   "description": "",
+   "notes": "",
+   "image": [
+      "",
+      ""
+   ],
+   "ranks": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": null
+      }
+   ]
+},
+ {
+   "id": null,
+   "creatorId": null,
+   "world": [
+      null
+   ],
+   "name": "",
+   "description": "",
+   "notes": "",
+   "image": [
+      "",
+      ""
+   ],
+   "ranks": [
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": null
+      },
+      {
+         "type": "",
+         "id": null
       }
    ]
 }
